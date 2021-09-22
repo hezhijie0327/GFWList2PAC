@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYzMjIxNzA1MQo=
+# Checksum: MTYzMjI3MjQ4OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.5-20210921-3
-# TimeUpdated: 2021-09-21T09:37:31+00:00
+# Version: 1.0.5-20210922-0
+# TimeUpdated: 2021-09-22T01:01:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -417,6 +417,7 @@ payload:
   - DOMAIN-SUFFIX,126ld.cc
   - DOMAIN-SUFFIX,128036.biz
   - DOMAIN-SUFFIX,1280zhibo.com
+  - DOMAIN-SUFFIX,128100.xyz
   - DOMAIN-SUFFIX,128888.com
   - DOMAIN-SUFFIX,128sihu.com
   - DOMAIN-SUFFIX,129676.com
@@ -1757,7 +1758,6 @@ payload:
   - DOMAIN-SUFFIX,520ccc.cc
   - DOMAIN-SUFFIX,520nh.net
   - DOMAIN-SUFFIX,520xiaojin.com
-  - DOMAIN-SUFFIX,520xtv.com
   - DOMAIN-SUFFIX,522.flnet.org
   - DOMAIN-SUFFIX,5229349.com
   - DOMAIN-SUFFIX,522k7.com
@@ -1820,8 +1820,10 @@ payload:
   - DOMAIN-SUFFIX,543215.com
   - DOMAIN-SUFFIX,5461888297-sy.cp168.ws
   - DOMAIN-SUFFIX,5462.com
+  - DOMAIN-SUFFIX,54647.global
   - DOMAIN-SUFFIX,54647.io
   - DOMAIN-SUFFIX,54647.online
+  - DOMAIN-SUFFIX,54647.org
   - DOMAIN-SUFFIX,54647.xyz
   - DOMAIN-SUFFIX,546990.com
   - DOMAIN-SUFFIX,5482562.com
@@ -5131,6 +5133,7 @@ payload:
   - DOMAIN-SUFFIX,avlulu001.com
   - DOMAIN-SUFFIX,avmask.com
   - DOMAIN-SUFFIX,avmo.pw
+  - DOMAIN-SUFFIX,avmoo.casa
   - DOMAIN-SUFFIX,avmoo.com
   - DOMAIN-SUFFIX,avmoo.cyou
   - DOMAIN-SUFFIX,avmoo.net
@@ -7835,6 +7838,7 @@ payload:
   - DOMAIN-SUFFIX,cabet840.com
   - DOMAIN-SUFFIX,cabet931.com
   - DOMAIN-SUFFIX,cabet996.com
+  - DOMAIN-SUFFIX,cableav.tv
   - DOMAIN-SUFFIX,cablegatesearch.net
   - DOMAIN-SUFFIX,cabletvdirectv.com
   - DOMAIN-SUFFIX,cache.wdcdn.net
@@ -9049,7 +9053,6 @@ payload:
   - DOMAIN-SUFFIX,cn.jimdo.com
   - DOMAIN-SUFFIX,cn.man255.com
   - DOMAIN-SUFFIX,cn.man426.com
-  - DOMAIN-SUFFIX,cn.man484.com
   - DOMAIN-SUFFIX,cn.man595.com
   - DOMAIN-SUFFIX,cn.man633.com
   - DOMAIN-SUFFIX,cn.man655.com
@@ -9240,7 +9243,6 @@ payload:
   - DOMAIN-SUFFIX,coinonecorp.com
   - DOMAIN-SUFFIX,coinrail.co.kr
   - DOMAIN-SUFFIX,coinsbank.com
-  - DOMAIN-SUFFIX,cointiger.com
   - DOMAIN-SUFFIX,cointobe.com
   - DOMAIN-SUFFIX,coinut.com
   - DOMAIN-SUFFIX,coinx.ph
@@ -17421,9 +17423,11 @@ payload:
   - DOMAIN-SUFFIX,hx-ss.cc
   - DOMAIN-SUFFIX,hx2.tv
   - DOMAIN-SUFFIX,hx399.com
+  - DOMAIN-SUFFIX,hxc10.vip
   - DOMAIN-SUFFIX,hxcpp15.com
   - DOMAIN-SUFFIX,hxcpp22.com
   - DOMAIN-SUFFIX,hxcpp8.com
+  - DOMAIN-SUFFIX,hxcsxs.pro
   - DOMAIN-SUFFIX,hxcuc3.com
   - DOMAIN-SUFFIX,hxlives.com
   - DOMAIN-SUFFIX,hxtg.14.iamallama.com
@@ -18819,6 +18823,7 @@ payload:
   - DOMAIN-SUFFIX,javfinder.is
   - DOMAIN-SUFFIX,javfinder.sh
   - DOMAIN-SUFFIX,javfor.me
+  - DOMAIN-SUFFIX,javfree.me
   - DOMAIN-SUFFIX,javfull.net
   - DOMAIN-SUFFIX,javhay.net
   - DOMAIN-SUFFIX,javhd.com
@@ -18843,6 +18848,7 @@ payload:
   - DOMAIN-SUFFIX,javpee.com
   - DOMAIN-SUFFIX,javpub.me
   - DOMAIN-SUFFIX,javqd.com
+  - DOMAIN-SUFFIX,javscreens.com
   - DOMAIN-SUFFIX,javseeds.com
   - DOMAIN-SUFFIX,javseen.com
   - DOMAIN-SUFFIX,javsharing.com
@@ -21175,7 +21181,6 @@ payload:
   - DOMAIN-SUFFIX,mammothtube.com
   - DOMAIN-SUFFIX,man255.com
   - DOMAIN-SUFFIX,man426.com
-  - DOMAIN-SUFFIX,man484.com
   - DOMAIN-SUFFIX,man595.com
   - DOMAIN-SUFFIX,man633.com
   - DOMAIN-SUFFIX,man715.com
@@ -26724,6 +26729,7 @@ payload:
   - DOMAIN-SUFFIX,redditmedia.com
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,redeemercast.net
+  - DOMAIN-SUFFIX,redgifs.com
   - DOMAIN-SUFFIX,redgti.com.ar
   - DOMAIN-SUFFIX,redhat.com
   - DOMAIN-SUFFIX,redhotlabs.com
