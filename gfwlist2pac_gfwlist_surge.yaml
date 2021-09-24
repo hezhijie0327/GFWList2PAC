@@ -1,7 +1,7 @@
-# Checksum: MTYzMjM1OTAwOAo=
+# Checksum: MTYzMjQ0NTIwMQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.5-20210923-0
-# TimeUpdated: 2021-09-23T01:03:28+00:00
+# Version: 1.0.5-20210924-0
+# TimeUpdated: 2021-09-24T01:00:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4367,6 +4367,7 @@ DOMAIN-SUFFIX,apfritts.com
 DOMAIN-SUFFIX,api-ds.kkbox.com.tw
 DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,api-login.kkbox.com.tw
+DOMAIN-SUFFIX,api-p.videomarket.jp
 DOMAIN-SUFFIX,api-secure.recaptcha.net
 DOMAIN-SUFFIX,api-verify.recaptcha.net
 DOMAIN-SUFFIX,api.a5188yes.com
@@ -26530,12 +26531,17 @@ DOMAIN-SUFFIX,raptorvpn.com
 DOMAIN-SUFFIX,rarbg.is
 DOMAIN-SUFFIX,rarbg.me
 DOMAIN-SUFFIX,rarbgaccess.org
+DOMAIN-SUFFIX,rarbgaccessed.org
+DOMAIN-SUFFIX,rarbgget.org
 DOMAIN-SUFFIX,rarbggo.org
 DOMAIN-SUFFIX,rarbgmirror.com
 DOMAIN-SUFFIX,rarbgmirror.org
 DOMAIN-SUFFIX,rarbgproxy.org
 DOMAIN-SUFFIX,rarbgprx.org
+DOMAIN-SUFFIX,rarbgto.org
 DOMAIN-SUFFIX,rarbgunblock.com
+DOMAIN-SUFFIX,rarbgunblock.org
+DOMAIN-SUFFIX,rarbgway.org
 DOMAIN-SUFFIX,raremovie.cc
 DOMAIN-SUFFIX,raremovie.net
 DOMAIN-SUFFIX,raspberrypi.org
@@ -32215,6 +32221,7 @@ DOMAIN-SUFFIX,videoixir.net
 DOMAIN-SUFFIX,videojs.com
 DOMAIN-SUFFIX,videojug.com
 DOMAIN-SUFFIX,videolan.org
+DOMAIN-SUFFIX,videomarket.jp
 DOMAIN-SUFFIX,videomega.tv
 DOMAIN-SUFFIX,videomo.com
 DOMAIN-SUFFIX,videomobo.com
