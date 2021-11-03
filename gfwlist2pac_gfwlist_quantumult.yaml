@@ -1,7 +1,7 @@
-# Checksum: MTYzNTgxNDkyNAo=
+# Checksum: MTYzNTkwMTE0NAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.0.8-20211102-0
-# TimeUpdated: 2021-11-02T01:02:04+00:00
+# Version: 1.0.8-20211103-0
+# TimeUpdated: 2021-11-03T00:59:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -8946,6 +8946,7 @@ DOMAIN-SUFFIX,cloudfare.com,PROXY
 DOMAIN-SUFFIX,cloudfire.com,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
+DOMAIN-SUFFIX,cloudflare-quic.com,PROXY
 DOMAIN-SUFFIX,cloudflare.com,PROXY
 DOMAIN-SUFFIX,cloudflare.net,PROXY
 DOMAIN-SUFFIX,cloudflareapps.com,PROXY
@@ -14589,7 +14590,6 @@ DOMAIN-SUFFIX,fun612.com,PROXY
 DOMAIN-SUFFIX,fun66996.com,PROXY
 DOMAIN-SUFFIX,fun678.com,PROXY
 DOMAIN-SUFFIX,fun727.com,PROXY
-DOMAIN-SUFFIX,fun737.com,PROXY
 DOMAIN-SUFFIX,fun767.com,PROXY
 DOMAIN-SUFFIX,fun7733.com,PROXY
 DOMAIN-SUFFIX,fun78.com,PROXY
