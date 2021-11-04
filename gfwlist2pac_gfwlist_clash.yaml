@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYzNTkwMTE0NAo=
+# Checksum: MTYzNTk4NzU5OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.8-20211103-0
-# TimeUpdated: 2021-11-03T00:59:04+00:00
+# Version: 1.0.8-20211104-0
+# TimeUpdated: 2021-11-04T00:59:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -8404,6 +8404,7 @@ payload:
   - DOMAIN-SUFFIX,chase.com
   - DOMAIN-SUFFIX,chat-test-app.firebaseio.com
   - DOMAIN-SUFFIX,chat.stackexchange.com
+  - DOMAIN-SUFFIX,chatango.com
   - DOMAIN-SUFFIX,chaterbate.com
   - DOMAIN-SUFFIX,chatnook.com
   - DOMAIN-SUFFIX,chatroom.dsn02.co
@@ -10758,6 +10759,9 @@ payload:
   - DOMAIN-SUFFIX,deepcoin.vip
   - DOMAIN-SUFFIX,deepdiscount.com
   - DOMAIN-SUFFIX,deeper.com
+  - DOMAIN-SUFFIX,deepfreeze.com
+  - DOMAIN-SUFFIX,deepfreeze.net
+  - DOMAIN-SUFFIX,deepfreeze.tech
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepspace.jpl.nasa.gov
@@ -13350,6 +13354,11 @@ payload:
   - DOMAIN-SUFFIX,farfetch.net
   - DOMAIN-SUFFIX,farm.tanosecure.com.tw
   - DOMAIN-SUFFIX,farmatotal.cl
+  - DOMAIN-SUFFIX,faronics.com
+  - DOMAIN-SUFFIX,faronics.kayako.com
+  - DOMAIN-SUFFIX,faronics.tech
+  - DOMAIN-SUFFIX,faronicslabs.com
+  - DOMAIN-SUFFIX,faronicswise.com
   - DOMAIN-SUFFIX,farsipod101.com
   - DOMAIN-SUFFIX,fartit.com
   - DOMAIN-SUFFIX,farumradio.com
@@ -18242,6 +18251,7 @@ payload:
   - DOMAIN-SUFFIX,internet.org
   - DOMAIN-SUFFIX,internetarchive.org
   - DOMAIN-SUFFIX,internetdefenseleague.org
+  - DOMAIN-SUFFIX,internetdownloadmanager.com
   - DOMAIN-SUFFIX,internetexplorer.co
   - DOMAIN-SUFFIX,internetexplorer.com
   - DOMAIN-SUFFIX,internetfreedom.org
@@ -22703,6 +22713,7 @@ payload:
   - DOMAIN-SUFFIX,myavfun.com
   - DOMAIN-SUFFIX,myavsuper.com
   - DOMAIN-SUFFIX,myball369.com
+  - DOMAIN-SUFFIX,myball7.com
   - DOMAIN-SUFFIX,mybbs.us
   - DOMAIN-SUFFIX,mybeatsbydrestudio.com
   - DOMAIN-SUFFIX,mybeatsbydreuk.com
@@ -26843,6 +26854,7 @@ payload:
   - DOMAIN-SUFFIX,regiongold.com
   - DOMAIN-SUFFIX,register.moex.gov.tw
   - DOMAIN-SUFFIX,registerhulu.com
+  - DOMAIN-SUFFIX,registeridm.com
   - DOMAIN-SUFFIX,registry.google
   - DOMAIN-SUFFIX,rehabforum.org
   - DOMAIN-SUFFIX,reimu.net
@@ -30759,6 +30771,7 @@ payload:
   - DOMAIN-SUFFIX,ton.twimg.com
   - DOMAIN-SUFFIX,tonalla.com
   - DOMAIN-SUFFIX,tonalsoft.com
+  - DOMAIN-SUFFIX,tonec.com
   - DOMAIN-SUFFIX,tongbao918.com
   - DOMAIN-SUFFIX,tongbo8888.com
   - DOMAIN-SUFFIX,tongil.or.kr
