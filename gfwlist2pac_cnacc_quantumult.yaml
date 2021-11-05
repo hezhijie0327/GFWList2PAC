@@ -1,7 +1,7 @@
-# Checksum: MTYzNTk4NzU3OAo=
+# Checksum: MTYzNjA3Mzk0Mwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.8-20211104-0
-# TimeUpdated: 2021-11-04T00:59:38+00:00
+# Version: 1.0.8-20211105-0
+# TimeUpdated: 2021-11-05T00:59:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com,DIRECT
@@ -10857,6 +10857,7 @@ DOMAIN-SUFFIX,account.sogou.com,DIRECT
 DOMAIN-SUFFIX,account.synology.cn,DIRECT
 DOMAIN-SUFFIX,account.umeng.com,DIRECT
 DOMAIN-SUFFIX,account.wps.cn,DIRECT
+DOMAIN-SUFFIX,account.xiaomi.com,DIRECT
 DOMAIN-SUFFIX,account.youdao.com,DIRECT
 DOMAIN-SUFFIX,account.youku.com,DIRECT
 DOMAIN-SUFFIX,account.zhihu.com,DIRECT
@@ -13693,6 +13694,7 @@ DOMAIN-SUFFIX,api-news.zhhainiao.com,DIRECT
 DOMAIN-SUFFIX,api-pan.xunlei.com,DIRECT
 DOMAIN-SUFFIX,api-pay-biz.jd.com,DIRECT
 DOMAIN-SUFFIX,api-pay-biz.jd.com.gslb.qianxun.com,DIRECT
+DOMAIN-SUFFIX,api-pricetag.dmall.com,DIRECT
 DOMAIN-SUFFIX,api-prod.leancloud.cn,DIRECT
 DOMAIN-SUFFIX,api-push.meizu.com,DIRECT
 DOMAIN-SUFFIX,api-sc.wtzw.com,DIRECT
@@ -13819,7 +13821,6 @@ DOMAIN-SUFFIX,api.hellobike.com,DIRECT
 DOMAIN-SUFFIX,api.hengdianfilm.com,DIRECT
 DOMAIN-SUFFIX,api.home.news.cn,DIRECT
 DOMAIN-SUFFIX,api.huya.com,DIRECT
-DOMAIN-SUFFIX,api.hybrid.xiaomi.com,DIRECT
 DOMAIN-SUFFIX,api.hyhuo.com,DIRECT
 DOMAIN-SUFFIX,api.iapps.ifeng.com,DIRECT
 DOMAIN-SUFFIX,api.iimedia.cn,DIRECT
@@ -13997,6 +13998,7 @@ DOMAIN-SUFFIX,api.zhihu.com,DIRECT
 DOMAIN-SUFFIX,api.zhirenzhufu.com,DIRECT
 DOMAIN-SUFFIX,api.zhuanlan.sina.com.cn,DIRECT
 DOMAIN-SUFFIX,api.zhuti.xiaomi.com,DIRECT
+DOMAIN-SUFFIX,api.zhy333.com,DIRECT
 DOMAIN-SUFFIX,api.zol.com,DIRECT
 DOMAIN-SUFFIX,api.zone.lixian.vip.xunlei.com,DIRECT
 DOMAIN-SUFFIX,api1.888zy.cn,DIRECT
@@ -14181,6 +14183,7 @@ DOMAIN-SUFFIX,app-monitor.ele.me,DIRECT
 DOMAIN-SUFFIX,app-router.com,DIRECT
 DOMAIN-SUFFIX,app-router.leancloud.cn,DIRECT
 DOMAIN-SUFFIX,app-sage.com,DIRECT
+DOMAIN-SUFFIX,app-site-association.cdn-apple.com,DIRECT
 DOMAIN-SUFFIX,app-store.name,DIRECT
 DOMAIN-SUFFIX,app-tj.adinall.com,DIRECT
 DOMAIN-SUFFIX,app-v6.ias.tencent-cloud.net,DIRECT
@@ -23942,7 +23945,6 @@ DOMAIN-SUFFIX,cn.img.stb.s-msn.com,DIRECT
 DOMAIN-SUFFIX,cn.innity-asia.com,DIRECT
 DOMAIN-SUFFIX,cn.lakdc.top,DIRECT
 DOMAIN-SUFFIX,cn.launcher.battlenet.com.cn,DIRECT
-DOMAIN-SUFFIX,cn.linkedin.com,DIRECT
 DOMAIN-SUFFIX,cn.made-in-china.com,DIRECT
 DOMAIN-SUFFIX,cn.mclean.50union.com,DIRECT
 DOMAIN-SUFFIX,cn.msi.com,DIRECT
@@ -25177,7 +25179,6 @@ DOMAIN-SUFFIX,coomix.net,DIRECT
 DOMAIN-SUFFIX,cooo.us,DIRECT
 DOMAIN-SUFFIX,coooz.com,DIRECT
 DOMAIN-SUFFIX,coop.aihuishou.com,DIRECT
-DOMAIN-SUFFIX,coop.pop.baofeng.com,DIRECT
 DOMAIN-SUFFIX,coop100.com,DIRECT
 DOMAIN-SUFFIX,coopb2b.com,DIRECT
 DOMAIN-SUFFIX,cooperation.html5.qq.com,DIRECT
@@ -26266,6 +26267,7 @@ DOMAIN-SUFFIX,cxacg.com,DIRECT
 DOMAIN-SUFFIX,cxbz958.com,DIRECT
 DOMAIN-SUFFIX,cxc233.com,DIRECT
 DOMAIN-SUFFIX,cxcc.me,DIRECT
+DOMAIN-SUFFIX,cxcxt.com,DIRECT
 DOMAIN-SUFFIX,cxcyds.com,DIRECT
 DOMAIN-SUFFIX,cxdq.com,DIRECT
 DOMAIN-SUFFIX,cxfuwu.com,DIRECT
@@ -27495,7 +27497,6 @@ DOMAIN-SUFFIX,data.haoma.sogou.com,DIRECT
 DOMAIN-SUFFIX,data.help.jr.mi.com,DIRECT
 DOMAIN-SUFFIX,data.hicloud.com,DIRECT
 DOMAIN-SUFFIX,data.highpin.cn,DIRECT
-DOMAIN-SUFFIX,data.mistat.xiaomi.com,DIRECT
 DOMAIN-SUFFIX,data.openspeech.cn,DIRECT
 DOMAIN-SUFFIX,data.p4psearch.1688.com,DIRECT
 DOMAIN-SUFFIX,data.qq.com,DIRECT
@@ -29479,7 +29480,6 @@ DOMAIN-SUFFIX,dm.bytedance.com,DIRECT
 DOMAIN-SUFFIX,dm.bytedance.com.w.cdngslb.com,DIRECT
 DOMAIN-SUFFIX,dm.cnbanbao.com,DIRECT
 DOMAIN-SUFFIX,dm.cqdxun.cn,DIRECT
-DOMAIN-SUFFIX,dm.gucheng.com,DIRECT
 DOMAIN-SUFFIX,dm.hxzdhn.com,DIRECT
 DOMAIN-SUFFIX,dm.ishuo.cn,DIRECT
 DOMAIN-SUFFIX,dm.jb51.net,DIRECT
@@ -30225,7 +30225,6 @@ DOMAIN-SUFFIX,download.m.37.com,DIRECT
 DOMAIN-SUFFIX,download.mcloud.139.com,DIRECT
 DOMAIN-SUFFIX,download.microsoft.com,DIRECT
 DOMAIN-SUFFIX,download.onedns.net,DIRECT
-DOMAIN-SUFFIX,download.pchome.net,DIRECT
 DOMAIN-SUFFIX,download.pinyin.sogou.com,DIRECT
 DOMAIN-SUFFIX,download.qianka.com,DIRECT
 DOMAIN-SUFFIX,download.sangfor.com.cn,DIRECT
@@ -35099,6 +35098,7 @@ DOMAIN-SUFFIX,floorb2b.com,DIRECT
 DOMAIN-SUFFIX,florentiavillage.com,DIRECT
 DOMAIN-SUFFIX,floverow.com,DIRECT
 DOMAIN-SUFFIX,flow.10010.com,DIRECT
+DOMAIN-SUFFIX,flow.dmall.com,DIRECT
 DOMAIN-SUFFIX,flow.qq.com,DIRECT
 DOMAIN-SUFFIX,flow.wps.cn,DIRECT
 DOMAIN-SUFFIX,flowbet365.com,DIRECT
@@ -39379,7 +39379,6 @@ DOMAIN-SUFFIX,h5seeds-open.xycdn.com,DIRECT
 DOMAIN-SUFFIX,h5seeds-open.xycdn.com.gslb.p2cdn.com,DIRECT
 DOMAIN-SUFFIX,h5sg.com,DIRECT
 DOMAIN-SUFFIX,h5shuo.com,DIRECT
-DOMAIN-SUFFIX,h5speed.m.jd.com,DIRECT
 DOMAIN-SUFFIX,h5speed.m.jd.com.gslb.qianxun.com,DIRECT
 DOMAIN-SUFFIX,h5ssl.1sapp.com,DIRECT
 DOMAIN-SUFFIX,h5ssl.1sapp.com.wswebpic.com,DIRECT
@@ -43097,6 +43096,7 @@ DOMAIN-SUFFIX,huifuyimin.com,DIRECT
 DOMAIN-SUFFIX,huigao-magnetics.com,DIRECT
 DOMAIN-SUFFIX,huigetv.com,DIRECT
 DOMAIN-SUFFIX,huigezi.org,DIRECT
+DOMAIN-SUFFIX,huigoushop.com,DIRECT
 DOMAIN-SUFFIX,huigun.top,DIRECT
 DOMAIN-SUFFIX,huihaicenter.com,DIRECT
 DOMAIN-SUFFIX,huihaicn.com,DIRECT
@@ -43976,6 +43976,7 @@ DOMAIN-SUFFIX,i.51job.com.51jobdns.com,DIRECT
 DOMAIN-SUFFIX,i.9le.net,DIRECT
 DOMAIN-SUFFIX,i.adeaz.com,DIRECT
 DOMAIN-SUFFIX,i.adsame.com,DIRECT
+DOMAIN-SUFFIX,i.ai.mi.com,DIRECT
 DOMAIN-SUFFIX,i.ali213.net,DIRECT
 DOMAIN-SUFFIX,i.alicdn.com,DIRECT
 DOMAIN-SUFFIX,i.alicdn.com.danuoyi.tbcache.com,DIRECT
@@ -46748,7 +46749,6 @@ DOMAIN-SUFFIX,ipinyou.com,DIRECT
 DOMAIN-SUFFIX,ipinyou.com.cn,DIRECT
 DOMAIN-SUFFIX,ipip-darwin.xycdn.com,DIRECT
 DOMAIN-SUFFIX,ipip.net,DIRECT
-DOMAIN-SUFFIX,ipips.pchome.net,DIRECT
 DOMAIN-SUFFIX,ipktv.com,DIRECT
 DOMAIN-SUFFIX,ipku.com,DIRECT
 DOMAIN-SUFFIX,iplascloud.com,DIRECT
@@ -47867,6 +47867,7 @@ DOMAIN-SUFFIX,jcsb.com,DIRECT
 DOMAIN-SUFFIX,jcsfs.com,DIRECT
 DOMAIN-SUFFIX,jcsjt.com,DIRECT
 DOMAIN-SUFFIX,jcssyxh.com,DIRECT
+DOMAIN-SUFFIX,jct.maptu.cn,DIRECT
 DOMAIN-SUFFIX,jctmj.net,DIRECT
 DOMAIN-SUFFIX,jctrans.com,DIRECT
 DOMAIN-SUFFIX,jctuku.com,DIRECT
@@ -49652,7 +49653,6 @@ DOMAIN-SUFFIX,jpyoo.com,DIRECT
 DOMAIN-SUFFIX,jpyssc.com,DIRECT
 DOMAIN-SUFFIX,jpzyfx.com,DIRECT
 DOMAIN-SUFFIX,jq-school.com,DIRECT
-DOMAIN-SUFFIX,jq.a0buy.top,DIRECT
 DOMAIN-SUFFIX,jq.qq.com,DIRECT
 DOMAIN-SUFFIX,jq22.com,DIRECT
 DOMAIN-SUFFIX,jq960.com,DIRECT
@@ -50357,7 +50357,6 @@ DOMAIN-SUFFIX,jushuo.com,DIRECT
 DOMAIN-SUFFIX,jusrlkubhjnr.com,DIRECT
 DOMAIN-SUFFIX,jussevent.com,DIRECT
 DOMAIN-SUFFIX,jusstickets.com,DIRECT
-DOMAIN-SUFFIX,just-machinery.com,DIRECT
 DOMAIN-SUFFIX,just4coding.com,DIRECT
 DOMAIN-SUFFIX,just4fun.ml,DIRECT
 DOMAIN-SUFFIX,just4fun.site,DIRECT
@@ -57291,6 +57290,7 @@ DOMAIN-SUFFIX,maps.apple.com,DIRECT
 DOMAIN-SUFFIX,mapsnap0.bdimg.com,DIRECT
 DOMAIN-SUFFIX,mapsp0.bdimg.com,DIRECT
 DOMAIN-SUFFIX,mapsv0.bdimg.com,DIRECT
+DOMAIN-SUFFIX,maptu.cn,DIRECT
 DOMAIN-SUFFIX,maqingxi.com,DIRECT
 DOMAIN-SUFFIX,maqinnews.com,DIRECT
 DOMAIN-SUFFIX,mar.vip.com,DIRECT
@@ -58832,6 +58832,7 @@ DOMAIN-SUFFIX,minxue.net,DIRECT
 DOMAIN-SUFFIX,minyaartcrafts.cn,DIRECT
 DOMAIN-SUFFIX,minzu56.net,DIRECT
 DOMAIN-SUFFIX,miot-spec.org,DIRECT
+DOMAIN-SUFFIX,mip-ruiwen-com.sm-tc.cn,DIRECT
 DOMAIN-SUFFIX,mip.3kr.com,DIRECT
 DOMAIN-SUFFIX,mip.ali213.net,DIRECT
 DOMAIN-SUFFIX,mip.daquan.com,DIRECT
@@ -61421,7 +61422,6 @@ DOMAIN-SUFFIX,newyx.net,DIRECT
 DOMAIN-SUFFIX,newzgc.com,DIRECT
 DOMAIN-SUFFIX,newzhizao.com,DIRECT
 DOMAIN-SUFFIX,newzkoo.com,DIRECT
-DOMAIN-SUFFIX,nex.163.com,DIRECT
 DOMAIN-SUFFIX,nexiao.com,DIRECT
 DOMAIN-SUFFIX,nexmoe.com,DIRECT
 DOMAIN-SUFFIX,nexon.to,DIRECT
@@ -61902,7 +61902,6 @@ DOMAIN-SUFFIX,nmhfw.com,DIRECT
 DOMAIN-SUFFIX,nmhrjy.com,DIRECT
 DOMAIN-SUFFIX,nmimi.com,DIRECT
 DOMAIN-SUFFIX,nmkjxy.com,DIRECT
-DOMAIN-SUFFIX,nmlhkj.com,DIRECT
 DOMAIN-SUFFIX,nmmwz.com,DIRECT
 DOMAIN-SUFFIX,nmobi.kuwo.cn,DIRECT
 DOMAIN-SUFFIX,nmpcdn.com,DIRECT
@@ -66931,6 +66930,8 @@ DOMAIN-SUFFIX,pwrd.com,DIRECT
 DOMAIN-SUFFIX,pwsannong.com,DIRECT
 DOMAIN-SUFFIX,pwt.zoosnet.net,DIRECT
 DOMAIN-SUFFIX,pwupdate.cdn.pandora.xiaomi.com,DIRECT
+DOMAIN-SUFFIX,px.ads.linkedin.cn,DIRECT
+DOMAIN-SUFFIX,px.ads.linkedin.com,DIRECT
 DOMAIN-SUFFIX,px.effirst.com,DIRECT
 DOMAIN-SUFFIX,px.nloader.xyz,DIRECT
 DOMAIN-SUFFIX,px.qucaigg.com,DIRECT
