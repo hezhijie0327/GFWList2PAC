@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYzNjA3Mzk2Mgo=
+# Checksum: MTYzNjE2MDI2Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.8-20211105-0
-# TimeUpdated: 2021-11-05T00:59:22+00:00
+# Version: 1.0.8-20211106-0
+# TimeUpdated: 2021-11-06T00:57:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5604,7 +5604,6 @@ payload:
   - DOMAIN-SUFFIX,bbs.brockbbs.com
   - DOMAIN-SUFFIX,bbs.cantonese.asia
   - DOMAIN-SUFFIX,bbs.cdbook.org
-  - DOMAIN-SUFFIX,bbs.diaosiqingnian.com
   - DOMAIN-SUFFIX,bbs.ecstart.com
   - DOMAIN-SUFFIX,bbs.fallenark.com
   - DOMAIN-SUFFIX,bbs.foryou1.cf
@@ -6380,6 +6379,7 @@ payload:
   - DOMAIN-SUFFIX,biwei198.com
   - DOMAIN-SUFFIX,biwei389.com
   - DOMAIN-SUFFIX,biwei6688.com
+  - DOMAIN-SUFFIX,biwei8668.com
   - DOMAIN-SUFFIX,bixin.com
   - DOMAIN-SUFFIX,biying12.com
   - DOMAIN-SUFFIX,biying56.com
@@ -10958,7 +10958,6 @@ payload:
   - DOMAIN-SUFFIX,dialoguechina.com
   - DOMAIN-SUFFIX,diamond.jp
   - DOMAIN-SUFFIX,dianzidesigns.com
-  - DOMAIN-SUFFIX,diaosiqingnian.com
   - DOMAIN-SUFFIX,diaosisou.com
   - DOMAIN-SUFFIX,diaoyuislands.org
   - DOMAIN-SUFFIX,diariolacosta.com
@@ -12855,6 +12854,7 @@ payload:
   - DOMAIN-SUFFIX,expxtv.com
   - DOMAIN-SUFFIX,exrates.me
   - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,extensionworkshop.com
   - DOMAIN-SUFFIX,extmatrix.com
   - DOMAIN-SUFFIX,extra.voyantic.com
   - DOMAIN-SUFFIX,extrabux.com
@@ -18993,6 +18993,7 @@ payload:
   - DOMAIN-SUFFIX,jesus-army.com
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,jetbrains.team
   - DOMAIN-SUFFIX,jetfuelapp.com
   - DOMAIN-SUFFIX,jetfuelapps.com
   - DOMAIN-SUFFIX,jetgames.cf
