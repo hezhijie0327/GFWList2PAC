@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYzODA2MTMwMAo=
+# Checksum: MTYzODE0NzY0MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.8-20211128-0
-# TimeUpdated: 2021-11-28T01:01:40+00:00
+# Version: 1.0.8-20211129-0
+# TimeUpdated: 2021-11-29T01:00:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3103,6 +3103,8 @@ payload:
   - DOMAIN-SUFFIX,9afd1.com
   - DOMAIN-SUFFIX,9agz1.com
   - DOMAIN-SUFFIX,9aje1.com
+  - DOMAIN-SUFFIX,9anime.id
+  - DOMAIN-SUFFIX,9anime.ws
   - DOMAIN-SUFFIX,9apps.com
   - DOMAIN-SUFFIX,9bac1.com
   - DOMAIN-SUFFIX,9baf1.com
@@ -4228,6 +4230,7 @@ payload:
   - DOMAIN-SUFFIX,anidom.com
   - DOMAIN-SUFFIX,anime-sharing.com
   - DOMAIN-SUFFIX,animecrazy.net
+  - DOMAIN-SUFFIX,animedao-tv.com
   - DOMAIN-SUFFIX,animedreaming.tv
   - DOMAIN-SUFFIX,animeshippuuden.com
   - DOMAIN-SUFFIX,animestigma.com
@@ -7012,6 +7015,7 @@ payload:
   - DOMAIN-SUFFIX,bmwworld.net
   - DOMAIN-SUFFIX,bmwworld.tv
   - DOMAIN-SUFFIX,bmwzentrum.com
+  - DOMAIN-SUFFIX,bn5x.net
   - DOMAIN-SUFFIX,bn65.com
   - DOMAIN-SUFFIX,bnaz.org
   - DOMAIN-SUFFIX,bnbstatic.com
@@ -7127,6 +7131,7 @@ payload:
   - DOMAIN-SUFFIX,boomssr.com
   - DOMAIN-SUFFIX,boomtrain.com
   - DOMAIN-SUFFIX,boostmobile.com
+  - DOMAIN-SUFFIX,booth.pm
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,borderexperience.weebly.com
   - DOMAIN-SUFFIX,borderlandindustry.ml
@@ -11113,6 +11118,7 @@ payload:
   - DOMAIN-SUFFIX,disney-asia.com
   - DOMAIN-SUFFIX,disney-discount.com
   - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
   - DOMAIN-SUFFIX,disney-studio.com
   - DOMAIN-SUFFIX,disney-studio.net
   - DOMAIN-SUFFIX,disney.asia
@@ -11122,6 +11128,7 @@ payload:
   - DOMAIN-SUFFIX,disney.id
   - DOMAIN-SUFFIX,disney.io
   - DOMAIN-SUFFIX,disney.it
+  - DOMAIN-SUFFIX,disney.my.sentry.io
   - DOMAIN-SUFFIX,disney.pt
   - DOMAIN-SUFFIX,disneyadsales.com
   - DOMAIN-SUFFIX,disneyarena.com
@@ -11148,6 +11155,7 @@ payload:
   - DOMAIN-SUFFIX,disneynewseries.com
   - DOMAIN-SUFFIX,disneynow.com
   - DOMAIN-SUFFIX,disneypeoplesurveys.com
+  - DOMAIN-SUFFIX,disneyplus.bn5x.net
   - DOMAIN-SUFFIX,disneyplus.com
   - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
   - DOMAIN-SUFFIX,disneyredirects.com
@@ -13313,6 +13321,7 @@ payload:
   - DOMAIN-SUFFIX,fan-qiang.com
   - DOMAIN-SUFFIX,fanarchive.campfirenow.com
   - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,fanbox.cc
   - DOMAIN-SUFFIX,fancy7.com
   - DOMAIN-SUFFIX,fandango.com
   - DOMAIN-SUFFIX,fandom.com
@@ -14633,6 +14642,7 @@ payload:
   - DOMAIN-SUFFIX,fundpaypal.com
   - DOMAIN-SUFFIX,fundraisingwithfacebook.com
   - DOMAIN-SUFFIX,funf.tw
+  - DOMAIN-SUFFIX,funimation.com
   - DOMAIN-SUFFIX,funimax.com
   - DOMAIN-SUFFIX,funkyimg.com
   - DOMAIN-SUFFIX,funny-games.biz
@@ -16665,6 +16675,7 @@ payload:
   - DOMAIN-SUFFIX,hidester.com
   - DOMAIN-SUFFIX,hidethisip.net
   - DOMAIN-SUFFIX,hidevpn.com
+  - DOMAIN-SUFFIX,hidive.com
   - DOMAIN-SUFFIX,hidrive.com
   - DOMAIN-SUFFIX,hifacebook.info
   - DOMAIN-SUFFIX,higfw.com
@@ -18956,7 +18967,6 @@ payload:
   - DOMAIN-SUFFIX,jbo84.com
   - DOMAIN-SUFFIX,jbo87.com
   - DOMAIN-SUFFIX,jbo8822.com
-  - DOMAIN-SUFFIX,jbo8877.com
   - DOMAIN-SUFFIX,jbo9.com
   - DOMAIN-SUFFIX,jbo919.com
   - DOMAIN-SUFFIX,jbo98.com
@@ -18998,6 +19008,7 @@ payload:
   - DOMAIN-SUFFIX,jesus-army.com
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,jetbrains.space
   - DOMAIN-SUFFIX,jetbrains.team
   - DOMAIN-SUFFIX,jetfuelapp.com
   - DOMAIN-SUFFIX,jetfuelapps.com
@@ -23460,6 +23471,7 @@ payload:
   - DOMAIN-SUFFIX,nicolasmoro.net
   - DOMAIN-SUFFIX,niconico.com
   - DOMAIN-SUFFIX,niconode.com
+  - DOMAIN-SUFFIX,nicotv.me
   - DOMAIN-SUFFIX,nicovideo.jp
   - DOMAIN-SUFFIX,nicozon.net
   - DOMAIN-SUFFIX,nicstudios.com
@@ -24288,6 +24300,7 @@ payload:
   - DOMAIN-SUFFIX,onestore.ms
   - DOMAIN-SUFFIX,onetechsa.com.ar
   - DOMAIN-SUFFIX,onetenth.me
+  - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,onevpn.com
   - DOMAIN-SUFFIX,onevps.com
   - DOMAIN-SUFFIX,oneworld.cz
@@ -27866,6 +27879,7 @@ payload:
   - DOMAIN-SUFFIX,sensolnet.com
   - DOMAIN-SUFFIX,sensortower.com
   - DOMAIN-SUFFIX,sensorynetworks.com
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,senvpn.com
   - DOMAIN-SUFFIX,senzacodice.com
   - DOMAIN-SUFFIX,seondlife.com
@@ -32916,6 +32930,7 @@ payload:
   - DOMAIN-SUFFIX,vrmtr.com
   - DOMAIN-SUFFIX,vrsmash.com
   - DOMAIN-SUFFIX,vrt.be
+  - DOMAIN-SUFFIX,vrv.co
   - DOMAIN-SUFFIX,vs8866.com
   - DOMAIN-SUFFIX,vs8989.com
   - DOMAIN-SUFFIX,vs9933.com
