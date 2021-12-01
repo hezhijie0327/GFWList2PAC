@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYzODIzNDAzOQo=
+# Checksum: MTYzODMyMDY2OAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.8-20211130-0
-# TimeUpdated: 2021-11-30T01:00:39+00:00
+# Version: 1.0.8-20211201-0
+# TimeUpdated: 2021-12-01T01:04:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-100.com
@@ -13291,7 +13291,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.meituan.net
   - DOMAIN-SUFFIX,analytics.meituan.net.s2txipv6.cdntip.com
   - DOMAIN-SUFFIX,analytics.mpay.netease.com
-  - DOMAIN-SUFFIX,analytics.oneplus.cn
   - DOMAIN-SUFFIX,analytics.pointdrive.linkedin.com
   - DOMAIN-SUFFIX,analytics.shop.hisense.com
   - DOMAIN-SUFFIX,analytics.snssdk.com
@@ -14020,7 +14019,6 @@ payload:
   - DOMAIN-SUFFIX,api.luffycity.com
   - DOMAIN-SUFFIX,api.m.gds.taobao.com
   - DOMAIN-SUFFIX,api.m.huya.com
-  - DOMAIN-SUFFIX,api.m.jd.com
   - DOMAIN-SUFFIX,api.m.jd.com.gslb.qianxun.com
   - DOMAIN-SUFFIX,api.m.mi.com
   - DOMAIN-SUFFIX,api.m.sm.cn
@@ -14777,7 +14775,6 @@ payload:
   - DOMAIN-SUFFIX,arrowos.net
   - DOMAIN-SUFFIX,art-ba-ba.com
   - DOMAIN-SUFFIX,art-child.com
-  - DOMAIN-SUFFIX,art.g7.iciy.top
   - DOMAIN-SUFFIX,art.theta.sogoucdn.com
   - DOMAIN-SUFFIX,art.zsjxwj.com
   - DOMAIN-SUFFIX,art138.com
@@ -14867,7 +14864,6 @@ payload:
   - DOMAIN-SUFFIX,as35q8.cn
   - DOMAIN-SUFFIX,as3f.com
   - DOMAIN-SUFFIX,as5.com
-  - DOMAIN-SUFFIX,asa.commerce.apple.com
   - DOMAIN-SUFFIX,asa.commerce.apple.com.cdn20.com
   - DOMAIN-SUFFIX,asaki.me
   - DOMAIN-SUFFIX,asao.com
@@ -15544,6 +15540,7 @@ payload:
   - DOMAIN-SUFFIX,b.zol-img.com.cn
   - DOMAIN-SUFFIX,b0.bdstatic.com
   - DOMAIN-SUFFIX,b009c63647c50e8514177619333fbec5.safeframe.googlesyndication.com
+  - DOMAIN-SUFFIX,b0432.cn
   - DOMAIN-SUFFIX,b086.com
   - DOMAIN-SUFFIX,b0sfezkb.slt.sched.tdnsv8.com
   - DOMAIN-SUFFIX,b0w.me
@@ -15731,7 +15728,6 @@ payload:
   - DOMAIN-SUFFIX,babycdn.com
   - DOMAIN-SUFFIX,babyinhere.com
   - DOMAIN-SUFFIX,babymob.com
-  - DOMAIN-SUFFIX,babymoment.net
   - DOMAIN-SUFFIX,babymoro.com
   - DOMAIN-SUFFIX,babymozart.cc
   - DOMAIN-SUFFIX,babyqiming.com
@@ -15740,6 +15736,7 @@ payload:
   - DOMAIN-SUFFIX,bacaoo.com
   - DOMAIN-SUFFIX,bacaosh.com
   - DOMAIN-SUFFIX,bacic5i5j.com
+  - DOMAIN-SUFFIX,backerbiotech.cn
   - DOMAIN-SUFFIX,background.cowtransfer.com
   - DOMAIN-SUFFIX,backstage-img-ssl.a.88cdn.com
   - DOMAIN-SUFFIX,backup.hdslb.com
@@ -18819,6 +18816,7 @@ payload:
   - DOMAIN-SUFFIX,bs-origin.pull.yximgs.com
   - DOMAIN-SUFFIX,bs.5442.com
   - DOMAIN-SUFFIX,bs.csshq.com.cn
+  - DOMAIN-SUFFIX,bs.forward.douban.com
   - DOMAIN-SUFFIX,bs008.com
   - DOMAIN-SUFFIX,bs14.9669.cn
   - DOMAIN-SUFFIX,bs56.net
@@ -19449,6 +19447,7 @@ payload:
   - DOMAIN-SUFFIX,c.leslieyu.com.cn
   - DOMAIN-SUFFIX,c.lianjikeji.cn
   - DOMAIN-SUFFIX,c.lianwangtech.com
+  - DOMAIN-SUFFIX,c.lucktui.com
   - DOMAIN-SUFFIX,c.m.163.com
   - DOMAIN-SUFFIX,c.mageti.cn
   - DOMAIN-SUFFIX,c.mipcdn.com
@@ -20325,8 +20324,10 @@ payload:
   - DOMAIN-SUFFIX,ccepc.com
   - DOMAIN-SUFFIX,cces2006.org
   - DOMAIN-SUFFIX,ccets.com
+  - DOMAIN-SUFFIX,ccf.m.jd.com
   - DOMAIN-SUFFIX,ccf.m.jd.com.gslb.qianxun.com
   - DOMAIN-SUFFIX,ccfei.com
+  - DOMAIN-SUFFIX,ccfjma.m.jd.com
   - DOMAIN-SUFFIX,ccfjma.m.jd.com.gslb.qianxun.com
   - DOMAIN-SUFFIX,ccflbs.m.jd.com
   - DOMAIN-SUFFIX,ccflbs.m.jd.com.gslb.qianxun.com
@@ -23700,7 +23701,6 @@ payload:
   - DOMAIN-SUFFIX,cloudcfg.yfp2p.net
   - DOMAIN-SUFFIX,cloudconf.fengkongcloud.com
   - DOMAIN-SUFFIX,cloudconfig.mta.qq.com
-  - DOMAIN-SUFFIX,cloudcontrol.ai.xiaomi.com
   - DOMAIN-SUFFIX,cloudcross.com
   - DOMAIN-SUFFIX,cloudcsp.com
   - DOMAIN-SUFFIX,cloudctrl.gcloud.qq.com
@@ -24199,6 +24199,7 @@ payload:
   - DOMAIN-SUFFIX,cn.innity-asia.com
   - DOMAIN-SUFFIX,cn.lakdc.top
   - DOMAIN-SUFFIX,cn.launcher.battlenet.com.cn
+  - DOMAIN-SUFFIX,cn.linkedin.com
   - DOMAIN-SUFFIX,cn.made-in-china.com
   - DOMAIN-SUFFIX,cn.mclean.50union.com
   - DOMAIN-SUFFIX,cn.msi.com
@@ -24208,6 +24209,7 @@ payload:
   - DOMAIN-SUFFIX,cn.pandora.net
   - DOMAIN-SUFFIX,cn.patch.battle.net
   - DOMAIN-SUFFIX,cn.patch.battlenet.com.cn
+  - DOMAIN-SUFFIX,cn.pcfreetime.com
   - DOMAIN-SUFFIX,cn.qzonestyle.gtimg.cn
   - DOMAIN-SUFFIX,cn.vc
   - DOMAIN-SUFFIX,cn.version.battle.net
@@ -25102,6 +25104,7 @@ payload:
   - DOMAIN-SUFFIX,collector.szlcsc.com
   - DOMAIN-SUFFIX,collector.wasu.cn
   - DOMAIN-SUFFIX,collector.weiyun.com
+  - DOMAIN-SUFFIX,collector2c.zhihuishu.com
   - DOMAIN-SUFFIX,collision.shareinstall.net.cn
   - DOMAIN-SUFFIX,colobu.com
   - DOMAIN-SUFFIX,color365.com
@@ -26665,7 +26668,6 @@ payload:
   - DOMAIN-SUFFIX,cyprestar.com
   - DOMAIN-SUFFIX,cyqyzx.com
   - DOMAIN-SUFFIX,cyruc.com
-  - DOMAIN-SUFFIX,cysd.7kww.net
   - DOMAIN-SUFFIX,cysq.com
   - DOMAIN-SUFFIX,cyss19.com
   - DOMAIN-SUFFIX,cysua.com
@@ -32858,7 +32860,6 @@ payload:
   - DOMAIN-SUFFIX,eickaopei.com
   - DOMAIN-SUFFIX,eicodesign.com
   - DOMAIN-SUFFIX,eicp.net
-  - DOMAIN-SUFFIX,eid.jd.com
   - DOMAIN-SUFFIX,eid.jd.com.gslb.qianxun.com
   - DOMAIN-SUFFIX,eidlink.com
   - DOMAIN-SUFFIX,eidsign.com.cn
@@ -34116,6 +34117,7 @@ payload:
   - DOMAIN-SUFFIX,faec4fad2502f19c5419d695f3d9532c.safeframe.googlesyndication.com
   - DOMAIN-SUFFIX,fafa9.com
   - DOMAIN-SUFFIX,fafa986.com
+  - DOMAIN-SUFFIX,fafafa1.com
   - DOMAIN-SUFFIX,fafaku.com
   - DOMAIN-SUFFIX,fafawang.com
   - DOMAIN-SUFFIX,fafeng.com
@@ -36086,7 +36088,6 @@ payload:
   - DOMAIN-SUFFIX,fun48.com
   - DOMAIN-SUFFIX,fun501.com
   - DOMAIN-SUFFIX,fun551.com
-  - DOMAIN-SUFFIX,fun702.com
   - DOMAIN-SUFFIX,fun737.com
   - DOMAIN-SUFFIX,fun78.com
   - DOMAIN-SUFFIX,fun803.com
@@ -37600,6 +37601,7 @@ payload:
   - DOMAIN-SUFFIX,ghatg.com
   - DOMAIN-SUFFIX,ghboke.com
   - DOMAIN-SUFFIX,ghflv.com
+  - DOMAIN-SUFFIX,ghghgf.51dongshi.com
   - DOMAIN-SUFFIX,ghgy.com
   - DOMAIN-SUFFIX,ghgy.net
   - DOMAIN-SUFFIX,ghkm.com
@@ -38178,6 +38180,7 @@ payload:
   - DOMAIN-SUFFIX,gongxiangcj.com
   - DOMAIN-SUFFIX,gongxiao8.com
   - DOMAIN-SUFFIX,gongxifacai21.top
+  - DOMAIN-SUFFIX,gongxifc.com
   - DOMAIN-SUFFIX,gongxinbang.com
   - DOMAIN-SUFFIX,gongxuku.com
   - DOMAIN-SUFFIX,gongye360.com
@@ -41429,6 +41432,7 @@ payload:
   - DOMAIN-SUFFIX,hermes-server.hupu.com
   - DOMAIN-SUFFIX,hermes.cn
   - DOMAIN-SUFFIX,hermes.hupu.com
+  - DOMAIN-SUFFIX,hermes.jd.com
   - DOMAIN-SUFFIX,hermes.jd.com.gslb.qianxun.com
   - DOMAIN-SUFFIX,hermesguanwang.com
   - DOMAIN-SUFFIX,heroad-data.com
@@ -44704,7 +44708,6 @@ payload:
   - DOMAIN-SUFFIX,iars-wuhan.com
   - DOMAIN-SUFFIX,iartmoney.com
   - DOMAIN-SUFFIX,iartsee.com
-  - DOMAIN-SUFFIX,ias816.ujikdd041o.cn
   - DOMAIN-SUFFIX,iask-media.com
   - DOMAIN-SUFFIX,iask.cn
   - DOMAIN-SUFFIX,iask.com
@@ -44863,7 +44866,6 @@ payload:
   - DOMAIN-SUFFIX,icc.one
   - DOMAIN-SUFFIX,icc365.com
   - DOMAIN-SUFFIX,iccchina.com
-  - DOMAIN-SUFFIX,iccemt.org
   - DOMAIN-SUFFIX,iccessh.org
   - DOMAIN-SUFFIX,iccgame.com
   - DOMAIN-SUFFIX,iccgame.net
@@ -44943,7 +44945,6 @@ payload:
   - DOMAIN-SUFFIX,icity.2q10.com
   - DOMAIN-SUFFIX,icitymobile.com
   - DOMAIN-SUFFIX,icixun.com
-  - DOMAIN-SUFFIX,iciy.top
   - DOMAIN-SUFFIX,iciyuan.com
   - DOMAIN-SUFFIX,icjiemi.com
   - DOMAIN-SUFFIX,ickeep.com
@@ -48326,6 +48327,7 @@ payload:
   - DOMAIN-SUFFIX,jc-saas.com
   - DOMAIN-SUFFIX,jc-space.com
   - DOMAIN-SUFFIX,jc.c21.com.cn
+  - DOMAIN-SUFFIX,jc.lgtianma.cn
   - DOMAIN-SUFFIX,jc.zu.anjuke.com
   - DOMAIN-SUFFIX,jc001.cn
   - DOMAIN-SUFFIX,jc0531.com
@@ -54431,6 +54433,7 @@ payload:
   - DOMAIN-SUFFIX,lgole.com
   - DOMAIN-SUFFIX,lgpic.com
   - DOMAIN-SUFFIX,lgstatic.com
+  - DOMAIN-SUFFIX,lgtianma.cn
   - DOMAIN-SUFFIX,lguohe.com
   - DOMAIN-SUFFIX,lgwf1.shiep.edu.cn
   - DOMAIN-SUFFIX,lgzikao.com
@@ -55687,6 +55690,7 @@ payload:
   - DOMAIN-SUFFIX,log.51cto.com
   - DOMAIN-SUFFIX,log.9wuli.com
   - DOMAIN-SUFFIX,log.ad.xiaomi.com
+  - DOMAIN-SUFFIX,log.avlyun.com
   - DOMAIN-SUFFIX,log.bitauto.com
   - DOMAIN-SUFFIX,log.bol.wo.cn
   - DOMAIN-SUFFIX,log.china.cn
@@ -57277,7 +57281,6 @@ payload:
   - DOMAIN-SUFFIX,m3guo.com
   - DOMAIN-SUFFIX,m3u8.live.video.ptqy.gitv.tv
   - DOMAIN-SUFFIX,m3u8.tv
-  - DOMAIN-SUFFIX,m3ws.kugou.com
   - DOMAIN-SUFFIX,m4.lefile.cn
   - DOMAIN-SUFFIX,m4.lefile.cn.cdn20.com
   - DOMAIN-SUFFIX,m4.mogu66.com
@@ -60909,7 +60912,6 @@ payload:
   - DOMAIN-SUFFIX,mxw3.com
   - DOMAIN-SUFFIX,mxyn.com
   - DOMAIN-SUFFIX,mxzsjt.com
-  - DOMAIN-SUFFIX,mxzw.com
   - DOMAIN-SUFFIX,mxzx123.net
   - DOMAIN-SUFFIX,mxzzzs.com
   - DOMAIN-SUFFIX,my-3dcad.com
@@ -62227,6 +62229,7 @@ payload:
   - DOMAIN-SUFFIX,nihontu-cn.com
   - DOMAIN-SUFFIX,nihuwo.net
   - DOMAIN-SUFFIX,niiwoo.com
+  - DOMAIN-SUFFIX,nijiua.com
   - DOMAIN-SUFFIX,nikanpian.com
   - DOMAIN-SUFFIX,nikefree-run.net
   - DOMAIN-SUFFIX,nikeinc.com.cn
@@ -64802,7 +64805,6 @@ payload:
   - DOMAIN-SUFFIX,padn-access.pa18.com
   - DOMAIN-SUFFIX,padn-access.pingan.com.cn
   - DOMAIN-SUFFIX,paedu.net
-  - DOMAIN-SUFFIX,paflibnq.mamiyue.com.cn
   - DOMAIN-SUFFIX,pag.qdwght.com
   - DOMAIN-SUFFIX,page.1688.com
   - DOMAIN-SUFFIX,page.acm.dzwww.com
@@ -65730,6 +65732,7 @@ payload:
   - DOMAIN-SUFFIX,phopic.com
   - DOMAIN-SUFFIX,phormchina.com
   - DOMAIN-SUFFIX,photo.941ziyuan.cn
+  - DOMAIN-SUFFIX,photo.backerbiotech.cn
   - DOMAIN-SUFFIX,photo.chaoxing.com
   - DOMAIN-SUFFIX,photo.codefat.cn
   - DOMAIN-SUFFIX,photo.fanya.chaoxing.com
@@ -66893,6 +66896,7 @@ payload:
   - DOMAIN-SUFFIX,prateekmahendrakar.gallerycdn.azure.cn
   - DOMAIN-SUFFIX,prcedu.com
   - DOMAIN-SUFFIX,prcee.org
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,pre-ad.alimama.com
   - DOMAIN-SUFFIX,pre-adv.alimama.com
   - DOMAIN-SUFFIX,pre-sence.com
@@ -68171,7 +68175,6 @@ payload:
   - DOMAIN-SUFFIX,qd.lianjia.com
   - DOMAIN-SUFFIX,qd.myapp.com
   - DOMAIN-SUFFIX,qd.pcsdownload.n.shifen.com
-  - DOMAIN-SUFFIX,qd.wanjuanba.com
   - DOMAIN-SUFFIX,qd2019.net
   - DOMAIN-SUFFIX,qd256.com
   - DOMAIN-SUFFIX,qd315.net
@@ -71477,6 +71480,7 @@ payload:
   - DOMAIN-SUFFIX,restsdk.amap.com
   - DOMAIN-SUFFIX,resu8.hjfile.cn
   - DOMAIN-SUFFIX,resuly.me
+  - DOMAIN-SUFFIX,retagapp.com
   - DOMAIN-SUFFIX,retalltech.com
   - DOMAIN-SUFFIX,retargeting.ctrip.com
   - DOMAIN-SUFFIX,retargeting.ctrip.com.tel.rb.ctripgslb.com
@@ -76051,6 +76055,7 @@ payload:
   - DOMAIN-SUFFIX,sjm.life
   - DOMAIN-SUFFIX,sjmdh.com
   - DOMAIN-SUFFIX,sjmeigao.com
+  - DOMAIN-SUFFIX,sjmmhhh.cn
   - DOMAIN-SUFFIX,sjmxx.com
   - DOMAIN-SUFFIX,sjono.com
   - DOMAIN-SUFFIX,sjpcw.com
@@ -81482,6 +81487,7 @@ payload:
   - DOMAIN-SUFFIX,tjlog.easou.com
   - DOMAIN-SUFFIX,tjlog.ps.easou.com
   - DOMAIN-SUFFIX,tjluohuzhijia.com
+  - DOMAIN-SUFFIX,tjluxuu.cn
   - DOMAIN-SUFFIX,tjmama.com
   - DOMAIN-SUFFIX,tjmhc.com
   - DOMAIN-SUFFIX,tjmuch.com
@@ -83933,7 +83939,6 @@ payload:
   - DOMAIN-SUFFIX,uiwed.com
   - DOMAIN-SUFFIX,ujian.cc
   - DOMAIN-SUFFIX,ujifu.com
-  - DOMAIN-SUFFIX,ujikdd041o.cn
   - DOMAIN-SUFFIX,ujinbi.com
   - DOMAIN-SUFFIX,ujing.online
   - DOMAIN-SUFFIX,ujipin.com
@@ -104675,6 +104680,7 @@ payload:
   - DOMAIN-SUFFIX,zlink.toutiao.com
   - DOMAIN-SUFFIX,zlkb.net
   - DOMAIN-SUFFIX,zlketang.com
+  - DOMAIN-SUFFIX,zllhtz.cn
   - DOMAIN-SUFFIX,zllife.net
   - DOMAIN-SUFFIX,zllyun.com
   - DOMAIN-SUFFIX,zlml.net
@@ -105077,6 +105083,7 @@ payload:
   - DOMAIN-SUFFIX,zsr.cc
   - DOMAIN-SUFFIX,zsrcx.zs-hospital.sh.cn
   - DOMAIN-SUFFIX,zsrk120.com
+  - DOMAIN-SUFFIX,zsshlsh.cn
   - DOMAIN-SUFFIX,zsshuwu.com
   - DOMAIN-SUFFIX,zsso03.com
   - DOMAIN-SUFFIX,zssph.com
