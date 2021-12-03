@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYzODQwNjkwNgo=
+# Checksum: MTYzODQ5MzI1NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.8-20211202-0
-# TimeUpdated: 2021-12-02T01:01:46+00:00
+# Version: 1.0.8-20211203-0
+# TimeUpdated: 2021-12-03T01:00:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -14616,7 +14616,6 @@ payload:
   - DOMAIN-SUFFIX,fun712.com
   - DOMAIN-SUFFIX,fun727.com
   - DOMAIN-SUFFIX,fun767.com
-  - DOMAIN-SUFFIX,fun7733.com
   - DOMAIN-SUFFIX,fun780.com
   - DOMAIN-SUFFIX,fun8011.com
   - DOMAIN-SUFFIX,fun809.com
@@ -16041,7 +16040,6 @@ payload:
   - DOMAIN-SUFFIX,gu.com
   - DOMAIN-SUFFIX,gu.twimg.com
   - DOMAIN-SUFFIX,guaguass.com
-  - DOMAIN-SUFFIX,guaguass.org
   - DOMAIN-SUFFIX,guaiguaizhanhao.com
   - DOMAIN-SUFFIX,guaihan.com
   - DOMAIN-SUFFIX,guaika.cc
@@ -18231,6 +18229,9 @@ payload:
   - DOMAIN-SUFFIX,intell.com
   - DOMAIN-SUFFIX,intellearningseries.com
   - DOMAIN-SUFFIX,intellij-support.jetbrains.com
+  - DOMAIN-SUFFIX,intellij.com
+  - DOMAIN-SUFFIX,intellij.net
+  - DOMAIN-SUFFIX,intellij.org
   - DOMAIN-SUFFIX,intellinuxgraphics.com
   - DOMAIN-SUFFIX,intellinuxgraphics.net
   - DOMAIN-SUFFIX,intellinuxwireless.net
