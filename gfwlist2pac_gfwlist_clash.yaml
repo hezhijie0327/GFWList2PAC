@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY0MDQ4MDkxMwo=
+# Checksum: MTY0MDU2NzA4NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.8-20211226-0
-# TimeUpdated: 2021-12-26T01:08:33+00:00
+# Version: 1.0.8-20211227-0
+# TimeUpdated: 2021-12-27T01:04:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3196,7 +3196,6 @@ payload:
   - DOMAIN-SUFFIX,aa228.net
   - DOMAIN-SUFFIX,aa2333.com
   - DOMAIN-SUFFIX,aa316.net
-  - DOMAIN-SUFFIX,aa337.net
   - DOMAIN-SUFFIX,aa516.net
   - DOMAIN-SUFFIX,aa595.com
   - DOMAIN-SUFFIX,aa611.net
@@ -7386,7 +7385,6 @@ payload:
   - DOMAIN-SUFFIX,buckwild.ca
   - DOMAIN-SUFFIX,budaedu.org
   - DOMAIN-SUFFIX,budatt.com
-  - DOMAIN-SUFFIX,buddhajnana.org
   - DOMAIN-SUFFIX,buddhanet.com.tw
   - DOMAIN-SUFFIX,buddhanet.idv.tw
   - DOMAIN-SUFFIX,buddhism-controversy-blog.com
@@ -17953,6 +17951,7 @@ payload:
   - DOMAIN-SUFFIX,imstagram.com
   - DOMAIN-SUFFIX,imsystem.site
   - DOMAIN-SUFFIX,imtagram.com
+  - DOMAIN-SUFFIX,imtoken.fans
   - DOMAIN-SUFFIX,imxiqi.com
   - DOMAIN-SUFFIX,in-disguise.com
   - DOMAIN-SUFFIX,in-the-band.net
@@ -18919,7 +18918,6 @@ payload:
   - DOMAIN-SUFFIX,jb5988.com
   - DOMAIN-SUFFIX,jb6798.com
   - DOMAIN-SUFFIX,jb6868.com
-  - DOMAIN-SUFFIX,jb88app.com
   - DOMAIN-SUFFIX,jbb0016.com
   - DOMAIN-SUFFIX,jbb18.com
   - DOMAIN-SUFFIX,jbb512.com
@@ -30482,8 +30480,10 @@ payload:
   - DOMAIN-SUFFIX,tibetancommunity.org
   - DOMAIN-SUFFIX,tibetancommunityuk.net
   - DOMAIN-SUFFIX,tibetanculture.org
+  - DOMAIN-SUFFIX,tibetanentrepreneurs.org
   - DOMAIN-SUFFIX,tibetanfeministcollective.org
   - DOMAIN-SUFFIX,tibetangeeks.com
+  - DOMAIN-SUFFIX,tibetanhealth.org
   - DOMAIN-SUFFIX,tibetanjournal.com
   - DOMAIN-SUFFIX,tibetanlanguage.org
   - DOMAIN-SUFFIX,tibetanliberation.org
@@ -31014,6 +31014,7 @@ payload:
   - DOMAIN-SUFFIX,troisrivieresmini.com
   - DOMAIN-SUFFIX,troktiko.eu
   - DOMAIN-SUFFIX,trolltech.com
+  - DOMAIN-SUFFIX,tronscan.org
   - DOMAIN-SUFFIX,trouw.nl
   - DOMAIN-SUFFIX,trove.trionworlds.com
   - DOMAIN-SUFFIX,trovi.com
