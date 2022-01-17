@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY0MjI5NTQyNgo=
+# Checksum: MTY0MjM4MTY1OQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.8-20220116-0
-# TimeUpdated: 2022-01-16T01:10:26+00:00
+# Version: 1.0.8-20220117-0
+# TimeUpdated: 2022-01-17T01:07:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4439,6 +4439,7 @@ payload:
   - DOMAIN-SUFFIX,app.link
   - DOMAIN-SUFFIX,app.simplenote.com
   - DOMAIN-SUFFIX,app.smartmailcloud.com
+  - DOMAIN-SUFFIX,app.smartsheet.com
   - DOMAIN-SUFFIX,app.staging.nuorder.com
   - DOMAIN-SUFFIX,app.tutanota.com
   - DOMAIN-SUFFIX,app.tv333.us
@@ -14581,7 +14582,6 @@ payload:
   - DOMAIN-SUFFIX,fun712.com
   - DOMAIN-SUFFIX,fun727.com
   - DOMAIN-SUFFIX,fun737.com
-  - DOMAIN-SUFFIX,fun767.com
   - DOMAIN-SUFFIX,fun780.com
   - DOMAIN-SUFFIX,fun8011.com
   - DOMAIN-SUFFIX,fun809.com
@@ -17420,6 +17420,7 @@ payload:
   - DOMAIN-SUFFIX,hustlertube.com
   - DOMAIN-SUFFIX,hustvpn.com
   - DOMAIN-SUFFIX,hut2.ru
+  - DOMAIN-SUFFIX,hutao.cloud
   - DOMAIN-SUFFIX,hutianyi.net
   - DOMAIN-SUFFIX,hutong9.net
   - DOMAIN-SUFFIX,hutpromos.com
@@ -26135,7 +26136,6 @@ payload:
   - DOMAIN-SUFFIX,ptw8.com
   - DOMAIN-SUFFIX,ptwxz.com
   - DOMAIN-SUFFIX,ptysa.com.mx
-  - DOMAIN-SUFFIX,pu002.com
   - DOMAIN-SUFFIX,pu0020.com
   - DOMAIN-SUFFIX,pu0021.com
   - DOMAIN-SUFFIX,pu0023.com
@@ -28513,6 +28513,7 @@ payload:
   - DOMAIN-SUFFIX,smartone.com
   - DOMAIN-SUFFIX,smartoneholdings.com
   - DOMAIN-SUFFIX,smartonerobotics.com
+  - DOMAIN-SUFFIX,smartsheet.com
   - DOMAIN-SUFFIX,smartsignature.io
   - DOMAIN-SUFFIX,smartsimcha.com
   - DOMAIN-SUFFIX,smartsource.com

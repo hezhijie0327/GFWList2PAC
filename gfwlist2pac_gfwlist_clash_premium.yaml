@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY0MjI5NTQyNgo=
+# Checksum: MTY0MjM4MTY1OQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.8-20220116-0
-# TimeUpdated: 2022-01-16T01:10:26+00:00
+# Version: 1.0.8-20220117-0
+# TimeUpdated: 2022-01-17T01:07:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -4439,6 +4439,7 @@ payload:
   - '+.app.link'
   - '+.app.simplenote.com'
   - '+.app.smartmailcloud.com'
+  - '+.app.smartsheet.com'
   - '+.app.staging.nuorder.com'
   - '+.app.tutanota.com'
   - '+.app.tv333.us'
@@ -14581,7 +14582,6 @@ payload:
   - '+.fun712.com'
   - '+.fun727.com'
   - '+.fun737.com'
-  - '+.fun767.com'
   - '+.fun780.com'
   - '+.fun8011.com'
   - '+.fun809.com'
@@ -17420,6 +17420,7 @@ payload:
   - '+.hustlertube.com'
   - '+.hustvpn.com'
   - '+.hut2.ru'
+  - '+.hutao.cloud'
   - '+.hutianyi.net'
   - '+.hutong9.net'
   - '+.hutpromos.com'
@@ -26135,7 +26136,6 @@ payload:
   - '+.ptw8.com'
   - '+.ptwxz.com'
   - '+.ptysa.com.mx'
-  - '+.pu002.com'
   - '+.pu0020.com'
   - '+.pu0021.com'
   - '+.pu0023.com'
@@ -28513,6 +28513,7 @@ payload:
   - '+.smartone.com'
   - '+.smartoneholdings.com'
   - '+.smartonerobotics.com'
+  - '+.smartsheet.com'
   - '+.smartsignature.io'
   - '+.smartsimcha.com'
   - '+.smartsource.com'
