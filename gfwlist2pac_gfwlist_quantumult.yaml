@@ -1,7 +1,7 @@
-# Checksum: MTY0Mjg5OTc2Ngo=
+# Checksum: MTY0Mjk4NjIxMwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.0.8-20220123-0
-# TimeUpdated: 2022-01-23T01:02:46+00:00
+# Version: 1.0.8-20220124-0
+# TimeUpdated: 2022-01-24T01:03:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -1478,7 +1478,6 @@ DOMAIN-SUFFIX,3xplanet.com,PROXY
 DOMAIN-SUFFIX,4.shop.tm,PROXY
 DOMAIN-SUFFIX,40030d.com,PROXY
 DOMAIN-SUFFIX,40066hg.com,PROXY
-DOMAIN-SUFFIX,4008851718.com,PROXY
 DOMAIN-SUFFIX,400ks.com,PROXY
 DOMAIN-SUFFIX,4022011.com,PROXY
 DOMAIN-SUFFIX,40220c.com,PROXY
@@ -3655,6 +3654,8 @@ DOMAIN-SUFFIX,aircrack-ng.org,PROXY
 DOMAIN-SUFFIX,airfrance.com.tw,PROXY
 DOMAIN-SUFFIX,airfrance.fr,PROXY
 DOMAIN-SUFFIX,airgonetworks.com,PROXY
+DOMAIN-SUFFIX,airhorn.solutions,PROXY
+DOMAIN-SUFFIX,airhornbot.com,PROXY
 DOMAIN-SUFFIX,airiti.com,PROXY
 DOMAIN-SUFFIX,airitilibrary.com,PROXY
 DOMAIN-SUFFIX,airliners.net,PROXY
@@ -11083,15 +11084,26 @@ DOMAIN-SUFFIX,dirtyrhino.com,PROXY
 DOMAIN-SUFFIX,discfan.net,PROXY
 DOMAIN-SUFFIX,discoins.com,PROXY
 DOMAIN-SUFFIX,disconnect.me,PROXY
+DOMAIN-SUFFIX,discord-activities.com,PROXY
 DOMAIN-SUFFIX,discord.co,PROXY
 DOMAIN-SUFFIX,discord.com,PROXY
+DOMAIN-SUFFIX,discord.design,PROXY
+DOMAIN-SUFFIX,discord.dev,PROXY
 DOMAIN-SUFFIX,discord.gg,PROXY
 DOMAIN-SUFFIX,discord.gift,PROXY
 DOMAIN-SUFFIX,discord.gifts,PROXY
 DOMAIN-SUFFIX,discord.media,PROXY
 DOMAIN-SUFFIX,discord.new,PROXY
+DOMAIN-SUFFIX,discord.store,PROXY
+DOMAIN-SUFFIX,discord.tools,PROXY
+DOMAIN-SUFFIX,discordactivities.com,PROXY
 DOMAIN-SUFFIX,discordapp.com,PROXY
+DOMAIN-SUFFIX,discordapp.io,PROXY
 DOMAIN-SUFFIX,discordapp.net,PROXY
+DOMAIN-SUFFIX,discordcdn.com,PROXY
+DOMAIN-SUFFIX,discordmerch.com,PROXY
+DOMAIN-SUFFIX,discordpartygames.com,PROXY
+DOMAIN-SUFFIX,discordsays.com,PROXY
 DOMAIN-SUFFIX,discordstatus.com,PROXY
 DOMAIN-SUFFIX,discountbeatsbydre-us.com,PROXY
 DOMAIN-SUFFIX,discountbeatsstore.com,PROXY
@@ -19833,7 +19845,6 @@ DOMAIN-SUFFIX,kshownow.net,PROXY
 DOMAIN-SUFFIX,ksks.4irc.com,PROXY
 DOMAIN-SUFFIX,kslive.tv,PROXY
 DOMAIN-SUFFIX,ksmeow.moe,PROXY
-DOMAIN-SUFFIX,ksmxpj.com,PROXY
 DOMAIN-SUFFIX,ksnews.com.tw,PROXY
 DOMAIN-SUFFIX,ksnotes2.eternal-group.com,PROXY
 DOMAIN-SUFFIX,kspcoin.com,PROXY
@@ -20470,6 +20481,7 @@ DOMAIN-SUFFIX,lin.ee,PROXY
 DOMAIN-SUFFIX,lincolnisland.com,PROXY
 DOMAIN-SUFFIX,lindadevries.com,PROXY
 DOMAIN-SUFFIX,line-apps-beta.com,PROXY
+DOMAIN-SUFFIX,line-apps-rc.com,PROXY
 DOMAIN-SUFFIX,line-apps.com,PROXY
 DOMAIN-SUFFIX,line-beta.me,PROXY
 DOMAIN-SUFFIX,line-cdn.net,PROXY
@@ -20484,7 +20496,9 @@ DOMAIN-SUFFIX,linecorp.com,PROXY
 DOMAIN-SUFFIX,linefriends.com,PROXY
 DOMAIN-SUFFIX,lineinchina.com,PROXY
 DOMAIN-SUFFIX,linemobile.com,PROXY
+DOMAIN-SUFFIX,linemyshop.com,PROXY
 DOMAIN-SUFFIX,linepost.hk,PROXY
+DOMAIN-SUFFIX,lineshoppingseller.com,PROXY
 DOMAIN-SUFFIX,linglingfa.com,PROXY
 DOMAIN-SUFFIX,lingobite.com,PROXY
 DOMAIN-SUFFIX,lingq.com,PROXY
@@ -31616,6 +31630,8 @@ DOMAIN-SUFFIX,ubint.net,PROXY
 DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,ubisoft.com,PROXY
+DOMAIN-SUFFIX,ubisoftconnect.com,PROXY
+DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net,PROXY
 DOMAIN-SUFFIX,ubktv.com,PROXY
 DOMAIN-SUFFIX,ubl.com,PROXY
 DOMAIN-SUFFIX,ublock.org,PROXY
