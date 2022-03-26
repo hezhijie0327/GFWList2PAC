@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY0ODE3MTM0MQo=
+# Checksum: MTY0ODI1NzY0MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.8-20220325-0
-# TimeUpdated: 2022-03-25T01:22:21+00:00
+# Version: 1.0.8-20220326-0
+# TimeUpdated: 2022-03-26T01:20:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2225,7 +2225,6 @@ payload:
   - DOMAIN-SUFFIX,70066hg.com
   - DOMAIN-SUFFIX,7009.cc
   - DOMAIN-SUFFIX,701136.com
-  - DOMAIN-SUFFIX,7016281.com
   - DOMAIN-SUFFIX,7024411.com
   - DOMAIN-SUFFIX,7024646.com
   - DOMAIN-SUFFIX,702632.cc
@@ -2264,7 +2263,6 @@ payload:
   - DOMAIN-SUFFIX,72.iseoz.com
   - DOMAIN-SUFFIX,721av.com
   - DOMAIN-SUFFIX,7230874.com
-  - DOMAIN-SUFFIX,7235671.com
   - DOMAIN-SUFFIX,72365.com
   - DOMAIN-SUFFIX,7236535.com
   - DOMAIN-SUFFIX,7249k.com
@@ -10810,6 +10808,8 @@ payload:
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,depoon.com
   - DOMAIN-SUFFIX,depositphotos.com
+  - DOMAIN-SUFFIX,deps.dev
+  - DOMAIN-SUFFIX,deps.info
   - DOMAIN-SUFFIX,deptofhealth.xyz
   - DOMAIN-SUFFIX,deqmgur9wakvx.cloudfront.net
   - DOMAIN-SUFFIX,derbytournaments.com
@@ -14560,6 +14560,7 @@ payload:
   - DOMAIN-SUFFIX,fun307.com
   - DOMAIN-SUFFIX,fun308.com
   - DOMAIN-SUFFIX,fun327.com
+  - DOMAIN-SUFFIX,fun371.com
   - DOMAIN-SUFFIX,fun392.com
   - DOMAIN-SUFFIX,fun505.com
   - DOMAIN-SUFFIX,fun530.com
@@ -24371,6 +24372,8 @@ payload:
   - DOMAIN-SUFFIX,openproxy.co.uk
   - DOMAIN-SUFFIX,openshift.redhat.com
   - DOMAIN-SUFFIX,opensource.google
+  - DOMAIN-SUFFIX,opensourceinsight.dev
+  - DOMAIN-SUFFIX,opensourceinsights.dev
   - DOMAIN-SUFFIX,openssl.org
   - DOMAIN-SUFFIX,openstreetmap.com
   - DOMAIN-SUFFIX,openstreetmap.net
