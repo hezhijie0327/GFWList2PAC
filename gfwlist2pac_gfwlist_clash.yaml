@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY0OTgxNDIzNgo=
+# Checksum: MTY0OTkwMDc2NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.8-20220413-0
-# TimeUpdated: 2022-04-13T01:43:56+00:00
+# Version: 1.0.8-20220414-0
+# TimeUpdated: 2022-04-14T01:46:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2972,7 +2972,6 @@ payload:
   - DOMAIN-SUFFIX,99135.com
   - DOMAIN-SUFFIX,9918811.com
   - DOMAIN-SUFFIX,9938153.com
-  - DOMAIN-SUFFIX,9949469.com
   - DOMAIN-SUFFIX,9960.com
   - DOMAIN-SUFFIX,9960cp1.com
   - DOMAIN-SUFFIX,9960xl.com
@@ -6390,6 +6389,7 @@ payload:
   - DOMAIN-SUFFIX,biz.tm
   - DOMAIN-SUFFIX,bizhat.com
   - DOMAIN-SUFFIX,bizimama.com
+  - DOMAIN-SUFFIX,bizographics.com
   - DOMAIN-SUFFIX,bizppurio.com
   - DOMAIN-SUFFIX,biztech.ro
   - DOMAIN-SUFFIX,bizzapp.com
@@ -10633,6 +10633,7 @@ payload:
   - DOMAIN-SUFFIX,dbo15s62lcu1q.cloudfront.net
   - DOMAIN-SUFFIX,dbr.ee
   - DOMAIN-SUFFIX,dbw9999.com
+  - DOMAIN-SUFFIX,dc-msedge.net
   - DOMAIN-SUFFIX,dc0031.com
   - DOMAIN-SUFFIX,dc0062.com
   - DOMAIN-SUFFIX,dc0063.com
@@ -11948,6 +11949,7 @@ payload:
   - DOMAIN-SUFFIX,e.spee.pro
   - DOMAIN-SUFFIX,e.t28.net
   - DOMAIN-SUFFIX,e.tv100.us
+  - DOMAIN-SUFFIX,e122475.dscg.akamaiedge.net
   - DOMAIN-SUFFIX,e123.hk
   - DOMAIN-SUFFIX,e127f.azurewebsites.net
   - DOMAIN-SUFFIX,e19.entrychat.com
@@ -15926,6 +15928,7 @@ payload:
   - DOMAIN-SUFFIX,gputechconf.com
   - DOMAIN-SUFFIX,gqfx.com
   - DOMAIN-SUFFIX,gqueues.com
+  - DOMAIN-SUFFIX,gr-assets.com
   - DOMAIN-SUFFIX,gr.jp
   - DOMAIN-SUFFIX,gr8domain.biz
   - DOMAIN-SUFFIX,gr8name.biz
@@ -19979,6 +19982,9 @@ payload:
   - DOMAIN-SUFFIX,kznbadminton.co.za
   - DOMAIN-SUFFIX,kzqzb.com
   - DOMAIN-SUFFIX,kzsxy.org
+  - DOMAIN-SUFFIX,l-0005.dc-msedge.net
+  - DOMAIN-SUFFIX,l-0005.l-msedge.net
+  - DOMAIN-SUFFIX,l-msedge.net
   - DOMAIN-SUFFIX,la-conjugaison.fr
   - DOMAIN-SUFFIX,la-forum.org
   - DOMAIN-SUFFIX,la4065.com
@@ -20460,6 +20466,7 @@ payload:
   - DOMAIN-SUFFIX,libreswan.org
   - DOMAIN-SUFFIX,librox.co.za
   - DOMAIN-SUFFIX,libsyn.com
+  - DOMAIN-SUFFIX,licdn.cn.cdn20.com
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,license.uat.widevine.com
   - DOMAIN-SUFFIX,licensebuttons.net
@@ -20557,6 +20564,7 @@ payload:
   - DOMAIN-SUFFIX,link2know.co
   - DOMAIN-SUFFIX,linkbucks.com
   - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,linkedin.sc.omtrdc.net
   - DOMAIN-SUFFIX,linkideo.com
   - DOMAIN-SUFFIX,linkmetube.com
   - DOMAIN-SUFFIX,links.nutaku.net
@@ -27651,6 +27659,7 @@ payload:
   - DOMAIN-SUFFIX,scasino.com
   - DOMAIN-SUFFIX,sccycles.cl
   - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,scene7.com
   - DOMAIN-SUFFIX,scenesource.me
   - DOMAIN-SUFFIX,sceper.ws
   - DOMAIN-SUFFIX,scgpbl.cn
