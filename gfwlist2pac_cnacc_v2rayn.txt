@@ -1,7 +1,7 @@
-# Checksum: MTY1OTMxOTkwNQo=
+# Checksum: MTY1OTQwNjc3Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.9-20220801-0
-# TimeUpdated: 2022-08-01T02:11:45+00:00
+# Version: 1.0.9-20220802-0
+# TimeUpdated: 2022-08-02T02:19:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-100.com,
@@ -20642,6 +20642,8 @@ domain:cernet.net,
 domain:cernet2.net,
 domain:cersp.com,
 domain:certify.alipay.com,
+domain:certs-lb.apple.com.akadns.net,
+domain:certs.apple.com,
 domain:ces-transaction.com,
 domain:cescnb.com,
 domain:ceseasons.com,
@@ -25325,10 +25327,12 @@ domain:crifst.com,
 domain:crimoon.net,
 domain:crispstata.com,
 domain:crjfw.com,
+domain:crl-lb.apple.com.akadns.net,
 domain:crl.apple.com,
 domain:crl.globalsign.net,
 domain:crl.kaspersky.com,
 domain:crl.pki.goog,
+domain:crl2.alphassl.com,
 domain:crlcn.com,
 domain:crlf0710.com,
 domain:crlg.com,
@@ -73346,6 +73350,7 @@ domain:secun.com,
 domain:secure.dsp.com,
 domain:secure.globalsign.com,
 domain:secure.mediav.com,
+domain:secure2.alphassl.com,
 domain:securelogin.com.cn,
 domain:securemetrics.apple.com.cn,
 domain:securepubads.g.doubleclick.net,

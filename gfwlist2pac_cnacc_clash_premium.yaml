@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY1OTMxOTkwNQo=
+# Checksum: MTY1OTQwNjc3Mgo=
 # Title: Zhijie's CNACCList for Clash Premium
-# Version: 1.0.9-20220801-0
-# TimeUpdated: 2022-08-01T02:11:45+00:00
+# Version: 1.0.9-20220802-0
+# TimeUpdated: 2022-08-02T02:19:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.0-100.com'
@@ -20643,6 +20643,8 @@ payload:
   - '+.cernet2.net'
   - '+.cersp.com'
   - '+.certify.alipay.com'
+  - '+.certs-lb.apple.com.akadns.net'
+  - '+.certs.apple.com'
   - '+.ces-transaction.com'
   - '+.cescnb.com'
   - '+.ceseasons.com'
@@ -25326,10 +25328,12 @@ payload:
   - '+.crimoon.net'
   - '+.crispstata.com'
   - '+.crjfw.com'
+  - '+.crl-lb.apple.com.akadns.net'
   - '+.crl.apple.com'
   - '+.crl.globalsign.net'
   - '+.crl.kaspersky.com'
   - '+.crl.pki.goog'
+  - '+.crl2.alphassl.com'
   - '+.crlcn.com'
   - '+.crlf0710.com'
   - '+.crlg.com'
@@ -73347,6 +73351,7 @@ payload:
   - '+.secure.dsp.com'
   - '+.secure.globalsign.com'
   - '+.secure.mediav.com'
+  - '+.secure2.alphassl.com'
   - '+.securelogin.com.cn'
   - '+.securemetrics.apple.com.cn'
   - '+.securepubads.g.doubleclick.net'

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY1OTMxOTkwNQo=
+# Checksum: MTY1OTQwNjc3Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20220801-0
-# TimeUpdated: 2022-08-01T02:11:45+00:00
+# Version: 1.0.9-20220802-0
+# TimeUpdated: 2022-08-02T02:19:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-100.com
@@ -20643,6 +20643,8 @@ payload:
   - DOMAIN-SUFFIX,cernet2.net
   - DOMAIN-SUFFIX,cersp.com
   - DOMAIN-SUFFIX,certify.alipay.com
+  - DOMAIN-SUFFIX,certs-lb.apple.com.akadns.net
+  - DOMAIN-SUFFIX,certs.apple.com
   - DOMAIN-SUFFIX,ces-transaction.com
   - DOMAIN-SUFFIX,cescnb.com
   - DOMAIN-SUFFIX,ceseasons.com
@@ -25326,10 +25328,12 @@ payload:
   - DOMAIN-SUFFIX,crimoon.net
   - DOMAIN-SUFFIX,crispstata.com
   - DOMAIN-SUFFIX,crjfw.com
+  - DOMAIN-SUFFIX,crl-lb.apple.com.akadns.net
   - DOMAIN-SUFFIX,crl.apple.com
   - DOMAIN-SUFFIX,crl.globalsign.net
   - DOMAIN-SUFFIX,crl.kaspersky.com
   - DOMAIN-SUFFIX,crl.pki.goog
+  - DOMAIN-SUFFIX,crl2.alphassl.com
   - DOMAIN-SUFFIX,crlcn.com
   - DOMAIN-SUFFIX,crlf0710.com
   - DOMAIN-SUFFIX,crlg.com
@@ -73347,6 +73351,7 @@ payload:
   - DOMAIN-SUFFIX,secure.dsp.com
   - DOMAIN-SUFFIX,secure.globalsign.com
   - DOMAIN-SUFFIX,secure.mediav.com
+  - DOMAIN-SUFFIX,secure2.alphassl.com
   - DOMAIN-SUFFIX,securelogin.com.cn
   - DOMAIN-SUFFIX,securemetrics.apple.com.cn
   - DOMAIN-SUFFIX,securepubads.g.doubleclick.net
