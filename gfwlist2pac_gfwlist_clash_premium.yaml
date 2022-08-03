@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY1OTQwNjc5MQo=
+# Checksum: MTY1OTQ5MjA3NQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20220802-0
-# TimeUpdated: 2022-08-02T02:19:51+00:00
+# Version: 1.0.9-20220803-0
+# TimeUpdated: 2022-08-03T02:01:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -10038,6 +10038,7 @@ payload:
   - '+.crisisresponse.google'
   - '+.cristyli.com'
   - '+.crit-staging.com'
+  - '+.crl.microsoft.com'
   - '+.crmdynint-gcc.com'
   - '+.crmdynint.com'
   - '+.crocoguide.com'
@@ -12731,7 +12732,6 @@ payload:
   - '+.ec-media.sndcdn.com'
   - '+.ec.7788.hk'
   - '+.ec21.com'
-  - '+.eca.hinet.net'
   - '+.ecademy.com'
   - '+.ecaipe.com.ar'
   - '+.ecapi-pchome.cdn.hinet.net'
@@ -16838,7 +16838,6 @@ payload:
   - '+.gtinfo.com.ar'
   - '+.gtloli.com'
   - '+.gtloli.net'
-  - '+.gtlsca.nat.gov.tw'
   - '+.gtricks.com'
   - '+.gts-vpn.com'
   - '+.gtv.org'
@@ -23822,6 +23821,7 @@ payload:
   - '+.msauth.net'
   - '+.msb.strikewin.com'
   - '+.mschallenge2018.com'
+  - '+.mscrl.microsoft.com'
   - '+.msdn.com'
   - '+.msecnd.net'
   - '+.msedge.net'
@@ -25501,9 +25501,8 @@ payload:
   - '+.ocry.com'
   - '+.ocsolutions.servehttp.com'
   - '+.ocsp-certum.com'
-  - '+.ocsp.eca.hinet.net'
-  - '+.ocsp.gtlsca.nat.gov.tw'
   - '+.ocsp.int-x3.letsencrypt.org'
+  - '+.ocsp.microsoft.com'
   - '+.octanevpn.com'
   - '+.octave-online.net'
   - '+.october-review.org'
@@ -25708,6 +25707,7 @@ payload:
   - '+.onejav.com'
   - '+.onenote.com'
   - '+.onenote.net'
+  - '+.oneocsp.microsoft.com'
   - '+.oneplusnews.com'
   - '+.onepointcommerce.com'
   - '+.onesto.re'

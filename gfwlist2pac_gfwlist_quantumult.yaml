@@ -1,7 +1,7 @@
-# Checksum: MTY1OTQwNjc5MQo=
+# Checksum: MTY1OTQ5MjA3NQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.0.9-20220802-0
-# TimeUpdated: 2022-08-02T02:19:51+00:00
+# Version: 1.0.9-20220803-0
+# TimeUpdated: 2022-08-03T02:01:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -10037,6 +10037,7 @@ DOMAIN-SUFFIX,crikey.com.au,PROXY
 DOMAIN-SUFFIX,crisisresponse.google,PROXY
 DOMAIN-SUFFIX,cristyli.com,PROXY
 DOMAIN-SUFFIX,crit-staging.com,PROXY
+DOMAIN-SUFFIX,crl.microsoft.com,PROXY
 DOMAIN-SUFFIX,crmdynint-gcc.com,PROXY
 DOMAIN-SUFFIX,crmdynint.com,PROXY
 DOMAIN-SUFFIX,crocoguide.com,PROXY
@@ -12730,7 +12731,6 @@ DOMAIN-SUFFIX,ebuyheadphones.com,PROXY
 DOMAIN-SUFFIX,ec-media.sndcdn.com,PROXY
 DOMAIN-SUFFIX,ec.7788.hk,PROXY
 DOMAIN-SUFFIX,ec21.com,PROXY
-DOMAIN-SUFFIX,eca.hinet.net,PROXY
 DOMAIN-SUFFIX,ecademy.com,PROXY
 DOMAIN-SUFFIX,ecaipe.com.ar,PROXY
 DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net,PROXY
@@ -16837,7 +16837,6 @@ DOMAIN-SUFFIX,gtdollar.com,PROXY
 DOMAIN-SUFFIX,gtinfo.com.ar,PROXY
 DOMAIN-SUFFIX,gtloli.com,PROXY
 DOMAIN-SUFFIX,gtloli.net,PROXY
-DOMAIN-SUFFIX,gtlsca.nat.gov.tw,PROXY
 DOMAIN-SUFFIX,gtricks.com,PROXY
 DOMAIN-SUFFIX,gts-vpn.com,PROXY
 DOMAIN-SUFFIX,gtv.org,PROXY
@@ -23821,6 +23820,7 @@ DOMAIN-SUFFIX,msads.net,PROXY
 DOMAIN-SUFFIX,msauth.net,PROXY
 DOMAIN-SUFFIX,msb.strikewin.com,PROXY
 DOMAIN-SUFFIX,mschallenge2018.com,PROXY
+DOMAIN-SUFFIX,mscrl.microsoft.com,PROXY
 DOMAIN-SUFFIX,msdn.com,PROXY
 DOMAIN-SUFFIX,msecnd.net,PROXY
 DOMAIN-SUFFIX,msedge.net,PROXY
@@ -25500,9 +25500,8 @@ DOMAIN-SUFFIX,ocregister.com,PROXY
 DOMAIN-SUFFIX,ocry.com,PROXY
 DOMAIN-SUFFIX,ocsolutions.servehttp.com,PROXY
 DOMAIN-SUFFIX,ocsp-certum.com,PROXY
-DOMAIN-SUFFIX,ocsp.eca.hinet.net,PROXY
-DOMAIN-SUFFIX,ocsp.gtlsca.nat.gov.tw,PROXY
 DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org,PROXY
+DOMAIN-SUFFIX,ocsp.microsoft.com,PROXY
 DOMAIN-SUFFIX,octanevpn.com,PROXY
 DOMAIN-SUFFIX,octave-online.net,PROXY
 DOMAIN-SUFFIX,october-review.org,PROXY
@@ -25707,6 +25706,7 @@ DOMAIN-SUFFIX,oneintranet.veolia.com,PROXY
 DOMAIN-SUFFIX,onejav.com,PROXY
 DOMAIN-SUFFIX,onenote.com,PROXY
 DOMAIN-SUFFIX,onenote.net,PROXY
+DOMAIN-SUFFIX,oneocsp.microsoft.com,PROXY
 DOMAIN-SUFFIX,oneplusnews.com,PROXY
 DOMAIN-SUFFIX,onepointcommerce.com,PROXY
 DOMAIN-SUFFIX,onesto.re,PROXY

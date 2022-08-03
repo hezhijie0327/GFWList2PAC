@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY1OTQwNjc5MQo=
+# Checksum: MTY1OTQ5MjA3NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20220802-0
-# TimeUpdated: 2022-08-02T02:19:51+00:00
+# Version: 1.0.9-20220803-0
+# TimeUpdated: 2022-08-03T02:01:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -10038,6 +10038,7 @@ payload:
   - DOMAIN-SUFFIX,crisisresponse.google
   - DOMAIN-SUFFIX,cristyli.com
   - DOMAIN-SUFFIX,crit-staging.com
+  - DOMAIN-SUFFIX,crl.microsoft.com
   - DOMAIN-SUFFIX,crmdynint-gcc.com
   - DOMAIN-SUFFIX,crmdynint.com
   - DOMAIN-SUFFIX,crocoguide.com
@@ -12731,7 +12732,6 @@ payload:
   - DOMAIN-SUFFIX,ec-media.sndcdn.com
   - DOMAIN-SUFFIX,ec.7788.hk
   - DOMAIN-SUFFIX,ec21.com
-  - DOMAIN-SUFFIX,eca.hinet.net
   - DOMAIN-SUFFIX,ecademy.com
   - DOMAIN-SUFFIX,ecaipe.com.ar
   - DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net
@@ -16838,7 +16838,6 @@ payload:
   - DOMAIN-SUFFIX,gtinfo.com.ar
   - DOMAIN-SUFFIX,gtloli.com
   - DOMAIN-SUFFIX,gtloli.net
-  - DOMAIN-SUFFIX,gtlsca.nat.gov.tw
   - DOMAIN-SUFFIX,gtricks.com
   - DOMAIN-SUFFIX,gts-vpn.com
   - DOMAIN-SUFFIX,gtv.org
@@ -23822,6 +23821,7 @@ payload:
   - DOMAIN-SUFFIX,msauth.net
   - DOMAIN-SUFFIX,msb.strikewin.com
   - DOMAIN-SUFFIX,mschallenge2018.com
+  - DOMAIN-SUFFIX,mscrl.microsoft.com
   - DOMAIN-SUFFIX,msdn.com
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,msedge.net
@@ -25501,9 +25501,8 @@ payload:
   - DOMAIN-SUFFIX,ocry.com
   - DOMAIN-SUFFIX,ocsolutions.servehttp.com
   - DOMAIN-SUFFIX,ocsp-certum.com
-  - DOMAIN-SUFFIX,ocsp.eca.hinet.net
-  - DOMAIN-SUFFIX,ocsp.gtlsca.nat.gov.tw
   - DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org
+  - DOMAIN-SUFFIX,ocsp.microsoft.com
   - DOMAIN-SUFFIX,octanevpn.com
   - DOMAIN-SUFFIX,octave-online.net
   - DOMAIN-SUFFIX,october-review.org
@@ -25708,6 +25707,7 @@ payload:
   - DOMAIN-SUFFIX,onejav.com
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,onenote.net
+  - DOMAIN-SUFFIX,oneocsp.microsoft.com
   - DOMAIN-SUFFIX,oneplusnews.com
   - DOMAIN-SUFFIX,onepointcommerce.com
   - DOMAIN-SUFFIX,onesto.re
