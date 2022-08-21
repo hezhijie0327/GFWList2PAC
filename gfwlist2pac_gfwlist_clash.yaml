@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2MDk2MTE5Nwo=
+# Checksum: MTY2MTA0NzE5Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20220820-0
-# TimeUpdated: 2022-08-20T02:06:37+00:00
+# Version: 1.0.9-20220821-0
+# TimeUpdated: 2022-08-21T01:59:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -6599,6 +6599,9 @@ payload:
   - DOMAIN-SUFFIX,biguz.net
   - DOMAIN-SUFFIX,biitii.com
   - DOMAIN-SUFFIX,bijakids.com
+  - DOMAIN-SUFFIX,bikaa.xyz
+  - DOMAIN-SUFFIX,bikac.xyz
+  - DOMAIN-SUFFIX,bikaios.xyz
   - DOMAIN-SUFFIX,bikeinn.com
   - DOMAIN-SUFFIX,bild.de
   - DOMAIN-SUFFIX,bilet.intercity.pl
@@ -27159,7 +27162,10 @@ payload:
   - DOMAIN-SUFFIX,piaproxy.net
   - DOMAIN-SUFFIX,piavpn.com
   - DOMAIN-SUFFIX,picaacg.com
+  - DOMAIN-SUFFIX,picacg2022.com
+  - DOMAIN-SUFFIX,picacn.xyz
   - DOMAIN-SUFFIX,picacomic.com
+  - DOMAIN-SUFFIX,picacomic.xyz
   - DOMAIN-SUFFIX,picacomiccn.com
   - DOMAIN-SUFFIX,picasa.com
   - DOMAIN-SUFFIX,picasa.google.com.ec
@@ -36266,6 +36272,7 @@ payload:
   - DOMAIN-SUFFIX,wiiugamepad.com
   - DOMAIN-SUFFIX,wiivc.net
   - DOMAIN-SUFFIX,wikaba.com
+  - DOMAIN-SUFFIX,wikawika.xyz
   - DOMAIN-SUFFIX,wiki.cnitter.com
   - DOMAIN-SUFFIX,wiki.esu.im
   - DOMAIN-SUFFIX,wiki.gamerp.jp
