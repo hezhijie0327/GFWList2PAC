@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2MTIyMDc4NQo=
+# Checksum: MTY2MTMwNjkyNAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20220823-0
-# TimeUpdated: 2022-08-23T02:13:05+00:00
+# Version: 1.0.9-20220824-0
+# TimeUpdated: 2022-08-24T02:08:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3671,6 +3671,7 @@ payload:
   - DOMAIN-SUFFIX,aevpn.com
   - DOMAIN-SUFFIX,aeweb.xyz
   - DOMAIN-SUFFIX,aex88.com
+  - DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,af.mil
   - DOMAIN-SUFFIX,afantibbs.com
   - DOMAIN-SUFFIX,afcp01.com
@@ -4540,6 +4541,9 @@ payload:
   - DOMAIN-SUFFIX,aosintegrity.com
   - DOMAIN-SUFFIX,aouwe.com
   - DOMAIN-SUFFIX,ap-northeast-1.console.aws.amazon.com
+  - DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com
+  - DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com
+  - DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com
   - DOMAIN-SUFFIX,ap.org
   - DOMAIN-SUFFIX,ap0le.com
   - DOMAIN-SUFFIX,ap2.googleusercontent.com
@@ -13512,6 +13516,7 @@ payload:
   - DOMAIN-SUFFIX,etwealth.com
   - DOMAIN-SUFFIX,eu-consumer-empowerment.com
   - DOMAIN-SUFFIX,eu-ssa.org
+  - DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com
   - DOMAIN-SUFFIX,eu-west-1.console.aws.amazon.com
   - DOMAIN-SUFFIX,eu.org
   - DOMAIN-SUFFIX,eu49.com
@@ -16021,6 +16026,7 @@ payload:
   - DOMAIN-SUFFIX,gekikame.com
   - DOMAIN-SUFFIX,gelbooru.com
   - DOMAIN-SUFFIX,gelbooru.me
+  - DOMAIN-SUFFIX,gelbooru.wjcodes.com
   - DOMAIN-SUFFIX,gemfire.net
   - DOMAIN-SUFFIX,gemfury.com
   - DOMAIN-SUFFIX,gen.lib.rus.ec
@@ -17647,7 +17653,9 @@ payload:
   - DOMAIN-SUFFIX,hentai247.net
   - DOMAIN-SUFFIX,hentai2read.com
   - DOMAIN-SUFFIX,hentai2w.com
+  - DOMAIN-SUFFIX,hentai44.com
   - DOMAIN-SUFFIX,hentai4manga.com
+  - DOMAIN-SUFFIX,hentai69.online
   - DOMAIN-SUFFIX,hentaiaction.net
   - DOMAIN-SUFFIX,hentaiathome.net
   - DOMAIN-SUFFIX,hentaibar.com
@@ -21231,6 +21239,7 @@ payload:
   - DOMAIN-SUFFIX,kompozer.net
   - DOMAIN-SUFFIX,konachan.com
   - DOMAIN-SUFFIX,konachan.net
+  - DOMAIN-SUFFIX,konachan.wjcodes.com
   - DOMAIN-SUFFIX,kone.com
   - DOMAIN-SUFFIX,koogay.com
   - DOMAIN-SUFFIX,koolsolutions.com
@@ -21404,6 +21413,8 @@ payload:
   - DOMAIN-SUFFIX,l-msedge.net
   - DOMAIN-SUFFIX,la-conjugaison.fr
   - DOMAIN-SUFFIX,la-forum.org
+  - DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com
+  - DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com
   - DOMAIN-SUFFIX,la4065.com
   - DOMAIN-SUFFIX,lab.gracecode.com
   - DOMAIN-SUFFIX,lab.skk.moe
@@ -24672,6 +24683,7 @@ payload:
   - DOMAIN-SUFFIX,n9887.com
   - DOMAIN-SUFFIX,n9919.com
   - DOMAIN-SUFFIX,na-att-idns.net
+  - DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,na.ddns.name
   - DOMAIN-SUFFIX,na.kalone.net
   - DOMAIN-SUFFIX,na.tl
@@ -25657,6 +25669,7 @@ payload:
   - DOMAIN-SUFFIX,nsdl.co.in
   - DOMAIN-SUFFIX,nsfw.xxx
   - DOMAIN-SUFFIX,nsfwgifs.com
+  - DOMAIN-SUFFIX,nsfwmemes.com
   - DOMAIN-SUFFIX,nsimg.net
   - DOMAIN-SUFFIX,nsl-node.ml
   - DOMAIN-SUFFIX,nsnai.com
@@ -26384,6 +26397,7 @@ payload:
   - DOMAIN-SUFFIX,orz.pp.ru
   - DOMAIN-SUFFIX,orzdream.com
   - DOMAIN-SUFFIX,orzistic.org
+  - DOMAIN-SUFFIX,orzqwq.com
   - DOMAIN-SUFFIX,osakihsieh.tw
   - DOMAIN-SUFFIX,osapublishing.org
   - DOMAIN-SUFFIX,oscaro.com
@@ -29379,6 +29393,7 @@ payload:
   - DOMAIN-SUFFIX,rts.ch
   - DOMAIN-SUFFIX,rtsinfo.ch
   - DOMAIN-SUFFIX,rtycminnesota.org
+  - DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com
   - DOMAIN-SUFFIX,ruanf.com
   - DOMAIN-SUFFIX,ruanyifeng.com
   - DOMAIN-SUFFIX,rubias19.com
@@ -29537,6 +29552,7 @@ payload:
   - DOMAIN-SUFFIX,s8forum.com
   - DOMAIN-SUFFIX,s99bet.com
   - DOMAIN-SUFFIX,s99bet.net
+  - DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,sa.com
   - DOMAIN-SUFFIX,sa.hao123.com
   - DOMAIN-SUFFIX,sa36.net
@@ -30095,6 +30111,7 @@ payload:
   - DOMAIN-SUFFIX,sendvid.com
   - DOMAIN-SUFFIX,seneporno.com
   - DOMAIN-SUFFIX,seniorexpress.org
+  - DOMAIN-SUFFIX,senpaiheat.com
   - DOMAIN-SUFFIX,sensolnet.com
   - DOMAIN-SUFFIX,sensortower.com
   - DOMAIN-SUFFIX,sensorynetworks.com
@@ -35131,6 +35148,7 @@ payload:
   - DOMAIN-SUFFIX,vipstudiocali.com
   - DOMAIN-SUFFIX,viptlc6088.com
   - DOMAIN-SUFFIX,vipvpn.hu
+  - DOMAIN-SUFFIX,viralcum.com
   - DOMAIN-SUFFIX,viralporn.com
   - DOMAIN-SUFFIX,virbuzz.com
   - DOMAIN-SUFFIX,virginia.edu
@@ -36504,6 +36522,7 @@ payload:
   - DOMAIN-SUFFIX,wizproxy.com
   - DOMAIN-SUFFIX,wjbk.org
   - DOMAIN-SUFFIX,wjbookny.com
+  - DOMAIN-SUFFIX,wjcodes.com
   - DOMAIN-SUFFIX,wjlife.com
   - DOMAIN-SUFFIX,wjsnr.com
   - DOMAIN-SUFFIX,wjy002.jigsy.com
