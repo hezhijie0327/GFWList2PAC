@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2MTY1MzU3Ngo=
+# Checksum: MTY2MTczOTc3MAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20220828-0
-# TimeUpdated: 2022-08-28T02:26:16+00:00
+# Version: 1.0.9-20220829-0
+# TimeUpdated: 2022-08-29T02:22:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -31669,6 +31669,7 @@ payload:
   - '+.steamgames.com'
   - '+.steamoe.com'
   - '+.steampowered.com'
+  - '+.steamserver.net'
   - '+.steamstatic.com'
   - '+.steamstore-a.akamaihd.net'
   - '+.steamunlocked.net'
