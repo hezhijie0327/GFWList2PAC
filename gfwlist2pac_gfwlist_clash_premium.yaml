@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2MTkxMzIwMgo=
+# Checksum: MTY2MTk5ODE3Mgo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20220831-0
-# TimeUpdated: 2022-08-31T02:33:22+00:00
+# Version: 1.0.9-20220901-0
+# TimeUpdated: 2022-09-01T02:09:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -19287,7 +19287,6 @@ payload:
   - '+.in.com'
   - '+.in.flnet.org'
   - '+.in.gr'
-  - '+.in.th'
   - '+.in01.icu'
   - '+.in04.icu'
   - '+.in05.icu'
@@ -20598,8 +20597,12 @@ payload:
   - '+.jm607.com'
   - '+.jma.go.jp'
   - '+.jmara.net'
+  - '+.jmcomic.me'
   - '+.jmcomic.mobi'
+  - '+.jmcomic.moe'
   - '+.jmcomic.xyz'
+  - '+.jmcomic1.city'
+  - '+.jmcomic1.me'
   - '+.jmcomic1.mobi'
   - '+.jmlr.org'
   - '+.jmscult.com'
