@@ -1,7 +1,7 @@
-# Checksum: MTY2MTk5ODE3Mgo=
+# Checksum: MTY2MjA4NDg3Mwo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20220901-0
-# TimeUpdated: 2022-09-01T02:09:32+00:00
+# Version: 1.0.9-20220902-0
+# TimeUpdated: 2022-09-02T02:14:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -4539,10 +4539,17 @@ DOMAIN-SUFFIX,aopshc.com,PROXY
 DOMAIN-SUFFIX,aorus.com,PROXY
 DOMAIN-SUFFIX,aosintegrity.com,PROXY
 DOMAIN-SUFFIX,aouwe.com,PROXY
+DOMAIN-SUFFIX,ap-bangkok.myqcloud.com,PROXY
+DOMAIN-SUFFIX,ap-hongkong.myqcloud.com,PROXY
+DOMAIN-SUFFIX,ap-jakarta.myqcloud.com,PROXY
+DOMAIN-SUFFIX,ap-mumbai.myqcloud.com,PROXY
 DOMAIN-SUFFIX,ap-northeast-1.console.aws.amazon.com,PROXY
+DOMAIN-SUFFIX,ap-seoul.myqcloud.com,PROXY
+DOMAIN-SUFFIX,ap-singapore.myqcloud.com,PROXY
 DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com,PROXY
+DOMAIN-SUFFIX,ap-tokyo.myqcloud.com,PROXY
 DOMAIN-SUFFIX,ap.org,PROXY
 DOMAIN-SUFFIX,ap0le.com,PROXY
 DOMAIN-SUFFIX,ap2.googleusercontent.com,PROXY
@@ -8189,6 +8196,7 @@ DOMAIN-SUFFIX,c9998.com,PROXY
 DOMAIN-SUFFIX,c9h1ess.com,PROXY
 DOMAIN-SUFFIX,ca-desktop-premium.zenmateuser.com,PROXY
 DOMAIN-SUFFIX,ca.etitrans.com,PROXY
+DOMAIN-SUFFIX,ca.file.myqcloud.com,PROXY
 DOMAIN-SUFFIX,ca.gov,PROXY
 DOMAIN-SUFFIX,ca.ms.justdied.com,PROXY
 DOMAIN-SUFFIX,ca.newfreevpn.com,PROXY
@@ -10058,7 +10066,10 @@ DOMAIN-SUFFIX,cortanaskills.com,PROXY
 DOMAIN-SUFFIX,cortexrpg.com,PROXY
 DOMAIN-SUFFIX,corumcollege.com,PROXY
 DOMAIN-SUFFIX,cos-moe.com,PROXY
+DOMAIN-SUFFIX,cosca.myqcloud.com,PROXY
 DOMAIN-SUFFIX,cosersuki.net,PROXY
+DOMAIN-SUFFIX,cosger.myqcloud.com,PROXY
+DOMAIN-SUFFIX,coshk.myqcloud.com,PROXY
 DOMAIN-SUFFIX,cosmic.monar.ch,PROXY
 DOMAIN-SUFFIX,cosmosdb.info,PROXY
 DOMAIN-SUFFIX,cosmosdb.net,PROXY
@@ -10066,6 +10077,7 @@ DOMAIN-SUFFIX,cosplay-jav.com,PROXY
 DOMAIN-SUFFIX,cosplaybutts.com,PROXY
 DOMAIN-SUFFIX,cosplayjav.pl,PROXY
 DOMAIN-SUFFIX,cosplayporntube.com,PROXY
+DOMAIN-SUFFIX,cossgp.myqcloud.com,PROXY
 DOMAIN-SUFFIX,costco-static.com,PROXY
 DOMAIN-SUFFIX,costco.com,PROXY
 DOMAIN-SUFFIX,costcobusinessdelivery.com,PROXY
@@ -13020,6 +13032,7 @@ DOMAIN-SUFFIX,eesti.ee,PROXY
 DOMAIN-SUFFIX,eevpn.com,PROXY
 DOMAIN-SUFFIX,efcc.org.hk,PROXY
 DOMAIN-SUFFIX,eff.org,PROXY
+DOMAIN-SUFFIX,effecthub.com,PROXY
 DOMAIN-SUFFIX,effers.com,PROXY
 DOMAIN-SUFFIX,effies.com,PROXY
 DOMAIN-SUFFIX,efhc.mx,PROXY
@@ -13519,6 +13532,8 @@ DOMAIN-SUFFIX,etviet.com,PROXY
 DOMAIN-SUFFIX,etvonline.hk,PROXY
 DOMAIN-SUFFIX,etwealth.com,PROXY
 DOMAIN-SUFFIX,eu-consumer-empowerment.com,PROXY
+DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com,PROXY
+DOMAIN-SUFFIX,eu-moscow.myqcloud.com,PROXY
 DOMAIN-SUFFIX,eu-ssa.org,PROXY
 DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,eu-west-1.console.aws.amazon.com,PROXY
@@ -16068,6 +16083,7 @@ DOMAIN-SUFFIX,geotrust.com,PROXY
 DOMAIN-SUFFIX,geph.io,PROXY
 DOMAIN-SUFFIX,geppeivpn.asia,PROXY
 DOMAIN-SUFFIX,gequ888.com,PROXY
+DOMAIN-SUFFIX,ger.file.myqcloud.com,PROXY
 DOMAIN-SUFFIX,geraldoatlarge.com,PROXY
 DOMAIN-SUFFIX,gerefoundation.org,PROXY
 DOMAIN-SUFFIX,german-proxy.de,PROXY
@@ -18014,6 +18030,7 @@ DOMAIN-SUFFIX,hk-pub.com,PROXY
 DOMAIN-SUFFIX,hk.32-b.it,PROXY
 DOMAIN-SUFFIX,hk.c.cloudss.pw,PROXY
 DOMAIN-SUFFIX,hk.dictionary.yahoo.com,PROXY
+DOMAIN-SUFFIX,hk.file.myqcloud.com,PROXY
 DOMAIN-SUFFIX,hk.finance.yahoo.com,PROXY
 DOMAIN-SUFFIX,hk.frienddy.com,PROXY
 DOMAIN-SUFFIX,hk.geocities.com,PROXY
@@ -24704,8 +24721,11 @@ DOMAIN-SUFFIX,n8fwn9fwe.azurewebsites.net,PROXY
 DOMAIN-SUFFIX,n8photos.com,PROXY
 DOMAIN-SUFFIX,n9887.com,PROXY
 DOMAIN-SUFFIX,n9919.com,PROXY
+DOMAIN-SUFFIX,na-ashburn.myqcloud.com,PROXY
 DOMAIN-SUFFIX,na-att-idns.net,PROXY
 DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com,PROXY
+DOMAIN-SUFFIX,na-siliconvalley.myqcloud.com,PROXY
+DOMAIN-SUFFIX,na-toronto.myqcloud.com,PROXY
 DOMAIN-SUFFIX,na.ddns.name,PROXY
 DOMAIN-SUFFIX,na.kalone.net,PROXY
 DOMAIN-SUFFIX,na.tl,PROXY
@@ -29582,6 +29602,7 @@ DOMAIN-SUFFIX,s8forum.com,PROXY
 DOMAIN-SUFFIX,s99bet.com,PROXY
 DOMAIN-SUFFIX,s99bet.net,PROXY
 DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com,PROXY
+DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com,PROXY
 DOMAIN-SUFFIX,sa.com,PROXY
 DOMAIN-SUFFIX,sa.hao123.com,PROXY
 DOMAIN-SUFFIX,sa36.net,PROXY
@@ -30380,6 +30401,7 @@ DOMAIN-SUFFIX,sg9097.com,PROXY
 DOMAIN-SUFFIX,sgapi00.com,PROXY
 DOMAIN-SUFFIX,sgforums.com,PROXY
 DOMAIN-SUFFIX,sgod.ga,PROXY
+DOMAIN-SUFFIX,sgp.file.myqcloud.com,PROXY
 DOMAIN-SUFFIX,sgp1.fun,PROXY
 DOMAIN-SUFFIX,sgreenvpn.com,PROXY
 DOMAIN-SUFFIX,sgtsourcing.box.com,PROXY

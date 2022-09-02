@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2MTk5ODE3Mgo=
+# Checksum: MTY2MjA4NDg3Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20220901-0
-# TimeUpdated: 2022-09-01T02:09:32+00:00
+# Version: 1.0.9-20220902-0
+# TimeUpdated: 2022-09-02T02:14:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4540,10 +4540,17 @@ payload:
   - DOMAIN-SUFFIX,aorus.com
   - DOMAIN-SUFFIX,aosintegrity.com
   - DOMAIN-SUFFIX,aouwe.com
+  - DOMAIN-SUFFIX,ap-bangkok.myqcloud.com
+  - DOMAIN-SUFFIX,ap-hongkong.myqcloud.com
+  - DOMAIN-SUFFIX,ap-jakarta.myqcloud.com
+  - DOMAIN-SUFFIX,ap-mumbai.myqcloud.com
   - DOMAIN-SUFFIX,ap-northeast-1.console.aws.amazon.com
+  - DOMAIN-SUFFIX,ap-seoul.myqcloud.com
+  - DOMAIN-SUFFIX,ap-singapore.myqcloud.com
   - DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com
   - DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com
+  - DOMAIN-SUFFIX,ap-tokyo.myqcloud.com
   - DOMAIN-SUFFIX,ap.org
   - DOMAIN-SUFFIX,ap0le.com
   - DOMAIN-SUFFIX,ap2.googleusercontent.com
@@ -8190,6 +8197,7 @@ payload:
   - DOMAIN-SUFFIX,c9h1ess.com
   - DOMAIN-SUFFIX,ca-desktop-premium.zenmateuser.com
   - DOMAIN-SUFFIX,ca.etitrans.com
+  - DOMAIN-SUFFIX,ca.file.myqcloud.com
   - DOMAIN-SUFFIX,ca.gov
   - DOMAIN-SUFFIX,ca.ms.justdied.com
   - DOMAIN-SUFFIX,ca.newfreevpn.com
@@ -10059,7 +10067,10 @@ payload:
   - DOMAIN-SUFFIX,cortexrpg.com
   - DOMAIN-SUFFIX,corumcollege.com
   - DOMAIN-SUFFIX,cos-moe.com
+  - DOMAIN-SUFFIX,cosca.myqcloud.com
   - DOMAIN-SUFFIX,cosersuki.net
+  - DOMAIN-SUFFIX,cosger.myqcloud.com
+  - DOMAIN-SUFFIX,coshk.myqcloud.com
   - DOMAIN-SUFFIX,cosmic.monar.ch
   - DOMAIN-SUFFIX,cosmosdb.info
   - DOMAIN-SUFFIX,cosmosdb.net
@@ -10067,6 +10078,7 @@ payload:
   - DOMAIN-SUFFIX,cosplaybutts.com
   - DOMAIN-SUFFIX,cosplayjav.pl
   - DOMAIN-SUFFIX,cosplayporntube.com
+  - DOMAIN-SUFFIX,cossgp.myqcloud.com
   - DOMAIN-SUFFIX,costco-static.com
   - DOMAIN-SUFFIX,costco.com
   - DOMAIN-SUFFIX,costcobusinessdelivery.com
@@ -13021,6 +13033,7 @@ payload:
   - DOMAIN-SUFFIX,eevpn.com
   - DOMAIN-SUFFIX,efcc.org.hk
   - DOMAIN-SUFFIX,eff.org
+  - DOMAIN-SUFFIX,effecthub.com
   - DOMAIN-SUFFIX,effers.com
   - DOMAIN-SUFFIX,effies.com
   - DOMAIN-SUFFIX,efhc.mx
@@ -13520,6 +13533,8 @@ payload:
   - DOMAIN-SUFFIX,etvonline.hk
   - DOMAIN-SUFFIX,etwealth.com
   - DOMAIN-SUFFIX,eu-consumer-empowerment.com
+  - DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com
+  - DOMAIN-SUFFIX,eu-moscow.myqcloud.com
   - DOMAIN-SUFFIX,eu-ssa.org
   - DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com
   - DOMAIN-SUFFIX,eu-west-1.console.aws.amazon.com
@@ -16069,6 +16084,7 @@ payload:
   - DOMAIN-SUFFIX,geph.io
   - DOMAIN-SUFFIX,geppeivpn.asia
   - DOMAIN-SUFFIX,gequ888.com
+  - DOMAIN-SUFFIX,ger.file.myqcloud.com
   - DOMAIN-SUFFIX,geraldoatlarge.com
   - DOMAIN-SUFFIX,gerefoundation.org
   - DOMAIN-SUFFIX,german-proxy.de
@@ -18015,6 +18031,7 @@ payload:
   - DOMAIN-SUFFIX,hk.32-b.it
   - DOMAIN-SUFFIX,hk.c.cloudss.pw
   - DOMAIN-SUFFIX,hk.dictionary.yahoo.com
+  - DOMAIN-SUFFIX,hk.file.myqcloud.com
   - DOMAIN-SUFFIX,hk.finance.yahoo.com
   - DOMAIN-SUFFIX,hk.frienddy.com
   - DOMAIN-SUFFIX,hk.geocities.com
@@ -24705,8 +24722,11 @@ payload:
   - DOMAIN-SUFFIX,n8photos.com
   - DOMAIN-SUFFIX,n9887.com
   - DOMAIN-SUFFIX,n9919.com
+  - DOMAIN-SUFFIX,na-ashburn.myqcloud.com
   - DOMAIN-SUFFIX,na-att-idns.net
   - DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com
+  - DOMAIN-SUFFIX,na-siliconvalley.myqcloud.com
+  - DOMAIN-SUFFIX,na-toronto.myqcloud.com
   - DOMAIN-SUFFIX,na.ddns.name
   - DOMAIN-SUFFIX,na.kalone.net
   - DOMAIN-SUFFIX,na.tl
@@ -29583,6 +29603,7 @@ payload:
   - DOMAIN-SUFFIX,s99bet.com
   - DOMAIN-SUFFIX,s99bet.net
   - DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
+  - DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com
   - DOMAIN-SUFFIX,sa.com
   - DOMAIN-SUFFIX,sa.hao123.com
   - DOMAIN-SUFFIX,sa36.net
@@ -30381,6 +30402,7 @@ payload:
   - DOMAIN-SUFFIX,sgapi00.com
   - DOMAIN-SUFFIX,sgforums.com
   - DOMAIN-SUFFIX,sgod.ga
+  - DOMAIN-SUFFIX,sgp.file.myqcloud.com
   - DOMAIN-SUFFIX,sgp1.fun
   - DOMAIN-SUFFIX,sgreenvpn.com
   - DOMAIN-SUFFIX,sgtsourcing.box.com
