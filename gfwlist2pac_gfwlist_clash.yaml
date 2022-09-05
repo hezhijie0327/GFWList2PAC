@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2MjI1Nzk3MAo=
+# Checksum: MTY2MjM0NDU0Nwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20220904-0
-# TimeUpdated: 2022-09-04T02:19:30+00:00
+# Version: 1.0.9-20220905-0
+# TimeUpdated: 2022-09-05T02:22:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -28447,6 +28447,7 @@ payload:
   - DOMAIN-SUFFIX,pvp.im
   - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,pvp.tv
+  - DOMAIN-SUFFIX,pvr-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,pvt.sexy
   - DOMAIN-SUFFIX,pvue1.com
   - DOMAIN-SUFFIX,pvue2.com
@@ -33997,6 +33998,7 @@ payload:
   - DOMAIN-SUFFIX,tvbs.com.tw
   - DOMAIN-SUFFIX,tvbusa.com
   - DOMAIN-SUFFIX,tvbweekly.com
+  - DOMAIN-SUFFIX,tvcastlive-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,tvd.azureedge.net
   - DOMAIN-SUFFIX,tvguide.club
   - DOMAIN-SUFFIX,tvider.com
