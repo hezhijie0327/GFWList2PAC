@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2Mjg2MzA5OAo=
+# Checksum: MTY2Mjk0OTc1OQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20220911-0
-# TimeUpdated: 2022-09-11T02:24:58+00:00
+# Version: 1.0.9-20220912-0
+# TimeUpdated: 2022-09-12T02:29:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1672,6 +1672,7 @@ payload:
   - DOMAIN-SUFFIX,4club.com
   - DOMAIN-SUFFIX,4dq.com
   - DOMAIN-SUFFIX,4ebaytraders.com
+  - DOMAIN-SUFFIX,4everland.io
   - DOMAIN-SUFFIX,4everproxy.com
   - DOMAIN-SUFFIX,4freemam.myfw.us
   - DOMAIN-SUFFIX,4freeproxy.com
@@ -4456,6 +4457,7 @@ payload:
   - DOMAIN-SUFFIX,anonvpn.io
   - DOMAIN-SUFFIX,anonymise.us
   - DOMAIN-SUFFIX,anonymitynetwork.com
+  - DOMAIN-SUFFIX,anonymize.com
   - DOMAIN-SUFFIX,anonymize.net
   - DOMAIN-SUFFIX,anonymizer.com
   - DOMAIN-SUFFIX,anonymous-proxies.net
@@ -4926,6 +4928,7 @@ payload:
   - DOMAIN-SUFFIX,arabxnxx.org
   - DOMAIN-SUFFIX,arabysexy.com
   - DOMAIN-SUFFIX,arabysexy.mobi
+  - DOMAIN-SUFFIX,aragon.network
   - DOMAIN-SUFFIX,aransrl.com.ar
   - DOMAIN-SUFFIX,arapurayil.com
   - DOMAIN-SUFFIX,aravas.io
@@ -5438,6 +5441,7 @@ payload:
   - DOMAIN-SUFFIX,awc7.com
   - DOMAIN-SUFFIX,awebproxy.com
   - DOMAIN-SUFFIX,aweencore.com
+  - DOMAIN-SUFFIX,awempire.com
   - DOMAIN-SUFFIX,awetv.com
   - DOMAIN-SUFFIX,awflapp.top
   - DOMAIN-SUFFIX,awk.so
@@ -8180,6 +8184,7 @@ payload:
   - DOMAIN-SUFFIX,c3344.com
   - DOMAIN-SUFFIX,c3j.fun
   - DOMAIN-SUFFIX,c4288.com
+  - DOMAIN-SUFFIX,c4rex.co
   - DOMAIN-SUFFIX,c4story.com
   - DOMAIN-SUFFIX,c4v6d7v3.stackpathcdn.com
   - DOMAIN-SUFFIX,c5.etowns.net
@@ -8830,6 +8835,7 @@ payload:
   - DOMAIN-SUFFIX,cetsedu.org
   - DOMAIN-SUFFIX,cevin.me
   - DOMAIN-SUFFIX,cex.io
+  - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,cf.gs
   - DOMAIN-SUFFIX,cf0009.com
   - DOMAIN-SUFFIX,cf5.herokuapp.com
@@ -10227,6 +10233,7 @@ payload:
   - DOMAIN-SUFFIX,crucial.com
   - DOMAIN-SUFFIX,cruisecritic.com
   - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN-SUFFIX,crustwebsites.net
   - DOMAIN-SUFFIX,crv2000.com
   - DOMAIN-SUFFIX,crwdcntrl.net
   - DOMAIN-SUFFIX,cryptocat.com
@@ -12036,6 +12043,8 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,dockerizer.com
+  - DOMAIN-SUFFIX,docleradn.com
+  - DOMAIN-SUFFIX,doclercdn.com
   - DOMAIN-SUFFIX,docs-examples.firebaseio.com
   - DOMAIN-SUFFIX,docs.cfw.lbyczf.com
   - DOMAIN-SUFFIX,docs.com
@@ -13505,6 +13514,7 @@ payload:
   - DOMAIN-SUFFIX,etaireia.gr
   - DOMAIN-SUFFIX,etaiwannews.com
   - DOMAIN-SUFFIX,eternal-group.com
+  - DOMAIN-SUFFIX,eternum.io
   - DOMAIN-SUFFIX,etet22.com
   - DOMAIN-SUFFIX,eth0.org.uk
   - DOMAIN-SUFFIX,etherdelta.com
@@ -14689,6 +14699,7 @@ payload:
   - DOMAIN-SUFFIX,flckr.com
   - DOMAIN-SUFFIX,fldsolar.com
   - DOMAIN-SUFFIX,flecheinthepeche.fr
+  - DOMAIN-SUFFIX,fleek.co
   - DOMAIN-SUFFIX,fleshbot.com
   - DOMAIN-SUFFIX,fleursdeslettres.com
   - DOMAIN-SUFFIX,flgg.us
@@ -15863,6 +15874,7 @@ payload:
   - DOMAIN-SUFFIX,gateway.dev
   - DOMAIN-SUFFIX,gateway.jb88app.com
   - DOMAIN-SUFFIX,gateway.jbo25.com
+  - DOMAIN-SUFFIX,gateway.pinata.cloud
   - DOMAIN-SUFFIX,gateway.tlc801.com
   - DOMAIN-SUFFIX,gateway2travel.com
   - DOMAIN-SUFFIX,gatewayus.com
@@ -19691,8 +19703,15 @@ payload:
   - DOMAIN-SUFFIX,ipconceal.com
   - DOMAIN-SUFFIX,ipdisguiser.com
   - DOMAIN-SUFFIX,ipfire.org
+  - DOMAIN-SUFFIX,ipfs-gateway.cloud
+  - DOMAIN-SUFFIX,ipfs.anonymize.com
+  - DOMAIN-SUFFIX,ipfs.eternum.io
+  - DOMAIN-SUFFIX,ipfs.eth.aragon.network
+  - DOMAIN-SUFFIX,ipfs.fleek.co
   - DOMAIN-SUFFIX,ipfs.infura.io
   - DOMAIN-SUFFIX,ipfs.io
+  - DOMAIN-SUFFIX,ipfs.lain.la
+  - DOMAIN-SUFFIX,ipfs.runfission.com
   - DOMAIN-SUFFIX,ipfs.smartsignature.io
   - DOMAIN-SUFFIX,ipfspin.com
   - DOMAIN-SUFFIX,ipge.com
@@ -19748,6 +19767,7 @@ payload:
   - DOMAIN-SUFFIX,ipkmedia.com
   - DOMAIN-SUFFIX,ipleadership.org
   - DOMAIN-SUFFIX,iplogger.org
+  - DOMAIN-SUFFIX,ipns.co
   - DOMAIN-SUFFIX,ipo-90.maaii.com
   - DOMAIN-SUFFIX,ipobar.com
   - DOMAIN-SUFFIX,ipod.ch
@@ -20672,6 +20692,7 @@ payload:
   - DOMAIN-SUFFIX,jorn.net
   - DOMAIN-SUFFIX,jornaldacidadeonline.com.br
   - DOMAIN-SUFFIX,jornaldiario.com
+  - DOMAIN-SUFFIX,jorropo.net
   - DOMAIN-SUFFIX,jos.com
   - DOMAIN-SUFFIX,joshinweb.jp
   - DOMAIN-SUFFIX,joshuarue.com
@@ -21479,6 +21500,7 @@ payload:
   - DOMAIN-SUFFIX,lagrandeepoque.com
   - DOMAIN-SUFFIX,lagranepoca.com
   - DOMAIN-SUFFIX,lahauntedhouse.com
+  - DOMAIN-SUFFIX,lain.la
   - DOMAIN-SUFFIX,lain.li
   - DOMAIN-SUFFIX,laintranet.es
   - DOMAIN-SUFFIX,lakeballs.fi
@@ -21955,6 +21977,7 @@ payload:
   - DOMAIN-SUFFIX,libraryinformationtechnology.com
   - DOMAIN-SUFFIX,librarylovefest.com
   - DOMAIN-SUFFIX,libraryofmoria.com
+  - DOMAIN-SUFFIX,libredd.it
   - DOMAIN-SUFFIX,libredns.gr
   - DOMAIN-SUFFIX,libreswan.org
   - DOMAIN-SUFFIX,librox.co.za
@@ -22258,6 +22281,7 @@ payload:
   - DOMAIN-SUFFIX,logular.com
   - DOMAIN-SUFFIX,loholidayhk.com
   - DOMAIN-SUFFIX,loixtv.com
+  - DOMAIN-SUFFIX,lokinet.org
   - DOMAIN-SUFFIX,lol-europe.com
   - DOMAIN-SUFFIX,lolclub.org
   - DOMAIN-SUFFIX,lolespor.com
@@ -23341,6 +23365,7 @@ payload:
   - DOMAIN-SUFFIX,meszhmet.com
   - DOMAIN-SUFFIX,met-art.com
   - DOMAIN-SUFFIX,met-nude.com
+  - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,metacafe.com
   - DOMAIN-SUFFIX,metacloud.com
   - DOMAIN-SUFFIX,metacpan.org
@@ -25231,6 +25256,7 @@ payload:
   - DOMAIN-SUFFIX,nfsc.global
   - DOMAIN-SUFFIX,nfscdict.com
   - DOMAIN-SUFFIX,nfsworld.com
+  - DOMAIN-SUFFIX,nftstorage.link
   - DOMAIN-SUFFIX,ng.mil
   - DOMAIN-SUFFIX,nga.mil
   - DOMAIN-SUFFIX,ngan.ml
@@ -26372,6 +26398,7 @@ payload:
   - DOMAIN-SUFFIX,orange01.org
   - DOMAIN-SUFFIX,orangemail.okstate.edu
   - DOMAIN-SUFFIX,oranges.idv.tw
+  - DOMAIN-SUFFIX,oranum.com
   - DOMAIN-SUFFIX,orbitera.com
   - DOMAIN-SUFFIX,orcam.com
   - DOMAIN-SUFFIX,orchid.com
@@ -27321,6 +27348,7 @@ payload:
   - DOMAIN-SUFFIX,pin2288.com
   - DOMAIN-SUFFIX,pin6.com
   - DOMAIN-SUFFIX,pin9988.com
+  - DOMAIN-SUFFIX,pinata.cloud
   - DOMAIN-SUFFIX,pinbet88.com
   - DOMAIN-SUFFIX,pincong.org
   - DOMAIN-SUFFIX,pincong.rocks
@@ -29477,6 +29505,7 @@ payload:
   - DOMAIN-SUFFIX,runbtx.com
   - DOMAIN-SUFFIX,rundf665.cyou
   - DOMAIN-SUFFIX,runescape.com
+  - DOMAIN-SUFFIX,runfission.com
   - DOMAIN-SUFFIX,runhomefast.com
   - DOMAIN-SUFFIX,runnerinn.com
   - DOMAIN-SUFFIX,runnike.com
@@ -35045,6 +35074,7 @@ payload:
   - DOMAIN-SUFFIX,vhxqa3.com
   - DOMAIN-SUFFIX,vhxqa4.com
   - DOMAIN-SUFFIX,vhxqa6.com
+  - DOMAIN-SUFFIX,via0.com
   - DOMAIN-SUFFIX,viacbs.com
   - DOMAIN-SUFFIX,viacom.com
   - DOMAIN-SUFFIX,viacomcbs.com
