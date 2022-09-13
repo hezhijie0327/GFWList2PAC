@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2Mjk0OTc1OQo=
+# Checksum: MTY2MzAzNTkwOAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20220912-0
-# TimeUpdated: 2022-09-12T02:29:19+00:00
+# Version: 1.0.9-20220913-0
+# TimeUpdated: 2022-09-13T02:25:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -9500,6 +9500,7 @@ payload:
   - '+.cloudflareresolve.com'
   - '+.cloudflaressl.com'
   - '+.cloudflarestatus.com'
+  - '+.cloudflarestorage.com'
   - '+.cloudflarestream.com'
   - '+.cloudflaretest.com'
   - '+.cloudflarewarp.com'
@@ -29167,6 +29168,7 @@ payload:
   - '+.repaik.com'
   - '+.repo.akii.art'
   - '+.repo.brucezhang.cf'
+  - '+.repo.new'
   - '+.report4you.com.au'
   - '+.reporter.bz'
   - '+.repostone.home.blog'
@@ -31642,6 +31644,7 @@ payload:
   - '+.starcraft.com'
   - '+.starcraft2.com'
   - '+.starfares.com'
+  - '+.starfieldtech.com'
   - '+.starfishfx.com'
   - '+.starfox.com'
   - '+.stark-verlag.ch'

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2Mjk0OTc1OQo=
+# Checksum: MTY2MzAzNTkwOAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20220912-0
-# TimeUpdated: 2022-09-12T02:29:19+00:00
+# Version: 1.0.9-20220913-0
+# TimeUpdated: 2022-09-13T02:25:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -9500,6 +9500,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflareresolve.com
   - DOMAIN-SUFFIX,cloudflaressl.com
   - DOMAIN-SUFFIX,cloudflarestatus.com
+  - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN-SUFFIX,cloudflarestream.com
   - DOMAIN-SUFFIX,cloudflaretest.com
   - DOMAIN-SUFFIX,cloudflarewarp.com
@@ -29167,6 +29168,7 @@ payload:
   - DOMAIN-SUFFIX,repaik.com
   - DOMAIN-SUFFIX,repo.akii.art
   - DOMAIN-SUFFIX,repo.brucezhang.cf
+  - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,report4you.com.au
   - DOMAIN-SUFFIX,reporter.bz
   - DOMAIN-SUFFIX,repostone.home.blog
@@ -31642,6 +31644,7 @@ payload:
   - DOMAIN-SUFFIX,starcraft.com
   - DOMAIN-SUFFIX,starcraft2.com
   - DOMAIN-SUFFIX,starfares.com
+  - DOMAIN-SUFFIX,starfieldtech.com
   - DOMAIN-SUFFIX,starfishfx.com
   - DOMAIN-SUFFIX,starfox.com
   - DOMAIN-SUFFIX,stark-verlag.ch

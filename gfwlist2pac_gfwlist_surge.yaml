@@ -1,7 +1,7 @@
-# Checksum: MTY2Mjk0OTc1OQo=
+# Checksum: MTY2MzAzNTkwOAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20220912-0
-# TimeUpdated: 2022-09-12T02:29:19+00:00
+# Version: 1.0.9-20220913-0
+# TimeUpdated: 2022-09-13T02:25:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -9499,6 +9499,7 @@ DOMAIN-SUFFIX,cloudflareok.com,PROXY
 DOMAIN-SUFFIX,cloudflareresolve.com,PROXY
 DOMAIN-SUFFIX,cloudflaressl.com,PROXY
 DOMAIN-SUFFIX,cloudflarestatus.com,PROXY
+DOMAIN-SUFFIX,cloudflarestorage.com,PROXY
 DOMAIN-SUFFIX,cloudflarestream.com,PROXY
 DOMAIN-SUFFIX,cloudflaretest.com,PROXY
 DOMAIN-SUFFIX,cloudflarewarp.com,PROXY
@@ -29166,6 +29167,7 @@ DOMAIN-SUFFIX,renzhecloud.com,PROXY
 DOMAIN-SUFFIX,repaik.com,PROXY
 DOMAIN-SUFFIX,repo.akii.art,PROXY
 DOMAIN-SUFFIX,repo.brucezhang.cf,PROXY
+DOMAIN-SUFFIX,repo.new,PROXY
 DOMAIN-SUFFIX,report4you.com.au,PROXY
 DOMAIN-SUFFIX,reporter.bz,PROXY
 DOMAIN-SUFFIX,repostone.home.blog,PROXY
@@ -31641,6 +31643,7 @@ DOMAIN-SUFFIX,starchu.com,PROXY
 DOMAIN-SUFFIX,starcraft.com,PROXY
 DOMAIN-SUFFIX,starcraft2.com,PROXY
 DOMAIN-SUFFIX,starfares.com,PROXY
+DOMAIN-SUFFIX,starfieldtech.com,PROXY
 DOMAIN-SUFFIX,starfishfx.com,PROXY
 DOMAIN-SUFFIX,starfox.com,PROXY
 DOMAIN-SUFFIX,stark-verlag.ch,PROXY
