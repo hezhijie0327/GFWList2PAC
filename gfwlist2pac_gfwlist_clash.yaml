@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2MzIwOTA4Mwo=
+# Checksum: MTY2MzI5NTUxMQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20220915-0
-# TimeUpdated: 2022-09-15T02:31:23+00:00
+# Version: 1.0.9-20220916-0
+# TimeUpdated: 2022-09-16T02:31:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -9794,6 +9794,7 @@ payload:
   - DOMAIN-SUFFIX,coinf.com.mx
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,coingi.com
+  - DOMAIN-SUFFIX,coinglass.com
   - DOMAIN-SUFFIX,coinic.com
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,coinonecore.com
@@ -10240,6 +10241,7 @@ payload:
   - DOMAIN-SUFFIX,cryptocat.com
   - DOMAIN-SUFFIX,cryptocert.org
   - DOMAIN-SUFFIX,cryptocoinsnews.com
+  - DOMAIN-SUFFIX,cryptocompare.com
   - DOMAIN-SUFFIX,cryptocurrencytalk.com
   - DOMAIN-SUFFIX,cryptographyengineering.com
   - DOMAIN-SUFFIX,cryptomeans.co
@@ -11372,6 +11374,7 @@ payload:
   - DOMAIN-SUFFIX,dearelder.com
   - DOMAIN-SUFFIX,deasians.com
   - DOMAIN-SUFFIX,deathbychina.com
+  - DOMAIN-SUFFIX,debank.com
   - DOMAIN-SUFFIX,debate.org
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,debug.com
@@ -24686,6 +24689,7 @@ payload:
   - DOMAIN-SUFFIX,mythicentertainment.net
   - DOMAIN-SUFFIX,mythicgames.com
   - DOMAIN-SUFFIX,mytizi.com
+  - DOMAIN-SUFFIX,mytokenapi.com
   - DOMAIN-SUFFIX,mytubeweb.com
   - DOMAIN-SUFFIX,mytuitui.com
   - DOMAIN-SUFFIX,mytving.com
@@ -33740,6 +33744,7 @@ payload:
   - DOMAIN-SUFFIX,truebuddha-md.org
   - DOMAIN-SUFFIX,truebuddha.se
   - DOMAIN-SUFFIX,truedepth3d.com
+  - DOMAIN-SUFFIX,truefi.io
   - DOMAIN-SUFFIX,truenas.com
   - DOMAIN-SUFFIX,truesocial.media
   - DOMAIN-SUFFIX,trulyergonomic.com
@@ -34197,8 +34202,10 @@ payload:
   - DOMAIN-SUFFIX,twitter.jp
   - DOMAIN-SUFFIX,twitter.org
   - DOMAIN-SUFFIX,twitter4j.org
+  - DOMAIN-SUFFIX,twittercommunity.com
   - DOMAIN-SUFFIX,twittercounter.com
   - DOMAIN-SUFFIX,twitterfeed.com
+  - DOMAIN-SUFFIX,twitterflightschool.com
   - DOMAIN-SUFFIX,twittergadget.com
   - DOMAIN-SUFFIX,twitterinc.com
   - DOMAIN-SUFFIX,twitterkr.com

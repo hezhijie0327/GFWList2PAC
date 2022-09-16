@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2MzIwOTA4Mwo=
+# Checksum: MTY2MzI5NTUxMQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20220915-0
-# TimeUpdated: 2022-09-15T02:31:23+00:00
+# Version: 1.0.9-20220916-0
+# TimeUpdated: 2022-09-16T02:31:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -9794,6 +9794,7 @@ payload:
   - '+.coinf.com.mx'
   - '+.coingecko.com'
   - '+.coingi.com'
+  - '+.coinglass.com'
   - '+.coinic.com'
   - '+.coinmarketcap.com'
   - '+.coinonecore.com'
@@ -10240,6 +10241,7 @@ payload:
   - '+.cryptocat.com'
   - '+.cryptocert.org'
   - '+.cryptocoinsnews.com'
+  - '+.cryptocompare.com'
   - '+.cryptocurrencytalk.com'
   - '+.cryptographyengineering.com'
   - '+.cryptomeans.co'
@@ -11372,6 +11374,7 @@ payload:
   - '+.dearelder.com'
   - '+.deasians.com'
   - '+.deathbychina.com'
+  - '+.debank.com'
   - '+.debate.org'
   - '+.debian.org'
   - '+.debug.com'
@@ -24686,6 +24689,7 @@ payload:
   - '+.mythicentertainment.net'
   - '+.mythicgames.com'
   - '+.mytizi.com'
+  - '+.mytokenapi.com'
   - '+.mytubeweb.com'
   - '+.mytuitui.com'
   - '+.mytving.com'
@@ -33740,6 +33744,7 @@ payload:
   - '+.truebuddha-md.org'
   - '+.truebuddha.se'
   - '+.truedepth3d.com'
+  - '+.truefi.io'
   - '+.truenas.com'
   - '+.truesocial.media'
   - '+.trulyergonomic.com'
@@ -34197,8 +34202,10 @@ payload:
   - '+.twitter.jp'
   - '+.twitter.org'
   - '+.twitter4j.org'
+  - '+.twittercommunity.com'
   - '+.twittercounter.com'
   - '+.twitterfeed.com'
+  - '+.twitterflightschool.com'
   - '+.twittergadget.com'
   - '+.twitterinc.com'
   - '+.twitterkr.com'
