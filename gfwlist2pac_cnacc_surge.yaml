@@ -1,7 +1,7 @@
-# Checksum: MTY2MzY0MDQ1Nwo=
+# Checksum: MTY2MzcyNzU1NQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.9-20220920-0
-# TimeUpdated: 2022-09-20T02:20:57+00:00
+# Version: 1.0.9-20220921-0
+# TimeUpdated: 2022-09-21T02:32:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com,DIRECT
@@ -10077,6 +10077,7 @@ DOMAIN-SUFFIX,abeacon.cn,DIRECT
 DOMAIN-SUFFIX,abeacon.com,DIRECT
 DOMAIN-SUFFIX,abfalse.cn,DIRECT
 DOMAIN-SUFFIX,abfirst.cn,DIRECT
+DOMAIN-SUFFIX,abhouses.com,DIRECT
 DOMAIN-SUFFIX,abie13.top,DIRECT
 DOMAIN-SUFFIX,abiechina.com,DIRECT
 DOMAIN-SUFFIX,abiestem.com,DIRECT
@@ -20332,8 +20333,54 @@ DOMAIN-SUFFIX,cdnhwc2.com,DIRECT
 DOMAIN-SUFFIX,cdnhwc3.com,DIRECT
 DOMAIN-SUFFIX,cdnhwc5.com,DIRECT
 DOMAIN-SUFFIX,cdnhwc6.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcajk17.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcatq08.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcbni108.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcbqs106.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcbzj102.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcchh18.com,DIRECT
+DOMAIN-SUFFIX,cdnhwccmz121.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcead111.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcedi10.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcedt124.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcggk22.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcgnc118.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcgqa21.com,DIRECT
 DOMAIN-SUFFIX,cdnhwchcg02.com,DIRECT
 DOMAIN-SUFFIX,cdnhwcibv122.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcick110.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcjlg112.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcjog12.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcjsb120.com,DIRECT
+DOMAIN-SUFFIX,cdnhwckfz116.com,DIRECT
+DOMAIN-SUFFIX,cdnhwckon103.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcljk104.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcllh11.com,DIRECT
+DOMAIN-SUFFIX,cdnhwclxu105.com,DIRECT
+DOMAIN-SUFFIX,cdnhwclxw05.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcoem01.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcohm19.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcoph123.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcprh113.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcpsd13.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcqgw115.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcqir15.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcqve117.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcqwg14.com,DIRECT
+DOMAIN-SUFFIX,cdnhwctnm107.com,DIRECT
+DOMAIN-SUFFIX,cdnhwctxz24.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcuim119.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcupf06.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcurq03.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcvix16.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcxcy07.com,DIRECT
+DOMAIN-SUFFIX,cdnhwczba04.com,DIRECT
+DOMAIN-SUFFIX,cdnhwczjt20.com,DIRECT
+DOMAIN-SUFFIX,cdnhwczks109.com,DIRECT
+DOMAIN-SUFFIX,cdnhwczmn114.com,DIRECT
+DOMAIN-SUFFIX,cdnhwczth23.com,DIRECT
+DOMAIN-SUFFIX,cdnhwcztu09.com,DIRECT
+DOMAIN-SUFFIX,cdnhwczxh101.com,DIRECT
 DOMAIN-SUFFIX,cdni.net,DIRECT
 DOMAIN-SUFFIX,cdnidc.net,DIRECT
 DOMAIN-SUFFIX,cdnimg.115.com,DIRECT
@@ -27890,6 +27937,7 @@ DOMAIN-SUFFIX,devs.data.mob.com,DIRECT
 DOMAIN-SUFFIX,devsdata.accuratead.cn,DIRECT
 DOMAIN-SUFFIX,devsiki.com,DIRECT
 DOMAIN-SUFFIX,devtang.com,DIRECT
+DOMAIN-SUFFIX,devui.design,DIRECT
 DOMAIN-SUFFIX,devzeng.com,DIRECT
 DOMAIN-SUFFIX,dewmobile.net,DIRECT
 DOMAIN-SUFFIX,dewu.com,DIRECT
@@ -37299,6 +37347,10 @@ DOMAIN-SUFFIX,gn00.com,DIRECT
 DOMAIN-SUFFIX,gn168.com,DIRECT
 DOMAIN-SUFFIX,gnaixx.cc,DIRECT
 DOMAIN-SUFFIX,gndaily.com,DIRECT
+DOMAIN-SUFFIX,gneec.com,DIRECT
+DOMAIN-SUFFIX,gneec3.com,DIRECT
+DOMAIN-SUFFIX,gneec4.com,DIRECT
+DOMAIN-SUFFIX,gneec7.com,DIRECT
 DOMAIN-SUFFIX,gnehr.com,DIRECT
 DOMAIN-SUFFIX,gnetis.com,DIRECT
 DOMAIN-SUFFIX,gnettechnology.cn,DIRECT
@@ -41016,6 +41068,7 @@ DOMAIN-SUFFIX,hiai-tts-drcn.emui.hicloud.com,DIRECT
 DOMAIN-SUFFIX,hiao.com,DIRECT
 DOMAIN-SUFFIX,hiapk.com,DIRECT
 DOMAIN-SUFFIX,hiapp-strm.dbankcdn.com,DIRECT
+DOMAIN-SUFFIX,hiascend.com,DIRECT
 DOMAIN-SUFFIX,hiavr.com,DIRECT
 DOMAIN-SUFFIX,hibea.com,DIRECT
 DOMAIN-SUFFIX,hibixin.com,DIRECT
@@ -41038,6 +41091,7 @@ DOMAIN-SUFFIX,hicdma.com,DIRECT
 DOMAIN-SUFFIX,hiceon.com,DIRECT
 DOMAIN-SUFFIX,hichao.com,DIRECT
 DOMAIN-SUFFIX,hichina.com,DIRECT
+DOMAIN-SUFFIX,hiclc.com,DIRECT
 DOMAIN-SUFFIX,hicling.com,DIRECT
 DOMAIN-SUFFIX,hicloud.com,DIRECT
 DOMAIN-SUFFIX,hiconey.com,DIRECT
@@ -41112,6 +41166,8 @@ DOMAIN-SUFFIX,hikops.com,DIRECT
 DOMAIN-SUFFIX,hikparking.com,DIRECT
 DOMAIN-SUFFIX,hikrobotics.com,DIRECT
 DOMAIN-SUFFIX,hikstor.com,DIRECT
+DOMAIN-SUFFIX,hikunpeng.com,DIRECT
+DOMAIN-SUFFIX,hikunpeng.net,DIRECT
 DOMAIN-SUFFIX,hikvision-jl.com,DIRECT
 DOMAIN-SUFFIX,hikvision.com,DIRECT
 DOMAIN-SUFFIX,hikyun.com,DIRECT
@@ -42730,24 +42786,32 @@ DOMAIN-SUFFIX,huawangzhixun.com,DIRECT
 DOMAIN-SUFFIX,huawanyun.com,DIRECT
 DOMAIN-SUFFIX,huawei-3com.com,DIRECT
 DOMAIN-SUFFIX,huawei.com,DIRECT
+DOMAIN-SUFFIX,huaweiacad.com,DIRECT
+DOMAIN-SUFFIX,huaweiapaas.com,DIRECT
 DOMAIN-SUFFIX,huaweibro-iflow.video.ums.uc.cn,DIRECT
 DOMAIN-SUFFIX,huaweicard-drcn.wallet.dbankcloud.com,DIRECT
 DOMAIN-SUFFIX,huaweicloud-dns.com,DIRECT
 DOMAIN-SUFFIX,huaweicloud-dns.net,DIRECT
 DOMAIN-SUFFIX,huaweicloud-dns.org,DIRECT
+DOMAIN-SUFFIX,huaweicloud-smn.com,DIRECT
+DOMAIN-SUFFIX,huaweicloud-smn.net,DIRECT
 DOMAIN-SUFFIX,huaweicloud.com,DIRECT
 DOMAIN-SUFFIX,huaweicloudapis.com,DIRECT
+DOMAIN-SUFFIX,huaweicloudlive.com,DIRECT
 DOMAIN-SUFFIX,huaweicloudwaf.com,DIRECT
 DOMAIN-SUFFIX,huaweidevice.com,DIRECT
 DOMAIN-SUFFIX,huaweidun.com,DIRECT
+DOMAIN-SUFFIX,huaweiief.com,DIRECT
 DOMAIN-SUFFIX,huaweimall.com,DIRECT
 DOMAIN-SUFFIX,huaweimarine.com,DIRECT
+DOMAIN-SUFFIX,huaweimarketplace.com,DIRECT
 DOMAIN-SUFFIX,huaweimossel.com,DIRECT
 DOMAIN-SUFFIX,huaweirom.com,DIRECT
 DOMAIN-SUFFIX,huaweisafedns.com,DIRECT
 DOMAIN-SUFFIX,huaweistatic.com,DIRECT
 DOMAIN-SUFFIX,huaweisymantec.com,DIRECT
 DOMAIN-SUFFIX,huaweiuniversity.com,DIRECT
+DOMAIN-SUFFIX,huaweiyun.com,DIRECT
 DOMAIN-SUFFIX,huaweizdl.com,DIRECT
 DOMAIN-SUFFIX,huawenfanyi.com,DIRECT
 DOMAIN-SUFFIX,huawenonline.com,DIRECT
@@ -43368,12 +43432,14 @@ DOMAIN-SUFFIX,hwanjia.com,DIRECT
 DOMAIN-SUFFIX,hwasmart.com,DIRECT
 DOMAIN-SUFFIX,hwbs.com,DIRECT
 DOMAIN-SUFFIX,hwccpc.com,DIRECT
+DOMAIN-SUFFIX,hwcdnsre.com,DIRECT
 DOMAIN-SUFFIX,hwcloudlive.com,DIRECT
 DOMAIN-SUFFIX,hwclouds-dns.com,DIRECT
 DOMAIN-SUFFIX,hwclouds-dns.net,DIRECT
 DOMAIN-SUFFIX,hwclouds.com,DIRECT
 DOMAIN-SUFFIX,hwclouds.mobi,DIRECT
 DOMAIN-SUFFIX,hwclouds.net,DIRECT
+DOMAIN-SUFFIX,hwcloudvis.com,DIRECT
 DOMAIN-SUFFIX,hwcrazy.com,DIRECT
 DOMAIN-SUFFIX,hwehs.com,DIRECT
 DOMAIN-SUFFIX,hweimall.com,DIRECT
@@ -43389,6 +43455,7 @@ DOMAIN-SUFFIX,hwlantian.com,DIRECT
 DOMAIN-SUFFIX,hwlpz.com,DIRECT
 DOMAIN-SUFFIX,hwmov.a.yximgs.com,DIRECT
 DOMAIN-SUFFIX,hwmov.a.yximgs.com.c.cdnhwc1.com,DIRECT
+DOMAIN-SUFFIX,hwocloud.com,DIRECT
 DOMAIN-SUFFIX,hwpub-s01-drcn.cloud.dbankcloud.cn,DIRECT
 DOMAIN-SUFFIX,hwrecruit.com,DIRECT
 DOMAIN-SUFFIX,hwsem.com,DIRECT
@@ -45407,6 +45474,7 @@ DOMAIN-SUFFIX,imbusy.me,DIRECT
 DOMAIN-SUFFIX,imc.abchina.com,DIRECT
 DOMAIN-SUFFIX,imc.l.qq.com,DIRECT
 DOMAIN-SUFFIX,imc.shdc.abchina.com,DIRECT
+DOMAIN-SUFFIX,imcapptest.com,DIRECT
 DOMAIN-SUFFIX,imcaviare.com,DIRECT
 DOMAIN-SUFFIX,imcec.org,DIRECT
 DOMAIN-SUFFIX,imcn.me,DIRECT
@@ -60623,6 +60691,8 @@ DOMAIN-SUFFIX,myhuaweicloud.cn,DIRECT
 DOMAIN-SUFFIX,myhuaweicloud.com,DIRECT
 DOMAIN-SUFFIX,myhug.cn,DIRECT
 DOMAIN-SUFFIX,myhuilv.com,DIRECT
+DOMAIN-SUFFIX,myhwcdn.com,DIRECT
+DOMAIN-SUFFIX,myhwcloudlive.com,DIRECT
 DOMAIN-SUFFIX,myhwclouds.com,DIRECT
 DOMAIN-SUFFIX,myhx120.com,DIRECT
 DOMAIN-SUFFIX,myicloud.vip,DIRECT
@@ -63943,6 +64013,7 @@ DOMAIN-SUFFIX,owllook.net,DIRECT
 DOMAIN-SUFFIX,owmy.ga,DIRECT
 DOMAIN-SUFFIX,owner-api.teslamotors.com,DIRECT
 DOMAIN-SUFFIX,owomoe.net,DIRECT
+DOMAIN-SUFFIX,owsgo.com,DIRECT
 DOMAIN-SUFFIX,owspace.com,DIRECT
 DOMAIN-SUFFIX,owulia.com,DIRECT
 DOMAIN-SUFFIX,ox11.com,DIRECT
@@ -64449,6 +64520,7 @@ DOMAIN-SUFFIX,pages.ctrip.com.cdn20.com,DIRECT
 DOMAIN-SUFFIX,pages.juxiao.mediav.com,DIRECT
 DOMAIN-SUFFIX,pages.tmall.com,DIRECT
 DOMAIN-SUFFIX,pages.tmall.com.danuoyi.alicdn.com,DIRECT
+DOMAIN-SUFFIX,pagescube.com,DIRECT
 DOMAIN-SUFFIX,pageseagle.com,DIRECT
 DOMAIN-SUFFIX,pageshow.dftoutiao.com,DIRECT
 DOMAIN-SUFFIX,pagetest.top,DIRECT
@@ -72446,6 +72518,7 @@ DOMAIN-SUFFIX,saad.ms.zhangyue.net,DIRECT
 DOMAIN-SUFFIX,saas-1905-public.cdn.bcebos.com,DIRECT
 DOMAIN-SUFFIX,saascdn.lenovo.com.cn,DIRECT
 DOMAIN-SUFFIX,saasddos.com,DIRECT
+DOMAIN-SUFFIX,saasops.tech,DIRECT
 DOMAIN-SUFFIX,saasruanjian.com,DIRECT
 DOMAIN-SUFFIX,saastt.com,DIRECT
 DOMAIN-SUFFIX,saasv.com,DIRECT
@@ -74138,6 +74211,7 @@ DOMAIN-SUFFIX,shangyuer.com,DIRECT
 DOMAIN-SUFFIX,shangzhang.com,DIRECT
 DOMAIN-SUFFIX,shangzhibo.tv,DIRECT
 DOMAIN-SUFFIX,shangzhou.baixing.com,DIRECT
+DOMAIN-SUFFIX,shanhaitujian.com,DIRECT
 DOMAIN-SUFFIX,shanhaizhanji.com,DIRECT
 DOMAIN-SUFFIX,shanhs.com,DIRECT
 DOMAIN-SUFFIX,shanhu99.com,DIRECT
@@ -80274,6 +80348,7 @@ DOMAIN-SUFFIX,telehr.com,DIRECT
 DOMAIN-SUFFIX,teleinfoo.com,DIRECT
 DOMAIN-SUFFIX,teleland.net,DIRECT
 DOMAIN-SUFFIX,telemetry.sdk.inmobi.cn,DIRECT
+DOMAIN-SUFFIX,teleows.com,DIRECT
 DOMAIN-SUFFIX,telfri.net,DIRECT
 DOMAIN-SUFFIX,telidx.m.hub.sandai.net,DIRECT
 DOMAIN-SUFFIX,teligen-cloud.com,DIRECT
