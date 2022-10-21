@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2NjIzMjY4OQo=
+# Checksum: MTY2NjMxNzQ4OAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20221020-0
-# TimeUpdated: 2022-10-20T02:24:49+00:00
+# Version: 1.0.9-20221021-0
+# TimeUpdated: 2022-10-21T01:58:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -26111,6 +26111,7 @@ payload:
   - '+.nord-me.com'
   - '+.nord-mirror-site.net'
   - '+.nord4china.com'
+  - '+.nordcdn.com'
   - '+.nordfx-chinese.com'
   - '+.nordstrom.com'
   - '+.nordstromimage.com'
