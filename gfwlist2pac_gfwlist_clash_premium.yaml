@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2NjU3ODk5MAo=
+# Checksum: MTY2NjY2NTA1MAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20221024-0
-# TimeUpdated: 2022-10-24T02:36:30+00:00
+# Version: 1.0.9-20221025-0
+# TimeUpdated: 2022-10-25T02:30:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -4146,6 +4146,14 @@ payload:
   - '+.alsharifa.com'
   - '+.alsupnet.com'
   - '+.alt.com'
+  - '+.alt1-mtalk.google.com'
+  - '+.alt2-mtalk.google.com'
+  - '+.alt3-mtalk.google.com'
+  - '+.alt4-mtalk.google.com'
+  - '+.alt5-mtalk.google.com'
+  - '+.alt6-mtalk.google.com'
+  - '+.alt7-mtalk.google.com'
+  - '+.alt8-mtalk.google.com'
   - '+.altavista.com'
   - '+.altera.com'
   - '+.alteraforum.com'
@@ -5372,6 +5380,7 @@ payload:
   - '+.av-ok.com'
   - '+.av-test.org'
   - '+.av-th.net'
+  - '+.av-top.com'
   - '+.av-wiki.net'
   - '+.av.com'
   - '+.av.dmixtv.site'
@@ -24768,6 +24777,7 @@ payload:
   - '+.mt1.google.cn'
   - '+.mt2.google.cn'
   - '+.mt3.google.cn'
+  - '+.mtalk.google.com'
   - '+.mtanos.com'
   - '+.mtao.fun'
   - '+.mtco.com'
