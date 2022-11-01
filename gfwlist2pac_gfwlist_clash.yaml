@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2NzE4Mjc3Mwo=
+# Checksum: MTY2NzI2OTUwMwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20221031-0
-# TimeUpdated: 2022-10-31T02:19:33+00:00
+# Version: 1.0.9-20221101-0
+# TimeUpdated: 2022-11-01T02:25:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -34966,6 +34966,7 @@ payload:
   - DOMAIN-SUFFIX,twitpic.com
   - DOMAIN-SUFFIX,twitstat.com
   - DOMAIN-SUFFIX,twittbot.net
+  - DOMAIN-SUFFIX,twitter.biz
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twitter.de
   - DOMAIN-SUFFIX,twitter.fr
@@ -35008,8 +35009,10 @@ payload:
   - DOMAIN-SUFFIX,twtrdns.net
   - DOMAIN-SUFFIX,twtrland.com
   - DOMAIN-SUFFIX,twttr.com
+  - DOMAIN-SUFFIX,twttr.net
   - DOMAIN-SUFFIX,twuph.com
   - DOMAIN-SUFFIX,twurl.nl
+  - DOMAIN-SUFFIX,twvid.com
   - DOMAIN-SUFFIX,twwiki.com
   - DOMAIN-SUFFIX,twyac.org
   - DOMAIN-SUFFIX,twylah.com
