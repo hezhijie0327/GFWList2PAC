@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY2Nzc4NjAxOQo=
+# Checksum: MTY2Nzg3MjM5Nwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20221107-0
-# TimeUpdated: 2022-11-07T01:53:39+00:00
+# Version: 1.0.9-20221108-0
+# TimeUpdated: 2022-11-08T01:53:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -13638,6 +13638,7 @@ payload:
   - DOMAIN-SUFFIX,ero-kawa.com
   - DOMAIN-SUFFIX,ero-labs.com
   - DOMAIN-SUFFIX,ero-labs.net
+  - DOMAIN-SUFFIX,ero-labs.online
   - DOMAIN-SUFFIX,ero-ma-nia.com
   - DOMAIN-SUFFIX,ero-manga-platinum.net
   - DOMAIN-SUFFIX,ero-mangalife.com
@@ -25693,7 +25694,6 @@ payload:
   - DOMAIN-SUFFIX,news.godsdirectcontact.net
   - DOMAIN-SUFFIX,news.google.com.are.uab.cat
   - DOMAIN-SUFFIX,news.hk.msn.com
-  - DOMAIN-SUFFIX,news.hkpeanut.com
   - DOMAIN-SUFFIX,news.housefun.com.tw
   - DOMAIN-SUFFIX,news.mb.com.ph
   - DOMAIN-SUFFIX,news.mingpao.com
@@ -36617,8 +36617,10 @@ payload:
   - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,vsb.edsby.com
   - DOMAIN-SUFFIX,vsco.com
+  - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,vscode-sync-insiders.trafficmanager.net
   - DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
+  - DOMAIN-SUFFIX,vscode-unpkg.net
   - DOMAIN-SUFFIX,vscode.blob.core.windows.net
   - DOMAIN-SUFFIX,vscode.dev
   - DOMAIN-SUFFIX,vscode.search.windows.net

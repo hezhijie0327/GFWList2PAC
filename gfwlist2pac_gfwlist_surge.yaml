@@ -1,7 +1,7 @@
-# Checksum: MTY2Nzc4NjAxOQo=
+# Checksum: MTY2Nzg3MjM5Nwo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20221107-0
-# TimeUpdated: 2022-11-07T01:53:39+00:00
+# Version: 1.0.9-20221108-0
+# TimeUpdated: 2022-11-08T01:53:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -13637,6 +13637,7 @@ DOMAIN-SUFFIX,ero-guide.com,PROXY
 DOMAIN-SUFFIX,ero-kawa.com,PROXY
 DOMAIN-SUFFIX,ero-labs.com,PROXY
 DOMAIN-SUFFIX,ero-labs.net,PROXY
+DOMAIN-SUFFIX,ero-labs.online,PROXY
 DOMAIN-SUFFIX,ero-ma-nia.com,PROXY
 DOMAIN-SUFFIX,ero-manga-platinum.net,PROXY
 DOMAIN-SUFFIX,ero-mangalife.com,PROXY
@@ -25692,7 +25693,6 @@ DOMAIN-SUFFIX,news.gamme.com.tw,PROXY
 DOMAIN-SUFFIX,news.godsdirectcontact.net,PROXY
 DOMAIN-SUFFIX,news.google.com.are.uab.cat,PROXY
 DOMAIN-SUFFIX,news.hk.msn.com,PROXY
-DOMAIN-SUFFIX,news.hkpeanut.com,PROXY
 DOMAIN-SUFFIX,news.housefun.com.tw,PROXY
 DOMAIN-SUFFIX,news.mb.com.ph,PROXY
 DOMAIN-SUFFIX,news.mingpao.com,PROXY
@@ -36616,8 +36616,10 @@ DOMAIN-SUFFIX,vsallin.net,PROXY
 DOMAIN-SUFFIX,vsassets.io,PROXY
 DOMAIN-SUFFIX,vsb.edsby.com,PROXY
 DOMAIN-SUFFIX,vsco.com,PROXY
+DOMAIN-SUFFIX,vscode-cdn.net,PROXY
 DOMAIN-SUFFIX,vscode-sync-insiders.trafficmanager.net,PROXY
 DOMAIN-SUFFIX,vscode-sync.trafficmanager.net,PROXY
+DOMAIN-SUFFIX,vscode-unpkg.net,PROXY
 DOMAIN-SUFFIX,vscode.blob.core.windows.net,PROXY
 DOMAIN-SUFFIX,vscode.dev,PROXY
 DOMAIN-SUFFIX,vscode.search.windows.net,PROXY
