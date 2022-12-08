@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3MDM3NjkwNQo=
+# Checksum: MTY3MDQ2MjczMAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20221207-0
-# TimeUpdated: 2022-12-07T01:35:05+00:00
+# Version: 1.0.9-20221208-0
+# TimeUpdated: 2022-12-08T01:25:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3833,6 +3833,7 @@ payload:
   - DOMAIN-SUFFIX,adsenseformobileapps.com
   - DOMAIN-SUFFIX,adshoppeevents.com
   - DOMAIN-SUFFIX,adss.asia
+  - DOMAIN-SUFFIX,adtidy.org
   - DOMAIN-SUFFIX,adult-cartoon-sex.com
   - DOMAIN-SUFFIX,adult-empire.com
   - DOMAIN-SUFFIX,adult-list.com
@@ -35358,7 +35359,10 @@ payload:
   - DOMAIN-SUFFIX,tigerpvp.ga
   - DOMAIN-SUFFIX,tigervpn.com
   - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn-us.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiltbrush.com
   - DOMAIN-SUFFIX,timc.idv.tw
   - DOMAIN-SUFFIX,timcok.com
@@ -38278,6 +38282,7 @@ payload:
   - DOMAIN-SUFFIX,wap.xinbao6.top
   - DOMAIN-SUFFIX,wapedia.mobi
   - DOMAIN-SUFFIX,waplog.com
+  - DOMAIN-SUFFIX,wapm.io
   - DOMAIN-SUFFIX,wapsports.tlc178.com
   - DOMAIN-SUFFIX,waqi.info
   - DOMAIN-SUFFIX,waqn.com
@@ -38301,6 +38306,7 @@ payload:
   - DOMAIN-SUFFIX,washingtontibet.org
   - DOMAIN-SUFFIX,washingtontimes.com
   - DOMAIN-SUFFIX,waskucity.com
+  - DOMAIN-SUFFIX,wasmer.io
   - DOMAIN-SUFFIX,waste.epa.gov.tw
   - DOMAIN-SUFFIX,waszapolska.tv
   - DOMAIN-SUFFIX,wataru.moe
