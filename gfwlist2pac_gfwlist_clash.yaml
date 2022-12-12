@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3MDcyMjcxMAo=
+# Checksum: MTY3MDgwODQ0Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20221211-0
-# TimeUpdated: 2022-12-11T01:38:30+00:00
+# Version: 1.0.9-20221212-0
+# TimeUpdated: 2022-12-12T01:27:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -10101,7 +10101,6 @@ payload:
   - DOMAIN-SUFFIX,clearasil.cn
   - DOMAIN-SUFFIX,clearasil.com.cn
   - DOMAIN-SUFFIX,clearharmony.net
-  - DOMAIN-SUFFIX,clearlinux.cn
   - DOMAIN-SUFFIX,clearlinux.org
   - DOMAIN-SUFFIX,clearsurance.com
   - DOMAIN-SUFFIX,clearwisdom.net
@@ -16053,6 +16052,7 @@ payload:
   - DOMAIN-SUFFIX,fracebook.com
   - DOMAIN-SUFFIX,fractal-design.com
   - DOMAIN-SUFFIX,fradkin.com.ar
+  - DOMAIN-SUFFIX,fragment.com
   - DOMAIN-SUFFIX,fragrancebay.com
   - DOMAIN-SUFFIX,framote.com
   - DOMAIN-SUFFIX,france24.com
