@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3MTQ5OTM5OQo=
+# Checksum: MTY3MTU4NTU4NAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20221220-0
-# TimeUpdated: 2022-12-20T01:23:19+00:00
+# Version: 1.0.9-20221221-0
+# TimeUpdated: 2022-12-21T01:19:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -34726,6 +34726,7 @@ payload:
   - '+.teleconomiser.com'
   - '+.telega.one'
   - '+.telegra.ph'
+  - '+.telegram-cdn.org'
   - '+.telegram-porn.com'
   - '+.telegram.dog'
   - '+.telegram.im'
