@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3MjEwNDA2MAo=
+# Checksum: MTY3MjE5MDQ2MAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20221227-0
-# TimeUpdated: 2022-12-27T01:21:00+00:00
+# Version: 1.0.9-20221228-0
+# TimeUpdated: 2022-12-28T01:21:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -5348,6 +5348,7 @@ payload:
   - '+.arexv.com'
   - '+.areyouawesome.net84.net'
   - '+.areyoucreditwise.com'
+  - '+.argotunnel.com'
   - '+.aria.ms'
   - '+.arieltorres.com.ar'
   - '+.arily.moe'
@@ -10177,6 +10178,7 @@ payload:
   - '+.cloudflare.com'
   - '+.cloudflare.net'
   - '+.cloudflare.tv'
+  - '+.cloudflareaccess.com'
   - '+.cloudflareapps.com'
   - '+.cloudflarebolt.com'
   - '+.cloudflareclient.com'
