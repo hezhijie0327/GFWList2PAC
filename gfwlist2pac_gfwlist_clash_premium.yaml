@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3MjQ0OTY1NAo=
+# Checksum: MTY3MjUzNzMwMQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20221231-0
-# TimeUpdated: 2022-12-31T01:20:54+00:00
+# Version: 1.0.9-20230101-0
+# TimeUpdated: 2023-01-01T01:41:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000000000000000000000000000000000000000000000000000000000000001.com'
@@ -10205,6 +10205,7 @@ payload:
   - '+.cloudinary.com'
   - '+.cloudinary.net'
   - '+.cloudinsights.com'
+  - '+.cloudlatex.io'
   - '+.cloudlive.com'
   - '+.cloudlock.com'
   - '+.cloudmagic.com'
@@ -38901,6 +38902,7 @@ payload:
   - '+.wionnews.com'
   - '+.wipower.com'
   - '+.wire.com'
+  - '+.wired.com'
   - '+.wiredbytes.com'
   - '+.wiredpen.com'
   - '+.wireguard.com'

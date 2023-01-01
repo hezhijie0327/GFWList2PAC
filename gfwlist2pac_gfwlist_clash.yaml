@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3MjQ0OTY1NAo=
+# Checksum: MTY3MjUzNzMwMQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20221231-0
-# TimeUpdated: 2022-12-31T01:20:54+00:00
+# Version: 1.0.9-20230101-0
+# TimeUpdated: 2023-01-01T01:41:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -10205,6 +10205,7 @@ payload:
   - DOMAIN-SUFFIX,cloudinary.com
   - DOMAIN-SUFFIX,cloudinary.net
   - DOMAIN-SUFFIX,cloudinsights.com
+  - DOMAIN-SUFFIX,cloudlatex.io
   - DOMAIN-SUFFIX,cloudlive.com
   - DOMAIN-SUFFIX,cloudlock.com
   - DOMAIN-SUFFIX,cloudmagic.com
@@ -38901,6 +38902,7 @@ payload:
   - DOMAIN-SUFFIX,wionnews.com
   - DOMAIN-SUFFIX,wipower.com
   - DOMAIN-SUFFIX,wire.com
+  - DOMAIN-SUFFIX,wired.com
   - DOMAIN-SUFFIX,wiredbytes.com
   - DOMAIN-SUFFIX,wiredpen.com
   - DOMAIN-SUFFIX,wireguard.com
