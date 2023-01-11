@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3MzMxNDUyNwo=
+# Checksum: MTY3MzQwMDMzMgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230110-0
-# TimeUpdated: 2023-01-10T01:35:27+00:00
+# Version: 1.0.9-20230111-0
+# TimeUpdated: 2023-01-11T01:25:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -17323,7 +17323,9 @@ payload:
   - DOMAIN-SUFFIX,get.app
   - DOMAIN-SUFFIX,get.dev
   - DOMAIN-SUFFIX,get.how
+  - DOMAIN-SUFFIX,get.new
   - DOMAIN-SUFFIX,get.page
+  - DOMAIN-SUFFIX,get.rsvp
   - DOMAIN-SUFFIX,getadblock.com
   - DOMAIN-SUFFIX,getastrill.com
   - DOMAIN-SUFFIX,getavpn.org
@@ -19138,6 +19140,7 @@ payload:
   - DOMAIN-SUFFIX,hexieshe.com
   - DOMAIN-SUFFIX,hexieshe.xyz
   - DOMAIN-SUFFIX,hexxeh.net
+  - DOMAIN-SUFFIX,hey.boo
   - DOMAIN-SUFFIX,heyav.tv
   - DOMAIN-SUFFIX,heydoga.com
   - DOMAIN-SUFFIX,heydouga.com
@@ -26997,6 +27000,7 @@ payload:
   - DOMAIN-SUFFIX,new-jero.net
   - DOMAIN-SUFFIX,new-proxy.com.de
   - DOMAIN-SUFFIX,new-redtube.com
+  - DOMAIN-SUFFIX,new.day
   - DOMAIN-SUFFIX,new.ltshk.net
   - DOMAIN-SUFFIX,new.m19b.com
   - DOMAIN-SUFFIX,new.naked.com
