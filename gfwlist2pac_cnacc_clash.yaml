@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3Mzc0NjUwNwo=
+# Checksum: MTY3MzgzMjI1MAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20230115-0
-# TimeUpdated: 2023-01-15T01:35:07+00:00
+# Version: 1.0.9-20230116-0
+# TimeUpdated: 2023-01-16T01:24:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-100.com
@@ -13336,6 +13336,8 @@ payload:
   - DOMAIN-SUFFIX,cf-china.info
   - DOMAIN-SUFFIX,cf-ns.com
   - DOMAIN-SUFFIX,cf-ns.net
+  - DOMAIN-SUFFIX,cf-ns.site
+  - DOMAIN-SUFFIX,cf-ns.tech
   - DOMAIN-SUFFIX,cf.com
   - DOMAIN-SUFFIX,cf69.com
   - DOMAIN-SUFFIX,cf865.com
@@ -13375,6 +13377,8 @@ payload:
   - DOMAIN-SUFFIX,cfsino.com
   - DOMAIN-SUFFIX,cfsl2017.com
   - DOMAIN-SUFFIX,cftea.com
+  - DOMAIN-SUFFIX,cftest7.com
+  - DOMAIN-SUFFIX,cftest8.com
   - DOMAIN-SUFFIX,cftong.com
   - DOMAIN-SUFFIX,cfucn.com
   - DOMAIN-SUFFIX,cfund108.com
@@ -15310,6 +15314,11 @@ payload:
   - DOMAIN-SUFFIX,clouddream.net
   - DOMAIN-SUFFIX,cloudflare-cn.com
   - DOMAIN-SUFFIX,cloudflare520.com
+  - DOMAIN-SUFFIX,cloudflarecn.net
+  - DOMAIN-SUFFIX,cloudflareinsights-cn.com
+  - DOMAIN-SUFFIX,cloudflareprod.com
+  - DOMAIN-SUFFIX,cloudflarestaging.com
+  - DOMAIN-SUFFIX,cloudflarestoragegw.com
   - DOMAIN-SUFFIX,cloudfoshan.com
   - DOMAIN-SUFFIX,cloudfront-cn.net
   - DOMAIN-SUFFIX,cloudfuqing.com
