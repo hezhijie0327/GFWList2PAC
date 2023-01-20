@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3NDAwNTIwOAo=
+# Checksum: MTY3NDE3Nzk2OQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230118-0
-# TimeUpdated: 2023-01-18T01:26:48+00:00
+# Version: 1.0.9-20230120-0
+# TimeUpdated: 2023-01-20T01:26:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -37646,6 +37646,8 @@ payload:
   - DOMAIN-SUFFIX,vcupmars.com
   - DOMAIN-SUFFIX,vdoav.com
   - DOMAIN-SUFFIX,vds.rightster.com
+  - DOMAIN-SUFFIX,ve-dash-uk-live.akamaized.net
+  - DOMAIN-SUFFIX,ve-uhd-push-uk-live.akamaized.net
   - DOMAIN-SUFFIX,vector.im
   - DOMAIN-SUFFIX,vedaadvantage.com
   - DOMAIN-SUFFIX,veepn.com
@@ -38480,6 +38482,8 @@ payload:
   - DOMAIN-SUFFIX,vrt.be
   - DOMAIN-SUFFIX,vrv.co
   - DOMAIN-SUFFIX,vs-cmaf-push-uk-live.akamaized.net
+  - DOMAIN-SUFFIX,vs-cmaf-pushb-ww-live.akamaized.net
+  - DOMAIN-SUFFIX,vs-hls-pushb-uk-live.akamaized.net
   - DOMAIN-SUFFIX,vs.com
   - DOMAIN-SUFFIX,vs8866.com
   - DOMAIN-SUFFIX,vs8989.com
