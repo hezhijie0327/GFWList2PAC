@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3NzAyOTE4Ngo=
+# Checksum: MTY3NzExNTUzMAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230222-0
-# TimeUpdated: 2023-02-22T01:26:26+00:00
+# Version: 1.0.9-20230223-0
+# TimeUpdated: 2023-02-23T01:25:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4083,6 +4083,7 @@ payload:
   - DOMAIN-SUFFIX,ai-kan.net
   - DOMAIN-SUFFIX,ai-wen.net
   - DOMAIN-SUFFIX,ai.binwang.me
+  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,ai4t.com
   - DOMAIN-SUFFIX,ai780.com
@@ -27191,6 +27192,7 @@ payload:
   - DOMAIN-SUFFIX,nexpart.tv
   - DOMAIN-SUFFIX,next.com
   - DOMAIN-SUFFIX,next11.co.jp
+  - DOMAIN-SUFFIX,nextapple.com
   - DOMAIN-SUFFIX,nextbigfuture.com
   - DOMAIN-SUFFIX,nextcomm.com.ar
   - DOMAIN-SUFFIX,nextdigital.com.hk
@@ -28364,6 +28366,7 @@ payload:
   - DOMAIN-SUFFIX,open.firstory.me
   - DOMAIN-SUFFIX,open.spotify.com
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaked.com
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,openamt.com
