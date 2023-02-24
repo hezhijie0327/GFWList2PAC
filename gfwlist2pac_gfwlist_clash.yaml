@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3NzExNTUzMAo=
+# Checksum: MTY3NzIwMjQ3Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230223-0
-# TimeUpdated: 2023-02-23T01:25:30+00:00
+# Version: 1.0.9-20230224-0
+# TimeUpdated: 2023-02-24T01:34:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -29073,7 +29073,9 @@ payload:
   - DOMAIN-SUFFIX,paypal-survey.org
   - DOMAIN-SUFFIX,paypal-team.com
   - DOMAIN-SUFFIX,paypal-viewpoints.net
+  - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypal.info
+  - DOMAIN-SUFFIX,paypal.me
   - DOMAIN-SUFFIX,paypal.net.cn
   - DOMAIN-SUFFIX,paypal.org.cn
   - DOMAIN-SUFFIX,paypal.so
@@ -29106,6 +29108,7 @@ payload:
   - DOMAIN-SUFFIX,paypalnetwork.info
   - DOMAIN-SUFFIX,paypalnetwork.net
   - DOMAIN-SUFFIX,paypalnetwork.org
+  - DOMAIN-SUFFIX,paypalobjects.com
   - DOMAIN-SUFFIX,paypalonline.net
   - DOMAIN-SUFFIX,paypalonline.org
   - DOMAIN-SUFFIX,paypalprepagata.com
