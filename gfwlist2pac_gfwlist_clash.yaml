@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3OTYyMDc3OQo=
+# Checksum: MTY3OTcwNzA1NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230324-0
-# TimeUpdated: 2023-03-24T01:19:39+00:00
+# Version: 1.0.9-20230325-0
+# TimeUpdated: 2023-03-25T01:17:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4364,6 +4364,7 @@ payload:
   - DOMAIN-SUFFIX,allinfa.com
   - DOMAIN-SUFFIX,allinternal.com
   - DOMAIN-SUFFIX,allisons.org
+  - DOMAIN-SUFFIX,allizom.org
   - DOMAIN-SUFFIX,alljackpotscasino.com
   - DOMAIN-SUFFIX,alljapanesepass.com
   - DOMAIN-SUFFIX,alllsides.com
@@ -9672,6 +9673,7 @@ payload:
   - DOMAIN-SUFFIX,charticulator.com
   - DOMAIN-SUFFIX,chase.com
   - DOMAIN-SUFFIX,chat-test-app.firebaseio.com
+  - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,chat.stackexchange.com
   - DOMAIN-SUFFIX,chatango.com
   - DOMAIN-SUFFIX,chaterbate.com
@@ -12435,7 +12437,7 @@ payload:
   - DOMAIN-SUFFIX,dev.chromium.org
   - DOMAIN-SUFFIX,devcon.org
   - DOMAIN-SUFFIX,developer-advisor.com
-  - DOMAIN-SUFFIX,developer.mozilla.org
+  - DOMAIN-SUFFIX,developer.allizom.org
   - DOMAIN-SUFFIX,developerlibrary.com
   - DOMAIN-SUFFIX,developers.box.net
   - DOMAIN-SUFFIX,developers.facebook.com
