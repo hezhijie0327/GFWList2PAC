@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY3OTc5Mzk2MAo=
+# Checksum: MTY3OTg3OTk0MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230326-0
-# TimeUpdated: 2023-03-26T01:26:00+00:00
+# Version: 1.0.9-20230327-0
+# TimeUpdated: 2023-03-27T01:19:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4854,6 +4854,7 @@ payload:
   - DOMAIN-SUFFIX,anon-v.com
   - DOMAIN-SUFFIX,anon-v.lol
   - DOMAIN-SUFFIX,anonasurf.com
+  - DOMAIN-SUFFIX,anonfiles.com
   - DOMAIN-SUFFIX,anonine.com
   - DOMAIN-SUFFIX,anonine.se
   - DOMAIN-SUFFIX,anonplus.org
@@ -13216,7 +13217,6 @@ payload:
   - DOMAIN-SUFFIX,download.cnet.com
   - DOMAIN-SUFFIX,download.com
   - DOMAIN-SUFFIX,download.fastgit.org
-  - DOMAIN-SUFFIX,download.ithome.com.tw
   - DOMAIN-SUFFIX,download.windowsupdate.nsatc.net
   - DOMAIN-SUFFIX,downloadall.asia
   - DOMAIN-SUFFIX,downloadapkfree.com
@@ -20268,6 +20268,7 @@ payload:
   - DOMAIN-SUFFIX,hycgm1324.shop
   - DOMAIN-SUFFIX,hychot4.xyz
   - DOMAIN-SUFFIX,hycm.com
+  - DOMAIN-SUFFIX,hydrogenaud.io
   - DOMAIN-SUFFIX,hyds360.com
   - DOMAIN-SUFFIX,hymnal.net
   - DOMAIN-SUFFIX,hymzw.net
@@ -21543,6 +21544,7 @@ payload:
   - DOMAIN-SUFFIX,iteke.ml
   - DOMAIN-SUFFIX,iteke.tk
   - DOMAIN-SUFFIX,itemdb.com
+  - DOMAIN-SUFFIX,itemfix.com
   - DOMAIN-SUFFIX,itfromtheinside.com
   - DOMAIN-SUFFIX,itgonglun.com
   - DOMAIN-SUFFIX,ithaisex.com
@@ -23452,6 +23454,7 @@ payload:
   - DOMAIN-SUFFIX,lecoin.cc
   - DOMAIN-SUFFIX,lede-project.org
   - DOMAIN-SUFFIX,ledetipe.com
+  - DOMAIN-SUFFIX,ledger.com
   - DOMAIN-SUFFIX,ledongzhibo111.com
   - DOMAIN-SUFFIX,ledongzhibo1111.com
   - DOMAIN-SUFFIX,ledongzhibo222.com
@@ -28228,6 +28231,7 @@ payload:
   - DOMAIN-SUFFIX,oldpiratebay.org
   - DOMAIN-SUFFIX,ole777.com
   - DOMAIN-SUFFIX,olehd.com
+  - DOMAIN-SUFFIX,olehdtv.com
   - DOMAIN-SUFFIX,olelive.com
   - DOMAIN-SUFFIX,olevod.com
   - DOMAIN-SUFFIX,olevod.io
