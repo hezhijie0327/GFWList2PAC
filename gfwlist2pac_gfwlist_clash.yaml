@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY4MDMxMjAxMQo=
+# Checksum: MTY4MDM5ODQ4MQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230401-0
-# TimeUpdated: 2023-04-01T01:20:11+00:00
+# Version: 1.0.9-20230402-0
+# TimeUpdated: 2023-04-02T01:21:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1604,6 +1604,12 @@ payload:
   - DOMAIN-SUFFIX,3dhentai.tv
   - DOMAIN-SUFFIX,3dhentaix.com
   - DOMAIN-SUFFIX,3di4h.x.incapdns.net
+  - DOMAIN-SUFFIX,3dns-1.adobe.com
+  - DOMAIN-SUFFIX,3dns-2.adobe.com
+  - DOMAIN-SUFFIX,3dns-3.adobe.com
+  - DOMAIN-SUFFIX,3dns-4.adobe.com
+  - DOMAIN-SUFFIX,3dns-5.adobe.com
+  - DOMAIN-SUFFIX,3dns.adobe.com
   - DOMAIN-SUFFIX,3dporn-pics.com
   - DOMAIN-SUFFIX,3dsexgames.biz
   - DOMAIN-SUFFIX,3dsexmovies.biz
@@ -3752,6 +3758,13 @@ payload:
   - DOMAIN-SUFFIX,actionsportsready.absorbtraining.com
   - DOMAIN-SUFFIX,actionvoip.com
   - DOMAIN-SUFFIX,activararaquara.com.br
+  - DOMAIN-SUFFIX,activate-sea.adobe.com
+  - DOMAIN-SUFFIX,activate-sjc0.adobe.com
+  - DOMAIN-SUFFIX,activate.adobe.com
+  - DOMAIN-SUFFIX,activate.wip1.adobe.com
+  - DOMAIN-SUFFIX,activate.wip2.adobe.com
+  - DOMAIN-SUFFIX,activate.wip3.adobe.com
+  - DOMAIN-SUFFIX,activate.wip4.adobe.com
   - DOMAIN-SUFFIX,activateyourpass.com
   - DOMAIN-SUFFIX,activeteachonline.com
   - DOMAIN-SUFFIX,activism.com
@@ -3815,9 +3828,17 @@ payload:
   - DOMAIN-SUFFIX,adnmb2.com
   - DOMAIN-SUFFIX,adobe-aemassets-value.com
   - DOMAIN-SUFFIX,adobe-audience-finder.com
+  - DOMAIN-SUFFIX,adobe-dns-1.adobe.com
+  - DOMAIN-SUFFIX,adobe-dns-2.adobe.com
+  - DOMAIN-SUFFIX,adobe-dns-3.adobe.com
+  - DOMAIN-SUFFIX,adobe-dns-4.adobe.com
+  - DOMAIN-SUFFIX,adobe-dns.adobe.com
   - DOMAIN-SUFFIX,adobe-video-partner-finder.com
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,adobe.io
+  - DOMAIN-SUFFIX,adobe.ipp
+  - DOMAIN-SUFFIX,adobe.newoa
+  - DOMAIN-SUFFIX,adobe.ntp
   - DOMAIN-SUFFIX,adobeaemcloud.com
   - DOMAIN-SUFFIX,adobeaemcloud.net
   - DOMAIN-SUFFIX,adobeawards.com
@@ -3830,6 +3851,7 @@ payload:
   - DOMAIN-SUFFIX,adobedc.net
   - DOMAIN-SUFFIX,adobedemo.com
   - DOMAIN-SUFFIX,adobedtm.com
+  - DOMAIN-SUFFIX,adobeereg.com
   - DOMAIN-SUFFIX,adobeexchange.com
   - DOMAIN-SUFFIX,adobeexperienceawards.com
   - DOMAIN-SUFFIX,adobegov.com
@@ -7821,6 +7843,7 @@ payload:
   - DOMAIN-SUFFIX,bluemix.net
   - DOMAIN-SUFFIX,blueseek.com
   - DOMAIN-SUFFIX,bluesprig.com
+  - DOMAIN-SUFFIX,bluestacks.com
   - DOMAIN-SUFFIX,bluesurface.bolab.net
   - DOMAIN-SUFFIX,bluffave.com
   - DOMAIN-SUFFIX,bluffavenue.com
@@ -8437,6 +8460,7 @@ payload:
   - DOMAIN-SUFFIX,brizzly.com
   - DOMAIN-SUFFIX,brkmd.com
   - DOMAIN-SUFFIX,brliilantsdates.com
+  - DOMAIN-SUFFIX,broadbandreports.com
   - DOMAIN-SUFFIX,broadbook.com
   - DOMAIN-SUFFIX,broadcast.co.nz
   - DOMAIN-SUFFIX,broadpressinc.com
@@ -11060,6 +11084,7 @@ payload:
   - DOMAIN-SUFFIX,crit-staging.com
   - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,crl.microsoft.com
+  - DOMAIN-SUFFIX,crl.versign.net
   - DOMAIN-SUFFIX,crmdynint-gcc.com
   - DOMAIN-SUFFIX,crmdynint.com
   - DOMAIN-SUFFIX,crocoguide.com
@@ -13382,6 +13407,8 @@ payload:
   - DOMAIN-SUFFIX,dsfhgfuyh.com
   - DOMAIN-SUFFIX,dsh111.com
   - DOMAIN-SUFFIX,dslady.com
+  - DOMAIN-SUFFIX,dslr.net
+  - DOMAIN-SUFFIX,dslreports.com
   - DOMAIN-SUFFIX,dsmtp.com
   - DOMAIN-SUFFIX,dsn01.com
   - DOMAIN-SUFFIX,dsn02.co
@@ -14439,6 +14466,12 @@ payload:
   - DOMAIN-SUFFIX,eracom.com.tw
   - DOMAIN-SUFFIX,eranews.eracom.com.tw
   - DOMAIN-SUFFIX,eraysoft.com.tr
+  - DOMAIN-SUFFIX,ereg.adobe.com
+  - DOMAIN-SUFFIX,ereg.wip.adobe.com
+  - DOMAIN-SUFFIX,ereg.wip1.adobe.com
+  - DOMAIN-SUFFIX,ereg.wip2.adobe.com
+  - DOMAIN-SUFFIX,ereg.wip3.adobe.com
+  - DOMAIN-SUFFIX,ereg.wip4.adobe.com
   - DOMAIN-SUFFIX,erenta.ru
   - DOMAIN-SUFFIX,erepublik.com
   - DOMAIN-SUFFIX,eric21.com
@@ -19608,12 +19641,14 @@ payload:
   - DOMAIN-SUFFIX,hkwesi77.xyz
   - DOMAIN-SUFFIX,hkzone.org
   - DOMAIN-SUFFIX,hl168.com
+  - DOMAIN-SUFFIX,hl2rcv.adobe.com
   - DOMAIN-SUFFIX,hl8.com
   - DOMAIN-SUFFIX,hlbelygl.com
   - DOMAIN-SUFFIX,hlc19.com
   - DOMAIN-SUFFIX,hllm.cc
   - DOMAIN-SUFFIX,hllm.net
   - DOMAIN-SUFFIX,hlqp.app
+  - DOMAIN-SUFFIX,hlrcv.stage.adobe.com
   - DOMAIN-SUFFIX,hlw22.com
   - DOMAIN-SUFFIX,hlw299.com
   - DOMAIN-SUFFIX,hlw555.com
@@ -22367,6 +22402,7 @@ payload:
   - DOMAIN-SUFFIX,joyclub.de
   - DOMAIN-SUFFIX,joyhentai.com
   - DOMAIN-SUFFIX,joyid-f154b.firebaseio.com
+  - DOMAIN-SUFFIX,joyjoy.net
   - DOMAIN-SUFFIX,joylovedolls.com
   - DOMAIN-SUFFIX,joymii.com
   - DOMAIN-SUFFIX,joymiihub.com
@@ -24027,8 +24063,10 @@ payload:
   - DOMAIN-SUFFIX,llss.me
   - DOMAIN-SUFFIX,lm.1731788.com
   - DOMAIN-SUFFIX,lm.iloli.ml
+  - DOMAIN-SUFFIX,lm.licenses.adobe.com
   - DOMAIN-SUFFIX,lm1188.com
   - DOMAIN-SUFFIX,lmb.betway118.com
+  - DOMAIN-SUFFIX,lmlicenses.wip4.adobe.com
   - DOMAIN-SUFFIX,lmmbtc.com
   - DOMAIN-SUFFIX,lmt.jbo8.com
   - DOMAIN-SUFFIX,ln.sync.com
@@ -26785,6 +26823,7 @@ payload:
   - DOMAIN-SUFFIX,na.ddns.name
   - DOMAIN-SUFFIX,na.kalone.net
   - DOMAIN-SUFFIX,na.tl
+  - DOMAIN-SUFFIX,na1r.services.adobe.com
   - DOMAIN-SUFFIX,naacoalition.org
   - DOMAIN-SUFFIX,naaktevrouwenporno.com
   - DOMAIN-SUFFIX,nab.demdex.net
@@ -28436,6 +28475,7 @@ payload:
   - DOMAIN-SUFFIX,oo516.net
   - DOMAIN-SUFFIX,oo656.net
   - DOMAIN-SUFFIX,oo699.net
+  - DOMAIN-SUFFIX,ood.opsource.net
   - DOMAIN-SUFFIX,oogami.name
   - DOMAIN-SUFFIX,oogate.com
   - DOMAIN-SUFFIX,ooguy.com
@@ -28535,6 +28575,7 @@ payload:
   - DOMAIN-SUFFIX,oppapers.com
   - DOMAIN-SUFFIX,oppc.tk
   - DOMAIN-SUFFIX,opposix.com
+  - DOMAIN-SUFFIX,opsource.net
   - DOMAIN-SUFFIX,opsxtv.com
   - DOMAIN-SUFFIX,optanedifference.com
   - DOMAIN-SUFFIX,opte.org
@@ -28935,6 +28976,7 @@ payload:
   - DOMAIN-SUFFIX,pandafan.me
   - DOMAIN-SUFFIX,pandafe.com
   - DOMAIN-SUFFIX,pandamovies.pw
+  - DOMAIN-SUFFIX,pandanet-igs.com
   - DOMAIN-SUFFIX,pandapow.co
   - DOMAIN-SUFFIX,pandapow.com
   - DOMAIN-SUFFIX,pandapow.net
@@ -29828,6 +29870,7 @@ payload:
   - DOMAIN-SUFFIX,pogo.com
   - DOMAIN-SUFFIX,pogobeta.com
   - DOMAIN-SUFFIX,pohill.com
+  - DOMAIN-SUFFIX,poi.moe
   - DOMAIN-SUFFIX,poikilmavillas.gr
   - DOMAIN-SUFFIX,point2hk.com
   - DOMAIN-SUFFIX,point2this.com
@@ -30378,6 +30421,11 @@ payload:
   - DOMAIN-SUFFIX,practicalbusinessskills.com
   - DOMAIN-SUFFIX,practicaldigitalprotection.com
   - DOMAIN-SUFFIX,practicalmoneyskills.cn
+  - DOMAIN-SUFFIX,practivate.adobe
+  - DOMAIN-SUFFIX,practivate.adobe.com
+  - DOMAIN-SUFFIX,practivate.adobe.ipp
+  - DOMAIN-SUFFIX,practivate.adobe.newoa
+  - DOMAIN-SUFFIX,practivate.adobe.ntp
   - DOMAIN-SUFFIX,praksis.com.my
   - DOMAIN-SUFFIX,pratikpatel.in
   - DOMAIN-SUFFIX,prayforchina.net
@@ -30669,6 +30717,7 @@ payload:
   - DOMAIN-SUFFIX,prpops.com
   - DOMAIN-SUFFIX,prprcloud.com
   - DOMAIN-SUFFIX,prs188188.com
+  - DOMAIN-SUFFIX,prts.plus
   - DOMAIN-SUFFIX,prutoncapital.com
   - DOMAIN-SUFFIX,prxch.com
   - DOMAIN-SUFFIX,ps.abs.edu.kw
@@ -33257,7 +33306,9 @@ payload:
   - DOMAIN-SUFFIX,showav.tv
   - DOMAIN-SUFFIX,showbiz.omy.sg
   - DOMAIN-SUFFIX,showhaotu.com
+  - DOMAIN-SUFFIX,showtime.com
   - DOMAIN-SUFFIX,showtime.jp
+  - DOMAIN-SUFFIX,showtimeanytime.com
   - DOMAIN-SUFFIX,showup.tv
   - DOMAIN-SUFFIX,showwe.tw
   - DOMAIN-SUFFIX,showybeauty.com
@@ -37901,6 +37952,7 @@ payload:
   - DOMAIN-SUFFIX,vermonttibet.org
   - DOMAIN-SUFFIX,verpeliculasporno.gratis
   - DOMAIN-SUFFIX,versavpn.com
+  - DOMAIN-SUFFIX,versign.net
   - DOMAIN-SUFFIX,versly.com
   - DOMAIN-SUFFIX,vervesex.com
   - DOMAIN-SUFFIX,verybs.com
@@ -39509,6 +39561,11 @@ payload:
   - DOMAIN-SUFFIX,winwhispers.info
   - DOMAIN-SUFFIX,wionews.com
   - DOMAIN-SUFFIX,wionnews.com
+  - DOMAIN-SUFFIX,wip.adobe.com
+  - DOMAIN-SUFFIX,wip1.adobe.com
+  - DOMAIN-SUFFIX,wip2.adobe.com
+  - DOMAIN-SUFFIX,wip3.adobe.com
+  - DOMAIN-SUFFIX,wip4.adobe.com
   - DOMAIN-SUFFIX,wipower.com
   - DOMAIN-SUFFIX,wire.com
   - DOMAIN-SUFFIX,wired.com
@@ -39954,6 +40011,102 @@ payload:
   - DOMAIN-SUFFIX,wwdlw78.com
   - DOMAIN-SUFFIX,wwe.com
   - DOMAIN-SUFFIX,wwe9.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip100.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip101.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip102.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip103.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip104.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip105.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip106.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip107.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip108.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip109.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip110.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip111.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip112.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip113.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip114.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip115.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip116.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip117.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip118.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip119.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip120.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip121.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip122.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip123.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip124.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip125.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip30.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip31.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip32.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip33.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip34.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip35.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip36.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip37.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip38.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip39.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip40.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip41.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip42.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip43.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip44.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip45.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip46.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip47.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip48.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip49.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip50.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip51.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip52.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip53.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip54.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip55.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip56.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip57.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip58.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip59.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip61.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip62.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip63.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip64.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip65.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip66.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip67.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip68.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip69.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip70.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip71.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip72.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip73.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip74.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip75.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip76.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip77.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip78.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip79.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip80.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip81.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip82.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip83.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip84.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip85.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip86.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip87.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip88.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip89.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip90.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip91.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip92.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip93.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip94.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip95.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip96.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip97.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip98.adobe.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip99.adobe.com
   - DOMAIN-SUFFIX,wwitv.com
   - DOMAIN-SUFFIX,wwtbam.com
   - DOMAIN-SUFFIX,www-19119.com
