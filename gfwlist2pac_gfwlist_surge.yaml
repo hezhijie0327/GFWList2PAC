@@ -1,7 +1,7 @@
-# Checksum: MTY4MDM5ODQ4MQo=
+# Checksum: MTY4MDQ4NDU0NQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20230402-0
-# TimeUpdated: 2023-04-02T01:21:21+00:00
+# Version: 1.0.9-20230403-0
+# TimeUpdated: 2023-04-03T01:15:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -3885,6 +3885,7 @@ DOMAIN-SUFFIX,adpl.org.hk,PROXY
 DOMAIN-SUFFIX,adriannapapell.com,PROXY
 DOMAIN-SUFFIX,adrianos.org,PROXY
 DOMAIN-SUFFIX,ads-a.juicyads.com,PROXY
+DOMAIN-SUFFIX,ads-pixiv.net,PROXY
 DOMAIN-SUFFIX,ads-twitter.com,PROXY
 DOMAIN-SUFFIX,adsa2.9acz1.com,PROXY
 DOMAIN-SUFFIX,adsense.com,PROXY
@@ -6074,6 +6075,7 @@ DOMAIN-SUFFIX,azuredns-prd.info,PROXY
 DOMAIN-SUFFIX,azuredns-prd.org,PROXY
 DOMAIN-SUFFIX,azureedge-test.net,PROXY
 DOMAIN-SUFFIX,azureedge.net,PROXY
+DOMAIN-SUFFIX,azurefd.net,PROXY
 DOMAIN-SUFFIX,azurehdinsight.cn,PROXY
 DOMAIN-SUFFIX,azureiotcentral.com,PROXY
 DOMAIN-SUFFIX,azureiotsolutions.com,PROXY
@@ -28496,6 +28498,7 @@ DOMAIN-SUFFIX,open.firstory.me,PROXY
 DOMAIN-SUFFIX,open.spotify.com,PROXY
 DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,PROXY
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY
 DOMAIN-SUFFIX,openaked.com,PROXY
 DOMAIN-SUFFIX,openallweb.com,PROXY
 DOMAIN-SUFFIX,openamt.com,PROXY
