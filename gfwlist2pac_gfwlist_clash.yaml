@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY4MTI2MjIyMQo=
+# Checksum: MTY4MTM0ODU1Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230412-0
-# TimeUpdated: 2023-04-12T01:17:01+00:00
+# Version: 1.0.9-20230413-0
+# TimeUpdated: 2023-04-13T01:15:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5994,6 +5994,7 @@ payload:
   - DOMAIN-SUFFIX,azuredns-prd.org
   - DOMAIN-SUFFIX,azureedge-test.net
   - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,azurehdinsight.cn
   - DOMAIN-SUFFIX,azureiotcentral.com
   - DOMAIN-SUFFIX,azureiotsolutions.com
@@ -28009,6 +28010,8 @@ payload:
   - DOMAIN-SUFFIX,open.spotify.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN-SUFFIX,openaked.com
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,openamt.com
@@ -30015,6 +30018,7 @@ payload:
   - DOMAIN-SUFFIX,procopytips.com
   - DOMAIN-SUFFIX,proctoscopeexam.com
   - DOMAIN-SUFFIX,prodrive-japan.com
+  - DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
   - DOMAIN-SUFFIX,products.copangroup.com
   - DOMAIN-SUFFIX,profreeporno.com
   - DOMAIN-SUFFIX,program-think-mirror.github.io

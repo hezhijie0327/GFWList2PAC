@@ -1,7 +1,7 @@
-# Checksum: MTY4MTI2MjIyMQo=
+# Checksum: MTY4MTM0ODU1Mwo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20230412-0
-# TimeUpdated: 2023-04-12T01:17:01+00:00
+# Version: 1.0.9-20230413-0
+# TimeUpdated: 2023-04-13T01:15:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -5993,6 +5993,7 @@ DOMAIN-SUFFIX,azuredns-prd.info,PROXY
 DOMAIN-SUFFIX,azuredns-prd.org,PROXY
 DOMAIN-SUFFIX,azureedge-test.net,PROXY
 DOMAIN-SUFFIX,azureedge.net,PROXY
+DOMAIN-SUFFIX,azurefd.net,PROXY
 DOMAIN-SUFFIX,azurehdinsight.cn,PROXY
 DOMAIN-SUFFIX,azureiotcentral.com,PROXY
 DOMAIN-SUFFIX,azureiotsolutions.com,PROXY
@@ -28008,6 +28009,8 @@ DOMAIN-SUFFIX,open.firstory.me,PROXY
 DOMAIN-SUFFIX,open.spotify.com,PROXY
 DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,PROXY
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net,PROXY
 DOMAIN-SUFFIX,openaked.com,PROXY
 DOMAIN-SUFFIX,openallweb.com,PROXY
 DOMAIN-SUFFIX,openamt.com,PROXY
@@ -30014,6 +30017,7 @@ DOMAIN-SUFFIX,prochan.com,PROXY
 DOMAIN-SUFFIX,procopytips.com,PROXY
 DOMAIN-SUFFIX,proctoscopeexam.com,PROXY
 DOMAIN-SUFFIX,prodrive-japan.com,PROXY
+DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net,PROXY
 DOMAIN-SUFFIX,products.copangroup.com,PROXY
 DOMAIN-SUFFIX,profreeporno.com,PROXY
 DOMAIN-SUFFIX,program-think-mirror.github.io,PROXY
