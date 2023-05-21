@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY4NDU0NTQyMAo=
+# Checksum: MTY4NDYzMjI5Nwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230520-0
-# TimeUpdated: 2023-05-20T01:17:00+00:00
+# Version: 1.0.9-20230521-0
+# TimeUpdated: 2023-05-21T01:24:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -9376,6 +9376,7 @@ payload:
   - DOMAIN-SUFFIX,huaxiabao.org
   - DOMAIN-SUFFIX,huaxin.ph
   - DOMAIN-SUFFIX,huayuworld.org
+  - DOMAIN-SUFFIX,hub.docker.com
   - DOMAIN-SUFFIX,hub.fastgit.org
   - DOMAIN-SUFFIX,hubblephone.com
   - DOMAIN-SUFFIX,hubg.org
@@ -11663,6 +11664,7 @@ payload:
   - DOMAIN-SUFFIX,mdhcdn.com
   - DOMAIN-SUFFIX,mdialog.com
   - DOMAIN-SUFFIX,mdlf.xyz
+  - DOMAIN-SUFFIX,mdn.dev
   - DOMAIN-SUFFIX,mdn.mozillademos.org
   - DOMAIN-SUFFIX,mdn.mozit.cloud
   - DOMAIN-SUFFIX,mdnkids.com
@@ -11897,6 +11899,7 @@ payload:
   - DOMAIN-SUFFIX,mike.cz.cc
   - DOMAIN-SUFFIX,mikesoltys.com
   - DOMAIN-SUFFIX,mikocon.com
+  - DOMAIN-SUFFIX,mikrotik.com
   - DOMAIN-SUFFIX,miktex.org
   - DOMAIN-SUFFIX,mikuexpo.com
   - DOMAIN-SUFFIX,milehighmedia.com
@@ -15564,6 +15567,7 @@ payload:
   - DOMAIN-SUFFIX,roucdn.link
   - DOMAIN-SUFFIX,roughman.net
   - DOMAIN-SUFFIX,route53.cn
+  - DOMAIN-SUFFIX,routerboard.com
   - DOMAIN-SUFFIX,routledgehandbooks.com
   - DOMAIN-SUFFIX,royalcams.com
   - DOMAIN-SUFFIX,royalsocietypublishing.org
