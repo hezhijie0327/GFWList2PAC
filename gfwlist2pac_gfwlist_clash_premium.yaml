@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY4NDk3NzU2MAo=
+# Checksum: MTY4NTA2NDA0MAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20230525-0
-# TimeUpdated: 2023-05-25T01:19:20+00:00
+# Version: 1.0.9-20230526-0
+# TimeUpdated: 2023-05-26T01:20:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -950,6 +950,7 @@ payload:
   - '+.alliancesages.com'
   - '+.allinfa.com'
   - '+.allinternal.com'
+  - '+.allizom.net'
   - '+.allizom.org'
   - '+.alljackpotscasino.com'
   - '+.alljapanesepass.com'
@@ -9983,7 +9984,6 @@ payload:
   - '+.intelstore.com'
   - '+.inteltechnologyprovider.com'
   - '+.intelvmwarecybersecurity.com'
-  - '+.interactive-examples.mdn.mozilla.net'
   - '+.interactivebrokers.com'
   - '+.intercom.com'
   - '+.intercomassets.com'
@@ -11665,6 +11665,7 @@ payload:
   - '+.mdhcdn.com'
   - '+.mdialog.com'
   - '+.mdlf.xyz'
+  - '+.mdn.allizom.net'
   - '+.mdn.dev'
   - '+.mdn.mozillademos.org'
   - '+.mdn.mozit.cloud'

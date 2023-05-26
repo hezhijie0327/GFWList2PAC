@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY4NDk3NzU2MAo=
+# Checksum: MTY4NTA2NDA0MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230525-0
-# TimeUpdated: 2023-05-25T01:19:20+00:00
+# Version: 1.0.9-20230526-0
+# TimeUpdated: 2023-05-26T01:20:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -950,6 +950,7 @@ payload:
   - DOMAIN-SUFFIX,alliancesages.com
   - DOMAIN-SUFFIX,allinfa.com
   - DOMAIN-SUFFIX,allinternal.com
+  - DOMAIN-SUFFIX,allizom.net
   - DOMAIN-SUFFIX,allizom.org
   - DOMAIN-SUFFIX,alljackpotscasino.com
   - DOMAIN-SUFFIX,alljapanesepass.com
@@ -9983,7 +9984,6 @@ payload:
   - DOMAIN-SUFFIX,intelstore.com
   - DOMAIN-SUFFIX,inteltechnologyprovider.com
   - DOMAIN-SUFFIX,intelvmwarecybersecurity.com
-  - DOMAIN-SUFFIX,interactive-examples.mdn.mozilla.net
   - DOMAIN-SUFFIX,interactivebrokers.com
   - DOMAIN-SUFFIX,intercom.com
   - DOMAIN-SUFFIX,intercomassets.com
@@ -11665,6 +11665,7 @@ payload:
   - DOMAIN-SUFFIX,mdhcdn.com
   - DOMAIN-SUFFIX,mdialog.com
   - DOMAIN-SUFFIX,mdlf.xyz
+  - DOMAIN-SUFFIX,mdn.allizom.net
   - DOMAIN-SUFFIX,mdn.dev
   - DOMAIN-SUFFIX,mdn.mozillademos.org
   - DOMAIN-SUFFIX,mdn.mozit.cloud
