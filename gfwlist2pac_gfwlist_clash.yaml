@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY4OTM4NTYzMAo=
+# Checksum: MTY4OTQ3MjY4Nwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230715-0
-# TimeUpdated: 2023-07-15T01:47:10+00:00
+# Version: 1.0.9-20230716-0
+# TimeUpdated: 2023-07-16T01:58:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -5267,6 +5267,7 @@ payload:
   - DOMAIN-SUFFIX,dlsitestudio.com
   - DOMAIN-SUFFIX,dlyoutube.com
   - DOMAIN-SUFFIX,dm530.net
+  - DOMAIN-SUFFIX,dmarcnetworks.com
   - DOMAIN-SUFFIX,dmc.nico
   - DOMAIN-SUFFIX,dmcdn.net
   - DOMAIN-SUFFIX,dmed.technology
@@ -6240,6 +6241,7 @@ payload:
   - DOMAIN-SUFFIX,eurekaselect.com
   - DOMAIN-SUFFIX,eurekavpt.com
   - DOMAIN-SUFFIX,eurobabeindex.com
+  - DOMAIN-SUFFIX,eurodasp.com
   - DOMAIN-SUFFIX,eurogirlsescort.com
   - DOMAIN-SUFFIX,euroipad.com
   - DOMAIN-SUFFIX,euronews.com
@@ -7563,6 +7565,7 @@ payload:
   - DOMAIN-SUFFIX,fzlm.com
   - DOMAIN-SUFFIX,fzlm.net
   - DOMAIN-SUFFIX,g-area.org
+  - DOMAIN-SUFFIX,g-desktop.ru
   - DOMAIN-SUFFIX,g-queen.com
   - DOMAIN-SUFFIX,g-technology.com
   - DOMAIN-SUFFIX,g-tun.com
@@ -7989,6 +7992,7 @@ payload:
   - DOMAIN-SUFFIX,goagent.biz
   - DOMAIN-SUFFIX,goagent.codeplex.com
   - DOMAIN-SUFFIX,goagentplus.com
+  - DOMAIN-SUFFIX,goagle.de
   - DOMAIN-SUFFIX,gobeatsye.com
   - DOMAIN-SUFFIX,gobet.cc
   - DOMAIN-SUFFIX,gobianywhere.com
@@ -8009,6 +8013,7 @@ payload:
   - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN-SUFFIX,gogle.com
+  - DOMAIN-SUFFIX,gogle.de
   - DOMAIN-SUFFIX,gogo-load.com
   - DOMAIN-SUFFIX,gogoanime.wiki
   - DOMAIN-SUFFIX,gogocdn.net
@@ -8059,9 +8064,11 @@ payload:
   - DOMAIN-SUFFIX,goodtv.tv
   - DOMAIN-SUFFIX,goofind.com
   - DOMAIN-SUFFIX,googel.com
+  - DOMAIN-SUFFIX,googel.de
   - DOMAIN-SUFFIX,googil.com
   - DOMAIN-SUFFIX,googl.com
   - DOMAIN-SUFFIX,google-access.net
+  - DOMAIN-SUFFIX,google-base.de
   - DOMAIN-SUFFIX,google-syndication.com
   - DOMAIN-SUFFIX,google.ac
   - DOMAIN-SUFFIX,google.ad
@@ -8301,8 +8308,10 @@ payload:
   - DOMAIN-SUFFIX,googleideas.com
   - DOMAIN-SUFFIX,googleinsidesearch.com
   - DOMAIN-SUFFIX,googlelabs.com
+  - DOMAIN-SUFFIX,googlelocal.nl
   - DOMAIN-SUFFIX,googlemail.com
   - DOMAIN-SUFFIX,googlemaps.com
+  - DOMAIN-SUFFIX,googlemaps.sv
   - DOMAIN-SUFFIX,googlemashups.com
   - DOMAIN-SUFFIX,googlepagecreator.com
   - DOMAIN-SUFFIX,googlephotos.com
@@ -8462,6 +8471,7 @@ payload:
   - DOMAIN-SUFFIX,gutteruncensored.com
   - DOMAIN-SUFFIX,guysnightlife.com
   - DOMAIN-SUFFIX,gv.com
+  - DOMAIN-SUFFIX,gvideo.de
   - DOMAIN-SUFFIX,gvlib.com
   - DOMAIN-SUFFIX,gvm.com.tw
   - DOMAIN-SUFFIX,gvt0.com
@@ -8472,6 +8482,7 @@ payload:
   - DOMAIN-SUFFIX,gvt6.com
   - DOMAIN-SUFFIX,gvt7.com
   - DOMAIN-SUFFIX,gvt9.com
+  - DOMAIN-SUFFIX,gwave.com
   - DOMAIN-SUFFIX,gwiki.net
   - DOMAIN-SUFFIX,gwins.org
   - DOMAIN-SUFFIX,gwtproject.org
@@ -9342,6 +9353,7 @@ payload:
   - DOMAIN-SUFFIX,hu1u.com
   - DOMAIN-SUFFIX,hua-yue.net
   - DOMAIN-SUFFIX,huaglad.com
+  - DOMAIN-SUFFIX,huaibinmall.com
   - DOMAIN-SUFFIX,huanghuagang.org
   - DOMAIN-SUFFIX,huangse.love
   - DOMAIN-SUFFIX,huangyiyu.com
@@ -9639,7 +9651,58 @@ payload:
   - DOMAIN-SUFFIX,ignites.com
   - DOMAIN-SUFFIX,ignitesasia.com
   - DOMAIN-SUFFIX,igniteseurope.com
+  - DOMAIN-SUFFIX,igoogle.ae
+  - DOMAIN-SUFFIX,igoogle.am
+  - DOMAIN-SUFFIX,igoogle.as
+  - DOMAIN-SUFFIX,igoogle.at
+  - DOMAIN-SUFFIX,igoogle.az
+  - DOMAIN-SUFFIX,igoogle.ba
+  - DOMAIN-SUFFIX,igoogle.be
+  - DOMAIN-SUFFIX,igoogle.bg
+  - DOMAIN-SUFFIX,igoogle.ca
+  - DOMAIN-SUFFIX,igoogle.cd
+  - DOMAIN-SUFFIX,igoogle.ci
+  - DOMAIN-SUFFIX,igoogle.co.id
+  - DOMAIN-SUFFIX,igoogle.co.jp
+  - DOMAIN-SUFFIX,igoogle.co.kr
+  - DOMAIN-SUFFIX,igoogle.co.ma
+  - DOMAIN-SUFFIX,igoogle.co.uk
   - DOMAIN-SUFFIX,igoogle.com
+  - DOMAIN-SUFFIX,igoogle.de
+  - DOMAIN-SUFFIX,igoogle.dj
+  - DOMAIN-SUFFIX,igoogle.dk
+  - DOMAIN-SUFFIX,igoogle.es
+  - DOMAIN-SUFFIX,igoogle.fi
+  - DOMAIN-SUFFIX,igoogle.fm
+  - DOMAIN-SUFFIX,igoogle.fr
+  - DOMAIN-SUFFIX,igoogle.gg
+  - DOMAIN-SUFFIX,igoogle.gl
+  - DOMAIN-SUFFIX,igoogle.gr
+  - DOMAIN-SUFFIX,igoogle.ie
+  - DOMAIN-SUFFIX,igoogle.is
+  - DOMAIN-SUFFIX,igoogle.it
+  - DOMAIN-SUFFIX,igoogle.jo
+  - DOMAIN-SUFFIX,igoogle.kz
+  - DOMAIN-SUFFIX,igoogle.lv
+  - DOMAIN-SUFFIX,igoogle.mn
+  - DOMAIN-SUFFIX,igoogle.ms
+  - DOMAIN-SUFFIX,igoogle.nl
+  - DOMAIN-SUFFIX,igoogle.no
+  - DOMAIN-SUFFIX,igoogle.nu
+  - DOMAIN-SUFFIX,igoogle.ro
+  - DOMAIN-SUFFIX,igoogle.ru
+  - DOMAIN-SUFFIX,igoogle.rw
+  - DOMAIN-SUFFIX,igoogle.sc
+  - DOMAIN-SUFFIX,igoogle.sh
+  - DOMAIN-SUFFIX,igoogle.sk
+  - DOMAIN-SUFFIX,igoogle.sm
+  - DOMAIN-SUFFIX,igoogle.sn
+  - DOMAIN-SUFFIX,igoogle.tk
+  - DOMAIN-SUFFIX,igoogle.tm
+  - DOMAIN-SUFFIX,igoogle.to
+  - DOMAIN-SUFFIX,igoogle.tt
+  - DOMAIN-SUFFIX,igoogle.vu
+  - DOMAIN-SUFFIX,igoogle.ws
   - DOMAIN-SUFFIX,igoshopping.net
   - DOMAIN-SUFFIX,igotmail.com.tw
   - DOMAIN-SUFFIX,igotpornpics.com
@@ -12596,6 +12659,7 @@ payload:
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,myparagliding.com
   - DOMAIN-SUFFIX,mypearson.com
+  - DOMAIN-SUFFIX,mypicasa.com
   - DOMAIN-SUFFIX,mypicture.info
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,mypop3.net
@@ -16977,6 +17041,7 @@ payload:
   - DOMAIN-SUFFIX,strepsils.com.co
   - DOMAIN-SUFFIX,strepsils.net
   - DOMAIN-SUFFIX,strepsilsarabia.com
+  - DOMAIN-SUFFIX,striek.com
   - DOMAIN-SUFFIX,strikingly.com
   - DOMAIN-SUFFIX,strikinglycdn.com
   - DOMAIN-SUFFIX,stripcamfun.com
@@ -17108,6 +17173,7 @@ payload:
   - DOMAIN-SUFFIX,swapsmut.com
   - DOMAIN-SUFFIX,sway-cdn.com
   - DOMAIN-SUFFIX,sway.com
+  - DOMAIN-SUFFIX,swbusdev.com
   - DOMAIN-SUFFIX,sweetadult-tube.com
   - DOMAIN-SUFFIX,sweetmlif.net
   - DOMAIN-SUFFIX,sweetsext.com
@@ -17369,6 +17435,7 @@ payload:
   - DOMAIN-SUFFIX,telegra.ph
   - DOMAIN-SUFFIX,telegram-cdn.org
   - DOMAIN-SUFFIX,telegram-porn.com
+  - DOMAIN-SUFFIX,telegram-store.com
   - DOMAIN-SUFFIX,telegram.dog
   - DOMAIN-SUFFIX,telegram.me
   - DOMAIN-SUFFIX,telegram.org
