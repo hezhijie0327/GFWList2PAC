@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5MDI0OTE0MQo=
+# Checksum: MTY5MDMzNDY1NAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230725-0
-# TimeUpdated: 2023-07-25T01:39:01+00:00
+# Version: 1.0.9-20230726-0
+# TimeUpdated: 2023-07-26T01:24:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1065,6 +1065,7 @@ payload:
   - DOMAIN-SUFFIX,amazon.co
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazon.dev
   - DOMAIN-SUFFIX,amazon.jobs
   - DOMAIN-SUFFIX,amazon.red
   - DOMAIN-SUFFIX,amazonalexavoxcon.com
@@ -3905,6 +3906,8 @@ payload:
   - DOMAIN-SUFFIX,cheapwireless04.com
   - DOMAIN-SUFFIX,cheapwirelessbeats.com
   - DOMAIN-SUFFIX,checkgfw.com
+  - DOMAIN-SUFFIX,chegg.com
+  - DOMAIN-SUFFIX,cheggcdn.com
   - DOMAIN-SUFFIX,chemequations.com
   - DOMAIN-SUFFIX,chemnetbase.com
   - DOMAIN-SUFFIX,chengjuanseo.com
@@ -4219,6 +4222,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflarewarp.com
   - DOMAIN-SUFFIX,cloudfront-test.cn
   - DOMAIN-SUFFIX,cloudfront.cn
+  - DOMAIN-SUFFIX,cloudfront.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cloudfunctions.net
   - DOMAIN-SUFFIX,cloudgarage.jp
@@ -4239,6 +4243,7 @@ payload:
   - DOMAIN-SUFFIX,cloupia.net
   - DOMAIN-SUFFIX,club.tw
   - DOMAIN-SUFFIX,club1069.com
+  - DOMAIN-SUFFIX,clubhouse.com
   - DOMAIN-SUFFIX,clubhouse.pubnubapi.com
   - DOMAIN-SUFFIX,clubhouseapi.com
   - DOMAIN-SUFFIX,clubseventeen.com
@@ -6063,6 +6068,7 @@ payload:
   - DOMAIN-SUFFIX,epac.to
   - DOMAIN-SUFFIX,epicbrowser.com
   - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,epicreads.com
   - DOMAIN-SUFFIX,epigeum.com
   - DOMAIN-SUFFIX,epikporn.com
@@ -7079,6 +7085,7 @@ payload:
   - DOMAIN-SUFFIX,foolsmountain.com
   - DOMAIN-SUFFIX,fooooo.com
   - DOMAIN-SUFFIX,footprint.net
+  - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN-SUFFIX,footseen.com
   - DOMAIN-SUFFIX,footstockings.com
   - DOMAIN-SUFFIX,footwiball.com
@@ -8601,7 +8608,6 @@ payload:
   - DOMAIN-SUFFIX,hbg.com
   - DOMAIN-SUFFIX,hbo.com
   - DOMAIN-SUFFIX,hbo.com.c.footprint.net
-  - DOMAIN-SUFFIX,hbo.com.edgesuite.net
   - DOMAIN-SUFFIX,hboasia.com
   - DOMAIN-SUFFIX,hbogo.com
   - DOMAIN-SUFFIX,hbogoasia.com
@@ -11671,6 +11677,7 @@ payload:
   - DOMAIN-SUFFIX,matsushimakaede.com
   - DOMAIN-SUFFIX,matters.news
   - DOMAIN-SUFFIX,matters.one
+  - DOMAIN-SUFFIX,matters.town
   - DOMAIN-SUFFIX,matthewdgreen.wordpress.com
   - DOMAIN-SUFFIX,mattwilcox.net
   - DOMAIN-SUFFIX,mature-amateur-sex.com
@@ -15176,6 +15183,7 @@ payload:
   - DOMAIN-SUFFIX,qmttqg3k.me
   - DOMAIN-SUFFIX,qmzdd.com
   - DOMAIN-SUFFIX,qombol.com
+  - DOMAIN-SUFFIX,qooqlevideo.com
   - DOMAIN-SUFFIX,qoos.com
   - DOMAIN-SUFFIX,qooza.hk
   - DOMAIN-SUFFIX,qorno.com
@@ -15299,6 +15307,7 @@ payload:
   - DOMAIN-SUFFIX,rarbgto.org
   - DOMAIN-SUFFIX,rarbgunblock.com
   - DOMAIN-SUFFIX,rarbgunblock.org
+  - DOMAIN-SUFFIX,rarbgunblocked.org
   - DOMAIN-SUFFIX,rarbgway.org
   - DOMAIN-SUFFIX,raremovie.cc
   - DOMAIN-SUFFIX,raremovie.net

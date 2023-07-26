@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5MDI0OTE0MQo=
+# Checksum: MTY5MDMzNDY1NAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20230725-0
-# TimeUpdated: 2023-07-25T01:39:01+00:00
+# Version: 1.0.9-20230726-0
+# TimeUpdated: 2023-07-26T01:24:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -1065,6 +1065,7 @@ payload:
   - '+.amazon.co'
   - '+.amazon.co.jp'
   - '+.amazon.com'
+  - '+.amazon.dev'
   - '+.amazon.jobs'
   - '+.amazon.red'
   - '+.amazonalexavoxcon.com'
@@ -3905,6 +3906,8 @@ payload:
   - '+.cheapwireless04.com'
   - '+.cheapwirelessbeats.com'
   - '+.checkgfw.com'
+  - '+.chegg.com'
+  - '+.cheggcdn.com'
   - '+.chemequations.com'
   - '+.chemnetbase.com'
   - '+.chengjuanseo.com'
@@ -4219,6 +4222,7 @@ payload:
   - '+.cloudflarewarp.com'
   - '+.cloudfront-test.cn'
   - '+.cloudfront.cn'
+  - '+.cloudfront.com'
   - '+.cloudfront.net'
   - '+.cloudfunctions.net'
   - '+.cloudgarage.jp'
@@ -4239,6 +4243,7 @@ payload:
   - '+.cloupia.net'
   - '+.club.tw'
   - '+.club1069.com'
+  - '+.clubhouse.com'
   - '+.clubhouse.pubnubapi.com'
   - '+.clubhouseapi.com'
   - '+.clubseventeen.com'
@@ -6063,6 +6068,7 @@ payload:
   - '+.epac.to'
   - '+.epicbrowser.com'
   - '+.epicgames.com'
+  - '+.epicgames.dev'
   - '+.epicreads.com'
   - '+.epigeum.com'
   - '+.epikporn.com'
@@ -7079,6 +7085,7 @@ payload:
   - '+.foolsmountain.com'
   - '+.fooooo.com'
   - '+.footprint.net'
+  - '+.footprintdns.com'
   - '+.footseen.com'
   - '+.footstockings.com'
   - '+.footwiball.com'
@@ -8601,7 +8608,6 @@ payload:
   - '+.hbg.com'
   - '+.hbo.com'
   - '+.hbo.com.c.footprint.net'
-  - '+.hbo.com.edgesuite.net'
   - '+.hboasia.com'
   - '+.hbogo.com'
   - '+.hbogoasia.com'
@@ -11671,6 +11677,7 @@ payload:
   - '+.matsushimakaede.com'
   - '+.matters.news'
   - '+.matters.one'
+  - '+.matters.town'
   - '+.matthewdgreen.wordpress.com'
   - '+.mattwilcox.net'
   - '+.mature-amateur-sex.com'
@@ -15176,6 +15183,7 @@ payload:
   - '+.qmttqg3k.me'
   - '+.qmzdd.com'
   - '+.qombol.com'
+  - '+.qooqlevideo.com'
   - '+.qoos.com'
   - '+.qooza.hk'
   - '+.qorno.com'
@@ -15299,6 +15307,7 @@ payload:
   - '+.rarbgto.org'
   - '+.rarbgunblock.com'
   - '+.rarbgunblock.org'
+  - '+.rarbgunblocked.org'
   - '+.rarbgway.org'
   - '+.raremovie.cc'
   - '+.raremovie.net'
