@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5MDUwNjkyMQo=
+# Checksum: MTY5MDU5MzM0MQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230728-0
-# TimeUpdated: 2023-07-28T01:15:21+00:00
+# Version: 1.0.9-20230729-0
+# TimeUpdated: 2023-07-29T01:15:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -596,6 +596,7 @@ payload:
   - DOMAIN-SUFFIX,addyoutube.com
   - DOMAIN-SUFFIX,adelaidebbs.com
   - DOMAIN-SUFFIX,adgoogle.net
+  - DOMAIN-SUFFIX,adguard-dns.com
   - DOMAIN-SUFFIX,adguard-vpn.com
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,adguard.org
@@ -1539,6 +1540,7 @@ payload:
   - DOMAIN-SUFFIX,arcadewank.com
   - DOMAIN-SUFFIX,arcgis.com
   - DOMAIN-SUFFIX,arcgisonline.com
+  - DOMAIN-SUFFIX,archive-it.org
   - DOMAIN-SUFFIX,archive.fastgit.org
   - DOMAIN-SUFFIX,archive.fo
   - DOMAIN-SUFFIX,archive.is
@@ -13746,6 +13748,7 @@ payload:
   - DOMAIN-SUFFIX,openid.net
   - DOMAIN-SUFFIX,openjsf.org
   - DOMAIN-SUFFIX,openleaks.org
+  - DOMAIN-SUFFIX,openlibrary.org
   - DOMAIN-SUFFIX,openmaps.org
   - DOMAIN-SUFFIX,openresty.org
   - DOMAIN-SUFFIX,opensea.io

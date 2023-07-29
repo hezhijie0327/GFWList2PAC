@@ -1,7 +1,7 @@
-# Checksum: MTY5MDUwNjkyMQo=
+# Checksum: MTY5MDU5MzM0MQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20230728-0
-# TimeUpdated: 2023-07-28T01:15:21+00:00
+# Version: 1.0.9-20230729-0
+# TimeUpdated: 2023-07-29T01:15:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -595,6 +595,7 @@ DOMAIN-SUFFIX,addtoany.com,PROXY
 DOMAIN-SUFFIX,addyoutube.com,PROXY
 DOMAIN-SUFFIX,adelaidebbs.com,PROXY
 DOMAIN-SUFFIX,adgoogle.net,PROXY
+DOMAIN-SUFFIX,adguard-dns.com,PROXY
 DOMAIN-SUFFIX,adguard-vpn.com,PROXY
 DOMAIN-SUFFIX,adguard.com,PROXY
 DOMAIN-SUFFIX,adguard.org,PROXY
@@ -1538,6 +1539,7 @@ DOMAIN-SUFFIX,aragon.network,PROXY
 DOMAIN-SUFFIX,arcadewank.com,PROXY
 DOMAIN-SUFFIX,arcgis.com,PROXY
 DOMAIN-SUFFIX,arcgisonline.com,PROXY
+DOMAIN-SUFFIX,archive-it.org,PROXY
 DOMAIN-SUFFIX,archive.fastgit.org,PROXY
 DOMAIN-SUFFIX,archive.fo,PROXY
 DOMAIN-SUFFIX,archive.is,PROXY
@@ -13745,6 +13747,7 @@ DOMAIN-SUFFIX,opengw.net,PROXY
 DOMAIN-SUFFIX,openid.net,PROXY
 DOMAIN-SUFFIX,openjsf.org,PROXY
 DOMAIN-SUFFIX,openleaks.org,PROXY
+DOMAIN-SUFFIX,openlibrary.org,PROXY
 DOMAIN-SUFFIX,openmaps.org,PROXY
 DOMAIN-SUFFIX,openresty.org,PROXY
 DOMAIN-SUFFIX,opensea.io,PROXY
