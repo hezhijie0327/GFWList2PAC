@@ -1,7 +1,7 @@
-# Checksum: MTY5MDU5MzM0MQo=
+# Checksum: MTY5MDY3OTk2OAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.0.9-20230729-0
-# TimeUpdated: 2023-07-29T01:15:41+00:00
+# Version: 1.0.9-20230730-0
+# TimeUpdated: 2023-07-30T01:19:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -4203,6 +4203,7 @@ DOMAIN-SUFFIX,cloudconvert.com,PROXY
 DOMAIN-SUFFIX,cloudcraze.com,PROXY
 DOMAIN-SUFFIX,cloudcredibility.com,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
+DOMAIN-SUFFIX,cloudflare-gateway.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
 DOMAIN-SUFFIX,cloudflare-quic.com,PROXY
 DOMAIN-SUFFIX,cloudflare.com,PROXY
@@ -4213,6 +4214,7 @@ DOMAIN-SUFFIX,cloudflarebolt.com,PROXY
 DOMAIN-SUFFIX,cloudflareclient.com,PROXY
 DOMAIN-SUFFIX,cloudflareinsights.com,PROXY
 DOMAIN-SUFFIX,cloudflareok.com,PROXY
+DOMAIN-SUFFIX,cloudflareportal.com,PROXY
 DOMAIN-SUFFIX,cloudflarepreview.com,PROXY
 DOMAIN-SUFFIX,cloudflareresolve.com,PROXY
 DOMAIN-SUFFIX,cloudflaressl.com,PROXY
@@ -13349,6 +13351,7 @@ DOMAIN-SUFFIX,noypf.com,PROXY
 DOMAIN-SUFFIX,npa.go.jp,PROXY
 DOMAIN-SUFFIX,npa.gov.tw,PROXY
 DOMAIN-SUFFIX,npm.community,PROXY
+DOMAIN-SUFFIX,npm.edu.tw,PROXY
 DOMAIN-SUFFIX,npmjs.com,PROXY
 DOMAIN-SUFFIX,npmjs.org,PROXY
 DOMAIN-SUFFIX,npnt.me,PROXY
@@ -14355,6 +14358,8 @@ DOMAIN-SUFFIX,pieceofplastic.com,PROXY
 DOMAIN-SUFFIX,pifpafarabia.com,PROXY
 DOMAIN-SUFFIX,pigav.com,PROXY
 DOMAIN-SUFFIX,pikabu.monster,PROXY
+DOMAIN-SUFFIX,pikpak.me,PROXY
+DOMAIN-SUFFIX,pikpakdrive.com,PROXY
 DOMAIN-SUFFIX,pillbeatsblackfridaysale.com,PROXY
 DOMAIN-SUFFIX,pimg.tw,PROXY
 DOMAIN-SUFFIX,pin-cong.com,PROXY
@@ -16730,6 +16735,7 @@ DOMAIN-SUFFIX,soumo.info,PROXY
 DOMAIN-SUFFIX,soundcloud.com,PROXY
 DOMAIN-SUFFIX,soundofhope.kr,PROXY
 DOMAIN-SUFFIX,soundofhope.org,PROXY
+DOMAIN-SUFFIX,soundon.fm,PROXY
 DOMAIN-SUFFIX,soup.io,PROXY
 DOMAIN-SUFFIX,soupofmedia.com,PROXY
 DOMAIN-SUFFIX,sourceforge.com,PROXY

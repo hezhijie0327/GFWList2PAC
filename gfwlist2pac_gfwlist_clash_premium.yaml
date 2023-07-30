@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5MDU5MzM0MQo=
+# Checksum: MTY5MDY3OTk2OAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20230729-0
-# TimeUpdated: 2023-07-29T01:15:41+00:00
+# Version: 1.0.9-20230730-0
+# TimeUpdated: 2023-07-30T01:19:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -4204,6 +4204,7 @@ payload:
   - '+.cloudcraze.com'
   - '+.cloudcredibility.com'
   - '+.cloudflare-dns.com'
+  - '+.cloudflare-gateway.com'
   - '+.cloudflare-ipfs.com'
   - '+.cloudflare-quic.com'
   - '+.cloudflare.com'
@@ -4214,6 +4215,7 @@ payload:
   - '+.cloudflareclient.com'
   - '+.cloudflareinsights.com'
   - '+.cloudflareok.com'
+  - '+.cloudflareportal.com'
   - '+.cloudflarepreview.com'
   - '+.cloudflareresolve.com'
   - '+.cloudflaressl.com'
@@ -13350,6 +13352,7 @@ payload:
   - '+.npa.go.jp'
   - '+.npa.gov.tw'
   - '+.npm.community'
+  - '+.npm.edu.tw'
   - '+.npmjs.com'
   - '+.npmjs.org'
   - '+.npnt.me'
@@ -14356,6 +14359,8 @@ payload:
   - '+.pifpafarabia.com'
   - '+.pigav.com'
   - '+.pikabu.monster'
+  - '+.pikpak.me'
+  - '+.pikpakdrive.com'
   - '+.pillbeatsblackfridaysale.com'
   - '+.pimg.tw'
   - '+.pin-cong.com'
@@ -16731,6 +16736,7 @@ payload:
   - '+.soundcloud.com'
   - '+.soundofhope.kr'
   - '+.soundofhope.org'
+  - '+.soundon.fm'
   - '+.soup.io'
   - '+.soupofmedia.com'
   - '+.sourceforge.com'

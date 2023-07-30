@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5MDU5MzM0MQo=
+# Checksum: MTY5MDY3OTk2OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230729-0
-# TimeUpdated: 2023-07-29T01:15:41+00:00
+# Version: 1.0.9-20230730-0
+# TimeUpdated: 2023-07-30T01:19:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -4204,6 +4204,7 @@ payload:
   - DOMAIN-SUFFIX,cloudcraze.com
   - DOMAIN-SUFFIX,cloudcredibility.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,cloudflare-gateway.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-quic.com
   - DOMAIN-SUFFIX,cloudflare.com
@@ -4214,6 +4215,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflareclient.com
   - DOMAIN-SUFFIX,cloudflareinsights.com
   - DOMAIN-SUFFIX,cloudflareok.com
+  - DOMAIN-SUFFIX,cloudflareportal.com
   - DOMAIN-SUFFIX,cloudflarepreview.com
   - DOMAIN-SUFFIX,cloudflareresolve.com
   - DOMAIN-SUFFIX,cloudflaressl.com
@@ -13350,6 +13352,7 @@ payload:
   - DOMAIN-SUFFIX,npa.go.jp
   - DOMAIN-SUFFIX,npa.gov.tw
   - DOMAIN-SUFFIX,npm.community
+  - DOMAIN-SUFFIX,npm.edu.tw
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,npnt.me
@@ -14356,6 +14359,8 @@ payload:
   - DOMAIN-SUFFIX,pifpafarabia.com
   - DOMAIN-SUFFIX,pigav.com
   - DOMAIN-SUFFIX,pikabu.monster
+  - DOMAIN-SUFFIX,pikpak.me
+  - DOMAIN-SUFFIX,pikpakdrive.com
   - DOMAIN-SUFFIX,pillbeatsblackfridaysale.com
   - DOMAIN-SUFFIX,pimg.tw
   - DOMAIN-SUFFIX,pin-cong.com
@@ -16731,6 +16736,7 @@ payload:
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,soundofhope.kr
   - DOMAIN-SUFFIX,soundofhope.org
+  - DOMAIN-SUFFIX,soundon.fm
   - DOMAIN-SUFFIX,soup.io
   - DOMAIN-SUFFIX,soupofmedia.com
   - DOMAIN-SUFFIX,sourceforge.com
