@@ -1,7 +1,7 @@
-# Checksum: MTY5MDc2NjM0Nwo=
+# Checksum: MTY5MDg1MzIwNgo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.0.9-20230731-0
-# TimeUpdated: 2023-07-31T01:19:07+00:00
+# Version: 1.0.9-20230801-0
+# TimeUpdated: 2023-08-01T01:26:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -4237,6 +4237,7 @@ DOMAIN-SUFFIX,cloudlive.com,PROXY
 DOMAIN-SUFFIX,cloudlock.com,PROXY
 DOMAIN-SUFFIX,cloudmagic.com,PROXY
 DOMAIN-SUFFIX,cloudn.me,PROXY
+DOMAIN-SUFFIX,cloudokyo.cloud,PROXY
 DOMAIN-SUFFIX,cloudproxy.app,PROXY
 DOMAIN-SUFFIX,cloudrobotics.com,PROXY
 DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com,PROXY
@@ -7634,6 +7635,7 @@ DOMAIN-SUFFIX,gamme.com.tw,PROXY
 DOMAIN-SUFFIX,gamousa.com,PROXY
 DOMAIN-SUFFIX,ganges.com,PROXY
 DOMAIN-SUFFIX,ganjing.com,PROXY
+DOMAIN-SUFFIX,ganjing.world,PROXY
 DOMAIN-SUFFIX,ganjingworld.com,PROXY
 DOMAIN-SUFFIX,gannett-cdn.com,PROXY
 DOMAIN-SUFFIX,gannett.com,PROXY
