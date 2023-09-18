@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5NDkxMjk5NQo=
+# Checksum: MTY5NDk5OTE5Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230917-0
-# TimeUpdated: 2023-09-17T01:09:55+00:00
+# Version: 1.0.9-20230918-0
+# TimeUpdated: 2023-09-18T01:06:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -11106,6 +11106,7 @@ payload:
   - DOMAIN-SUFFIX,lgsalesportal.com
   - DOMAIN-SUFFIX,lhakar.org
   - DOMAIN-SUFFIX,lhasocialwork.org
+  - DOMAIN-SUFFIX,li.taipei
   - DOMAIN-SUFFIX,liangyou.net
   - DOMAIN-SUFFIX,liangzhichuanmei.com
   - DOMAIN-SUFFIX,lianhonghong.com
@@ -12273,6 +12274,7 @@ payload:
   - DOMAIN-SUFFIX,moneywithfacebook.com
   - DOMAIN-SUFFIX,mongodb.com
   - DOMAIN-SUFFIX,mongodb.org
+  - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,monitorchina.org
   - DOMAIN-SUFFIX,monitorware.com
   - DOMAIN-SUFFIX,monitrix.net
@@ -18047,7 +18049,6 @@ payload:
   - DOMAIN-SUFFIX,transarmuito.com
   - DOMAIN-SUFFIX,transcamslive.com
   - DOMAIN-SUFFIX,translate.goog
-  - DOMAIN-SUFFIX,translate.google
   - DOMAIN-SUFFIX,translate.googleapis.com
   - DOMAIN-SUFFIX,translatetheweb.com
   - DOMAIN-SUFFIX,translatewiki.net
