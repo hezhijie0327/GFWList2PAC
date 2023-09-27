@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5NTY5MDQ0Mgo=
+# Checksum: MTY5NTc3NjgzMAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230926-0
-# TimeUpdated: 2023-09-26T01:07:22+00:00
+# Version: 1.0.9-20230927-0
+# TimeUpdated: 2023-09-27T01:07:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -13267,6 +13267,7 @@ payload:
   - DOMAIN-SUFFIX,nikezoom.com
   - DOMAIN-SUFFIX,nikkan-gendai.com
   - DOMAIN-SUFFIX,nikkansports.com
+  - DOMAIN-SUFFIX,nikke-kr.com
   - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN-SUFFIX,nikkei4946.com
   - DOMAIN-SUFFIX,nikonpc.com
