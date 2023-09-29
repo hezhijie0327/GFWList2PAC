@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5NTg2MzIxNQo=
+# Checksum: MTY5NTk0OTYxNgo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20230928-0
-# TimeUpdated: 2023-09-28T01:06:55+00:00
+# Version: 1.0.9-20230929-0
+# TimeUpdated: 2023-09-29T01:06:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -13268,7 +13268,12 @@ payload:
   - '+.nikezoom.com'
   - '+.nikkan-gendai.com'
   - '+.nikkansports.com'
+  - '+.nikke-de.com'
+  - '+.nikke-en.com'
+  - '+.nikke-fr.com'
+  - '+.nikke-jp.com'
   - '+.nikke-kr.com'
+  - '+.nikke-sea.com'
   - '+.nikkei.com'
   - '+.nikkei4946.com'
   - '+.nikonpc.com'
