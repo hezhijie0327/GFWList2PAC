@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5NTk0OTYwNgo=
+# Checksum: MTY5NjAzNTkyMAo=
 # Title: Zhijie's CNACCList for Clash Premium
-# Version: 1.0.9-20230929-0
-# TimeUpdated: 2023-09-29T01:06:46+00:00
+# Version: 1.0.9-20230930-0
+# TimeUpdated: 2023-09-30T01:05:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.0-6.com'
@@ -16476,6 +16476,7 @@ payload:
   - '+.crispstata.com'
   - '+.crjfw.com'
   - '+.crl-lb.apple.com.akadns.net'
+  - '+.crl.alphassl.com'
   - '+.crl.apple.com'
   - '+.crl.globalsign.net'
   - '+.crl.pki.goog'
@@ -23778,6 +23779,7 @@ payload:
   - '+.global-scsl.com'
   - '+.global-tractor.com'
   - '+.global-trade-center.com'
+  - '+.global.prd.cdn.globalsign.com'
   - '+.globalaccentchinese.com'
   - '+.globalbuy.cc'
   - '+.globalcompressor.com'

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5NTk0OTYwNgo=
+# Checksum: MTY5NjAzNTkyMAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20230929-0
-# TimeUpdated: 2023-09-29T01:06:46+00:00
+# Version: 1.0.9-20230930-0
+# TimeUpdated: 2023-09-30T01:05:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -16476,6 +16476,7 @@ payload:
   - DOMAIN-SUFFIX,crispstata.com
   - DOMAIN-SUFFIX,crjfw.com
   - DOMAIN-SUFFIX,crl-lb.apple.com.akadns.net
+  - DOMAIN-SUFFIX,crl.alphassl.com
   - DOMAIN-SUFFIX,crl.apple.com
   - DOMAIN-SUFFIX,crl.globalsign.net
   - DOMAIN-SUFFIX,crl.pki.goog
@@ -23778,6 +23779,7 @@ payload:
   - DOMAIN-SUFFIX,global-scsl.com
   - DOMAIN-SUFFIX,global-tractor.com
   - DOMAIN-SUFFIX,global-trade-center.com
+  - DOMAIN-SUFFIX,global.prd.cdn.globalsign.com
   - DOMAIN-SUFFIX,globalaccentchinese.com
   - DOMAIN-SUFFIX,globalbuy.cc
   - DOMAIN-SUFFIX,globalcompressor.com
