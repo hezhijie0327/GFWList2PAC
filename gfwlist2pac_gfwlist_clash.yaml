@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5NjAzNTkyOQo=
+# Checksum: MTY5NjEyMjkzOAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20230930-0
-# TimeUpdated: 2023-09-30T01:05:29+00:00
+# Version: 1.0.9-20231001-0
+# TimeUpdated: 2023-10-01T01:15:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -3757,6 +3757,7 @@ payload:
   - DOMAIN-SUFFIX,cdmatech.com
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,cdn-images.mailchimp.com
+  - DOMAIN-SUFFIX,cdn-spotify-experiments.conductrics.com
   - DOMAIN-SUFFIX,cdn-terapeak.com
   - DOMAIN-SUFFIX,cdn.assets.lfpcontent.com
   - DOMAIN-SUFFIX,cdn.helixstudios.net
@@ -4217,6 +4218,7 @@ payload:
   - DOMAIN-SUFFIX,cloudcraze.com
   - DOMAIN-SUFFIX,cloudcredibility.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,cloudflare-gateway.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-quic.com
@@ -4501,6 +4503,7 @@ payload:
   - DOMAIN-SUFFIX,comscoreresearch.com
   - DOMAIN-SUFFIX,comsoc.org
   - DOMAIN-SUFFIX,conair.me
+  - DOMAIN-SUFFIX,conductrics.com
   - DOMAIN-SUFFIX,connect-in-canada.com
   - DOMAIN-SUFFIX,connect.facebook.net
   - DOMAIN-SUFFIX,connectcommerce.cn
