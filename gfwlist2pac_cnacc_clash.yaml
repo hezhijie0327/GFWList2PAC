@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5NzU5MTI1NAo=
+# Checksum: MTY5NzY3NzYzOQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20231018-0
-# TimeUpdated: 2023-10-18T01:07:34+00:00
+# Version: 1.0.9-20231019-0
+# TimeUpdated: 2023-10-19T01:07:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -7653,6 +7653,7 @@ payload:
   - DOMAIN-SUFFIX,airmobyte.com
   - DOMAIN-SUFFIX,airnut.com
   - DOMAIN-SUFFIX,airoha.com.tw
+  - DOMAIN-SUFFIX,airportcip.com
   - DOMAIN-SUFFIX,airsavvi.com
   - DOMAIN-SUFFIX,airspa.net
   - DOMAIN-SUFFIX,airstar.com
@@ -7875,6 +7876,7 @@ payload:
   - DOMAIN-SUFFIX,alibabadns.com
   - DOMAIN-SUFFIX,alibabadoctor.com
   - DOMAIN-SUFFIX,alibabafapiao.com
+  - DOMAIN-SUFFIX,alibabafoundation.com
   - DOMAIN-SUFFIX,alibabafuturehotel.com
   - DOMAIN-SUFFIX,alibabagroup.com
   - DOMAIN-SUFFIX,alibabaonline.com
@@ -8569,6 +8571,7 @@ payload:
   - DOMAIN-SUFFIX,apigwtencent.com
   - DOMAIN-SUFFIX,apimkt.net
   - DOMAIN-SUFFIX,apispace.com
+  - DOMAIN-SUFFIX,apitd.net
   - DOMAIN-SUFFIX,apiview.com
   - DOMAIN-SUFFIX,apixj.xyz
   - DOMAIN-SUFFIX,apizb.com
@@ -30099,6 +30102,7 @@ payload:
   - DOMAIN-SUFFIX,ip518.com
   - DOMAIN-SUFFIX,ip669.com
   - DOMAIN-SUFFIX,ip87.com
+  - DOMAIN-SUFFIX,ipaddr.host
   - DOMAIN-SUFFIX,ipadown.com
   - DOMAIN-SUFFIX,ipadview.com
   - DOMAIN-SUFFIX,ipaiban.com
@@ -36862,6 +36866,7 @@ payload:
   - DOMAIN-SUFFIX,luaninfo.com
   - DOMAIN-SUFFIX,luanren.com
   - DOMAIN-SUFFIX,luastudio.net
+  - DOMAIN-SUFFIX,luatos.com
   - DOMAIN-SUFFIX,lubandata.com
   - DOMAIN-SUFFIX,lubangd.com
   - DOMAIN-SUFFIX,lubanjianye.com
@@ -37860,9 +37865,11 @@ payload:
   - DOMAIN-SUFFIX,mbb0760.com
   - DOMAIN-SUFFIX,mbcloud.com
   - DOMAIN-SUFFIX,mbgo.com
+  - DOMAIN-SUFFIX,mbian.com
   - DOMAIN-SUFFIX,mbinary.xyz
   - DOMAIN-SUFFIX,mbldbb.com
   - DOMAIN-SUFFIX,mbokee.com
+  - DOMAIN-SUFFIX,mbsifu.com
   - DOMAIN-SUFFIX,mbsky.com
   - DOMAIN-SUFFIX,mbxt.net
   - DOMAIN-SUFFIX,mc-ccpit.com
@@ -38450,6 +38457,7 @@ payload:
   - DOMAIN-SUFFIX,micrenzheng.com
   - DOMAIN-SUFFIX,micro-bee.com
   - DOMAIN-SUFFIX,micro-servs.com
+  - DOMAIN-SUFFIX,micro-x.net
   - DOMAIN-SUFFIX,microad-cn.com
   - DOMAIN-SUFFIX,microad.jp
   - DOMAIN-SUFFIX,microadinc.com
@@ -43630,6 +43638,8 @@ payload:
   - DOMAIN-SUFFIX,qhm123.com
   - DOMAIN-SUFFIX,qhmed.com
   - DOMAIN-SUFFIX,qhmsg.com
+  - DOMAIN-SUFFIX,qhnet.club
+  - DOMAIN-SUFFIX,qhnet.site
   - DOMAIN-SUFFIX,qhnews.com
   - DOMAIN-SUFFIX,qhong.net
   - DOMAIN-SUFFIX,qhpcc.com
@@ -44259,6 +44269,7 @@ payload:
   - DOMAIN-SUFFIX,qlbg.net
   - DOMAIN-SUFFIX,qlchat.com
   - DOMAIN-SUFFIX,qldzj.com
+  - DOMAIN-SUFFIX,qlelectrons.com
   - DOMAIN-SUFFIX,qlgpy.com
   - DOMAIN-SUFFIX,qlidc.com
   - DOMAIN-SUFFIX,qlivecdn.com
@@ -46302,6 +46313,7 @@ payload:
   - DOMAIN-SUFFIX,scichina.com
   - DOMAIN-SUFFIX,scicn.net
   - DOMAIN-SUFFIX,scidict.org
+  - DOMAIN-SUFFIX,sciengine.com
   - DOMAIN-SUFFIX,scientrans.com
   - DOMAIN-SUFFIX,scies.org
   - DOMAIN-SUFFIX,scievent.com
@@ -49890,6 +49902,7 @@ payload:
   - DOMAIN-SUFFIX,swiftlet.net
   - DOMAIN-SUFFIX,swiftstar.net
   - DOMAIN-SUFFIX,swijoy.com
+  - DOMAIN-SUFFIX,swirebev.com
   - DOMAIN-SUFFIX,switchxiazai.com
   - DOMAIN-SUFFIX,switzerland-visacenter.com
   - DOMAIN-SUFFIX,swjoy.com
@@ -52323,6 +52336,7 @@ payload:
   - DOMAIN-SUFFIX,trustocean.com
   - DOMAIN-SUFFIX,trustsoc.com
   - DOMAIN-SUFFIX,trustutn.org
+  - DOMAIN-SUFFIX,trvok.com
   - DOMAIN-SUFFIX,trwl.net
   - DOMAIN-SUFFIX,tryenough.com
   - DOMAIN-SUFFIX,tryfun.com
@@ -59505,6 +59519,7 @@ payload:
   - DOMAIN-SUFFIX,xxyhzd.com
   - DOMAIN-SUFFIX,xxyo.com
   - DOMAIN-SUFFIX,xxyw.com
+  - DOMAIN-SUFFIX,xxyy.co
   - DOMAIN-SUFFIX,xxzfgjj.com
   - DOMAIN-SUFFIX,xxzhushou.com
   - DOMAIN-SUFFIX,xxzsgame.com
@@ -62706,6 +62721,7 @@ payload:
   - DOMAIN-SUFFIX,zbrushcn.com
   - DOMAIN-SUFFIX,zbstatic1.com
   - DOMAIN-SUFFIX,zbt.com
+  - DOMAIN-SUFFIX,zbt.net
   - DOMAIN-SUFFIX,zbuhe.com
   - DOMAIN-SUFFIX,zbusa.com
   - DOMAIN-SUFFIX,zbwbbs.com
@@ -63763,6 +63779,7 @@ payload:
   - DOMAIN-SUFFIX,zhongwucan.com
   - DOMAIN-SUFFIX,zhongxiangdichan.net
   - DOMAIN-SUFFIX,zhongxiaole.net
+  - DOMAIN-SUFFIX,zhongxinwei.net
   - DOMAIN-SUFFIX,zhongxunrunda.com
   - DOMAIN-SUFFIX,zhongxuntv.com
   - DOMAIN-SUFFIX,zhongyao1.com
