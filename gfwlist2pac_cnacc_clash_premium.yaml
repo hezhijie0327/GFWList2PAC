@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5ODYyODA1Ngo=
+# Checksum: MTY5ODcxNDQ2Nwo=
 # Title: Zhijie's CNACCList for Clash Premium
-# Version: 1.0.9-20231030-0
-# TimeUpdated: 2023-10-30T01:07:36+00:00
+# Version: 1.0.9-20231031-0
+# TimeUpdated: 2023-10-31T01:07:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.0-6.com'
@@ -8162,6 +8162,9 @@ payload:
   - '+.amobbs.com'
   - '+.amoe.cc'
   - '+.amoere.com'
+  - '+.amp-api-edge-lb-cn.itunes-apple.com.akadns.net'
+  - '+.amp-api-edge-lb.itunes-apple.com.akadns.net'
+  - '+.amp-api-edge.apps.apple.com'
   - '+.amp-api-edge.music.apple.com'
   - '+.amp-api-search-edge.apps.apple.com'
   - '+.amp-api.apps.apple.com'
@@ -29818,6 +29821,9 @@ payload:
   - '+.inabr.com'
   - '+.inad.com'
   - '+.inanrenbang.com'
+  - '+.inappcheck-cn.itunes-apple.com.akadns.net'
+  - '+.inappcheck-lb.itunes-apple.com.akadns.net'
+  - '+.inappcheck.itunes.apple.com'
   - '+.inbeijing.org'
   - '+.inbilin.com'
   - '+.inbooker.com'
@@ -29909,6 +29915,8 @@ payload:
   - '+.init-s01st-lb.push-apple.com.akadns.net'
   - '+.init-s01st.push.apple.com'
   - '+.init.ess.apple.com'
+  - '+.init.gc-lb.apple.com.akadns.net'
+  - '+.init.gc.apple.com'
   - '+.init.itunes.apple.com'
   - '+.init.itunes.apple.com.mwcname.com'
   - '+.initialview.com'
@@ -48456,6 +48464,7 @@ payload:
   - '+.sl-360.com'
   - '+.sl.al'
   - '+.sl153.com'
+  - '+.sl916.com'
   - '+.sl91d.com'
   - '+.slamtec.com'
   - '+.slanissue.com'
