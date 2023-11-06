@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5OTE0Njc0OAo=
+# Checksum: MTY5OTIzMzAyOQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20231105-0
-# TimeUpdated: 2023-11-05T01:12:28+00:00
+# Version: 1.0.9-20231106-0
+# TimeUpdated: 2023-11-06T01:10:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -77,6 +77,9 @@ payload:
   - DOMAIN-SUFFIX,18avx.com
   - DOMAIN-SUFFIX,18board.com
   - DOMAIN-SUFFIX,18board.info
+  - DOMAIN-SUFFIX,18comic-god.cc
+  - DOMAIN-SUFFIX,18comic-god.club
+  - DOMAIN-SUFFIX,18comic-god.xyz
   - DOMAIN-SUFFIX,18comic.cc
   - DOMAIN-SUFFIX,18comic.company
   - DOMAIN-SUFFIX,18comic.org
@@ -469,6 +472,7 @@ payload:
   - DOMAIN-SUFFIX,9zipai.net
   - DOMAIN-SUFFIX,a-normal-day.com
   - DOMAIN-SUFFIX,a-teenz.com
+  - DOMAIN-SUFFIX,a.ppy.sh
   - DOMAIN-SUFFIX,a.se
   - DOMAIN-SUFFIX,a0pple.net
   - DOMAIN-SUFFIX,a1av.xyz
@@ -606,8 +610,12 @@ payload:
   - DOMAIN-SUFFIX,adgoogle.net
   - DOMAIN-SUFFIX,adguard-dns.com
   - DOMAIN-SUFFIX,adguard-vpn.com
+  - DOMAIN-SUFFIX,adguard-vpn.online
+  - DOMAIN-SUFFIX,adguard.app
   - DOMAIN-SUFFIX,adguard.com
+  - DOMAIN-SUFFIX,adguard.info
   - DOMAIN-SUFFIX,adguard.org
+  - DOMAIN-SUFFIX,adguardvpn.com
   - DOMAIN-SUFFIX,adhelpnews.com
   - DOMAIN-SUFFIX,adidas.com
   - DOMAIN-SUFFIX,admeld.com
@@ -668,6 +676,7 @@ payload:
   - DOMAIN-SUFFIX,adsense.com
   - DOMAIN-SUFFIX,adsensecustomsearchads.com
   - DOMAIN-SUFFIX,adsenseformobileapps.com
+  - DOMAIN-SUFFIX,adtidy.net
   - DOMAIN-SUFFIX,adtidy.org
   - DOMAIN-SUFFIX,adult-h.com
   - DOMAIN-SUFFIX,adult-home-videos.com
@@ -1673,6 +1682,7 @@ payload:
   - DOMAIN-SUFFIX,assets.bwbx.io
   - DOMAIN-SUFFIX,assets.fanart.tv
   - DOMAIN-SUFFIX,assets.fastgit.org
+  - DOMAIN-SUFFIX,assets.ppy.sh
   - DOMAIN-SUFFIX,assets1.xboxlive.com
   - DOMAIN-SUFFIX,assets2.xboxlive.com
   - DOMAIN-SUFFIX,assetsadobe.com
@@ -3515,6 +3525,7 @@ payload:
   - DOMAIN-SUFFIX,c-span.org
   - DOMAIN-SUFFIX,c-spanvideo.org
   - DOMAIN-SUFFIX,c.mi.com
+  - DOMAIN-SUFFIX,c.ppy.sh
   - DOMAIN-SUFFIX,c0930.com
   - DOMAIN-SUFFIX,c100tibet.org
   - DOMAIN-SUFFIX,c2cx.com
@@ -10136,6 +10147,7 @@ payload:
   - DOMAIN-SUFFIX,ipfs.fleek.co
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,ipfs.runfission.com
+  - DOMAIN-SUFFIX,ipfs.tech
   - DOMAIN-SUFFIX,iphine.com
   - DOMAIN-SUFFIX,iphone-cd.com
   - DOMAIN-SUFFIX,iphone-cn.com
@@ -10609,6 +10621,7 @@ payload:
   - DOMAIN-SUFFIX,jkub.com
   - DOMAIN-SUFFIX,jm98.cc
   - DOMAIN-SUFFIX,jma.go.jp
+  - DOMAIN-SUFFIX,jmcomic.ltd
   - DOMAIN-SUFFIX,jmcomic.me
   - DOMAIN-SUFFIX,jmcomic.mobi
   - DOMAIN-SUFFIX,jmcomic.moe
@@ -11043,6 +11056,7 @@ payload:
   - DOMAIN-SUFFIX,lavteam.org
   - DOMAIN-SUFFIX,law.com
   - DOMAIN-SUFFIX,laxd.com
+  - DOMAIN-SUFFIX,lazer.ppy.sh
   - DOMAIN-SUFFIX,lazymike.com
   - DOMAIN-SUFFIX,lbank.info
   - DOMAIN-SUFFIX,lbfmaddiction.com
@@ -11483,6 +11497,7 @@ payload:
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,m.plixi.com
   - DOMAIN-SUFFIX,m.slandr.net
+  - DOMAIN-SUFFIX,m1.ppy.sh
   - DOMAIN-SUFFIX,m2m.com
   - DOMAIN-SUFFIX,m5ir5np1.shop
   - DOMAIN-SUFFIX,m8008.com
@@ -12451,6 +12466,7 @@ payload:
   - DOMAIN-SUFFIX,moxing.mobi
   - DOMAIN-SUFFIX,moxing.news
   - DOMAIN-SUFFIX,moystoys.com
+  - DOMAIN-SUFFIX,mozgcp.net
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.community
   - DOMAIN-SUFFIX,mozilla.net
@@ -13391,6 +13407,7 @@ payload:
   - DOMAIN-SUFFIX,norsk.mobi
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,notify.dropboxapi.com
+  - DOMAIN-SUFFIX,notify.ppy.sh
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion.com
   - DOMAIN-SUFFIX,notion.new
@@ -13933,6 +13950,7 @@ payload:
   - DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+  - DOMAIN-SUFFIX,osu.ppy.sh
   - DOMAIN-SUFFIX,osxdaily.com
   - DOMAIN-SUFFIX,otaku-168.com
   - DOMAIN-SUFFIX,otaku18a.info
@@ -14996,6 +15014,7 @@ payload:
   - DOMAIN-SUFFIX,pplusstatic.com
   - DOMAIN-SUFFIX,ppp91.cc
   - DOMAIN-SUFFIX,pppds.com
+  - DOMAIN-SUFFIX,ppy.sh
   - DOMAIN-SUFFIX,practicalbusinessskills.com
   - DOMAIN-SUFFIX,practicalmoneyskills.cn
   - DOMAIN-SUFFIX,practivate.adobe
@@ -16122,6 +16141,7 @@ payload:
   - DOMAIN-SUFFIX,sensualgirls.org
   - DOMAIN-SUFFIX,sensualmothers.com
   - DOMAIN-SUFFIX,sensueel.net
+  - DOMAIN-SUFFIX,sentry.ppy.sh
   - DOMAIN-SUFFIX,senzuritv.net
   - DOMAIN-SUFFIX,seqing.one
   - DOMAIN-SUFFIX,seqingwangzhan.pro
@@ -16863,6 +16883,7 @@ payload:
   - DOMAIN-SUFFIX,spb.com
   - DOMAIN-SUFFIX,speakerdeck.com
   - DOMAIN-SUFFIX,specialtyheadphones.com
+  - DOMAIN-SUFFIX,spectator.ppy.sh
   - DOMAIN-SUFFIX,spectraltube.com
   - DOMAIN-SUFFIX,specxinzl.jigsy.com
   - DOMAIN-SUFFIX,speeddreamride.com
