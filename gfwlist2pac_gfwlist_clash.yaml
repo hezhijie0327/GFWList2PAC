@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5OTY2OTY4MQo=
+# Checksum: MTY5OTc1MTU5Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20231111-0
-# TimeUpdated: 2023-11-11T02:28:01+00:00
+# Version: 1.0.9-20231112-0
+# TimeUpdated: 2023-11-12T01:13:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -3774,6 +3774,7 @@ payload:
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,cdn-images.mailchimp.com
   - DOMAIN-SUFFIX,cdn-spotify-experiments.conductrics.com
+  - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,cdn-terapeak.com
   - DOMAIN-SUFFIX,cdn.assets.lfpcontent.com
   - DOMAIN-SUFFIX,cdn.helixstudios.net
@@ -6932,6 +6933,7 @@ payload:
   - DOMAIN-SUFFIX,fffucked.com
   - DOMAIN-SUFFIX,fflick.com
   - DOMAIN-SUFFIX,fflnk.net
+  - DOMAIN-SUFFIX,fflogs.com
   - DOMAIN-SUFFIX,ffmpeg.org
   - DOMAIN-SUFFIX,ffotolia.com
   - DOMAIN-SUFFIX,ffprofile.com

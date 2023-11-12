@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTY5OTY2OTY4MQo=
+# Checksum: MTY5OTc1MTU5Ngo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20231111-0
-# TimeUpdated: 2023-11-11T02:28:01+00:00
+# Version: 1.0.9-20231112-0
+# TimeUpdated: 2023-11-12T01:13:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -3774,6 +3774,7 @@ payload:
   - '+.cdn-apple.com'
   - '+.cdn-images.mailchimp.com'
   - '+.cdn-spotify-experiments.conductrics.com'
+  - '+.cdn-telegram.org'
   - '+.cdn-terapeak.com'
   - '+.cdn.assets.lfpcontent.com'
   - '+.cdn.helixstudios.net'
@@ -6932,6 +6933,7 @@ payload:
   - '+.fffucked.com'
   - '+.fflick.com'
   - '+.fflnk.net'
+  - '+.fflogs.com'
   - '+.ffmpeg.org'
   - '+.ffotolia.com'
   - '+.ffprofile.com'
