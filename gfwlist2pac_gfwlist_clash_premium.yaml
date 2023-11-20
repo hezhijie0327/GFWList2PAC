@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcwMDM1NjUzNgo=
+# Checksum: MTcwMDQ0MjcwNQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20231119-0
-# TimeUpdated: 2023-11-19T01:15:36+00:00
+# Version: 1.0.9-20231120-0
+# TimeUpdated: 2023-11-20T01:11:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -4237,6 +4237,7 @@ payload:
   - '+.cloudcredibility.com'
   - '+.cloudflare-dns.com'
   - '+.cloudflare-ech.com'
+  - '+.cloudflare-esni.com'
   - '+.cloudflare-gateway.com'
   - '+.cloudflare-ipfs.com'
   - '+.cloudflare-quic.com'
@@ -10239,6 +10240,7 @@ payload:
   - '+.is.gd'
   - '+.isaacmao.com'
   - '+.isasecret.com'
+  - '+.isbgpsafeyet.com'
   - '+.isc.sans.edu'
   - '+.isca-speech.org'
   - '+.ischool.com'
@@ -12753,6 +12755,7 @@ payload:
   - '+.mymusic.net.tw'
   - '+.mynetav.net'
   - '+.mynetav.org'
+  - '+.mynetname.net'
   - '+.mynike.com'
   - '+.mynumber.org'
   - '+.myoctocat.com'

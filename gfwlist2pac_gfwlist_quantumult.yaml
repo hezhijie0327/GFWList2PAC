@@ -1,7 +1,7 @@
-# Checksum: MTcwMDM1NjUzNgo=
+# Checksum: MTcwMDQ0MjcwNQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.0.9-20231119-0
-# TimeUpdated: 2023-11-19T01:15:36+00:00
+# Version: 1.0.9-20231120-0
+# TimeUpdated: 2023-11-20T01:11:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -4236,6 +4236,7 @@ DOMAIN-SUFFIX,cloudcraze.com,PROXY
 DOMAIN-SUFFIX,cloudcredibility.com,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ech.com,PROXY
+DOMAIN-SUFFIX,cloudflare-esni.com,PROXY
 DOMAIN-SUFFIX,cloudflare-gateway.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
 DOMAIN-SUFFIX,cloudflare-quic.com,PROXY
@@ -10238,6 +10239,7 @@ DOMAIN-SUFFIX,is-a-hunter.com,PROXY
 DOMAIN-SUFFIX,is.gd,PROXY
 DOMAIN-SUFFIX,isaacmao.com,PROXY
 DOMAIN-SUFFIX,isasecret.com,PROXY
+DOMAIN-SUFFIX,isbgpsafeyet.com,PROXY
 DOMAIN-SUFFIX,isc.sans.edu,PROXY
 DOMAIN-SUFFIX,isca-speech.org,PROXY
 DOMAIN-SUFFIX,ischool.com,PROXY
@@ -12752,6 +12754,7 @@ DOMAIN-SUFFIX,mymusclevideo.com,PROXY
 DOMAIN-SUFFIX,mymusic.net.tw,PROXY
 DOMAIN-SUFFIX,mynetav.net,PROXY
 DOMAIN-SUFFIX,mynetav.org,PROXY
+DOMAIN-SUFFIX,mynetname.net,PROXY
 DOMAIN-SUFFIX,mynike.com,PROXY
 DOMAIN-SUFFIX,mynumber.org,PROXY
 DOMAIN-SUFFIX,myoctocat.com,PROXY
