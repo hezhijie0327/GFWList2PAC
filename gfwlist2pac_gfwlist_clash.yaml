@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcwMTQ3OTI5Nwo=
+# Checksum: MTcwMTU2NjA4MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20231202-0
-# TimeUpdated: 2023-12-02T01:08:17+00:00
+# Version: 1.0.9-20231203-0
+# TimeUpdated: 2023-12-03T01:14:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -594,6 +594,7 @@ payload:
   - DOMAIN-SUFFIX,activpn.com
   - DOMAIN-SUFFIX,aculo.us
   - DOMAIN-SUFFIX,ad69.com
+  - DOMAIN-SUFFIX,ada.support
   - DOMAIN-SUFFIX,adanaatikhaber.com
   - DOMAIN-SUFFIX,adbecrsl.com
   - DOMAIN-SUFFIX,adbkm.com
@@ -2020,6 +2021,7 @@ payload:
   - DOMAIN-SUFFIX,backroomcastingcouch.com
   - DOMAIN-SUFFIX,backtotiananmen.com
   - DOMAIN-SUFFIX,bacon.com
+  - DOMAIN-SUFFIX,bad.news
   - DOMAIN-SUFFIX,badaas.com
   - DOMAIN-SUFFIX,badasianpussy.com
   - DOMAIN-SUFFIX,badgen.net
@@ -3509,8 +3511,13 @@ payload:
   - DOMAIN-SUFFIX,bwsj.hk
   - DOMAIN-SUFFIX,bx.in.th
   - DOMAIN-SUFFIX,bx.tl
+  - DOMAIN-SUFFIX,byapis.com
   - DOMAIN-SUFFIX,bybeatsdre.com
+  - DOMAIN-SUFFIX,bybit-exchange.github.io
+  - DOMAIN-SUFFIX,bybit.ada.support
   - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bycbe.com
+  - DOMAIN-SUFFIX,bycsi.com
   - DOMAIN-SUFFIX,bydrebeats.com
   - DOMAIN-SUFFIX,byjav.me
   - DOMAIN-SUFFIX,byjhd.com
@@ -3519,6 +3526,7 @@ payload:
   - DOMAIN-SUFFIX,byrut.org
   - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,bytick.com
   - DOMAIN-SUFFIX,bzazi.com
   - DOMAIN-SUFFIX,c-est-simple.com
   - DOMAIN-SUFFIX,c-ij.com
@@ -5026,6 +5034,8 @@ payload:
   - DOMAIN-SUFFIX,deps.dev
   - DOMAIN-SUFFIX,deps.info
   - DOMAIN-SUFFIX,derekhsu.homeip.net
+  - DOMAIN-SUFFIX,deribit.cdn.prismic.io
+  - DOMAIN-SUFFIX,deribit.com
   - DOMAIN-SUFFIX,derpibooru.org
   - DOMAIN-SUFFIX,desc.se
   - DOMAIN-SUFFIX,descargasgay.com
@@ -7706,6 +7716,10 @@ payload:
   - DOMAIN-SUFFIX,gate.cc
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,gatecoin.com
+  - DOMAIN-SUFFIX,gatedata.org
+  - DOMAIN-SUFFIX,gateimg.com
+  - DOMAIN-SUFFIX,gateio.live
+  - DOMAIN-SUFFIX,gateio.services
   - DOMAIN-SUFFIX,gateway.dev
   - DOMAIN-SUFFIX,gateway.pinata.cloud
   - DOMAIN-SUFFIX,gather.com
@@ -15088,6 +15102,7 @@ payload:
   - DOMAIN-SUFFIX,printspots.com
   - DOMAIN-SUFFIX,printspots.net
   - DOMAIN-SUFFIX,prism-break.org
+  - DOMAIN-SUFFIX,prismic.io
   - DOMAIN-SUFFIX,prisoneralert.com
   - DOMAIN-SUFFIX,pritunl.com
   - DOMAIN-SUFFIX,privacybox.de
