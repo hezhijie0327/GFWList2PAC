@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcwNDMzMDYzNQo=
+# Checksum: MTcwNDQxNzA1MQo=
 # Title: Zhijie's CNACCList for Clash Premium
-# Version: 1.0.9-20240104-0
-# TimeUpdated: 2024-01-04T01:10:35+00:00
+# Version: 1.0.9-20240105-0
+# TimeUpdated: 2024-01-05T01:10:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.0-6.com'
@@ -12611,6 +12611,7 @@ payload:
   - '+.cdn.ampproject.org'
   - '+.cdn.apple-mapkit.com'
   - '+.cdn.fun'
+  - '+.cdn.jetbrains.com'
   - '+.cdn.marketplaceimages.windowsphone.com'
   - '+.cdn.razersynapse.com'
   - '+.cdn.samsung.com'
