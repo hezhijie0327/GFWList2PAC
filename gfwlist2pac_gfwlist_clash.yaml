@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcwNzk1OTIxMgo=
+# Checksum: MTcwODA0NTU5Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240215-0
-# TimeUpdated: 2024-02-15T01:06:52+00:00
+# Version: 1.0.9-20240216-0
+# TimeUpdated: 2024-02-16T01:06:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -291,7 +291,9 @@ payload:
   - DOMAIN-SUFFIX,4kup.net
   - DOMAIN-SUFFIX,4mydomain.com
   - DOMAIN-SUFFIX,4myminicard.com
+  - DOMAIN-SUFFIX,4pcdn.org
   - DOMAIN-SUFFIX,4pig.com
+  - DOMAIN-SUFFIX,4plebs.org
   - DOMAIN-SUFFIX,4porn.com
   - DOMAIN-SUFFIX,4porn4.com
   - DOMAIN-SUFFIX,4pu.com
@@ -781,6 +783,7 @@ payload:
   - DOMAIN-SUFFIX,adwords.com
   - DOMAIN-SUFFIX,adwordsexpress.com
   - DOMAIN-SUFFIX,adx.promo
+  - DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,ae.hao123.com
   - DOMAIN-SUFFIX,ae.org
   - DOMAIN-SUFFIX,aeasyshop.com
@@ -807,6 +810,7 @@ payload:
   - DOMAIN-SUFFIX,afreecatv.com
   - DOMAIN-SUFFIX,afriboyz.com
   - DOMAIN-SUFFIX,aga-expo.com
+  - DOMAIN-SUFFIX,agedm.org
   - DOMAIN-SUFFIX,agemys.net
   - DOMAIN-SUFFIX,agendaweek.com
   - DOMAIN-SUFFIX,agnesb.fr
@@ -896,6 +900,7 @@ payload:
   - DOMAIN-SUFFIX,akadns.com
   - DOMAIN-SUFFIX,akadns6.net
   - DOMAIN-SUFFIX,akadns88.net
+  - DOMAIN-SUFFIX,akadns99.net
   - DOMAIN-SUFFIX,akaeai.com
   - DOMAIN-SUFFIX,akafms.net
   - DOMAIN-SUFFIX,akagtm.org
@@ -1337,6 +1342,7 @@ payload:
   - DOMAIN-SUFFIX,ap-mumbai.myqcloud.com
   - DOMAIN-SUFFIX,ap-seoul.myqcloud.com
   - DOMAIN-SUFFIX,ap-singapore.myqcloud.com
+  - DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com
   - DOMAIN-SUFFIX,ap-tokyo.myqcloud.com
   - DOMAIN-SUFFIX,ap.org
   - DOMAIN-SUFFIX,ap0le.com
@@ -6316,6 +6322,7 @@ payload:
   - DOMAIN-SUFFIX,eu-consumer-empowerment.com
   - DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com
   - DOMAIN-SUFFIX,eu-moscow.myqcloud.com
+  - DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com
   - DOMAIN-SUFFIX,eu.org
   - DOMAIN-SUFFIX,eubluecardvisa.com
   - DOMAIN-SUFFIX,eucasino.com
@@ -11901,6 +11908,7 @@ payload:
   - DOMAIN-SUFFIX,mdpi.com
   - DOMAIN-SUFFIX,mdpj-mov.shop
   - DOMAIN-SUFFIX,mdpjoin.buzz
+  - DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,me-gay.com
   - DOMAIN-SUFFIX,me.me
   - DOMAIN-SUFFIX,me.ns.ci
@@ -18252,6 +18260,7 @@ payload:
   - DOMAIN-SUFFIX,tpi.org.tw
   - DOMAIN-SUFFIX,tpornstars.com
   - DOMAIN-SUFFIX,tps138.info
+  - DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,tr.com
   - DOMAIN-SUFFIX,tracfone.com
   - DOMAIN-SUFFIX,tracking-location.com
