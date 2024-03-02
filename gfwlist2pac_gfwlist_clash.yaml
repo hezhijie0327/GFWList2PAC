@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcwOTI1NTUzMgo=
+# Checksum: MTcwOTM0MTQ4Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240301-0
-# TimeUpdated: 2024-03-01T01:12:12+00:00
+# Version: 1.0.9-20240302-0
+# TimeUpdated: 2024-03-02T01:04:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1641,6 +1641,7 @@ payload:
   - DOMAIN-SUFFIX,apkmonk.com
   - DOMAIN-SUFFIX,apkplz.com
   - DOMAIN-SUFFIX,apkpure.com
+  - DOMAIN-SUFFIX,apkpure.net
   - DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,aple.com
   - DOMAIN-SUFFIX,aplestore.com
@@ -5625,6 +5626,8 @@ payload:
   - DOMAIN-SUFFIX,coobay.com
   - DOMAIN-SUFFIX,cooer.su
   - DOMAIN-SUFFIX,cookiechoices.org
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,cookiepro.com
   - DOMAIN-SUFFIX,cool-comics.com
   - DOMAIN-SUFFIX,cool18.com
   - DOMAIN-SUFFIX,coolaler.com
