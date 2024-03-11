@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxMDAzMzA0NAo=
+# Checksum: MTcxMDExOTI0Ngo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20240310-0
-# TimeUpdated: 2024-03-10T01:10:44+00:00
+# Version: 1.0.9-20240311-0
+# TimeUpdated: 2024-03-11T01:07:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -1659,6 +1659,7 @@ payload:
   - '+.app.cloudcone.com'
   - '+.app.evozi.com'
   - '+.app.heywire.com'
+  - '+.app.link'
   - '+.app.smartmailcloud.com'
   - '+.app.smartsheet.com'
   - '+.app.tutanota.com'
@@ -2621,6 +2622,7 @@ payload:
   - '+.bbc.co.uk'
   - '+.bbc.com'
   - '+.bbc.in'
+  - '+.bbc.mp-pxcdn.com'
   - '+.bbc.net.uk'
   - '+.bbcchinese.com'
   - '+.bbchat.tv'
@@ -4826,6 +4828,7 @@ payload:
   - '+.cfake.com'
   - '+.cfblob.com'
   - '+.cfhks.org.hk'
+  - '+.cfl.re'
   - '+.cfna.com'
   - '+.cfos.de'
   - '+.cfr.org'
@@ -14983,6 +14986,7 @@ payload:
   - '+.modeltv.com'
   - '+.modernchinastudies.org'
   - '+.modmyi.com'
+  - '+.modperl.pl'
   - '+.modrinth.com'
   - '+.modular.im'
   - '+.moeaic.gov.tw'
@@ -15195,6 +15199,7 @@ payload:
   - '+.mozillademos.org'
   - '+.mozit.cloud'
   - '+.moztw.org'
+  - '+.mp-pxcdn.com'
   - '+.mp3buscador.com'
   - '+.mp3ye.eu'
   - '+.mpettis.com'
@@ -16612,6 +16617,9 @@ payload:
   - '+.okex.com'
   - '+.okk.tw'
   - '+.okkisokuho.com'
+  - '+.okx-dns.com'
+  - '+.okx-dns1.com'
+  - '+.okx-dns2.com'
   - '+.okx.com'
   - '+.olabloga.pl'
   - '+.old-cat.net'
@@ -18753,6 +18761,7 @@ payload:
   - '+.redchinacn.net'
   - '+.redchinacn.org'
   - '+.redd.it'
+  - '+.reddit.app.link'
   - '+.reddit.com'
   - '+.redditlist.com'
   - '+.redditmail.com'
@@ -20980,6 +20989,8 @@ payload:
   - '+.taiav.com'
   - '+.tail-f.com'
   - '+.tailf.com'
+  - '+.tailscale.com'
+  - '+.tailscale.io'
   - '+.tailwindtraders.com'
   - '+.taiolongdh.sbs'
   - '+.taipei.gov.tw'
@@ -21905,6 +21916,7 @@ payload:
   - '+.tryrating.com'
   - '+.tryst.link'
   - '+.ts.la'
+  - '+.ts.net'
   - '+.tsctv.net'
   - '+.tsdr.uspto.gov'
   - '+.tsemtulku.com'

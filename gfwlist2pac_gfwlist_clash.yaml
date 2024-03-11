@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxMDAzMzA0NAo=
+# Checksum: MTcxMDExOTI0Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240310-0
-# TimeUpdated: 2024-03-10T01:10:44+00:00
+# Version: 1.0.9-20240311-0
+# TimeUpdated: 2024-03-11T01:07:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1659,6 +1659,7 @@ payload:
   - DOMAIN-SUFFIX,app.cloudcone.com
   - DOMAIN-SUFFIX,app.evozi.com
   - DOMAIN-SUFFIX,app.heywire.com
+  - DOMAIN-SUFFIX,app.link
   - DOMAIN-SUFFIX,app.smartmailcloud.com
   - DOMAIN-SUFFIX,app.smartsheet.com
   - DOMAIN-SUFFIX,app.tutanota.com
@@ -2621,6 +2622,7 @@ payload:
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,bbc.in
+  - DOMAIN-SUFFIX,bbc.mp-pxcdn.com
   - DOMAIN-SUFFIX,bbc.net.uk
   - DOMAIN-SUFFIX,bbcchinese.com
   - DOMAIN-SUFFIX,bbchat.tv
@@ -4826,6 +4828,7 @@ payload:
   - DOMAIN-SUFFIX,cfake.com
   - DOMAIN-SUFFIX,cfblob.com
   - DOMAIN-SUFFIX,cfhks.org.hk
+  - DOMAIN-SUFFIX,cfl.re
   - DOMAIN-SUFFIX,cfna.com
   - DOMAIN-SUFFIX,cfos.de
   - DOMAIN-SUFFIX,cfr.org
@@ -14983,6 +14986,7 @@ payload:
   - DOMAIN-SUFFIX,modeltv.com
   - DOMAIN-SUFFIX,modernchinastudies.org
   - DOMAIN-SUFFIX,modmyi.com
+  - DOMAIN-SUFFIX,modperl.pl
   - DOMAIN-SUFFIX,modrinth.com
   - DOMAIN-SUFFIX,modular.im
   - DOMAIN-SUFFIX,moeaic.gov.tw
@@ -15195,6 +15199,7 @@ payload:
   - DOMAIN-SUFFIX,mozillademos.org
   - DOMAIN-SUFFIX,mozit.cloud
   - DOMAIN-SUFFIX,moztw.org
+  - DOMAIN-SUFFIX,mp-pxcdn.com
   - DOMAIN-SUFFIX,mp3buscador.com
   - DOMAIN-SUFFIX,mp3ye.eu
   - DOMAIN-SUFFIX,mpettis.com
@@ -16612,6 +16617,9 @@ payload:
   - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,okk.tw
   - DOMAIN-SUFFIX,okkisokuho.com
+  - DOMAIN-SUFFIX,okx-dns.com
+  - DOMAIN-SUFFIX,okx-dns1.com
+  - DOMAIN-SUFFIX,okx-dns2.com
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,olabloga.pl
   - DOMAIN-SUFFIX,old-cat.net
@@ -18753,6 +18761,7 @@ payload:
   - DOMAIN-SUFFIX,redchinacn.net
   - DOMAIN-SUFFIX,redchinacn.org
   - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,reddit.app.link
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditlist.com
   - DOMAIN-SUFFIX,redditmail.com
@@ -20980,6 +20989,8 @@ payload:
   - DOMAIN-SUFFIX,taiav.com
   - DOMAIN-SUFFIX,tail-f.com
   - DOMAIN-SUFFIX,tailf.com
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailwindtraders.com
   - DOMAIN-SUFFIX,taiolongdh.sbs
   - DOMAIN-SUFFIX,taipei.gov.tw
@@ -21905,6 +21916,7 @@ payload:
   - DOMAIN-SUFFIX,tryrating.com
   - DOMAIN-SUFFIX,tryst.link
   - DOMAIN-SUFFIX,ts.la
+  - DOMAIN-SUFFIX,ts.net
   - DOMAIN-SUFFIX,tsctv.net
   - DOMAIN-SUFFIX,tsdr.uspto.gov
   - DOMAIN-SUFFIX,tsemtulku.com
