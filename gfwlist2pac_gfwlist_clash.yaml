@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxMDI5MjA3MQo=
+# Checksum: MTcxMDM3ODM4OQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240313-0
-# TimeUpdated: 2024-03-13T01:07:51+00:00
+# Version: 1.0.9-20240314-0
+# TimeUpdated: 2024-03-14T01:06:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -4415,6 +4415,7 @@ payload:
   - DOMAIN-SUFFIX,cablegatesearch.net
   - DOMAIN-SUFFIX,cabletv.com.hk
   - DOMAIN-SUFFIX,cabletvdirectv.com
+  - DOMAIN-SUFFIX,cachefly.com
   - DOMAIN-SUFFIX,cachefly.net
   - DOMAIN-SUFFIX,cachinese.com
   - DOMAIN-SUFFIX,cacnw.com
@@ -5600,6 +5601,7 @@ payload:
   - DOMAIN-SUFFIX,conan.xxx
   - DOMAIN-SUFFIX,conda.io
   - DOMAIN-SUFFIX,conductrics.com
+  - DOMAIN-SUFFIX,congyu.moe
   - DOMAIN-SUFFIX,connaissancesfinancierespratiques.ca
   - DOMAIN-SUFFIX,connect-in-canada.com
   - DOMAIN-SUFFIX,connect.facebook.net
@@ -17634,7 +17636,10 @@ payload:
   - DOMAIN-SUFFIX,playsexygame.com
   - DOMAIN-SUFFIX,playshow.io
   - DOMAIN-SUFFIX,playshowtv.com
+  - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.com.hk
+  - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,playstationnetwork.com
   - DOMAIN-SUFFIX,playvalorant.com
   - DOMAIN-SUFFIX,playvids.com
   - DOMAIN-SUFFIX,playwarcraft3.com

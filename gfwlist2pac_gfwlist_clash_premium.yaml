@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxMDI5MjA3MQo=
+# Checksum: MTcxMDM3ODM4OQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20240313-0
-# TimeUpdated: 2024-03-13T01:07:51+00:00
+# Version: 1.0.9-20240314-0
+# TimeUpdated: 2024-03-14T01:06:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -4415,6 +4415,7 @@ payload:
   - '+.cablegatesearch.net'
   - '+.cabletv.com.hk'
   - '+.cabletvdirectv.com'
+  - '+.cachefly.com'
   - '+.cachefly.net'
   - '+.cachinese.com'
   - '+.cacnw.com'
@@ -5600,6 +5601,7 @@ payload:
   - '+.conan.xxx'
   - '+.conda.io'
   - '+.conductrics.com'
+  - '+.congyu.moe'
   - '+.connaissancesfinancierespratiques.ca'
   - '+.connect-in-canada.com'
   - '+.connect.facebook.net'
@@ -17634,7 +17636,10 @@ payload:
   - '+.playsexygame.com'
   - '+.playshow.io'
   - '+.playshowtv.com'
+  - '+.playstation.com'
   - '+.playstation.com.hk'
+  - '+.playstation.net'
+  - '+.playstationnetwork.com'
   - '+.playvalorant.com'
   - '+.playvids.com'
   - '+.playwarcraft3.com'
