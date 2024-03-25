@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxMTI0Mjc5Ngo=
+# Checksum: MTcxMTMyODk0MQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240324-0
-# TimeUpdated: 2024-03-24T01:13:16+00:00
+# Version: 1.0.9-20240325-0
+# TimeUpdated: 2024-03-25T01:09:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -200,6 +200,7 @@ payload:
   - DOMAIN-SUFFIX,2019baidu.xyz
   - DOMAIN-SUFFIX,2021hkcharter.com
   - DOMAIN-SUFFIX,2022.dev
+  - DOMAIN-SUFFIX,2023aga.oen.tw
   - DOMAIN-SUFFIX,2047.name
   - DOMAIN-SUFFIX,20thcenturystudios.com.au
   - DOMAIN-SUFFIX,20thcenturystudios.com.br
@@ -5621,6 +5622,7 @@ payload:
   - DOMAIN-SUFFIX,corumcollege.com
   - DOMAIN-SUFFIX,cos-moe.com
   - DOMAIN-SUFFIX,cosca.myqcloud.com
+  - DOMAIN-SUFFIX,cosfans-tw.com
   - DOMAIN-SUFFIX,cosger.myqcloud.com
   - DOMAIN-SUFFIX,coshk.myqcloud.com
   - DOMAIN-SUFFIX,cosmic.monar.ch
@@ -16376,6 +16378,7 @@ payload:
   - DOMAIN-SUFFIX,oculusvr.com
   - DOMAIN-SUFFIX,odysee.com
   - DOMAIN-SUFFIX,oed.com
+  - DOMAIN-SUFFIX,oen.tw
   - DOMAIN-SUFFIX,oex.com
   - DOMAIN-SUFFIX,offbeatchina.com
   - DOMAIN-SUFFIX,offerairjordanlebron.com
