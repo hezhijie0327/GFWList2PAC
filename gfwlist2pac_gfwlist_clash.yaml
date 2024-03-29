@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxMTU4ODAzOQo=
+# Checksum: MTcxMTY3NDQ1Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240328-0
-# TimeUpdated: 2024-03-28T01:07:19+00:00
+# Version: 1.0.9-20240329-0
+# TimeUpdated: 2024-03-29T01:07:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1982,6 +1982,7 @@ payload:
   - DOMAIN-SUFFIX,applw.com
   - DOMAIN-SUFFIX,appmediagroup.com
   - DOMAIN-SUFFIX,approvedusedbmw.com
+  - DOMAIN-SUFFIX,apps.evozi.com
   - DOMAIN-SUFFIX,appsflayer.com
   - DOMAIN-SUFFIX,appshopper.com
   - DOMAIN-SUFFIX,appsocks.net
@@ -2020,6 +2021,7 @@ payload:
   - DOMAIN-SUFFIX,archive.fo
   - DOMAIN-SUFFIX,archive.is
   - DOMAIN-SUFFIX,archive.li
+  - DOMAIN-SUFFIX,archive.md
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,archive.ph
   - DOMAIN-SUFFIX,archive.today
@@ -5063,6 +5065,7 @@ payload:
   - DOMAIN-SUFFIX,ci-en.jp
   - DOMAIN-SUFFIX,ci-en.net
   - DOMAIN-SUFFIX,ciattackers.com
+  - DOMAIN-SUFFIX,ciciai.com
   - DOMAIN-SUFFIX,cienen.com
   - DOMAIN-SUFFIX,cilk.com
   - DOMAIN-SUFFIX,cilk.net
@@ -15635,6 +15638,7 @@ payload:
   - DOMAIN-SUFFIX,news.cnyes.com
   - DOMAIN-SUFFIX,news.co.uk
   - DOMAIN-SUFFIX,news.com.au
+  - DOMAIN-SUFFIX,news.ebc.net.tw
   - DOMAIN-SUFFIX,news.hk.msn.com
   - DOMAIN-SUFFIX,news.msn.com.tw
   - DOMAIN-SUFFIX,news.nationalgeographic.com
