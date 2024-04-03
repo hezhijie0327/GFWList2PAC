@@ -1,7 +1,7 @@
-# Checksum: MTcxMjAyMDI3NQo=
+# Checksum: MTcxMjEwNjQ0Ngo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20240402-0
-# TimeUpdated: 2024-04-02T01:11:15+00:00
+# Version: 1.0.9-20240403-0
+# TimeUpdated: 2024-04-03T01:07:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -663,6 +663,7 @@ DOMAIN-SUFFIX,accountkit.com,PROXY
 DOMAIN-SUFFIX,accountpaypal.com,PROXY
 DOMAIN-SUFFIX,accountpaypal.net,PROXY
 DOMAIN-SUFFIX,accountpaypal.org,PROXY
+DOMAIN-SUFFIX,accounts.googlers.com,PROXY
 DOMAIN-SUFFIX,accuweather.com,PROXY
 DOMAIN-SUFFIX,accv.es,PROXY
 DOMAIN-SUFFIX,acebooik.com,PROXY
@@ -9294,6 +9295,7 @@ DOMAIN-SUFFIX,gclubs.com,PROXY
 DOMAIN-SUFFIX,gcmasia.com,PROXY
 DOMAIN-SUFFIX,gcolle.net,PROXY
 DOMAIN-SUFFIX,gcpnews.com,PROXY
+DOMAIN-SUFFIX,gcpnode.com,PROXY
 DOMAIN-SUFFIX,gcr.io,PROXY
 DOMAIN-SUFFIX,gcrtires.com,PROXY
 DOMAIN-SUFFIX,gdansk-amazon.com,PROXY
@@ -9961,6 +9963,7 @@ DOMAIN-SUFFIX,googlepagecreator.com,PROXY
 DOMAIN-SUFFIX,googlephotos.com,PROXY
 DOMAIN-SUFFIX,googleplay.com,PROXY
 DOMAIN-SUFFIX,googleplus.com,PROXY
+DOMAIN-SUFFIX,googlers.com,PROXY
 DOMAIN-SUFFIX,googlescholar.comusa,PROXY
 DOMAIN-SUFFIX,googlesile.com,PROXY
 DOMAIN-SUFFIX,googlesource.com,PROXY
@@ -22123,6 +22126,7 @@ DOMAIN-SUFFIX,uo.com,PROXY
 DOMAIN-SUFFIX,uocn.org,PROXY
 DOMAIN-SUFFIX,uoherald.com,PROXY
 DOMAIN-SUFFIX,uoutside.org,PROXY
+DOMAIN-SUFFIX,up.gcp.googlers.com,PROXY
 DOMAIN-SUFFIX,up01.cc,PROXY
 DOMAIN-SUFFIX,upcoming.yahoo.com,PROXY
 DOMAIN-SUFFIX,updates.tdesktop.com,PROXY

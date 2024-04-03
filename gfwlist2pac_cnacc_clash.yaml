@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxMjAyMDI2NQo=
+# Checksum: MTcxMjEwNjQzNwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20240402-0
-# TimeUpdated: 2024-04-02T01:11:05+00:00
+# Version: 1.0.9-20240403-0
+# TimeUpdated: 2024-04-03T01:07:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -7589,8 +7589,6 @@ payload:
   - DOMAIN-SUFFIX,accopower.com
   - DOMAIN-SUFFIX,account.cdnetworks.com
   - DOMAIN-SUFFIX,account.htcvive.com
-  - DOMAIN-SUFFIX,accounts.xn--9trs65b.com
-  - DOMAIN-SUFFIX,accounts.xn--ggle-55da.com
   - DOMAIN-SUFFIX,accsh.org
   - DOMAIN-SUFFIX,acctdns.com
   - DOMAIN-SUFFIX,acctdns.net
@@ -11075,7 +11073,6 @@ payload:
   - DOMAIN-SUFFIX,be-xx.com
   - DOMAIN-SUFFIX,be1775.com
   - DOMAIN-SUFFIX,be90.com
-  - DOMAIN-SUFFIX,beacons-handoff.gcp.gvt2.com
   - DOMAIN-SUFFIX,beacons.gcp.gvt2.com
   - DOMAIN-SUFFIX,beacons.gvt2.com
   - DOMAIN-SUFFIX,beacons2.gvt2.com
@@ -18025,9 +18022,6 @@ payload:
   - DOMAIN-SUFFIX,coreldrawchina.com
   - DOMAIN-SUFFIX,corlercar888.com
   - DOMAIN-SUFFIX,corp-email.com
-  - DOMAIN-SUFFIX,corp.goog
-  - DOMAIN-SUFFIX,corp.google.com
-  - DOMAIN-SUFFIX,corp.googleapis.com
   - DOMAIN-SUFFIX,corpautohome.com
   - DOMAIN-SUFFIX,corpease.net
   - DOMAIN-SUFFIX,corpize.com
@@ -51312,8 +51306,6 @@ payload:
   - DOMAIN-SUFFIX,redidc.com
   - DOMAIN-SUFFIX,redirector.bdn.dev
   - DOMAIN-SUFFIX,redirector.c.chat.google.com
-  - DOMAIN-SUFFIX,redirector.c.docs.google.com
-  - DOMAIN-SUFFIX,redirector.c.drive.google.com
   - DOMAIN-SUFFIX,redirector.c.mail.google.com
   - DOMAIN-SUFFIX,redirector.c.pack.google.com
   - DOMAIN-SUFFIX,redirector.c.play.google.com
@@ -60930,7 +60922,6 @@ payload:
   - DOMAIN-SUFFIX,uostools.com
   - DOMAIN-SUFFIX,uouo123.com
   - DOMAIN-SUFFIX,uovz.com
-  - DOMAIN-SUFFIX,up.corp.goog
   - DOMAIN-SUFFIX,up360.com
   - DOMAIN-SUFFIX,up4dev.com
   - DOMAIN-SUFFIX,up71.com

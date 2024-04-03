@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxMjAyMDI3NQo=
+# Checksum: MTcxMjEwNjQ0Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240402-0
-# TimeUpdated: 2024-04-02T01:11:15+00:00
+# Version: 1.0.9-20240403-0
+# TimeUpdated: 2024-04-03T01:07:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -664,6 +664,7 @@ payload:
   - DOMAIN-SUFFIX,accountpaypal.com
   - DOMAIN-SUFFIX,accountpaypal.net
   - DOMAIN-SUFFIX,accountpaypal.org
+  - DOMAIN-SUFFIX,accounts.googlers.com
   - DOMAIN-SUFFIX,accuweather.com
   - DOMAIN-SUFFIX,accv.es
   - DOMAIN-SUFFIX,acebooik.com
@@ -9295,6 +9296,7 @@ payload:
   - DOMAIN-SUFFIX,gcmasia.com
   - DOMAIN-SUFFIX,gcolle.net
   - DOMAIN-SUFFIX,gcpnews.com
+  - DOMAIN-SUFFIX,gcpnode.com
   - DOMAIN-SUFFIX,gcr.io
   - DOMAIN-SUFFIX,gcrtires.com
   - DOMAIN-SUFFIX,gdansk-amazon.com
@@ -9962,6 +9964,7 @@ payload:
   - DOMAIN-SUFFIX,googlephotos.com
   - DOMAIN-SUFFIX,googleplay.com
   - DOMAIN-SUFFIX,googleplus.com
+  - DOMAIN-SUFFIX,googlers.com
   - DOMAIN-SUFFIX,googlescholar.comusa
   - DOMAIN-SUFFIX,googlesile.com
   - DOMAIN-SUFFIX,googlesource.com
@@ -22124,6 +22127,7 @@ payload:
   - DOMAIN-SUFFIX,uocn.org
   - DOMAIN-SUFFIX,uoherald.com
   - DOMAIN-SUFFIX,uoutside.org
+  - DOMAIN-SUFFIX,up.gcp.googlers.com
   - DOMAIN-SUFFIX,up01.cc
   - DOMAIN-SUFFIX,upcoming.yahoo.com
   - DOMAIN-SUFFIX,updates.tdesktop.com
