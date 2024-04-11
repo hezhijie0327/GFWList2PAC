@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxMjcxMTI1NQo=
+# Checksum: MTcxMjc5Nzc1Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240410-0
-# TimeUpdated: 2024-04-10T01:07:35+00:00
+# Version: 1.0.9-20240411-0
+# TimeUpdated: 2024-04-11T01:09:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -12672,7 +12672,12 @@ payload:
   - DOMAIN-SUFFIX,jitpack.io
   - DOMAIN-SUFFIX,jitsi.org
   - DOMAIN-SUFFIX,jiuse.ai
+  - DOMAIN-SUFFIX,jiuse.com.co
   - DOMAIN-SUFFIX,jiuse.icu
+  - DOMAIN-SUFFIX,jiuse.io
+  - DOMAIN-SUFFIX,jiuse821.com
+  - DOMAIN-SUFFIX,jiuse822.com
+  - DOMAIN-SUFFIX,jiuse823.com
   - DOMAIN-SUFFIX,jiuse904.com
   - DOMAIN-SUFFIX,jiuse905.com
   - DOMAIN-SUFFIX,jiuzhouyihuo.com
@@ -12773,6 +12778,9 @@ payload:
   - DOMAIN-SUFFIX,jshell.net
   - DOMAIN-SUFFIX,jshint.com
   - DOMAIN-SUFFIX,jstage.jst.go.jp
+  - DOMAIN-SUFFIX,jstv51.com
+  - DOMAIN-SUFFIX,jstv52.com
+  - DOMAIN-SUFFIX,jstv53.com
   - DOMAIN-SUFFIX,jsz91.com
   - DOMAIN-SUFFIX,jtube.space
   - DOMAIN-SUFFIX,jtvnw.net
@@ -18428,8 +18436,8 @@ payload:
   - DOMAIN-SUFFIX,rawgithub.com
   - DOMAIN-SUFFIX,raxcdn.com
   - DOMAIN-SUFFIX,razer.com
+  - DOMAIN-SUFFIX,razerofficial.com
   - DOMAIN-SUFFIX,razersupport.com
-  - DOMAIN-SUFFIX,razerzone.com
   - DOMAIN-SUFFIX,razerzone.jp
   - DOMAIN-SUFFIX,razyboard.com
   - DOMAIN-SUFFIX,rb-crisis.com
@@ -19205,6 +19213,7 @@ payload:
   - DOMAIN-SUFFIX,sego8.co
   - DOMAIN-SUFFIX,sego8.xyz
   - DOMAIN-SUFFIX,sehuatang.net
+  - DOMAIN-SUFFIX,sehuatang.org
   - DOMAIN-SUFFIX,seiroganmania.com
   - DOMAIN-SUFFIX,seiron-sankei.com
   - DOMAIN-SUFFIX,sejie.com
@@ -19663,6 +19672,7 @@ payload:
   - DOMAIN-SUFFIX,sidelinessportseatery.com
   - DOMAIN-SUFFIX,siege-amazon.com
   - DOMAIN-SUFFIX,sierrafriendsoftibet.org
+  - DOMAIN-SUFFIX,sifangclub.com
   - DOMAIN-SUFFIX,sigmoidoscopeexam.com
   - DOMAIN-SUFFIX,sign.new
   - DOMAIN-SUFFIX,signal.art
