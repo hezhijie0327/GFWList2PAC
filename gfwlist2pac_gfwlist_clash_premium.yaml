@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxNjk0NTM4Nwo=
+# Checksum: MTcxNzAzMTYxOAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20240529-0
-# TimeUpdated: 2024-05-29T01:16:27+00:00
+# Version: 1.0.9-20240530-0
+# TimeUpdated: 2024-05-30T01:13:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -13920,6 +13920,7 @@ payload:
   - '+.login-account.net'
   - '+.login-paypal.com'
   - '+.login-paypal.info'
+  - '+.login.microsoftonline.com'
   - '+.login.target.com'
   - '+.logiqx.com'
   - '+.logitech.biz'
@@ -19727,6 +19728,7 @@ payload:
   - '+.sekur1213.guru'
   - '+.selectanescort.com'
   - '+.selectyourgame.com'
+  - '+.self.events.data.microsoft.com'
   - '+.selfloversworld.com'
   - '+.sellclassics.com'
   - '+.sellercommunity.com'

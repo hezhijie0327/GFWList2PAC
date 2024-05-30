@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxNjk0NTM4Nwo=
+# Checksum: MTcxNzAzMTYxOAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240529-0
-# TimeUpdated: 2024-05-29T01:16:27+00:00
+# Version: 1.0.9-20240530-0
+# TimeUpdated: 2024-05-30T01:13:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -13920,6 +13920,7 @@ payload:
   - DOMAIN-SUFFIX,login-account.net
   - DOMAIN-SUFFIX,login-paypal.com
   - DOMAIN-SUFFIX,login-paypal.info
+  - DOMAIN-SUFFIX,login.microsoftonline.com
   - DOMAIN-SUFFIX,login.target.com
   - DOMAIN-SUFFIX,logiqx.com
   - DOMAIN-SUFFIX,logitech.biz
@@ -19727,6 +19728,7 @@ payload:
   - DOMAIN-SUFFIX,sekur1213.guru
   - DOMAIN-SUFFIX,selectanescort.com
   - DOMAIN-SUFFIX,selectyourgame.com
+  - DOMAIN-SUFFIX,self.events.data.microsoft.com
   - DOMAIN-SUFFIX,selfloversworld.com
   - DOMAIN-SUFFIX,sellclassics.com
   - DOMAIN-SUFFIX,sellercommunity.com
