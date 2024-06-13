@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxODE1NDkzMwo=
+# Checksum: MTcxODI0MTMwNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240612-0
-# TimeUpdated: 2024-06-12T01:15:33+00:00
+# Version: 1.0.9-20240613-0
+# TimeUpdated: 2024-06-13T01:15:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -4422,6 +4422,9 @@ payload:
   - DOMAIN-SUFFIX,bs-adreview.com
   - DOMAIN-SUFFIX,bs-awh.ne.jp
   - DOMAIN-SUFFIX,bsersd.xyz
+  - DOMAIN-SUFFIX,bsky.app
+  - DOMAIN-SUFFIX,bsky.network
+  - DOMAIN-SUFFIX,bsky.social
   - DOMAIN-SUFFIX,bsw.co.jp
   - DOMAIN-SUFFIX,bsw.jp
   - DOMAIN-SUFFIX,bsxm1213.pro
