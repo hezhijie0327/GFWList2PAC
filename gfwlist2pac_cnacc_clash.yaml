@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxODMyNzY5Nwo=
+# Checksum: MTcxODQxNDA5MQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20240614-0
-# TimeUpdated: 2024-06-14T01:14:57+00:00
+# Version: 1.0.9-20240615-0
+# TimeUpdated: 2024-06-15T01:14:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -12602,7 +12602,6 @@ payload:
   - DOMAIN-SUFFIX,bocfullertonbank.com
   - DOMAIN-SUFFIX,bocgi.com
   - DOMAIN-SUFFIX,bocgins.com
-  - DOMAIN-SUFFIX,bochk.com
   - DOMAIN-SUFFIX,bochyun.com
   - DOMAIN-SUFFIX,bocichina.com
   - DOMAIN-SUFFIX,bocifunds.com
@@ -16622,7 +16621,6 @@ payload:
   - DOMAIN-SUFFIX,citicifh.com
   - DOMAIN-SUFFIX,citicnetworks.com
   - DOMAIN-SUFFIX,citics.com
-  - DOMAIN-SUFFIX,citics.com.hk
   - DOMAIN-SUFFIX,citicsf.com
   - DOMAIN-SUFFIX,citicsinfo.com
   - DOMAIN-SUFFIX,citicsteel.com
@@ -17313,7 +17311,6 @@ payload:
   - DOMAIN-SUFFIX,cnc-school.com
   - DOMAIN-SUFFIX,cnca.net
   - DOMAIN-SUFFIX,cncaifu.com
-  - DOMAIN-SUFFIX,cncbinternational.com
   - DOMAIN-SUFFIX,cncc.bingj.com
   - DOMAIN-SUFFIX,cnccac.com
   - DOMAIN-SUFFIX,cnccchina.com
@@ -17852,7 +17849,6 @@ payload:
   - DOMAIN-SUFFIX,co-inclusion.org
   - DOMAIN-SUFFIX,co-mall.net
   - DOMAIN-SUFFIX,co-trust.com
-  - DOMAIN-SUFFIX,co.nl
   - DOMAIN-SUFFIX,co188.com
   - DOMAIN-SUFFIX,co188cdn.com
   - DOMAIN-SUFFIX,coahr.net
@@ -18022,7 +18018,6 @@ payload:
   - DOMAIN-SUFFIX,colourlife.com
   - DOMAIN-SUFFIX,com-hs-hkdy.com
   - DOMAIN-SUFFIX,com.fi
-  - DOMAIN-SUFFIX,com.la
   - DOMAIN-SUFFIX,com.tv
   - DOMAIN-SUFFIX,com4loves.com
   - DOMAIN-SUFFIX,comac.cc
@@ -18645,7 +18640,6 @@ payload:
   - DOMAIN-SUFFIX,cscec.com
   - DOMAIN-SUFFIX,cscec1b.net
   - DOMAIN-SUFFIX,cscecst.com
-  - DOMAIN-SUFFIX,csci.hk
   - DOMAIN-SUFFIX,cscmgg.com
   - DOMAIN-SUFFIX,cscyw.com
   - DOMAIN-SUFFIX,csdc.info
@@ -30100,6 +30094,7 @@ payload:
   - DOMAIN-SUFFIX,heiyange.com
   - DOMAIN-SUFFIX,heiyanimg.com
   - DOMAIN-SUFFIX,heiying.cc
+  - DOMAIN-SUFFIX,heiyu.space
   - DOMAIN-SUFFIX,heiyuewan.com
   - DOMAIN-SUFFIX,heiyunxitong.com
   - DOMAIN-SUFFIX,heizhushoes.com
@@ -32568,6 +32563,7 @@ payload:
   - DOMAIN-SUFFIX,hupo.tv
   - DOMAIN-SUFFIX,hupu.com
   - DOMAIN-SUFFIX,hupucdn.com
+  - DOMAIN-SUFFIX,hupun.com
   - DOMAIN-SUFFIX,hurbai.com
   - DOMAIN-SUFFIX,hurun.net
   - DOMAIN-SUFFIX,husenji.com
@@ -33273,57 +33269,15 @@ payload:
   - DOMAIN-SUFFIX,icasiso.com
   - DOMAIN-SUFFIX,icastlewar.com
   - DOMAIN-SUFFIX,icax.org
-  - DOMAIN-SUFFIX,icbc-at.com
-  - DOMAIN-SUFFIX,icbc-cz.com
   - DOMAIN-SUFFIX,icbc-ltd.com
-  - DOMAIN-SUFFIX,icbc-uk.com
-  - DOMAIN-SUFFIX,icbc-us.com
-  - DOMAIN-SUFFIX,icbc.ae
-  - DOMAIN-SUFFIX,icbc.be
-  - DOMAIN-SUFFIX,icbc.co.id
-  - DOMAIN-SUFFIX,icbc.co.jp
-  - DOMAIN-SUFFIX,icbc.co.kr
-  - DOMAIN-SUFFIX,icbc.co.nl
-  - DOMAIN-SUFFIX,icbc.com.au
-  - DOMAIN-SUFFIX,icbc.com.es
-  - DOMAIN-SUFFIX,icbc.com.kh
-  - DOMAIN-SUFFIX,icbc.com.kw
-  - DOMAIN-SUFFIX,icbc.com.la
-  - DOMAIN-SUFFIX,icbc.com.mm
-  - DOMAIN-SUFFIX,icbc.com.mo
-  - DOMAIN-SUFFIX,icbc.com.mx
-  - DOMAIN-SUFFIX,icbc.com.pe
-  - DOMAIN-SUFFIX,icbc.com.pk
-  - DOMAIN-SUFFIX,icbc.com.qa
-  - DOMAIN-SUFFIX,icbc.com.sg
-  - DOMAIN-SUFFIX,icbc.com.vn
-  - DOMAIN-SUFFIX,icbc.de
-  - DOMAIN-SUFFIX,icbc.eu
   - DOMAIN-SUFFIX,icbc.jp
-  - DOMAIN-SUFFIX,icbc.lu
-  - DOMAIN-SUFFIX,icbcalmaty.kz
   - DOMAIN-SUFFIX,icbcasia.com
-  - DOMAIN-SUFFIX,icbcbr.com.br
-  - DOMAIN-SUFFIX,icbci.com.hk
   - DOMAIN-SUFFIX,icbcina.com
-  - DOMAIN-SUFFIX,icbcindia.com
-  - DOMAIN-SUFFIX,icbcit.com
-  - DOMAIN-SUFFIX,icbclondon.com
-  - DOMAIN-SUFFIX,icbcme.ae
-  - DOMAIN-SUFFIX,icbcmoscow.ru
-  - DOMAIN-SUFFIX,icbcmy.com
-  - DOMAIN-SUFFIX,icbcnz.com
-  - DOMAIN-SUFFIX,icbcpanama.com
-  - DOMAIN-SUFFIX,icbcparis.fr
-  - DOMAIN-SUFFIX,icbcpl.com
   - DOMAIN-SUFFIX,icbcstandard.com
   - DOMAIN-SUFFIX,icbcstandardbank.com
   - DOMAIN-SUFFIX,icbcstandardresources.com
   - DOMAIN-SUFFIX,icbcstandardsecurities.com
   - DOMAIN-SUFFIX,icbcswiss.com
-  - DOMAIN-SUFFIX,icbcthai.com
-  - DOMAIN-SUFFIX,icbkfs.com
-  - DOMAIN-SUFFIX,icbkus.com
   - DOMAIN-SUFFIX,icbuy.com
   - DOMAIN-SUFFIX,icc.link
   - DOMAIN-SUFFIX,icc365.com
@@ -40450,6 +40404,8 @@ payload:
   - DOMAIN-SUFFIX,larkrooms.com
   - DOMAIN-SUFFIX,larksuite-pre.com
   - DOMAIN-SUFFIX,larksuite.com
+  - DOMAIN-SUFFIX,larksuite.com.ttdns1.com
+  - DOMAIN-SUFFIX,larksuite.com.ttdns2.com
   - DOMAIN-SUFFIX,larksuitecdn.com
   - DOMAIN-SUFFIX,larksuiteimg-boe.com
   - DOMAIN-SUFFIX,larksuiteimg-pre.com
@@ -40514,6 +40470,7 @@ payload:
   - DOMAIN-SUFFIX,lazcdn.com
   - DOMAIN-SUFFIX,laze.cc
   - DOMAIN-SUFFIX,lazybios.com
+  - DOMAIN-SUFFIX,lazycat.cloud
   - DOMAIN-SUFFIX,lazydim.com
   - DOMAIN-SUFFIX,lazyren.com
   - DOMAIN-SUFFIX,lazystones.com
@@ -46641,6 +46598,7 @@ payload:
   - DOMAIN-SUFFIX,newmargin.com
   - DOMAIN-SUFFIX,newnanbao.com
   - DOMAIN-SUFFIX,newnewle.com
+  - DOMAIN-SUFFIX,newniu.com
   - DOMAIN-SUFFIX,newoasis.cc
   - DOMAIN-SUFFIX,newoer.com
   - DOMAIN-SUFFIX,newoo.com
@@ -60929,6 +60887,8 @@ payload:
   - DOMAIN-SUFFIX,ttcad.com
   - DOMAIN-SUFFIX,ttcl.cc
   - DOMAIN-SUFFIX,ttdailynews.com
+  - DOMAIN-SUFFIX,ttdns1.com
+  - DOMAIN-SUFFIX,ttdns2.com
   - DOMAIN-SUFFIX,ttdown.com
   - DOMAIN-SUFFIX,ttechhk.com
   - DOMAIN-SUFFIX,ttfdc.net
@@ -63646,6 +63606,7 @@ payload:
   - DOMAIN-SUFFIX,wanlan.vip
   - DOMAIN-SUFFIX,wanli.com
   - DOMAIN-SUFFIX,wanlicd.com
+  - DOMAIN-SUFFIX,wanliniu.com
   - DOMAIN-SUFFIX,wanlitong.com
   - DOMAIN-SUFFIX,wanmei.com
   - DOMAIN-SUFFIX,wanmeidapei.com
@@ -65101,6 +65062,7 @@ payload:
   - DOMAIN-SUFFIX,winnet.cc
   - DOMAIN-SUFFIX,winning11cn.com
   - DOMAIN-SUFFIX,winon.tm
+  - DOMAIN-SUFFIX,winos.me
   - DOMAIN-SUFFIX,winotes.net
   - DOMAIN-SUFFIX,winotmk.com
   - DOMAIN-SUFFIX,winrim.com
