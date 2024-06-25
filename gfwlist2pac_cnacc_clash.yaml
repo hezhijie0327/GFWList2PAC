@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxOTE5MTc5Mgo=
+# Checksum: MTcxOTI3ODEzMQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20240624-0
-# TimeUpdated: 2024-06-24T01:16:32+00:00
+# Version: 1.0.9-20240625-0
+# TimeUpdated: 2024-06-25T01:15:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -13495,6 +13495,7 @@ payload:
   - DOMAIN-SUFFIX,c.admob.com
   - DOMAIN-SUFFIX,c.android.clients.google.com
   - DOMAIN-SUFFIX,c.citic
+  - DOMAIN-SUFFIX,c.pki.goog
   - DOMAIN-SUFFIX,c1042.com
   - DOMAIN-SUFFIX,c11011.com
   - DOMAIN-SUFFIX,c11022.com
@@ -33129,6 +33130,7 @@ payload:
   - DOMAIN-SUFFIX,i-xoron.com
   - DOMAIN-SUFFIX,i-z-e.com
   - DOMAIN-SUFFIX,i.dell.com
+  - DOMAIN-SUFFIX,i.pki.goog
   - DOMAIN-SUFFIX,i007.vip
   - DOMAIN-SUFFIX,i0349.com
   - DOMAIN-SUFFIX,i0734.com
@@ -47612,6 +47614,7 @@ payload:
   - DOMAIN-SUFFIX,o--o.win
   - DOMAIN-SUFFIX,o-netcom.com
   - DOMAIN-SUFFIX,o-star.cc
+  - DOMAIN-SUFFIX,o.pki.goog
   - DOMAIN-SUFFIX,o0o0w.com
   - DOMAIN-SUFFIX,o136.com
   - DOMAIN-SUFFIX,o2123.com
