@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcxOTk2OTM1Nwo=
+# Checksum: MTcyMDA1NTc3Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240703-0
-# TimeUpdated: 2024-07-03T01:15:57+00:00
+# Version: 1.0.9-20240704-0
+# TimeUpdated: 2024-07-04T01:16:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -4223,6 +4223,7 @@ payload:
   - DOMAIN-SUFFIX,bookdepository.com
   - DOMAIN-SUFFIX,bookepub.com
   - DOMAIN-SUFFIX,bookfi.net
+  - DOMAIN-SUFFIX,booking.com
   - DOMAIN-SUFFIX,booklive.jp
   - DOMAIN-SUFFIX,bookmark.xxx
   - DOMAIN-SUFFIX,bookmybridgestonetyre.com
@@ -9070,6 +9071,7 @@ payload:
   - DOMAIN-SUFFIX,foxfaq.com
   - DOMAIN-SUFFIX,foxfdm.com
   - DOMAIN-SUFFIX,foxfiles.com
+  - DOMAIN-SUFFIX,foxfortmobile.com
   - DOMAIN-SUFFIX,foxgay.com
   - DOMAIN-SUFFIX,foxhq.com
   - DOMAIN-SUFFIX,foxinc.com
@@ -22281,6 +22283,7 @@ payload:
   - DOMAIN-SUFFIX,translatetheweb.com
   - DOMAIN-SUFFIX,translatewiki.net
   - DOMAIN-SUFFIX,translatewiki.org
+  - DOMAIN-SUFFIX,translomatic.foxfortmobile.com
   - DOMAIN-SUFFIX,transparency.org
   - DOMAIN-SUFFIX,transpornsites.com
   - DOMAIN-SUFFIX,travelcontroller.com
