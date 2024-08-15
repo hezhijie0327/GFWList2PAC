@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcyMzU5ODQxMAo=
+# Checksum: MTcyMzY4NDU0OQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20240814-0
-# TimeUpdated: 2024-08-14T01:20:10+00:00
+# Version: 1.0.9-20240815-0
+# TimeUpdated: 2024-08-15T01:15:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -1545,8 +1545,10 @@ payload:
   - '+.andfaraway.net'
   - '+.android-x86.org'
   - '+.android.com'
+  - '+.androidauthority.com'
   - '+.androidify.com'
   - '+.androidplus.co'
+  - '+.androidpolice.com'
   - '+.androidtv.com'
   - '+.andygod.com'
   - '+.andysparis.com'
@@ -6220,7 +6222,6 @@ payload:
   - '+.dalailama.com'
   - '+.dalailama.mn'
   - '+.dalailama.ru'
-  - '+.dalailama.usc.edu'
   - '+.dalailama80.org'
   - '+.dalailamacenter.org'
   - '+.dalailamafellows.org'
@@ -19347,6 +19348,7 @@ payload:
   - '+.redtube.com.br'
   - '+.redtube9.com'
   - '+.redtubepremium.com'
+  - '+.redvideo.io'
   - '+.redwap-xxx.com'
   - '+.redwap.me'
   - '+.redwap.pro'
@@ -21279,6 +21281,7 @@ payload:
   - '+.stories.google'
   - '+.storiesonline.net'
   - '+.storify.com'
+  - '+.storj.io'
   - '+.storm.mg'
   - '+.stormmediagroup.com'
   - '+.storyful.com'
@@ -21726,6 +21729,7 @@ payload:
   - '+.technics.com'
   - '+.technologyandsociety.org'
   - '+.technorati.com'
+  - '+.techradar.com'
   - '+.techsmith.com'
   - '+.techspot.com'
   - '+.techstreet.com'
@@ -22316,6 +22320,7 @@ payload:
   - '+.tomatespodres.com'
   - '+.tomonews.net'
   - '+.tomovie.net'
+  - '+.tomsguide.com'
   - '+.tomshardware.com'
   - '+.tonec.com'
   - '+.tongil.or.kr'
@@ -23078,6 +23083,7 @@ payload:
   - '+.usatoday.com'
   - '+.usatodaynetworkservice.com'
   - '+.usc.edu'
+  - '+.uscardforum.com'
   - '+.uscnpm.org'
   - '+.uselessjunk.com'
   - '+.usembassy.gov'
@@ -26105,7 +26111,9 @@ payload:
   - '+.zbporn.com'
   - '+.zctb.buzz'
   - '+.zdassets.com'
+  - '+.zdnet.com'
   - '+.zdnet.com.tw'
+  - '+.zdnet.redvideo.io'
   - '+.zdusercontent.com'
   - '+.zee.com'
   - '+.zee5.com'

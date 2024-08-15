@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcyMzU5ODQxMAo=
+# Checksum: MTcyMzY4NDU0OQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240814-0
-# TimeUpdated: 2024-08-14T01:20:10+00:00
+# Version: 1.0.9-20240815-0
+# TimeUpdated: 2024-08-15T01:15:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1545,8 +1545,10 @@ payload:
   - DOMAIN-SUFFIX,andfaraway.net
   - DOMAIN-SUFFIX,android-x86.org
   - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,androidauthority.com
   - DOMAIN-SUFFIX,androidify.com
   - DOMAIN-SUFFIX,androidplus.co
+  - DOMAIN-SUFFIX,androidpolice.com
   - DOMAIN-SUFFIX,androidtv.com
   - DOMAIN-SUFFIX,andygod.com
   - DOMAIN-SUFFIX,andysparis.com
@@ -6220,7 +6222,6 @@ payload:
   - DOMAIN-SUFFIX,dalailama.com
   - DOMAIN-SUFFIX,dalailama.mn
   - DOMAIN-SUFFIX,dalailama.ru
-  - DOMAIN-SUFFIX,dalailama.usc.edu
   - DOMAIN-SUFFIX,dalailama80.org
   - DOMAIN-SUFFIX,dalailamacenter.org
   - DOMAIN-SUFFIX,dalailamafellows.org
@@ -19347,6 +19348,7 @@ payload:
   - DOMAIN-SUFFIX,redtube.com.br
   - DOMAIN-SUFFIX,redtube9.com
   - DOMAIN-SUFFIX,redtubepremium.com
+  - DOMAIN-SUFFIX,redvideo.io
   - DOMAIN-SUFFIX,redwap-xxx.com
   - DOMAIN-SUFFIX,redwap.me
   - DOMAIN-SUFFIX,redwap.pro
@@ -21279,6 +21281,7 @@ payload:
   - DOMAIN-SUFFIX,stories.google
   - DOMAIN-SUFFIX,storiesonline.net
   - DOMAIN-SUFFIX,storify.com
+  - DOMAIN-SUFFIX,storj.io
   - DOMAIN-SUFFIX,storm.mg
   - DOMAIN-SUFFIX,stormmediagroup.com
   - DOMAIN-SUFFIX,storyful.com
@@ -21726,6 +21729,7 @@ payload:
   - DOMAIN-SUFFIX,technics.com
   - DOMAIN-SUFFIX,technologyandsociety.org
   - DOMAIN-SUFFIX,technorati.com
+  - DOMAIN-SUFFIX,techradar.com
   - DOMAIN-SUFFIX,techsmith.com
   - DOMAIN-SUFFIX,techspot.com
   - DOMAIN-SUFFIX,techstreet.com
@@ -22316,6 +22320,7 @@ payload:
   - DOMAIN-SUFFIX,tomatespodres.com
   - DOMAIN-SUFFIX,tomonews.net
   - DOMAIN-SUFFIX,tomovie.net
+  - DOMAIN-SUFFIX,tomsguide.com
   - DOMAIN-SUFFIX,tomshardware.com
   - DOMAIN-SUFFIX,tonec.com
   - DOMAIN-SUFFIX,tongil.or.kr
@@ -23078,6 +23083,7 @@ payload:
   - DOMAIN-SUFFIX,usatoday.com
   - DOMAIN-SUFFIX,usatodaynetworkservice.com
   - DOMAIN-SUFFIX,usc.edu
+  - DOMAIN-SUFFIX,uscardforum.com
   - DOMAIN-SUFFIX,uscnpm.org
   - DOMAIN-SUFFIX,uselessjunk.com
   - DOMAIN-SUFFIX,usembassy.gov
@@ -26105,7 +26111,9 @@ payload:
   - DOMAIN-SUFFIX,zbporn.com
   - DOMAIN-SUFFIX,zctb.buzz
   - DOMAIN-SUFFIX,zdassets.com
+  - DOMAIN-SUFFIX,zdnet.com
   - DOMAIN-SUFFIX,zdnet.com.tw
+  - DOMAIN-SUFFIX,zdnet.redvideo.io
   - DOMAIN-SUFFIX,zdusercontent.com
   - DOMAIN-SUFFIX,zee.com
   - DOMAIN-SUFFIX,zee5.com

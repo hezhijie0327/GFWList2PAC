@@ -1,7 +1,7 @@
-# Checksum: MTcyMzU5ODQxMAo=
+# Checksum: MTcyMzY4NDU0OQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20240814-0
-# TimeUpdated: 2024-08-14T01:20:10+00:00
+# Version: 1.0.9-20240815-0
+# TimeUpdated: 2024-08-15T01:15:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -1544,8 +1544,10 @@ DOMAIN-SUFFIX,ancsconf.org,PROXY
 DOMAIN-SUFFIX,andfaraway.net,PROXY
 DOMAIN-SUFFIX,android-x86.org,PROXY
 DOMAIN-SUFFIX,android.com,PROXY
+DOMAIN-SUFFIX,androidauthority.com,PROXY
 DOMAIN-SUFFIX,androidify.com,PROXY
 DOMAIN-SUFFIX,androidplus.co,PROXY
+DOMAIN-SUFFIX,androidpolice.com,PROXY
 DOMAIN-SUFFIX,androidtv.com,PROXY
 DOMAIN-SUFFIX,andygod.com,PROXY
 DOMAIN-SUFFIX,andysparis.com,PROXY
@@ -6219,7 +6221,6 @@ DOMAIN-SUFFIX,dalailama-archives.org,PROXY
 DOMAIN-SUFFIX,dalailama.com,PROXY
 DOMAIN-SUFFIX,dalailama.mn,PROXY
 DOMAIN-SUFFIX,dalailama.ru,PROXY
-DOMAIN-SUFFIX,dalailama.usc.edu,PROXY
 DOMAIN-SUFFIX,dalailama80.org,PROXY
 DOMAIN-SUFFIX,dalailamacenter.org,PROXY
 DOMAIN-SUFFIX,dalailamafellows.org,PROXY
@@ -19346,6 +19347,7 @@ DOMAIN-SUFFIX,redtube.com,PROXY
 DOMAIN-SUFFIX,redtube.com.br,PROXY
 DOMAIN-SUFFIX,redtube9.com,PROXY
 DOMAIN-SUFFIX,redtubepremium.com,PROXY
+DOMAIN-SUFFIX,redvideo.io,PROXY
 DOMAIN-SUFFIX,redwap-xxx.com,PROXY
 DOMAIN-SUFFIX,redwap.me,PROXY
 DOMAIN-SUFFIX,redwap.pro,PROXY
@@ -21278,6 +21280,7 @@ DOMAIN-SUFFIX,storesense.com,PROXY
 DOMAIN-SUFFIX,stories.google,PROXY
 DOMAIN-SUFFIX,storiesonline.net,PROXY
 DOMAIN-SUFFIX,storify.com,PROXY
+DOMAIN-SUFFIX,storj.io,PROXY
 DOMAIN-SUFFIX,storm.mg,PROXY
 DOMAIN-SUFFIX,stormmediagroup.com,PROXY
 DOMAIN-SUFFIX,storyful.com,PROXY
@@ -21725,6 +21728,7 @@ DOMAIN-SUFFIX,technews.tw,PROXY
 DOMAIN-SUFFIX,technics.com,PROXY
 DOMAIN-SUFFIX,technologyandsociety.org,PROXY
 DOMAIN-SUFFIX,technorati.com,PROXY
+DOMAIN-SUFFIX,techradar.com,PROXY
 DOMAIN-SUFFIX,techsmith.com,PROXY
 DOMAIN-SUFFIX,techspot.com,PROXY
 DOMAIN-SUFFIX,techstreet.com,PROXY
@@ -22315,6 +22319,7 @@ DOMAIN-SUFFIX,tokyotosho.se,PROXY
 DOMAIN-SUFFIX,tomatespodres.com,PROXY
 DOMAIN-SUFFIX,tomonews.net,PROXY
 DOMAIN-SUFFIX,tomovie.net,PROXY
+DOMAIN-SUFFIX,tomsguide.com,PROXY
 DOMAIN-SUFFIX,tomshardware.com,PROXY
 DOMAIN-SUFFIX,tonec.com,PROXY
 DOMAIN-SUFFIX,tongil.or.kr,PROXY
@@ -23077,6 +23082,7 @@ DOMAIN-SUFFIX,usaip.eu,PROXY
 DOMAIN-SUFFIX,usatoday.com,PROXY
 DOMAIN-SUFFIX,usatodaynetworkservice.com,PROXY
 DOMAIN-SUFFIX,usc.edu,PROXY
+DOMAIN-SUFFIX,uscardforum.com,PROXY
 DOMAIN-SUFFIX,uscnpm.org,PROXY
 DOMAIN-SUFFIX,uselessjunk.com,PROXY
 DOMAIN-SUFFIX,usembassy.gov,PROXY
@@ -26104,7 +26110,9 @@ DOMAIN-SUFFIX,zb.live,PROXY
 DOMAIN-SUFFIX,zbporn.com,PROXY
 DOMAIN-SUFFIX,zctb.buzz,PROXY
 DOMAIN-SUFFIX,zdassets.com,PROXY
+DOMAIN-SUFFIX,zdnet.com,PROXY
 DOMAIN-SUFFIX,zdnet.com.tw,PROXY
+DOMAIN-SUFFIX,zdnet.redvideo.io,PROXY
 DOMAIN-SUFFIX,zdusercontent.com,PROXY
 DOMAIN-SUFFIX,zee.com,PROXY
 DOMAIN-SUFFIX,zee5.com,PROXY
