@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcyNTQ5OTQwOQo=
+# Checksum: MTcyNTU4NTc5OQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20240905-0
-# TimeUpdated: 2024-09-05T01:23:29+00:00
+# Version: 1.0.9-20240906-0
+# TimeUpdated: 2024-09-06T01:23:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -10410,6 +10410,7 @@ payload:
   - DOMAIN-SUFFIX,apilyzy.com
   - DOMAIN-SUFFIX,apim.work
   - DOMAIN-SUFFIX,apimkt.net
+  - DOMAIN-SUFFIX,apipost.net
   - DOMAIN-SUFFIX,apiseven.com
   - DOMAIN-SUFFIX,apispace.com
   - DOMAIN-SUFFIX,apistd.com
@@ -13167,6 +13168,7 @@ payload:
   - DOMAIN-SUFFIX,bilibili.co
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilibili.net
+  - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,bilibili996.com
   - DOMAIN-SUFFIX,bilibiligame.co
   - DOMAIN-SUFFIX,bilibiligame.net
@@ -13187,6 +13189,7 @@ payload:
   - DOMAIN-SUFFIX,biligx.com
   - DOMAIN-SUFFIX,bilihot.com
   - DOMAIN-SUFFIX,biliimg.com
+  - DOMAIN-SUFFIX,biliintl.com
   - DOMAIN-SUFFIX,bilinovel.com
   - DOMAIN-SUFFIX,bilive.com
   - DOMAIN-SUFFIX,bilivideo.com
@@ -18291,6 +18294,7 @@ payload:
   - DOMAIN-SUFFIX,chncpa.org
   - DOMAIN-SUFFIX,chncwds.com
   - DOMAIN-SUFFIX,chndesign.com
+  - DOMAIN-SUFFIX,chndoi.org
   - DOMAIN-SUFFIX,chndtb.com
   - DOMAIN-SUFFIX,chnews.net
   - DOMAIN-SUFFIX,chnfi.com
@@ -42077,6 +42081,7 @@ payload:
   - DOMAIN-SUFFIX,ipyy.com
   - DOMAIN-SUFFIX,ipzps.com
   - DOMAIN-SUFFIX,ipzuiduo.com
+  - DOMAIN-SUFFIX,iq.com
   - DOMAIN-SUFFIX,iq123.com
   - DOMAIN-SUFFIX,iqalliance.org
   - DOMAIN-SUFFIX,iqbuud.lol
@@ -47090,6 +47095,7 @@ payload:
   - DOMAIN-SUFFIX,kidbra.xyz
   - DOMAIN-SUFFIX,kiddopal.com
   - DOMAIN-SUFFIX,kidikidi.net
+  - DOMAIN-SUFFIX,kidsccshow.com
   - DOMAIN-SUFFIX,kidscoding8.com
   - DOMAIN-SUFFIX,kidsdown.com
   - DOMAIN-SUFFIX,kidseq.net
@@ -52433,7 +52439,6 @@ payload:
   - DOMAIN-SUFFIX,manfen.net
   - DOMAIN-SUFFIX,manfen5.com
   - DOMAIN-SUFFIX,manfrottoclub.com
-  - DOMAIN-SUFFIX,manga.bilibili.com
   - DOMAIN-SUFFIX,mangafuna.xyz
   - DOMAIN-SUFFIX,manganesenanhai.com
   - DOMAIN-SUFFIX,mangg.com
@@ -63635,7 +63640,6 @@ payload:
   - DOMAIN-SUFFIX,rnhy.net
   - DOMAIN-SUFFIX,rnmtb.com
   - DOMAIN-SUFFIX,rnpagoc.site
-  - DOMAIN-SUFFIX,ro.com
   - DOMAIN-SUFFIX,ro50.com
   - DOMAIN-SUFFIX,road-group.com
   - DOMAIN-SUFFIX,roadjava.com
@@ -64193,6 +64197,7 @@ payload:
   - DOMAIN-SUFFIX,rwb66.com
   - DOMAIN-SUFFIX,rwd.hk
   - DOMAIN-SUFFIX,rwezk.com
+  - DOMAIN-SUFFIX,rwkv.com
   - DOMAIN-SUFFIX,rwtext.com
   - DOMAIN-SUFFIX,rwxqfbj.com
   - DOMAIN-SUFFIX,rwys.com
@@ -68048,6 +68053,7 @@ payload:
   - DOMAIN-SUFFIX,smucdn.com
   - DOMAIN-SUFFIX,smudc.com
   - DOMAIN-SUFFIX,smulink.com
+  - DOMAIN-SUFFIX,smuszh.com
   - DOMAIN-SUFFIX,smvip8.com
   - DOMAIN-SUFFIX,smwd.tech
   - DOMAIN-SUFFIX,smwenxue.com
@@ -69427,6 +69433,7 @@ payload:
   - DOMAIN-SUFFIX,sunlife-everbright.com
   - DOMAIN-SUFFIX,sunlight-tech.com
   - DOMAIN-SUFFIX,sunlogin.com
+  - DOMAIN-SUFFIX,sunlogin.net
   - DOMAIN-SUFFIX,sunlons.com
   - DOMAIN-SUFFIX,sunlordinc.com
   - DOMAIN-SUFFIX,sunlune.com
@@ -70968,14 +70975,12 @@ payload:
   - DOMAIN-SUFFIX,tapdb.net
   - DOMAIN-SUFFIX,tapenjoy.com
   - DOMAIN-SUFFIX,tapimg.com
-  - DOMAIN-SUFFIX,tapimg.net
   - DOMAIN-SUFFIX,tapotiexie.com
   - DOMAIN-SUFFIX,tappile.com
   - DOMAIN-SUFFIX,tapque.com
   - DOMAIN-SUFFIX,tapsvc.com
   - DOMAIN-SUFFIX,taptap-api.com
   - DOMAIN-SUFFIX,taptap.com
-  - DOMAIN-SUFFIX,taptap.io
   - DOMAIN-SUFFIX,taptapcode.com
   - DOMAIN-SUFFIX,taptapdada.com
   - DOMAIN-SUFFIX,taraniss.com
