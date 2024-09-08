@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcyNTY3MjEyMQo=
+# Checksum: MTcyNTc1OTM3OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240907-0
-# TimeUpdated: 2024-09-07T01:22:01+00:00
+# Version: 1.0.9-20240908-0
+# TimeUpdated: 2024-09-08T01:36:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -10986,6 +10986,7 @@ payload:
   - DOMAIN-SUFFIX,herringnetwork.com
   - DOMAIN-SUFFIX,hetzner.cloud
   - DOMAIN-SUFFIX,hetzner.com
+  - DOMAIN-SUFFIX,hetzner.company
   - DOMAIN-SUFFIX,hetzner.de
   - DOMAIN-SUFFIX,heungkongdiscuss.com
   - DOMAIN-SUFFIX,hex.pm
@@ -23066,6 +23067,7 @@ payload:
   - DOMAIN-SUFFIX,upmedia.mg
   - DOMAIN-SUFFIX,upornia.com
   - DOMAIN-SUFFIX,uporno.xxx
+  - DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,uproxy.org
   - DOMAIN-SUFFIX,uptodown.com
   - DOMAIN-SUFFIX,upwill.org
