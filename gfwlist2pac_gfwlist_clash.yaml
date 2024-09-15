@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcyNjI3Njk5MAo=
+# Checksum: MTcyNjM2NDM4Nwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20240914-0
-# TimeUpdated: 2024-09-14T01:23:10+00:00
+# Version: 1.0.9-20240915-0
+# TimeUpdated: 2024-09-15T01:39:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -6169,15 +6169,35 @@ payload:
   - DOMAIN-SUFFIX,d100.net
   - DOMAIN-SUFFIX,d1b183sg0nvnuh.cloudfront.net
   - DOMAIN-SUFFIX,d1c37gjwa26taa.cloudfront.net
+  - DOMAIN-SUFFIX,d1g1f25tn8m2e6.cloudfront.net
   - DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
+  - DOMAIN-SUFFIX,d1m7jfoe9zdc1j.cloudfront.net
+  - DOMAIN-SUFFIX,d1mhjrowxxagfy.cloudfront.net
+  - DOMAIN-SUFFIX,d1oca24q5dwo6d.cloudfront.net
+  - DOMAIN-SUFFIX,d1w2poirtb3as9.cloudfront.net
+  - DOMAIN-SUFFIX,d1xhnb4ptk05mw.cloudfront.net
+  - DOMAIN-SUFFIX,d1ymi26ma8va5x.cloudfront.net
   - DOMAIN-SUFFIX,d29vzk4ow07wi7.cloudfront.net
+  - DOMAIN-SUFFIX,d2aba1wr3818hz.cloudfront.net
   - DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
   - DOMAIN-SUFFIX,d2bay.com
+  - DOMAIN-SUFFIX,d2dylwb3shzel1.cloudfront.net
+  - DOMAIN-SUFFIX,d2e2de1etea730.cloudfront.net
   - DOMAIN-SUFFIX,d2mrry2to5rg.com
+  - DOMAIN-SUFFIX,d2nvs31859zcd8.cloudfront.net
   - DOMAIN-SUFFIX,d2pass.com
+  - DOMAIN-SUFFIX,d2um2qdswy1tb0.cloudfront.net
+  - DOMAIN-SUFFIX,d2vjef5jvl6bfs.cloudfront.net
+  - DOMAIN-SUFFIX,d2xmjdvx03ij56.cloudfront.net
   - DOMAIN-SUFFIX,d33wubrfki0l68.cloudfront.net
+  - DOMAIN-SUFFIX,d36nr0u3xmc4mm.cloudfront.net
+  - DOMAIN-SUFFIX,d3aqoihi2n8ty8.cloudfront.net
+  - DOMAIN-SUFFIX,d3c27h4odz752x.cloudfront.net
   - DOMAIN-SUFFIX,d3c33hcgiwev3.cloudfront.net
   - DOMAIN-SUFFIX,d3rhr7kgmtrq1v.cloudfront.net
+  - DOMAIN-SUFFIX,d3vd9lfkzbru3h.cloudfront.net
+  - DOMAIN-SUFFIX,d6d4ismr40iw.cloudfront.net
+  - DOMAIN-SUFFIX,d6tizftlrpuof.cloudfront.net
   - DOMAIN-SUFFIX,da-files.com
   - DOMAIN-SUFFIX,da3dsoul.dev
   - DOMAIN-SUFFIX,daboja18.com
@@ -6324,6 +6344,7 @@ payload:
   - DOMAIN-SUFFIX,dcard.tw
   - DOMAIN-SUFFIX,dcmilitary.com
   - DOMAIN-SUFFIX,dctbeatsbydre.com
+  - DOMAIN-SUFFIX,ddacn6pr5v0tl.cloudfront.net
   - DOMAIN-SUFFIX,ddc.com.tw
   - DOMAIN-SUFFIX,ddd-smart.net
   - DOMAIN-SUFFIX,ddff66.com
@@ -6524,6 +6545,7 @@ payload:
   - DOMAIN-SUFFIX,dfn.org
   - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
   - DOMAIN-SUFFIX,dgaqp.com
+  - DOMAIN-SUFFIX,dgeft87wbj63p.cloudfront.net
   - DOMAIN-SUFFIX,dgg.gg
   - DOMAIN-SUFFIX,dgwav.com
   - DOMAIN-SUFFIX,dh44.lol
@@ -7004,6 +7026,7 @@ payload:
   - DOMAIN-SUFFIX,dphk.org
   - DOMAIN-SUFFIX,dpp.org.tw
   - DOMAIN-SUFFIX,dpr.info
+  - DOMAIN-SUFFIX,dqrpb9wgowsf5.cloudfront.net
   - DOMAIN-SUFFIX,draftjs.org
   - DOMAIN-SUFFIX,dragonage.com
   - DOMAIN-SUFFIX,dragonagekeep.com
@@ -7118,6 +7141,7 @@ payload:
   - DOMAIN-SUFFIX,drweb.uz
   - DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
   - DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
+  - DOMAIN-SUFFIX,ds0h3roq6wcgc.cloudfront.net
   - DOMAIN-SUFFIX,dscn.info
   - DOMAIN-SUFFIX,dsex.to
   - DOMAIN-SUFFIX,dslr.net
@@ -7275,6 +7299,7 @@ payload:
   - DOMAIN-SUFFIX,dxyav.co
   - DOMAIN-SUFFIX,dydx.exchange
   - DOMAIN-SUFFIX,dyfl1.pw
+  - DOMAIN-SUFFIX,dykkng5hnh52u.cloudfront.net
   - DOMAIN-SUFFIX,dykycl.com
   - DOMAIN-SUFFIX,dynacw.co.jp
   - DOMAIN-SUFFIX,dynacw.com
@@ -14018,6 +14043,7 @@ payload:
   - DOMAIN-SUFFIX,liuxiaobo.net
   - DOMAIN-SUFFIX,liuxiaotong.com
   - DOMAIN-SUFFIX,live-patreon-marketing.pantheonsite.io
+  - DOMAIN-SUFFIX,live-video.net
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,live.com.au
   - DOMAIN-SUFFIX,live.eu
@@ -15732,7 +15758,10 @@ payload:
   - DOMAIN-SUFFIX,mswe1.org
   - DOMAIN-SUFFIX,mt.lv
   - DOMAIN-SUFFIX,mt0011.site
+  - DOMAIN-SUFFIX,mtalk-dev.google.com
+  - DOMAIN-SUFFIX,mtalk-staging.google.com
   - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN-SUFFIX,mtalk4.google.com
   - DOMAIN-SUFFIX,mtao.fun
   - DOMAIN-SUFFIX,mthruf.com
   - DOMAIN-SUFFIX,mtt.org
