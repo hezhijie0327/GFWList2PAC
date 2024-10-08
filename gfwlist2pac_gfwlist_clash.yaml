@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcyODI2NTEwOQo=
+# Checksum: MTcyODM1MTM0Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20241007-0
-# TimeUpdated: 2024-10-07T01:38:29+00:00
+# Version: 1.0.9-20241008-0
+# TimeUpdated: 2024-10-08T01:35:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1065,6 +1065,7 @@ payload:
   - DOMAIN-SUFFIX,aes.ac.uk
   - DOMAIN-SUFFIX,aesworkshops.com
   - DOMAIN-SUFFIX,aex.com
+  - DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,af.mil
   - DOMAIN-SUFFIX,afantibbs.com
   - DOMAIN-SUFFIX,afao.ac.uk
@@ -1676,6 +1677,7 @@ payload:
   - DOMAIN-SUFFIX,amourangels.com
   - DOMAIN-SUFFIX,amp.akamaized.net
   - DOMAIN-SUFFIX,amp.dev
+  - DOMAIN-SUFFIX,amplifi.com
   - DOMAIN-SUFFIX,amplifyapp.com
   - DOMAIN-SUFFIX,amplifyframework.com
   - DOMAIN-SUFFIX,amplitude.com
@@ -6464,6 +6466,7 @@ payload:
   - DOMAIN-SUFFIX,classics.ac.uk
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clb.org.hk
   - DOMAIN-SUFFIX,clc-london.ac.uk
   - DOMAIN-SUFFIX,clco.cc
@@ -9993,6 +9996,7 @@ payload:
   - DOMAIN-SUFFIX,facebook.ca
   - DOMAIN-SUFFIX,facebook.cc
   - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,facebook.de
   - DOMAIN-SUFFIX,facebook.design
   - DOMAIN-SUFFIX,facebook.hu
   - DOMAIN-SUFFIX,facebook.in
@@ -10375,8 +10379,10 @@ payload:
   - DOMAIN-SUFFIX,fastindianporn.com
   - DOMAIN-SUFFIX,fastlane.ci
   - DOMAIN-SUFFIX,fastlane.tools
+  - DOMAIN-SUFFIX,fastly-edge.com
   - DOMAIN-SUFFIX,fastly-terrarium.com
   - DOMAIN-SUFFIX,fastly.com
+  - DOMAIN-SUFFIX,fastly.io
   - DOMAIN-SUFFIX,fastly.net
   - DOMAIN-SUFFIX,fastlylabs.com
   - DOMAIN-SUFFIX,fastlylb.net
@@ -11290,6 +11296,7 @@ payload:
   - DOMAIN-SUFFIX,frontiersin.org
   - DOMAIN-SUFFIX,frontiersofoncology.ac.uk
   - DOMAIN-SUFFIX,frontlinedefenders.org
+  - DOMAIN-SUFFIX,frontrow.com
   - DOMAIN-SUFFIX,froogle.com
   - DOMAIN-SUFFIX,frootvpn.com
   - DOMAIN-SUFFIX,frostbite.com
@@ -11917,6 +11924,7 @@ payload:
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubapp.com
   - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,githubhackathon.com
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
@@ -12165,6 +12173,7 @@ payload:
   - DOMAIN-SUFFIX,googil.com
   - DOMAIN-SUFFIX,googl.com
   - DOMAIN-SUFFIX,google-access.net
+  - DOMAIN-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com
   - DOMAIN-SUFFIX,google-syndication.com
   - DOMAIN-SUFFIX,google.ac
   - DOMAIN-SUFFIX,google.ad
@@ -13905,6 +13914,7 @@ payload:
   - DOMAIN-SUFFIX,httpsfacebook.com
   - DOMAIN-SUFFIX,httpwwwfacebook.com
   - DOMAIN-SUFFIX,htvncdn.net
+  - DOMAIN-SUFFIX,htx.com
   - DOMAIN-SUFFIX,htyj-bj.com
   - DOMAIN-SUFFIX,hu1u.com
   - DOMAIN-SUFFIX,hua-yue.net
@@ -19050,6 +19060,7 @@ payload:
   - DOMAIN-SUFFIX,mxshm.site
   - DOMAIN-SUFFIX,my-enema.com
   - DOMAIN-SUFFIX,my-formosa.com
+  - DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,my-magazine.me
   - DOMAIN-SUFFIX,my-private-network.co.uk
   - DOMAIN-SUFFIX,my-proxy.com
@@ -23802,6 +23813,7 @@ payload:
   - DOMAIN-SUFFIX,rtings.com
   - DOMAIN-SUFFIX,rtm.tnt-ea.com
   - DOMAIN-SUFFIX,rtycminnesota.org
+  - DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,rua-project.ac.uk
   - DOMAIN-SUFFIX,ruanyifeng.com
   - DOMAIN-SUFFIX,ruby-lang.org
@@ -24970,6 +24982,7 @@ payload:
   - DOMAIN-SUFFIX,signal.org
   - DOMAIN-SUFFIX,signalbar.com
   - DOMAIN-SUFFIX,signalprocessingsociety.org
+  - DOMAIN-SUFFIX,signalr.net
   - DOMAIN-SUFFIX,signalusers.org
   - DOMAIN-SUFFIX,sihe.ac.uk
   - DOMAIN-SUFFIX,sijihuisuo.club
@@ -27436,6 +27449,7 @@ payload:
   - DOMAIN-SUFFIX,torrenty.org
   - DOMAIN-SUFFIX,torrentz.eu
   - DOMAIN-SUFFIX,torrindex.net
+  - DOMAIN-SUFFIX,tortoisesvn.net
   - DOMAIN-SUFFIX,torvpn.com
   - DOMAIN-SUFFIX,tosh.comedycentral.com
   - DOMAIN-SUFFIX,tospo-keiba.jp
@@ -28023,7 +28037,7 @@ payload:
   - DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net
   - DOMAIN-SUFFIX,ublock.org
   - DOMAIN-SUFFIX,ubn.ac.uk
-  - DOMAIN-SUFFIX,ubnt.com
+  - DOMAIN-SUFFIX,ubncloud.com
   - DOMAIN-SUFFIX,ubnw.net
   - DOMAIN-SUFFIX,ubuntu-touch.io
   - DOMAIN-SUFFIX,ubuntu.com
@@ -28121,10 +28135,12 @@ payload:
   - DOMAIN-SUFFIX,uhsl.ac.uk
   - DOMAIN-SUFFIX,uhtube.me
   - DOMAIN-SUFFIX,uhub.com
+  - DOMAIN-SUFFIX,ui.com
   - DOMAIN-SUFFIX,uighur.narod.ru
   - DOMAIN-SUFFIX,uighur.nl
   - DOMAIN-SUFFIX,uighurbiz.net
   - DOMAIN-SUFFIX,uiporn.com
+  - DOMAIN-SUFFIX,uisp.com
   - DOMAIN-SUFFIX,ujapanesesex.com
   - DOMAIN-SUFFIX,ujizzcn.com
   - DOMAIN-SUFFIX,uk-cdi.ac.uk
@@ -29127,6 +29143,7 @@ payload:
   - DOMAIN-SUFFIX,vk.design
   - DOMAIN-SUFFIX,vk.link
   - DOMAIN-SUFFIX,vk.me
+  - DOMAIN-SUFFIX,vk.ru
   - DOMAIN-SUFFIX,vkcache.com
   - DOMAIN-SUFFIX,vkgo.app
   - DOMAIN-SUFFIX,vklive.app
@@ -29956,6 +29973,7 @@ payload:
   - DOMAIN-SUFFIX,wifevideos.net
   - DOMAIN-SUFFIX,wifewantstoplay.com
   - DOMAIN-SUFFIX,wifi-mx.com
+  - DOMAIN-SUFFIX,wifiman.com
   - DOMAIN-SUFFIX,wigan-leigh.ac.uk
   - DOMAIN-SUFFIX,wigs.ac.uk
   - DOMAIN-SUFFIX,wigstoncollege.ac.uk
@@ -31779,6 +31797,7 @@ payload:
   - DOMAIN-SUFFIX,zencoder.com
   - DOMAIN-SUFFIX,zendesk.com
   - DOMAIN-SUFFIX,zengjinyan.org
+  - DOMAIN-SUFFIX,zenlesszonezero.com
   - DOMAIN-SUFFIX,zenmate.com
   - DOMAIN-SUFFIX,zenmate.com.ru
   - DOMAIN-SUFFIX,zenodo.org

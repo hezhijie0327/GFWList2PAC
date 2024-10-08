@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcyODI2NTA5OAo=
+# Checksum: MTcyODM1MTMzMQo=
 # Title: Zhijie's CNACCList for Clash Premium
-# Version: 1.0.9-20241007-0
-# TimeUpdated: 2024-10-07T01:38:18+00:00
+# Version: 1.0.9-20241008-0
+# TimeUpdated: 2024-10-08T01:35:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.0-6.com'
@@ -8193,6 +8193,7 @@ payload:
   - '+.aabooo.com'
   - '+.aabux.com'
   - '+.aad5.com'
+  - '+.aadcloud.com'
   - '+.aadongman.com'
   - '+.aads-cng.net'
   - '+.aafxw.com'
@@ -9867,7 +9868,6 @@ payload:
   - '+.amp-api.music.apple.com'
   - '+.ampcn.com'
   - '+.amplesky.com'
-  - '+.amplifi.com'
   - '+.amplly.com'
   - '+.ampmake.com'
   - '+.ampxl.com'
@@ -38877,6 +38877,7 @@ payload:
   - '+.huaweicloud-dns.com'
   - '+.huaweicloud-dns.net'
   - '+.huaweicloud-dns.org'
+  - '+.huaweicloud-idme.com'
   - '+.huaweicloud-smn.com'
   - '+.huaweicloud-smn.net'
   - '+.huaweicloud.com'
@@ -39562,6 +39563,7 @@ payload:
   - '+.hwcrazy.com'
   - '+.hwehs.com'
   - '+.hweimall.com'
+  - '+.hweventgrid.com'
   - '+.hwfcw.com'
   - '+.hwhidc.com'
   - '+.hwht.com'
@@ -40642,6 +40644,7 @@ payload:
   - '+.idongdong.com'
   - '+.idongmai.com'
   - '+.idongniu.com'
+  - '+.idonguapi.com'
   - '+.idooshu.com'
   - '+.idosend.com'
   - '+.idotools.com'
@@ -41433,6 +41436,7 @@ payload:
   - '+.in9ni.com'
   - '+.inabr.com'
   - '+.inad.com'
+  - '+.inanguapi.com'
   - '+.inanrenbang.com'
   - '+.inappcheck-cn.itunes-apple.com.akadns.net'
   - '+.inappcheck-lb.itunes-apple.com.akadns.net'
@@ -42530,6 +42534,7 @@ payload:
   - '+.ixiatxt.com'
   - '+.ixigua.com'
   - '+.ixiguan.com'
+  - '+.ixiguapi.com'
   - '+.ixiguavideo.com'
   - '+.iximo.com'
   - '+.ixingfei.com'
@@ -54118,6 +54123,7 @@ payload:
   - '+.modashi.net'
   - '+.modb.cc'
   - '+.modb.pro'
+  - '+.modelarts-infer.com'
   - '+.modelevel.com'
   - '+.modelwhale.com'
   - '+.modeng178.com'
@@ -55071,6 +55077,9 @@ payload:
   - '+.myhongzuan.com'
   - '+.myhostadmin.net'
   - '+.myhscodes.com'
+  - '+.myhuaweicloud-custom.com'
+  - '+.myhuaweicloud-koodrive.com'
+  - '+.myhuaweicloud-obs.com'
   - '+.myhuaweicloud.com'
   - '+.myhuilv.com'
   - '+.myhwcdn.com'
@@ -74527,6 +74536,7 @@ payload:
   - '+.uwan.com'
   - '+.uweitui.com'
   - '+.uwenku.com'
+  - '+.uwn.com'
   - '+.uworter.com'
   - '+.ux18.com'
   - '+.ux6.com'

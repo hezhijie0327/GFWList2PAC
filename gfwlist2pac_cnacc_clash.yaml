@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTcyODI2NTA5OAo=
+# Checksum: MTcyODM1MTMzMQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20241007-0
-# TimeUpdated: 2024-10-07T01:38:18+00:00
+# Version: 1.0.9-20241008-0
+# TimeUpdated: 2024-10-08T01:35:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -8193,6 +8193,7 @@ payload:
   - DOMAIN-SUFFIX,aabooo.com
   - DOMAIN-SUFFIX,aabux.com
   - DOMAIN-SUFFIX,aad5.com
+  - DOMAIN-SUFFIX,aadcloud.com
   - DOMAIN-SUFFIX,aadongman.com
   - DOMAIN-SUFFIX,aads-cng.net
   - DOMAIN-SUFFIX,aafxw.com
@@ -9867,7 +9868,6 @@ payload:
   - DOMAIN-SUFFIX,amp-api.music.apple.com
   - DOMAIN-SUFFIX,ampcn.com
   - DOMAIN-SUFFIX,amplesky.com
-  - DOMAIN-SUFFIX,amplifi.com
   - DOMAIN-SUFFIX,amplly.com
   - DOMAIN-SUFFIX,ampmake.com
   - DOMAIN-SUFFIX,ampxl.com
@@ -38877,6 +38877,7 @@ payload:
   - DOMAIN-SUFFIX,huaweicloud-dns.com
   - DOMAIN-SUFFIX,huaweicloud-dns.net
   - DOMAIN-SUFFIX,huaweicloud-dns.org
+  - DOMAIN-SUFFIX,huaweicloud-idme.com
   - DOMAIN-SUFFIX,huaweicloud-smn.com
   - DOMAIN-SUFFIX,huaweicloud-smn.net
   - DOMAIN-SUFFIX,huaweicloud.com
@@ -39562,6 +39563,7 @@ payload:
   - DOMAIN-SUFFIX,hwcrazy.com
   - DOMAIN-SUFFIX,hwehs.com
   - DOMAIN-SUFFIX,hweimall.com
+  - DOMAIN-SUFFIX,hweventgrid.com
   - DOMAIN-SUFFIX,hwfcw.com
   - DOMAIN-SUFFIX,hwhidc.com
   - DOMAIN-SUFFIX,hwht.com
@@ -40642,6 +40644,7 @@ payload:
   - DOMAIN-SUFFIX,idongdong.com
   - DOMAIN-SUFFIX,idongmai.com
   - DOMAIN-SUFFIX,idongniu.com
+  - DOMAIN-SUFFIX,idonguapi.com
   - DOMAIN-SUFFIX,idooshu.com
   - DOMAIN-SUFFIX,idosend.com
   - DOMAIN-SUFFIX,idotools.com
@@ -41433,6 +41436,7 @@ payload:
   - DOMAIN-SUFFIX,in9ni.com
   - DOMAIN-SUFFIX,inabr.com
   - DOMAIN-SUFFIX,inad.com
+  - DOMAIN-SUFFIX,inanguapi.com
   - DOMAIN-SUFFIX,inanrenbang.com
   - DOMAIN-SUFFIX,inappcheck-cn.itunes-apple.com.akadns.net
   - DOMAIN-SUFFIX,inappcheck-lb.itunes-apple.com.akadns.net
@@ -42530,6 +42534,7 @@ payload:
   - DOMAIN-SUFFIX,ixiatxt.com
   - DOMAIN-SUFFIX,ixigua.com
   - DOMAIN-SUFFIX,ixiguan.com
+  - DOMAIN-SUFFIX,ixiguapi.com
   - DOMAIN-SUFFIX,ixiguavideo.com
   - DOMAIN-SUFFIX,iximo.com
   - DOMAIN-SUFFIX,ixingfei.com
@@ -54118,6 +54123,7 @@ payload:
   - DOMAIN-SUFFIX,modashi.net
   - DOMAIN-SUFFIX,modb.cc
   - DOMAIN-SUFFIX,modb.pro
+  - DOMAIN-SUFFIX,modelarts-infer.com
   - DOMAIN-SUFFIX,modelevel.com
   - DOMAIN-SUFFIX,modelwhale.com
   - DOMAIN-SUFFIX,modeng178.com
@@ -55071,6 +55077,9 @@ payload:
   - DOMAIN-SUFFIX,myhongzuan.com
   - DOMAIN-SUFFIX,myhostadmin.net
   - DOMAIN-SUFFIX,myhscodes.com
+  - DOMAIN-SUFFIX,myhuaweicloud-custom.com
+  - DOMAIN-SUFFIX,myhuaweicloud-koodrive.com
+  - DOMAIN-SUFFIX,myhuaweicloud-obs.com
   - DOMAIN-SUFFIX,myhuaweicloud.com
   - DOMAIN-SUFFIX,myhuilv.com
   - DOMAIN-SUFFIX,myhwcdn.com
@@ -74527,6 +74536,7 @@ payload:
   - DOMAIN-SUFFIX,uwan.com
   - DOMAIN-SUFFIX,uweitui.com
   - DOMAIN-SUFFIX,uwenku.com
+  - DOMAIN-SUFFIX,uwn.com
   - DOMAIN-SUFFIX,uworter.com
   - DOMAIN-SUFFIX,ux18.com
   - DOMAIN-SUFFIX,ux6.com
