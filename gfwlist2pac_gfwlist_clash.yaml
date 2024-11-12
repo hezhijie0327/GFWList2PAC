@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTczMTI4ODk3Ngo=
+# Checksum: MTczMTM3NDc2Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20241111-0
-# TimeUpdated: 2024-11-11T01:36:16+00:00
+# Version: 1.0.9-20241112-0
+# TimeUpdated: 2024-11-12T01:26:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -20353,6 +20353,8 @@ payload:
   - DOMAIN-SUFFIX,northumberland.ac.uk
   - DOMAIN-SUFFIX,northumbria.ac.uk
   - DOMAIN-SUFFIX,norwichresearchpark.ac.uk
+  - DOMAIN-SUFFIX,notary-submissions-prod.s3-accelerate.amazonaws.com
+  - DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,notify.dropboxapi.com
   - DOMAIN-SUFFIX,notify.ppy.sh
