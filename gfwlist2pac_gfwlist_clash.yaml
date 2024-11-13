@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTczMTM3NDc2Ngo=
+# Checksum: MTczMTQ2MTcxOAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20241112-0
-# TimeUpdated: 2024-11-12T01:26:06+00:00
+# Version: 1.0.9-20241113-0
+# TimeUpdated: 2024-11-13T01:35:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -6044,6 +6044,7 @@ payload:
   - DOMAIN-SUFFIX,charticulator.com
   - DOMAIN-SUFFIX,chase.ac.uk
   - DOMAIN-SUFFIX,chasestudy.ac.uk
+  - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chat.lmsys.org
   - DOMAIN-SUFFIX,chatango.com
   - DOMAIN-SUFFIX,chatgpt.com
@@ -14218,6 +14219,7 @@ payload:
   - DOMAIN-SUFFIX,icl-fi.org
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud-isupport.com
+  - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch
   - DOMAIN-SUFFIX,icloud.de
   - DOMAIN-SUFFIX,icloud.ee
