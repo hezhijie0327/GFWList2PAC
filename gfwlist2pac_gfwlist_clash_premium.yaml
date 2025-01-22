@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTczNzQyMjc1OAo=
+# Checksum: MTczNzUwOTczMwo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20250121-0
-# TimeUpdated: 2025-01-21T01:25:58+00:00
+# Version: 1.0.9-20250122-0
+# TimeUpdated: 2025-01-22T01:35:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -1905,7 +1905,6 @@ payload:
   - '+.api-secure.recaptcha.net'
   - '+.api-verify.recaptcha.net'
   - '+.api.ai'
-  - '+.api.dropboxapi.com'
   - '+.api.linksalpha.com'
   - '+.api.mixpanel.com'
   - '+.api.nebula-emby.com'
@@ -20480,7 +20479,6 @@ payload:
   - '+.notary-submissions-prod.s3-accelerate.amazonaws.com'
   - '+.notary-submissions-prod.s3.us-west-2.amazonaws.com'
   - '+.notepad-plus-plus.org'
-  - '+.notify.dropboxapi.com'
   - '+.notify.ppy.sh'
   - '+.notion-static.com'
   - '+.notion.com'
@@ -23129,6 +23127,7 @@ payload:
   - '+.qi-gong.me'
   - '+.qianbai.tw'
   - '+.qiandao.today'
+  - '+.qianglie.com'
   - '+.qiangwaikan.com'
   - '+.qiangyou.org'
   - '+.qidian.ca'
@@ -29660,6 +29659,7 @@ payload:
   - '+.vpl.bibliocommons.com'
   - '+.vpn.ac'
   - '+.vpn.cmu.edu'
+  - '+.vpn.net'
   - '+.vpn.sv.cmu.edu'
   - '+.vpn4all.com'
   - '+.vpnaccount.org'
@@ -30211,7 +30211,6 @@ payload:
   - '+.wiki.gamerp.jp'
   - '+.wiki.jqueryui.com'
   - '+.wiki.keso.cn'
-  - '+.wiki.moegirl.org'
   - '+.wiki.oauth.net'
   - '+.wiki.phonegap.com'
   - '+.wikia.com'
@@ -30981,6 +30980,7 @@ payload:
   - '+.xn--mts47c3w9b1qr.net'
   - '+.xn--mtswd61ejxq.com'
   - '+.xn--ngstr-lra8j.com'
+  - '+.xn--noss43i.com'
   - '+.xn--oiq.cc'
   - '+.xn--pearsonenespaol-brb.com'
   - '+.xn--q41am8x.com'

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTczNzQyMjc1OAo=
+# Checksum: MTczNzUwOTczMwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250121-0
-# TimeUpdated: 2025-01-21T01:25:58+00:00
+# Version: 1.0.9-20250122-0
+# TimeUpdated: 2025-01-22T01:35:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1905,7 +1905,6 @@ payload:
   - DOMAIN-SUFFIX,api-secure.recaptcha.net
   - DOMAIN-SUFFIX,api-verify.recaptcha.net
   - DOMAIN-SUFFIX,api.ai
-  - DOMAIN-SUFFIX,api.dropboxapi.com
   - DOMAIN-SUFFIX,api.linksalpha.com
   - DOMAIN-SUFFIX,api.mixpanel.com
   - DOMAIN-SUFFIX,api.nebula-emby.com
@@ -20480,7 +20479,6 @@ payload:
   - DOMAIN-SUFFIX,notary-submissions-prod.s3-accelerate.amazonaws.com
   - DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,notepad-plus-plus.org
-  - DOMAIN-SUFFIX,notify.dropboxapi.com
   - DOMAIN-SUFFIX,notify.ppy.sh
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion.com
@@ -23129,6 +23127,7 @@ payload:
   - DOMAIN-SUFFIX,qi-gong.me
   - DOMAIN-SUFFIX,qianbai.tw
   - DOMAIN-SUFFIX,qiandao.today
+  - DOMAIN-SUFFIX,qianglie.com
   - DOMAIN-SUFFIX,qiangwaikan.com
   - DOMAIN-SUFFIX,qiangyou.org
   - DOMAIN-SUFFIX,qidian.ca
@@ -29660,6 +29659,7 @@ payload:
   - DOMAIN-SUFFIX,vpl.bibliocommons.com
   - DOMAIN-SUFFIX,vpn.ac
   - DOMAIN-SUFFIX,vpn.cmu.edu
+  - DOMAIN-SUFFIX,vpn.net
   - DOMAIN-SUFFIX,vpn.sv.cmu.edu
   - DOMAIN-SUFFIX,vpn4all.com
   - DOMAIN-SUFFIX,vpnaccount.org
@@ -30211,7 +30211,6 @@ payload:
   - DOMAIN-SUFFIX,wiki.gamerp.jp
   - DOMAIN-SUFFIX,wiki.jqueryui.com
   - DOMAIN-SUFFIX,wiki.keso.cn
-  - DOMAIN-SUFFIX,wiki.moegirl.org
   - DOMAIN-SUFFIX,wiki.oauth.net
   - DOMAIN-SUFFIX,wiki.phonegap.com
   - DOMAIN-SUFFIX,wikia.com
@@ -30981,6 +30980,7 @@ payload:
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
   - DOMAIN-SUFFIX,xn--mtswd61ejxq.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,xn--noss43i.com
   - DOMAIN-SUFFIX,xn--oiq.cc
   - DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com
   - DOMAIN-SUFFIX,xn--q41am8x.com
