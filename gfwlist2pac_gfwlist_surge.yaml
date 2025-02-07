@@ -1,7 +1,7 @@
-# Checksum: MTczODgwNTcyNQo=
+# Checksum: MTczODg5MjEzNwo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20250206-0
-# TimeUpdated: 2025-02-06T01:35:25+00:00
+# Version: 1.0.9-20250207-0
+# TimeUpdated: 2025-02-07T01:35:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -3140,6 +3140,7 @@ DOMAIN-SUFFIX,bangkokpost.com,PROXY
 DOMAIN-SUFFIX,bangkokstreetwhores.com,PROXY
 DOMAIN-SUFFIX,bangor-university-london.ac.uk,PROXY
 DOMAIN-SUFFIX,bangor.ac.uk,PROXY
+DOMAIN-SUFFIX,bangumi.tv,PROXY
 DOMAIN-SUFFIX,bangyoulater.com,PROXY
 DOMAIN-SUFFIX,bangyourwife.com,PROXY
 DOMAIN-SUFFIX,bankmobilevibe.com,PROXY
@@ -3808,6 +3809,7 @@ DOMAIN-SUFFIX,bfnn.org,PROXY
 DOMAIN-SUFFIX,bfsh.hk,PROXY
 DOMAIN-SUFFIX,bftv.ac.uk,PROXY
 DOMAIN-SUFFIX,bgc.ac.uk,PROXY
+DOMAIN-SUFFIX,bgm.tv,PROXY
 DOMAIN-SUFFIX,bgov.com,PROXY
 DOMAIN-SUFFIX,bgr.in,PROXY
 DOMAIN-SUFFIX,bgs.ac.uk,PROXY
@@ -6216,6 +6218,7 @@ DOMAIN-SUFFIX,chicloud.ac.uk,PROXY
 DOMAIN-SUFFIX,chid.com.mm,PROXY
 DOMAIN-SUFFIX,chigroup.ac.uk,PROXY
 DOMAIN-SUFFIX,chihair-straightener.com,PROXY
+DOMAIN-SUFFIX,chii.in,PROXY
 DOMAIN-SUFFIX,chikiporn.com,PROXY
 DOMAIN-SUFFIX,chilbolton.ac.uk,PROXY
 DOMAIN-SUFFIX,childrenofthe90s.ac.uk,PROXY
@@ -12690,6 +12693,7 @@ DOMAIN-SUFFIX,grimsby.ac.uk,PROXY
 DOMAIN-SUFFIX,grimsbytec.ac.uk,PROXY
 DOMAIN-SUFFIX,grindr.com,PROXY
 DOMAIN-SUFFIX,grooby.com,PROXY
+DOMAIN-SUFFIX,groq.com,PROXY
 DOMAIN-SUFFIX,grotty-monday.com,PROXY
 DOMAIN-SUFFIX,ground.news,PROXY
 DOMAIN-SUFFIX,groupfun.com,PROXY
@@ -27498,6 +27502,8 @@ DOMAIN-SUFFIX,tiktok.com,PROXY
 DOMAIN-SUFFIX,tiktokcdn-eu.com,PROXY
 DOMAIN-SUFFIX,tiktokcdn-us.com,PROXY
 DOMAIN-SUFFIX,tiktokcdn.com,PROXY
+DOMAIN-SUFFIX,tiktokeu-cdn.com,PROXY
+DOMAIN-SUFFIX,tiktokrow-cdn.com,PROXY
 DOMAIN-SUFFIX,tiktokv.com,PROXY
 DOMAIN-SUFFIX,tiktokv.eu,PROXY
 DOMAIN-SUFFIX,tiktokv.us,PROXY
@@ -27934,6 +27940,7 @@ DOMAIN-SUFFIX,tteshop.com,PROXY
 DOMAIN-SUFFIX,ttetraining.ac.uk,PROXY
 DOMAIN-SUFFIX,ttk.ru,PROXY
 DOMAIN-SUFFIX,ttlivecdn.com,PROXY
+DOMAIN-SUFFIX,ttoverseaus.net,PROXY
 DOMAIN-SUFFIX,ttrb.ac.uk,PROXY
 DOMAIN-SUFFIX,tttan.com,PROXY
 DOMAIN-SUFFIX,ttv.com.tw,PROXY
@@ -29394,25 +29401,36 @@ DOMAIN-SUFFIX,viznet.ac.uk,PROXY
 DOMAIN-SUFFIX,vizvaz.com,PROXY
 DOMAIN-SUFFIX,vjav.com,PROXY
 DOMAIN-SUFFIX,vjmedia.com.hk,PROXY
+DOMAIN-SUFFIX,vk-apps.com,PROXY
+DOMAIN-SUFFIX,vk-apps.ru,PROXY
 DOMAIN-SUFFIX,vk-cdn.me,PROXY
 DOMAIN-SUFFIX,vk-cdn.net,PROXY
 DOMAIN-SUFFIX,vk-portal.net,PROXY
 DOMAIN-SUFFIX,vk.cc,PROXY
 DOMAIN-SUFFIX,vk.com,PROXY
+DOMAIN-SUFFIX,vk.company,PROXY
 DOMAIN-SUFFIX,vk.design,PROXY
 DOMAIN-SUFFIX,vk.link,PROXY
 DOMAIN-SUFFIX,vk.me,PROXY
 DOMAIN-SUFFIX,vk.ru,PROXY
+DOMAIN-SUFFIX,vk.team,PROXY
 DOMAIN-SUFFIX,vkcache.com,PROXY
 DOMAIN-SUFFIX,vkgo.app,PROXY
 DOMAIN-SUFFIX,vklive.app,PROXY
 DOMAIN-SUFFIX,vkmessenger.app,PROXY
 DOMAIN-SUFFIX,vkmessenger.com,PROXY
 DOMAIN-SUFFIX,vkontakte.ru,PROXY
+DOMAIN-SUFFIX,vkuser.net,PROXY
 DOMAIN-SUFFIX,vkuseraudio.com,PROXY
+DOMAIN-SUFFIX,vkuseraudio.net,PROXY
+DOMAIN-SUFFIX,vkuseraudio.ru,PROXY
+DOMAIN-SUFFIX,vkusercdn.ru,PROXY
 DOMAIN-SUFFIX,vkuserlive.net,PROXY
+DOMAIN-SUFFIX,vkuserphoto.ru,PROXY
 DOMAIN-SUFFIX,vkuservideo.com,PROXY
 DOMAIN-SUFFIX,vkuservideo.net,PROXY
+DOMAIN-SUFFIX,vkuservideo.ru,PROXY
+DOMAIN-SUFFIX,vkvideo.ru,PROXY
 DOMAIN-SUFFIX,vl4x.net,PROXY
 DOMAIN-SUFFIX,vllcs.org,PROXY
 DOMAIN-SUFFIX,vlog.br,PROXY
