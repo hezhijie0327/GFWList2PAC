@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTczODg5MjEzNwo=
+# Checksum: MTczODk3NzkyOQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250207-0
-# TimeUpdated: 2025-02-07T01:35:37+00:00
+# Version: 1.0.9-20250208-0
+# TimeUpdated: 2025-02-08T01:25:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -5830,6 +5830,7 @@ payload:
   - DOMAIN-SUFFIX,ccdc.ac.uk
   - DOMAIN-SUFFIX,ccdtr.org
   - DOMAIN-SUFFIX,ccesd.ac.uk
+  - DOMAIN-SUFFIX,ccfd.org.tw
   - DOMAIN-SUFFIX,ccfe.ac.uk
   - DOMAIN-SUFFIX,cch.ac.uk
   - DOMAIN-SUFFIX,cchere.com
@@ -12644,6 +12645,7 @@ payload:
   - DOMAIN-SUFFIX,grcb.ac.uk
   - DOMAIN-SUFFIX,gre.ac.uk
   - DOMAIN-SUFFIX,greasespot.net
+  - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,great-firewall.com
   - DOMAIN-SUFFIX,great-roc.org
   - DOMAIN-SUFFIX,greatapedictionary.ac.uk
@@ -15212,6 +15214,7 @@ payload:
   - DOMAIN-SUFFIX,ipadpro.buzz
   - DOMAIN-SUFFIX,ipalter.com
   - DOMAIN-SUFFIX,ipcc-wg3.ac.uk
+  - DOMAIN-SUFFIX,ipdefenseforum.com
   - DOMAIN-SUFFIX,ipem.ac.uk
   - DOMAIN-SUFFIX,ipfire.org
   - DOMAIN-SUFFIX,ipforesightforum.ac.uk
@@ -20447,6 +20450,7 @@ payload:
   - DOMAIN-SUFFIX,nocs.ac.uk
   - DOMAIN-SUFFIX,nodejs.org
   - DOMAIN-SUFFIX,nodes.ac.uk
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,nodesnoop.com
   - DOMAIN-SUFFIX,nodesource.com
   - DOMAIN-SUFFIX,noellabo.jp
@@ -21498,6 +21502,7 @@ payload:
   - DOMAIN-SUFFIX,packer.io
   - DOMAIN-SUFFIX,packetix.net
   - DOMAIN-SUFFIX,pacloudflare.com
+  - DOMAIN-SUFFIX,pacom.mil
   - DOMAIN-SUFFIX,pacopacomama.com
   - DOMAIN-SUFFIX,pact.ac.uk
   - DOMAIN-SUFFIX,paddle.com
@@ -28712,7 +28717,6 @@ payload:
   - DOMAIN-SUFFIX,ushare.ac.uk
   - DOMAIN-SUFFIX,ushaw.ac.uk
   - DOMAIN-SUFFIX,ushuarencity.echainhost.com
-  - DOMAIN-SUFFIX,usinfo.state.gov
   - DOMAIN-SUFFIX,usma.edu
   - DOMAIN-SUFFIX,usmc.mil
   - DOMAIN-SUFFIX,usmgtcg.ning.com
@@ -30716,7 +30720,6 @@ payload:
   - DOMAIN-SUFFIX,www.abclite.net
   - DOMAIN-SUFFIX,www.acgnx.se
   - DOMAIN-SUFFIX,www.ajsands.com
-  - DOMAIN-SUFFIX,www.americorps.gov
   - DOMAIN-SUFFIX,www.anix.moe
   - DOMAIN-SUFFIX,www.antd.org
   - DOMAIN-SUFFIX,www.aolnews.com
