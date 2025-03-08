@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0MTMxMTY1OAo=
+# Checksum: MTc0MTM5NjQ2Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250307-0
-# TimeUpdated: 2025-03-07T01:40:58+00:00
+# Version: 1.0.9-20250308-0
+# TimeUpdated: 2025-03-08T01:14:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -480,6 +480,7 @@ payload:
   - DOMAIN-SUFFIX,69loli.com
   - DOMAIN-SUFFIX,69luolie.com
   - DOMAIN-SUFFIX,69re.net
+  - DOMAIN-SUFFIX,69shuba.cx
   - DOMAIN-SUFFIX,69story.com
   - DOMAIN-SUFFIX,69tubesex.com
   - DOMAIN-SUFFIX,69vj.com
@@ -4882,6 +4883,7 @@ payload:
   - DOMAIN-SUFFIX,bookwalker.com.tw
   - DOMAIN-SUFFIX,booloo.com
   - DOMAIN-SUFFIX,boomba.club
+  - DOMAIN-SUFFIX,boombeach.com
   - DOMAIN-SUFFIX,boomerang.com
   - DOMAIN-SUFFIX,boomssr.com
   - DOMAIN-SUFFIX,boomtrain.com
@@ -5004,6 +5006,7 @@ payload:
   - DOMAIN-SUFFIX,bravoteens.com
   - DOMAIN-SUFFIX,bravotube.net
   - DOMAIN-SUFFIX,bravotube.tv
+  - DOMAIN-SUFFIX,brawlstars.com
   - DOMAIN-SUFFIX,brawlstarsgame.com
   - DOMAIN-SUFFIX,brazilpartneruniversity.com
   - DOMAIN-SUFFIX,brazzer.com
@@ -6574,6 +6577,10 @@ payload:
   - DOMAIN-SUFFIX,clarendon.ac.uk
   - DOMAIN-SUFFIX,clarin.ac.uk
   - DOMAIN-SUFFIX,clarionproject.org
+  - DOMAIN-SUFFIX,clash.com
+  - DOMAIN-SUFFIX,clashmini.com
+  - DOMAIN-SUFFIX,clashofclans.com
+  - DOMAIN-SUFFIX,clashroyale.com
   - DOMAIN-SUFFIX,clasporno.org
   - DOMAIN-SUFFIX,classicalguitarblog.net
   - DOMAIN-SUFFIX,classicnike.com
@@ -11707,6 +11714,7 @@ payload:
   - DOMAIN-SUFFIX,gamerotic.com
   - DOMAIN-SUFFIX,gamerp.jp
   - DOMAIN-SUFFIX,gamesathletes.com
+  - DOMAIN-SUFFIX,gamesfirsthelsinki.com
   - DOMAIN-SUFFIX,gamesfuckgirls.com
   - DOMAIN-SUFFIX,gamesofdesire.com
   - DOMAIN-SUFFIX,gamesstack.com
@@ -13068,6 +13076,8 @@ payload:
   - DOMAIN-SUFFIX,hayabusa.dev
   - DOMAIN-SUFFIX,hayabusa.io
   - DOMAIN-SUFFIX,hayabusa.media
+  - DOMAIN-SUFFIX,hayday.com
+  - DOMAIN-SUFFIX,haydaygame.com
   - DOMAIN-SUFFIX,hayle.ac.uk
   - DOMAIN-SUFFIX,haywardsheath.ac.uk
   - DOMAIN-SUFFIX,hbabit.com
@@ -17817,7 +17827,6 @@ payload:
   - DOMAIN-SUFFIX,mappingtheunderworld.ac.uk
   - DOMAIN-SUFFIX,mappingwales.ac.uk
   - DOMAIN-SUFFIX,mappingwelshmarches.ac.uk
-  - DOMAIN-SUFFIX,maps.googleapis.com
   - DOMAIN-SUFFIX,marble.ac.uk
   - DOMAIN-SUFFIX,marc.info
   - DOMAIN-SUFFIX,marchmont.ac.uk
@@ -18951,6 +18960,7 @@ payload:
   - DOMAIN-SUFFIX,mnc.ac.uk
   - DOMAIN-SUFFIX,mndregister.ac.uk
   - DOMAIN-SUFFIX,mnewstv.com
+  - DOMAIN-SUFFIX,mo.co
   - DOMAIN-SUFFIX,mo.nightlife141.com
   - DOMAIN-SUFFIX,moapi.site
   - DOMAIN-SUFFIX,moapi1.club
@@ -22578,6 +22588,7 @@ payload:
   - DOMAIN-SUFFIX,poloniex.com
   - DOMAIN-SUFFIX,poly-of-wales.ac.uk
   - DOMAIN-SUFFIX,polygon.com
+  - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN-SUFFIX,polymer-project.org
   - DOMAIN-SUFFIX,polymerhk.com
   - DOMAIN-SUFFIX,polymerproject.org
@@ -24865,6 +24876,7 @@ payload:
   - DOMAIN-SUFFIX,seemygf.com
   - DOMAIN-SUFFIX,seemyporn.com
   - DOMAIN-SUFFIX,seesmic.com
+  - DOMAIN-SUFFIX,seeurlpcl.com
   - DOMAIN-SUFFIX,seevic-college.ac.uk
   - DOMAIN-SUFFIX,seevic.ac.uk
   - DOMAIN-SUFFIX,seevpn.com
@@ -26190,6 +26202,7 @@ payload:
   - DOMAIN-SUFFIX,sqlite.org
   - DOMAIN-SUFFIX,sqlserveronlinux.com
   - DOMAIN-SUFFIX,squ1.com
+  - DOMAIN-SUFFIX,squadbusters.com
   - DOMAIN-SUFFIX,squarecapital.com
   - DOMAIN-SUFFIX,squarecdn.com
   - DOMAIN-SUFFIX,squarecloudservices.com
@@ -26763,6 +26776,10 @@ payload:
   - DOMAIN-SUFFIX,superadultgames.com
   - DOMAIN-SUFFIX,supercell.helpshift.com
   - DOMAIN-SUFFIX,supercell.net
+  - DOMAIN-SUFFIX,supercellcreators.com
+  - DOMAIN-SUFFIX,supercellgames.com
+  - DOMAIN-SUFFIX,supercellid.com
+  - DOMAIN-SUFFIX,supercellstore.com
   - DOMAIN-SUFFIX,supercoach.com.au
   - DOMAIN-SUFFIX,supercomputingwales.ac.uk
   - DOMAIN-SUFFIX,superdarn.ac.uk
@@ -28101,7 +28118,6 @@ payload:
   - DOMAIN-SUFFIX,transitwestyorkshire.ac.uk
   - DOMAIN-SUFFIX,translate-medtech.ac.uk
   - DOMAIN-SUFFIX,translate.goog
-  - DOMAIN-SUFFIX,translate.googleapis.com
   - DOMAIN-SUFFIX,translatetheweb.com
   - DOMAIN-SUFFIX,translatewiki.net
   - DOMAIN-SUFFIX,translatewiki.org
