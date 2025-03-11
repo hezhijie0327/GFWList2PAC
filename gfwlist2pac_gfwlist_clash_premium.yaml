@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0MTU2OTQ3NQo=
+# Checksum: MTc0MTY1NzI1Mwo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20250310-0
-# TimeUpdated: 2025-03-10T01:17:55+00:00
+# Version: 1.0.9-20250311-0
+# TimeUpdated: 2025-03-11T01:40:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -6142,6 +6142,7 @@ payload:
   - '+.chasestudy.ac.uk'
   - '+.chat.com'
   - '+.chat.lmsys.org'
+  - '+.chat.openai.com'
   - '+.chatango.com'
   - '+.chatgpt.com'
   - '+.chatgpt.livekit.cloud'
@@ -21432,6 +21433,7 @@ payload:
   - '+.open.ac.uk'
   - '+.open.com.hk'
   - '+.open.firstory.me'
+  - '+.open.spotify.com'
   - '+.openai.com'
   - '+.openaiapi-site.azureedge.net'
   - '+.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'

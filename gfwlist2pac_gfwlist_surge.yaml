@@ -1,7 +1,7 @@
-# Checksum: MTc0MTU2OTQ3NQo=
+# Checksum: MTc0MTY1NzI1Mwo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20250310-0
-# TimeUpdated: 2025-03-10T01:17:55+00:00
+# Version: 1.0.9-20250311-0
+# TimeUpdated: 2025-03-11T01:40:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -6141,6 +6141,7 @@ DOMAIN-SUFFIX,chase.ac.uk,PROXY
 DOMAIN-SUFFIX,chasestudy.ac.uk,PROXY
 DOMAIN-SUFFIX,chat.com,PROXY
 DOMAIN-SUFFIX,chat.lmsys.org,PROXY
+DOMAIN-SUFFIX,chat.openai.com,PROXY
 DOMAIN-SUFFIX,chatango.com,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
 DOMAIN-SUFFIX,chatgpt.livekit.cloud,PROXY
@@ -21431,6 +21432,7 @@ DOMAIN-SUFFIX,opdems.ac.uk,PROXY
 DOMAIN-SUFFIX,open.ac.uk,PROXY
 DOMAIN-SUFFIX,open.com.hk,PROXY
 DOMAIN-SUFFIX,open.firstory.me,PROXY
+DOMAIN-SUFFIX,open.spotify.com,PROXY
 DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,PROXY
 DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY

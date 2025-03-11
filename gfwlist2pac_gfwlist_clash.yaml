@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0MTU2OTQ3NQo=
+# Checksum: MTc0MTY1NzI1Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250310-0
-# TimeUpdated: 2025-03-10T01:17:55+00:00
+# Version: 1.0.9-20250311-0
+# TimeUpdated: 2025-03-11T01:40:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -6142,6 +6142,7 @@ payload:
   - DOMAIN-SUFFIX,chasestudy.ac.uk
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chat.lmsys.org
+  - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,chatango.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
@@ -21432,6 +21433,7 @@ payload:
   - DOMAIN-SUFFIX,open.ac.uk
   - DOMAIN-SUFFIX,open.com.hk
   - DOMAIN-SUFFIX,open.firstory.me
+  - DOMAIN-SUFFIX,open.spotify.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
