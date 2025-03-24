@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0MjY5NDQ3MAo=
+# Checksum: MTc0Mjc4MDc1MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250323-0
-# TimeUpdated: 2025-03-23T01:47:50+00:00
+# Version: 1.0.9-20250324-0
+# TimeUpdated: 2025-03-24T01:45:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -991,6 +991,7 @@ payload:
   - DOMAIN-SUFFIX,adult-list.com
   - DOMAIN-SUFFIX,adult-sex-games.com
   - DOMAIN-SUFFIX,adult-web-site.net
+  - DOMAIN-SUFFIX,adult.contents.fc2.com
   - DOMAIN-SUFFIX,adult.friendfinder.com
   - DOMAIN-SUFFIX,adult.toonsearch.net
   - DOMAIN-SUFFIX,adult3dcomics.com
@@ -6857,6 +6858,7 @@ payload:
   - DOMAIN-SUFFIX,coinalyze.net
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coinbene.com
+  - DOMAIN-SUFFIX,coincarp.com
   - DOMAIN-SUFFIX,coincheck.com
   - DOMAIN-SUFFIX,coindesk.com
   - DOMAIN-SUFFIX,coinegg.com
@@ -7019,6 +7021,7 @@ payload:
   - DOMAIN-SUFFIX,comefromchina.com
   - DOMAIN-SUFFIX,comet-study.ac.uk
   - DOMAIN-SUFFIX,cometotheduckside.com
+  - DOMAIN-SUFFIX,comffvpn.com
   - DOMAIN-SUFFIX,comic-mega.me
   - DOMAIN-SUFFIX,comicbox.xyz
   - DOMAIN-SUFFIX,comico.tw
@@ -9521,7 +9524,6 @@ payload:
   - DOMAIN-SUFFIX,emuparadise.me
   - DOMAIN-SUFFIX,emwprep.ac.uk
   - DOMAIN-SUFFIX,en-compass.ac.uk
-  - DOMAIN-SUFFIX,en.favotter.net
   - DOMAIN-SUFFIX,en.hao123.com
   - DOMAIN-SUFFIX,enablementadobe.com
   - DOMAIN-SUFFIX,enanyang.my
@@ -10414,6 +10416,7 @@ payload:
   - DOMAIN-SUFFIX,fanfox.net
   - DOMAIN-SUFFIX,fangbinxing.com
   - DOMAIN-SUFFIX,fangeming.com
+  - DOMAIN-SUFFIX,fangeming.comffvpn.com
   - DOMAIN-SUFFIX,fangeqiang.com
   - DOMAIN-SUFFIX,fanglizhi.info
   - DOMAIN-SUFFIX,fangmincn.org
@@ -10518,7 +10521,6 @@ payload:
   - DOMAIN-SUFFIX,fashionretailacademy.ac.uk
   - DOMAIN-SUFFIX,fashiontechnologyacademy.ac.uk
   - DOMAIN-SUFFIX,fast.com
-  - DOMAIN-SUFFIX,fast.wistia.com
   - DOMAIN-SUFFIX,fastech.ac.uk
   - DOMAIN-SUFFIX,fastestvpn.com
   - DOMAIN-SUFFIX,fastgit.org
@@ -21253,6 +21255,7 @@ payload:
   - DOMAIN-SUFFIX,oncars.in
   - DOMAIN-SUFFIX,one.one
   - DOMAIN-SUFFIX,one.one.one
+  - DOMAIN-SUFFIX,one.one.one.one
   - DOMAIN-SUFFIX,one889.app
   - DOMAIN-SUFFIX,oneapi.com
   - DOMAIN-SUFFIX,onedinesfree.com
@@ -29363,7 +29366,7 @@ payload:
   - DOMAIN-SUFFIX,video.aol.co.uk
   - DOMAIN-SUFFIX,video.aol.com
   - DOMAIN-SUFFIX,video.ap.org
-  - DOMAIN-SUFFIX,video.fdbox.com
+  - DOMAIN-SUFFIX,video.fc2.com
   - DOMAIN-SUFFIX,video.foxbusiness.com
   - DOMAIN-SUFFIX,video01.org
   - DOMAIN-SUFFIX,videoactive.ac.uk
