@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0MzAzOTc1Mgo=
+# Checksum: MTc0MzEyNjE2OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250327-0
-# TimeUpdated: 2025-03-27T01:42:32+00:00
+# Version: 1.0.9-20250328-0
+# TimeUpdated: 2025-03-28T01:42:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -194,7 +194,9 @@ payload:
   - DOMAIN-SUFFIX,1mobile.com
   - DOMAIN-SUFFIX,1mobile.tw
   - DOMAIN-SUFFIX,1monsterbeatsbydreus.com
+  - DOMAIN-SUFFIX,1password.ca
   - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-SUFFIX,1password.eu
   - DOMAIN-SUFFIX,1point3acres.com
   - DOMAIN-SUFFIX,1pondo.tv
   - DOMAIN-SUFFIX,1pornlist.com
@@ -653,6 +655,7 @@ payload:
   - DOMAIN-SUFFIX,aabb1803.com
   - DOMAIN-SUFFIX,aacrjournals.org
   - DOMAIN-SUFFIX,aadmv.com
+  - DOMAIN-SUFFIX,aadrm.com
   - DOMAIN-SUFFIX,aaex.uk
   - DOMAIN-SUFFIX,aalah.me
   - DOMAIN-SUFFIX,aamacau.com
@@ -1118,6 +1121,7 @@ payload:
   - DOMAIN-SUFFIX,agemys.org
   - DOMAIN-SUFFIX,agendaweek.com
   - DOMAIN-SUFFIX,agenet.ac.uk
+  - DOMAIN-SUFFIX,agilebits.com
   - DOMAIN-SUFFIX,agnesb.fr
   - DOMAIN-SUFFIX,agocg.ac.uk
   - DOMAIN-SUFFIX,agoogleaday.com
@@ -2024,6 +2028,7 @@ payload:
   - DOMAIN-SUFFIX,apple-pay.wang
   - DOMAIN-SUFFIX,apple-store.net
   - DOMAIN-SUFFIX,apple-store.wang
+  - DOMAIN-SUFFIX,apple-tv-plus-press.apple.com
   - DOMAIN-SUFFIX,apple-usa.net
   - DOMAIN-SUFFIX,apple-watch.com.ru
   - DOMAIN-SUFFIX,apple.ae
@@ -8084,7 +8089,9 @@ payload:
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,digicert-cn.com
   - DOMAIN-SUFFIX,digicert-validation.com
+  - DOMAIN-SUFFIX,digicert.co.jp
   - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,digicert.eu
   - DOMAIN-SUFFIX,digiland.tw
   - DOMAIN-SUFFIX,digimap.ac.uk
   - DOMAIN-SUFFIX,digisfera.com
@@ -9618,6 +9625,8 @@ payload:
   - DOMAIN-SUFFIX,enterprisepaging.com
   - DOMAIN-SUFFIX,enterpriseresearch.ac.uk
   - DOMAIN-SUFFIX,enterprisessl.com
+  - DOMAIN-SUFFIX,entrust.cn
+  - DOMAIN-SUFFIX,entrust.com
   - DOMAIN-SUFFIX,entrust.net
   - DOMAIN-SUFFIX,entrustdatacard.com
   - DOMAIN-SUFFIX,enveast.ac.uk
@@ -13027,6 +13036,7 @@ payload:
   - DOMAIN-SUFFIX,haskellstack.org
   - DOMAIN-SUFFIX,hastings.ac.uk
   - DOMAIN-SUFFIX,hastingsonline.ac.uk
+  - DOMAIN-SUFFIX,hatena.ne.jp
   - DOMAIN-SUFFIX,hath.network
   - DOMAIN-SUFFIX,hau.ac.uk
   - DOMAIN-SUFFIX,hautelook.com
@@ -13654,6 +13664,8 @@ payload:
   - DOMAIN-SUFFIX,hlg.ac.uk
   - DOMAIN-SUFFIX,hlnsc.ac.uk
   - DOMAIN-SUFFIX,hlrcv.stage.adobe.com
+  - DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+  - DOMAIN-SUFFIX,hls.itunes.apple.com
   - DOMAIN-SUFFIX,hlsp1.pw
   - DOMAIN-SUFFIX,hm.com
   - DOMAIN-SUFFIX,hmd.site
@@ -15624,6 +15636,7 @@ payload:
   - DOMAIN-SUFFIX,iwyn138.com
   - DOMAIN-SUFFIX,ixnxx.tv
   - DOMAIN-SUFFIX,ixquick.com
+  - DOMAIN-SUFFIX,ixsystems.com
   - DOMAIN-SUFFIX,ixxx.com
   - DOMAIN-SUFFIX,iyalc.com
   - DOMAIN-SUFFIX,iyf.tv
@@ -17316,6 +17329,7 @@ payload:
   - DOMAIN-SUFFIX,looporn.com
   - DOMAIN-SUFFIX,looti.net
   - DOMAIN-SUFFIX,lordofultima.com
+  - DOMAIN-SUFFIX,lorenzetti.com.br
   - DOMAIN-SUFFIX,loreto.ac.uk
   - DOMAIN-SUFFIX,lostbetsgames.com
   - DOMAIN-SUFFIX,lotcrap.com
@@ -18354,6 +18368,7 @@ payload:
   - DOMAIN-SUFFIX,microsoft.cat
   - DOMAIN-SUFFIX,microsoft.ch
   - DOMAIN-SUFFIX,microsoft.cl
+  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoft.cz
   - DOMAIN-SUFFIX,microsoft.de
   - DOMAIN-SUFFIX,microsoft.dk
@@ -18392,6 +18407,7 @@ payload:
   - DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
   - DOMAIN-SUFFIX,microsoftaffiliates.com
   - DOMAIN-SUFFIX,microsoftapp.net
+  - DOMAIN-SUFFIX,microsoftazuread-sso.com
   - DOMAIN-SUFFIX,microsoftazuresponsorships.com
   - DOMAIN-SUFFIX,microsoftcloud.com
   - DOMAIN-SUFFIX,microsoftcloudsummit.com
@@ -21636,6 +21652,9 @@ payload:
   - DOMAIN-SUFFIX,ozeex.com
   - DOMAIN-SUFFIX,ozodi.org
   - DOMAIN-SUFFIX,ozodlik.org
+  - DOMAIN-SUFFIX,ozon.ru
+  - DOMAIN-SUFFIX,ozone.ru
+  - DOMAIN-SUFFIX,ozonusercontent.com
   - DOMAIN-SUFFIX,ozvoice.org
   - DOMAIN-SUFFIX,ozyoyo.com
   - DOMAIN-SUFFIX,p-cdn.us
@@ -22383,6 +22402,7 @@ payload:
   - DOMAIN-SUFFIX,play-asia.com
   - DOMAIN-SUFFIX,play-bmm.shop
   - DOMAIN-SUFFIX,play-bmmer.buzz
+  - DOMAIN-SUFFIX,play-edge.itunes.apple.com
   - DOMAIN-SUFFIX,play4free.com
   - DOMAIN-SUFFIX,playapex.com
   - DOMAIN-SUFFIX,playartifact.com
@@ -22394,6 +22414,8 @@ payload:
   - DOMAIN-SUFFIX,playcover.io
   - DOMAIN-SUFFIX,player.fm
   - DOMAIN-SUFFIX,playerjs.io
+  - DOMAIN-SUFFIX,playfab.com
+  - DOMAIN-SUFFIX,playfabapi.com
   - DOMAIN-SUFFIX,playforceone.com
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playmation.com
@@ -24833,7 +24855,6 @@ payload:
   - DOMAIN-SUFFIX,seldensociety.ac.uk
   - DOMAIN-SUFFIX,selectanescort.com
   - DOMAIN-SUFFIX,selectyourgame.com
-  - DOMAIN-SUFFIX,self.events.data.microsoft.com
   - DOMAIN-SUFFIX,selfloversworld.com
   - DOMAIN-SUFFIX,sellclassics.com
   - DOMAIN-SUFFIX,sellercommunity.com
@@ -28117,6 +28138,7 @@ payload:
   - DOMAIN-SUFFIX,truedepth3d.com
   - DOMAIN-SUFFIX,truedwg.com
   - DOMAIN-SUFFIX,truefi.io
+  - DOMAIN-SUFFIX,truenas.com
   - DOMAIN-SUFFIX,trulyergonomic.com
   - DOMAIN-SUFFIX,trunest.com
   - DOMAIN-SUFFIX,truro-penwith.ac.uk
@@ -28308,6 +28330,7 @@ payload:
   - DOMAIN-SUFFIX,tutanota.de
   - DOMAIN-SUFFIX,tuvpn.com
   - DOMAIN-SUFFIX,tuzaijidi.com
+  - DOMAIN-SUFFIX,tv.applemusic.com
   - DOMAIN-SUFFIX,tv.br
   - DOMAIN-SUFFIX,tv.com
   - DOMAIN-SUFFIX,tv.google
@@ -28990,6 +29013,7 @@ payload:
   - DOMAIN-SUFFIX,utcnist3.colorado.edu
   - DOMAIN-SUFFIX,utcreading.ac.uk
   - DOMAIN-SUFFIX,utopianpal.com
+  - DOMAIN-SUFFIX,uts-api.itunes.apple.com
   - DOMAIN-SUFFIX,uu-gg.com
   - DOMAIN-SUFFIX,uug23.com
   - DOMAIN-SUFFIX,uug25.com
@@ -29588,6 +29612,7 @@ payload:
   - DOMAIN-SUFFIX,visabank.org
   - DOMAIN-SUFFIX,visabg.com
   - DOMAIN-SUFFIX,visabusinessinsights.com
+  - DOMAIN-SUFFIX,visaca.com
   - DOMAIN-SUFFIX,visacarddesignlab.com
   - DOMAIN-SUFFIX,visacards.com
   - DOMAIN-SUFFIX,visacheckout.net

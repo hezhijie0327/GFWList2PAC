@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0MzAzOTczOQo=
+# Checksum: MTc0MzEyNjE1NQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20250327-0
-# TimeUpdated: 2025-03-27T01:42:19+00:00
+# Version: 1.0.9-20250328-0
+# TimeUpdated: 2025-03-28T01:42:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -64129,7 +64129,6 @@ payload:
   - DOMAIN-SUFFIX,noxue.com
   - DOMAIN-SUFFIX,noxxxx.com
   - DOMAIN-SUFFIX,noyes88.com
-  - DOMAIN-SUFFIX,np-edge.itunes.apple.com
   - DOMAIN-SUFFIX,npbdp.com
   - DOMAIN-SUFFIX,npbeta.com
   - DOMAIN-SUFFIX,npc.ink
@@ -64295,6 +64294,7 @@ payload:
   - DOMAIN-SUFFIX,ntrcb.com
   - DOMAIN-SUFFIX,ntrun.com
   - DOMAIN-SUFFIX,ntsanta.com
+  - DOMAIN-SUFFIX,ntservicepack.microsoft.com
   - DOMAIN-SUFFIX,ntsgx.com
   - DOMAIN-SUFFIX,ntsloadcell.com
   - DOMAIN-SUFFIX,ntsuye.com
@@ -83940,6 +83940,7 @@ payload:
   - DOMAIN-SUFFIX,upd.kaspersky.com
   - DOMAIN-SUFFIX,update.crashlytics.com
   - DOMAIN-SUFFIX,update.googleapis.com
+  - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,updates-http.cdn-apple.com
   - DOMAIN-SUFFIX,updates-http.cdn-apple.com.akadns.net
   - DOMAIN-SUFFIX,updates.cdn-apple.com
@@ -87638,6 +87639,7 @@ payload:
   - DOMAIN-SUFFIX,windows10zj.com
   - DOMAIN-SUFFIX,windows11.pro
   - DOMAIN-SUFFIX,windows7en.com
+  - DOMAIN-SUFFIX,windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,windowszj.com
   - DOMAIN-SUFFIX,winds.red
   - DOMAIN-SUFFIX,windsns.com
@@ -89004,6 +89006,7 @@ payload:
   - DOMAIN-SUFFIX,www.destinationurl.com
   - DOMAIN-SUFFIX,www.dji.com
   - DOMAIN-SUFFIX,www.djivideos.com
+  - DOMAIN-SUFFIX,www.entrust.cn
   - DOMAIN-SUFFIX,www.epsonconnect.com
   - DOMAIN-SUFFIX,www.googleadapis.com
   - DOMAIN-SUFFIX,www.gov.mo
