@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0MzczMDk5Ngo=
+# Checksum: MTc0MzgxNzMwNQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250404-0
-# TimeUpdated: 2025-04-04T01:43:16+00:00
+# Version: 1.0.9-20250405-0
+# TimeUpdated: 2025-04-05T01:41:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2694,6 +2694,7 @@ payload:
   - DOMAIN-SUFFIX,auricularesbeatsmarkt.com
   - DOMAIN-SUFFIX,auroraoss.com
   - DOMAIN-SUFFIX,ausbeatsbydrdre.com
+  - DOMAIN-SUFFIX,auth.openai.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,authorizeddns.net
   - DOMAIN-SUFFIX,authorizeddns.org
@@ -21398,6 +21399,7 @@ payload:
   - DOMAIN-SUFFIX,opencollective.com
   - DOMAIN-SUFFIX,opencreate.org
   - DOMAIN-SUFFIX,opendemocracy.net
+  - DOMAIN-SUFFIX,opendesktop.org
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,opendroneid.org
   - DOMAIN-SUFFIX,opened.ac.uk
