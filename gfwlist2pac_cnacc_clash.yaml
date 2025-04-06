@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0MzgxNzI5Mgo=
+# Checksum: MTc0MzkwNDExMAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20250405-0
-# TimeUpdated: 2025-04-05T01:41:32+00:00
+# Version: 1.0.9-20250406-0
+# TimeUpdated: 2025-04-06T01:48:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -10672,6 +10672,7 @@ payload:
   - DOMAIN-SUFFIX,aliappcdn.com
   - DOMAIN-SUFFIX,aliasnb.xyz
   - DOMAIN-SUFFIX,alibaba-inc.com
+  - DOMAIN-SUFFIX,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibaba.net
   - DOMAIN-SUFFIX,alibabacapital.com
@@ -33327,6 +33328,7 @@ payload:
   - DOMAIN-SUFFIX,forestfood.com
   - DOMAIN-SUFFIX,forestmusicnanjing.com
   - DOMAIN-SUFFIX,forestpolice.org
+  - DOMAIN-SUFFIX,forevernine.com
   - DOMAIN-SUFFIX,foreveross.com
   - DOMAIN-SUFFIX,foreweld.com
   - DOMAIN-SUFFIX,forface3d.com
@@ -36563,6 +36565,8 @@ payload:
   - DOMAIN-SUFFIX,golenpower.com
   - DOMAIN-SUFFIX,golfvv.com
   - DOMAIN-SUFFIX,golink.com
+  - DOMAIN-SUFFIX,golinkapi.com
+  - DOMAIN-SUFFIX,golinkcn.com
   - DOMAIN-SUFFIX,golinksworld.com
   - DOMAIN-SUFFIX,golive-tv.com
   - DOMAIN-SUFFIX,golivetv.tv
@@ -48763,6 +48767,7 @@ payload:
   - DOMAIN-SUFFIX,imlianai.com
   - DOMAIN-SUFFIX,imliuyi.com
   - DOMAIN-SUFFIX,immeee.com
+  - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,immfast.com
   - DOMAIN-SUFFIX,immi520.com
   - DOMAIN-SUFFIX,immiexpo.com
@@ -60727,6 +60732,7 @@ payload:
   - DOMAIN-SUFFIX,luzewangluo.com
   - DOMAIN-SUFFIX,luzexi.com
   - DOMAIN-SUFFIX,luzhouok.com
+  - DOMAIN-SUFFIX,lv.queniujq.cn
   - DOMAIN-SUFFIX,lv74.com
   - DOMAIN-SUFFIX,lv96.com
   - DOMAIN-SUFFIX,lvanol.com
@@ -73679,6 +73685,7 @@ payload:
   - DOMAIN-SUFFIX,queniuje.com
   - DOMAIN-SUFFIX,queniujf.com
   - DOMAIN-SUFFIX,queniujg.com
+  - DOMAIN-SUFFIX,queniujq.cn
   - DOMAIN-SUFFIX,queniujq.com
   - DOMAIN-SUFFIX,queniujz.com
   - DOMAIN-SUFFIX,queniukk.com
@@ -75183,6 +75190,7 @@ payload:
   - DOMAIN-SUFFIX,rm.run
   - DOMAIN-SUFFIX,rmb.sh
   - DOMAIN-SUFFIX,rmbbk.com
+  - DOMAIN-SUFFIX,rmbgame.net
   - DOMAIN-SUFFIX,rmbrate.net
   - DOMAIN-SUFFIX,rmburl.com
   - DOMAIN-SUFFIX,rmcaribbean.com
@@ -81944,6 +81952,7 @@ payload:
   - DOMAIN-SUFFIX,stdout.pub
   - DOMAIN-SUFFIX,stdwp.com
   - DOMAIN-SUFFIX,ste56.com
+  - DOMAIN-SUFFIX,steam302.xyz
   - DOMAIN-SUFFIX,steambang.com
   - DOMAIN-SUFFIX,steambig.com
   - DOMAIN-SUFFIX,steamboxs.com
