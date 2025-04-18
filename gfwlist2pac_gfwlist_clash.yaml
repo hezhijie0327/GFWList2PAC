@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0NDg1NDMzNgo=
+# Checksum: MTc0NDk0MDU5Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250417-0
-# TimeUpdated: 2025-04-17T01:45:36+00:00
+# Version: 1.0.9-20250418-0
+# TimeUpdated: 2025-04-18T01:43:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -189,6 +189,7 @@ payload:
   - DOMAIN-SUFFIX,1lib.eu
   - DOMAIN-SUFFIX,1lib.limited
   - DOMAIN-SUFFIX,1lib.pl
+  - DOMAIN-SUFFIX,1lib.sk
   - DOMAIN-SUFFIX,1lib.to
   - DOMAIN-SUFFIX,1lib.tw
   - DOMAIN-SUFFIX,1mobile.com
@@ -12306,6 +12307,7 @@ payload:
   - DOMAIN-SUFFIX,go-lang.net
   - DOMAIN-SUFFIX,go-lang.org
   - DOMAIN-SUFFIX,go-pki.com
+  - DOMAIN-SUFFIX,go-to-library.sk
   - DOMAIN-SUFFIX,go-to-zlibrary.se
   - DOMAIN-SUFFIX,go.com
   - DOMAIN-SUFFIX,go.dev
@@ -15615,6 +15617,7 @@ payload:
   - DOMAIN-SUFFIX,itaeromanga.com
   - DOMAIN-SUFFIX,itaiwan.gov.tw
   - DOMAIN-SUFFIX,italiabeatsbydrdre.com
+  - DOMAIN-SUFFIX,italian-books.sk
   - DOMAIN-SUFFIX,italiatibet.org
   - DOMAIN-SUFFIX,itasoftware.com
   - DOMAIN-SUFFIX,itcanwait.com
@@ -32480,9 +32483,13 @@ payload:
   - DOMAIN-SUFFIX,yysub.net
   - DOMAIN-SUFFIX,yzld188.top
   - DOMAIN-SUFFIX,yzzk.com
+  - DOMAIN-SUFFIX,z-lib.gd
+  - DOMAIN-SUFFIX,z-lib.gs
   - DOMAIN-SUFFIX,z-lib.io
   - DOMAIN-SUFFIX,z-lib.org
+  - DOMAIN-SUFFIX,z-lib.ps
   - DOMAIN-SUFFIX,z-library.se
+  - DOMAIN-SUFFIX,z-library.sk
   - DOMAIN-SUFFIX,z00.world
   - DOMAIN-SUFFIX,z18r.co
   - DOMAIN-SUFFIX,z18r.com

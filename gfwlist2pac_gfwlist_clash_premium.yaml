@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0NDg1NDMzNgo=
+# Checksum: MTc0NDk0MDU5Mgo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20250417-0
-# TimeUpdated: 2025-04-17T01:45:36+00:00
+# Version: 1.0.9-20250418-0
+# TimeUpdated: 2025-04-18T01:43:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -189,6 +189,7 @@ payload:
   - '+.1lib.eu'
   - '+.1lib.limited'
   - '+.1lib.pl'
+  - '+.1lib.sk'
   - '+.1lib.to'
   - '+.1lib.tw'
   - '+.1mobile.com'
@@ -12306,6 +12307,7 @@ payload:
   - '+.go-lang.net'
   - '+.go-lang.org'
   - '+.go-pki.com'
+  - '+.go-to-library.sk'
   - '+.go-to-zlibrary.se'
   - '+.go.com'
   - '+.go.dev'
@@ -15615,6 +15617,7 @@ payload:
   - '+.itaeromanga.com'
   - '+.itaiwan.gov.tw'
   - '+.italiabeatsbydrdre.com'
+  - '+.italian-books.sk'
   - '+.italiatibet.org'
   - '+.itasoftware.com'
   - '+.itcanwait.com'
@@ -32480,9 +32483,13 @@ payload:
   - '+.yysub.net'
   - '+.yzld188.top'
   - '+.yzzk.com'
+  - '+.z-lib.gd'
+  - '+.z-lib.gs'
   - '+.z-lib.io'
   - '+.z-lib.org'
+  - '+.z-lib.ps'
   - '+.z-library.se'
+  - '+.z-library.sk'
   - '+.z00.world'
   - '+.z18r.co'
   - '+.z18r.com'
