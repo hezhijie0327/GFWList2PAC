@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0NTk3NzY3MQo=
+# Checksum: MTc0NjA2NDU4Nwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20250430-0
-# TimeUpdated: 2025-04-30T01:47:51+00:00
+# Version: 1.0.9-20250501-0
+# TimeUpdated: 2025-05-01T01:56:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -30766,6 +30766,7 @@ payload:
   - DOMAIN-SUFFIX,djigo-hk.djiservice.org
   - DOMAIN-SUFFIX,djigo.djicdn.com
   - DOMAIN-SUFFIX,djigoapi.djiservice.org
+  - DOMAIN-SUFFIX,djiits.com
   - DOMAIN-SUFFIX,djiops.com
   - DOMAIN-SUFFIX,djiservice.org
   - DOMAIN-SUFFIX,djivideos.com
@@ -71395,6 +71396,7 @@ payload:
   - DOMAIN-SUFFIX,mored.com
   - DOMAIN-SUFFIX,moredian.com
   - DOMAIN-SUFFIX,morefood.com
+  - DOMAIN-SUFFIX,morefreegame.com
   - DOMAIN-SUFFIX,morefun-philippines.com
   - DOMAIN-SUFFIX,moregy.com
   - DOMAIN-SUFFIX,moreless.io
@@ -71680,7 +71682,6 @@ payload:
   - DOMAIN-SUFFIX,mshouyou.com
   - DOMAIN-SUFFIX,mshw.net
   - DOMAIN-SUFFIX,mshxw.com
-  - DOMAIN-SUFFIX,msi.com
   - DOMAIN-SUFFIX,msits.com
   - DOMAIN-SUFFIX,msjingmi.com
   - DOMAIN-SUFFIX,msjy123.com

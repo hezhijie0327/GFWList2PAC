@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0NTk3NzY4Ngo=
+# Checksum: MTc0NjA2NDYwMQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250430-0
-# TimeUpdated: 2025-04-30T01:48:06+00:00
+# Version: 1.0.9-20250501-0
+# TimeUpdated: 2025-05-01T01:56:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -5169,6 +5169,7 @@ payload:
   - DOMAIN-SUFFIX,broadbandreports.com
   - DOMAIN-SUFFIX,broadbook.com
   - DOMAIN-SUFFIX,broadcast.co.nz
+  - DOMAIN-SUFFIX,broadcom.com
   - DOMAIN-SUFFIX,broadpressinc.com
   - DOMAIN-SUFFIX,broadstairscollege.ac.uk
   - DOMAIN-SUFFIX,brocaproject.com
@@ -19390,6 +19391,8 @@ payload:
   - DOMAIN-SUFFIX,msguancha.com
   - DOMAIN-SUFFIX,msha.gov
   - DOMAIN-SUFFIX,mshome.net
+  - DOMAIN-SUFFIX,msi.cn
+  - DOMAIN-SUFFIX,msi.com
   - DOMAIN-SUFFIX,msidentity.com
   - DOMAIN-SUFFIX,msinnovationchallenge.com
   - DOMAIN-SUFFIX,msk.ilnk.info
@@ -25614,6 +25617,7 @@ payload:
   - DOMAIN-SUFFIX,sinchew.com.my
   - DOMAIN-SUFFIX,sinchew.my
   - DOMAIN-SUFFIX,sinet.ac.uk
+  - DOMAIN-SUFFIX,sing-box.app
   - DOMAIN-SUFFIX,sing-box.sagernet.org
   - DOMAIN-SUFFIX,sing4.lat
   - DOMAIN-SUFFIX,sing68.com
@@ -31441,7 +31445,6 @@ payload:
   - DOMAIN-SUFFIX,xiaohexie.com
   - DOMAIN-SUFFIX,xiaolan.me
   - DOMAIN-SUFFIX,xiaoma.org
-  - DOMAIN-SUFFIX,xiaomi.eu
   - DOMAIN-SUFFIX,xiaoou.io
   - DOMAIN-SUFFIX,xiaoou.tv
   - DOMAIN-SUFFIX,xiaoshuobb.life
