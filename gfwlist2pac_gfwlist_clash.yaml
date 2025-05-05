@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0NjMyMzg0NQo=
+# Checksum: MTc0NjQwOTk2OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250504-0
-# TimeUpdated: 2025-05-04T01:57:25+00:00
+# Version: 1.0.9-20250505-0
+# TimeUpdated: 2025-05-05T01:52:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -6166,7 +6166,6 @@ payload:
   - DOMAIN-SUFFIX,chasestudy.ac.uk
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chat.lmsys.org
-  - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,chatango.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
@@ -21509,7 +21508,6 @@ payload:
   - DOMAIN-SUFFIX,open.ac.uk
   - DOMAIN-SUFFIX,open.com.hk
   - DOMAIN-SUFFIX,open.firstory.me
-  - DOMAIN-SUFFIX,open.spotify.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -25599,6 +25597,7 @@ payload:
   - DOMAIN-SUFFIX,simplenote.com
   - DOMAIN-SUFFIX,simpleproductivityblog.com
   - DOMAIN-SUFFIX,simpleswap.io
+  - DOMAIN-SUFFIX,simplex.chat
   - DOMAIN-SUFFIX,simplify.com
   - DOMAIN-SUFFIX,simplifycommerce.com
   - DOMAIN-SUFFIX,simply-hentai.com
@@ -32671,6 +32670,7 @@ payload:
   - DOMAIN-SUFFIX,zndsk.com
   - DOMAIN-SUFFIX,zobry.site
   - DOMAIN-SUFFIX,zodgame.us
+  - DOMAIN-SUFFIX,zodgame.xyz
   - DOMAIN-SUFFIX,zoho.com
   - DOMAIN-SUFFIX,zoho.com.au
   - DOMAIN-SUFFIX,zoho.eu
