@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0Njg0MTUzMQo=
+# Checksum: MTc0NjkyODUzMQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250510-0
-# TimeUpdated: 2025-05-10T01:45:31+00:00
+# Version: 1.0.9-20250511-0
+# TimeUpdated: 2025-05-11T01:55:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,1111mod-tube.buzz
   - DOMAIN-SUFFIX,1111mode.xyz
   - DOMAIN-SUFFIX,1111modpo.info
+  - DOMAIN-SUFFIX,111666.best
   - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,114av.xyz
   - DOMAIN-SUFFIX,11jav.com
@@ -1181,7 +1182,6 @@ payload:
   - DOMAIN-SUFFIX,ai-kan.net
   - DOMAIN-SUFFIX,ai-wen.net
   - DOMAIN-SUFFIX,ai.binwang.me
-  - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,ai3sd.ac.uk
   - DOMAIN-SUFFIX,ai7995.site
@@ -12309,6 +12309,7 @@ payload:
   - DOMAIN-SUFFIX,gmodules.com
   - DOMAIN-SUFFIX,gmoney.org
   - DOMAIN-SUFFIX,gmozomg.izihost.org
+  - DOMAIN-SUFFIX,gmp4.com
   - DOMAIN-SUFFIX,gmsa.ac.uk
   - DOMAIN-SUFFIX,gmx.net
   - DOMAIN-SUFFIX,gnai-dh.sbs
@@ -14417,6 +14418,7 @@ payload:
   - DOMAIN-SUFFIX,i-o-u.info
   - DOMAIN-SUFFIX,i-part.com.tw
   - DOMAIN-SUFFIX,i-scmp.com
+  - DOMAIN-SUFFIX,i.111666.best
   - DOMAIN-SUFFIX,i.jeded.com
   - DOMAIN-SUFFIX,i.lithium.com
   - DOMAIN-SUFFIX,i.org
@@ -21411,6 +21413,7 @@ payload:
   - DOMAIN-SUFFIX,oncars.in
   - DOMAIN-SUFFIX,one.one
   - DOMAIN-SUFFIX,one.one.one
+  - DOMAIN-SUFFIX,one.one.one.one
   - DOMAIN-SUFFIX,one889.app
   - DOMAIN-SUFFIX,oneapi.com
   - DOMAIN-SUFFIX,onedinesfree.com
@@ -22540,6 +22543,7 @@ payload:
   - DOMAIN-SUFFIX,play-bmm.shop
   - DOMAIN-SUFFIX,play-bmmer.buzz
   - DOMAIN-SUFFIX,play-edge.itunes.apple.com
+  - DOMAIN-SUFFIX,play.google
   - DOMAIN-SUFFIX,play4free.com
   - DOMAIN-SUFFIX,playapex.com
   - DOMAIN-SUFFIX,playartifact.com
@@ -23404,6 +23408,7 @@ payload:
   - DOMAIN-SUFFIX,pure18.com
   - DOMAIN-SUFFIX,pureapk.com
   - DOMAIN-SUFFIX,pureconcepts.net
+  - DOMAIN-SUFFIX,puredns.org
   - DOMAIN-SUFFIX,pureinsight.org
   - DOMAIN-SUFFIX,purelov5.com
   - DOMAIN-SUFFIX,purelyceleb.com
@@ -23524,6 +23529,7 @@ payload:
   - DOMAIN-SUFFIX,qml.ac.uk
   - DOMAIN-SUFFIX,qmov.com
   - DOMAIN-SUFFIX,qmov.net
+  - DOMAIN-SUFFIX,qmp4.com
   - DOMAIN-SUFFIX,qmpgmc.ac.uk
   - DOMAIN-SUFFIX,qmttqg3k.me
   - DOMAIN-SUFFIX,qmu.ac.uk
@@ -32530,7 +32536,10 @@ payload:
   - DOMAIN-SUFFIX,yysub.net
   - DOMAIN-SUFFIX,yzld188.top
   - DOMAIN-SUFFIX,yzzk.com
+  - DOMAIN-SUFFIX,z-lib.fm
+  - DOMAIN-SUFFIX,z-lib.fo
   - DOMAIN-SUFFIX,z-lib.gd
+  - DOMAIN-SUFFIX,z-lib.gl
   - DOMAIN-SUFFIX,z-lib.gs
   - DOMAIN-SUFFIX,z-lib.io
   - DOMAIN-SUFFIX,z-lib.org
