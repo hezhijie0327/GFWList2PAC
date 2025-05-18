@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0NzQ0NjQ4Mwo=
+# Checksum: MTc0NzUzMzQxOQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250517-0
-# TimeUpdated: 2025-05-17T01:48:03+00:00
+# Version: 1.0.9-20250518-0
+# TimeUpdated: 2025-05-18T01:56:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -3313,6 +3313,7 @@ payload:
   - DOMAIN-SUFFIX,bbs.mikocon.com
   - DOMAIN-SUFFIX,bbs.morbell.com
   - DOMAIN-SUFFIX,bbs.mychat.to
+  - DOMAIN-SUFFIX,bbs.naixi.net
   - DOMAIN-SUFFIX,bbs.netbig.com
   - DOMAIN-SUFFIX,bbs.nyinfor.com
   - DOMAIN-SUFFIX,bbs.ozchinese.com
@@ -16845,6 +16846,7 @@ payload:
   - DOMAIN-SUFFIX,lcwc.ac.uk
   - DOMAIN-SUFFIX,ld.hao123img.com
   - DOMAIN-SUFFIX,ldoc-cdt.ac.uk
+  - DOMAIN-SUFFIX,ldplayer.tw
   - DOMAIN-SUFFIX,le-direct.tv
   - DOMAIN-SUFFIX,le-vpn.com
   - DOMAIN-SUFFIX,le.ac.uk
