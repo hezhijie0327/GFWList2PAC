@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0NzUzMzQxOQo=
+# Checksum: MTc0NzYxOTc2Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250518-0
-# TimeUpdated: 2025-05-18T01:56:59+00:00
+# Version: 1.0.9-20250519-0
+# TimeUpdated: 2025-05-19T01:56:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -6890,6 +6890,7 @@ payload:
   - DOMAIN-SUFFIX,codeish.co
   - DOMAIN-SUFFIX,codeish.io
   - DOMAIN-SUFFIX,codeplex.com
+  - DOMAIN-SUFFIX,coderabbit.ai
   - DOMAIN-SUFFIX,codeshare.io
   - DOMAIN-SUFFIX,codeskulptor.org
   - DOMAIN-SUFFIX,codespot.com
@@ -8286,6 +8287,7 @@ payload:
   - DOMAIN-SUFFIX,disinhe.ac.uk
   - DOMAIN-SUFFIX,disk.yandex.com
   - DOMAIN-SUFFIX,disk.yandex.ru
+  - DOMAIN-SUFFIX,diskstation.me
   - DOMAIN-SUFFIX,disney-asia.com
   - DOMAIN-SUFFIX,disney-discount.com
   - DOMAIN-SUFFIX,disney-plus.net
@@ -8512,10 +8514,13 @@ payload:
   - DOMAIN-SUFFIX,dobendan.de
   - DOMAIN-SUFFIX,doc.new
   - DOMAIN-SUFFIX,doceapower.com
+  - DOMAIN-SUFFIX,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+  - DOMAIN-SUFFIX,docker-pinata-support.s3.amazonaws.com
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,dockerhub.com
   - DOMAIN-SUFFIX,dockerizer.com
+  - DOMAIN-SUFFIX,dockerstatic.com
   - DOMAIN-SUFFIX,docleradn.com
   - DOMAIN-SUFFIX,doclercdn.com
   - DOMAIN-SUFFIX,docs.cfw.lbyczf.com
@@ -8778,6 +8783,9 @@ payload:
   - DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
   - DOMAIN-SUFFIX,ds0h3roq6wcgc.cloudfront.net
   - DOMAIN-SUFFIX,dscis.ac.uk
+  - DOMAIN-SUFFIX,dscloud.biz
+  - DOMAIN-SUFFIX,dscloud.me
+  - DOMAIN-SUFFIX,dscloud.mobi
   - DOMAIN-SUFFIX,dscn.info
   - DOMAIN-SUFFIX,dses.ac.uk
   - DOMAIN-SUFFIX,dsex.to
@@ -8786,6 +8794,9 @@ payload:
   - DOMAIN-SUFFIX,dslr.net
   - DOMAIN-SUFFIX,dslreports.com
   - DOMAIN-SUFFIX,dsmtp.com
+  - DOMAIN-SUFFIX,dsmynas.com
+  - DOMAIN-SUFFIX,dsmynas.net
+  - DOMAIN-SUFFIX,dsmynas.org
   - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,dst-dtc.ac.uk
   - DOMAIN-SUFFIX,dstk.dk
@@ -9920,7 +9931,6 @@ payload:
   - DOMAIN-SUFFIX,esopworld.com
   - DOMAIN-SUFFIX,esp-scotland.ac.uk
   - DOMAIN-SUFFIX,esp32.com
-  - DOMAIN-SUFFIX,esp8266.com
   - DOMAIN-SUFFIX,espa-headlines.ac.uk
   - DOMAIN-SUFFIX,espa.ac.uk
   - DOMAIN-SUFFIX,espadoldettol.com.ar
@@ -9934,7 +9944,6 @@ payload:
   - DOMAIN-SUFFIX,espndotcom.tt.omtrdc.net
   - DOMAIN-SUFFIX,espnqa.com
   - DOMAIN-SUFFIX,esposasymaridos.com
-  - DOMAIN-SUFFIX,espressif.com
   - DOMAIN-SUFFIX,esrc.ac.uk
   - DOMAIN-SUFFIX,esrcfestival.ac.uk
   - DOMAIN-SUFFIX,esrcmanchesterfest.ac.uk
@@ -10459,6 +10468,9 @@ payload:
   - DOMAIN-SUFFIX,family-simulator.io
   - DOMAIN-SUFFIX,family.co.jp
   - DOMAIN-SUFFIX,family.com.tw
+  - DOMAIN-SUFFIX,familyds.com
+  - DOMAIN-SUFFIX,familyds.net
+  - DOMAIN-SUFFIX,familyds.org
   - DOMAIN-SUFFIX,familyfed.org
   - DOMAIN-SUFFIX,familylifestudy.ac.uk
   - DOMAIN-SUFFIX,familymart.com.my
@@ -14420,6 +14432,7 @@ payload:
   - DOMAIN-SUFFIX,i.lithium.com
   - DOMAIN-SUFFIX,i.org
   - DOMAIN-SUFFIX,i1.hk
+  - DOMAIN-SUFFIX,i234.me
   - DOMAIN-SUFFIX,i2p2.de
   - DOMAIN-SUFFIX,i2runner.com
   - DOMAIN-SUFFIX,i69.com.tw
@@ -14458,6 +14471,7 @@ payload:
   - DOMAIN-SUFFIX,ibit.am
   - DOMAIN-SUFFIX,ibkr.com
   - DOMAIN-SUFFIX,iblist.com
+  - DOMAIN-SUFFIX,ibllc.com
   - DOMAIN-SUFFIX,iblogserv-f.net
   - DOMAIN-SUFFIX,ibm.com
   - DOMAIN-SUFFIX,ibm.eu
@@ -19597,6 +19611,7 @@ payload:
   - DOMAIN-SUFFIX,mydirectgroove.com
   - DOMAIN-SUFFIX,mydirectvchannels.com
   - DOMAIN-SUFFIX,mydirtyhobby.com
+  - DOMAIN-SUFFIX,myds.me
   - DOMAIN-SUFFIX,myeasytv.com
   - DOMAIN-SUFFIX,myebay.com
   - DOMAIN-SUFFIX,myeclipseide.com
@@ -27120,6 +27135,7 @@ payload:
   - DOMAIN-SUFFIX,syncbak.com
   - DOMAIN-SUFFIX,synergyse.com
   - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,synology.me
   - DOMAIN-SUFFIX,synologydownload.com
   - DOMAIN-SUFFIX,synologyupdate.com
   - DOMAIN-SUFFIX,synsym.ac.uk
@@ -28350,6 +28366,7 @@ payload:
   - DOMAIN-SUFFIX,trustedpeach.com
   - DOMAIN-SUFFIX,trustisfps.com
   - DOMAIN-SUFFIX,trustsign.ch
+  - DOMAIN-SUFFIX,trustwallet.com
   - DOMAIN-SUFFIX,trustwave.com
   - DOMAIN-SUFFIX,truth101.co.tv
   - DOMAIN-SUFFIX,truthontour.org
@@ -30502,6 +30519,7 @@ payload:
   - DOMAIN-SUFFIX,webcammedellin.co
   - DOMAIN-SUFFIX,webcams.tv
   - DOMAIN-SUFFIX,webcamtubexxx.com
+  - DOMAIN-SUFFIX,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,webevader.org
   - DOMAIN-SUFFIX,webex.ca
   - DOMAIN-SUFFIX,webex.co.in
