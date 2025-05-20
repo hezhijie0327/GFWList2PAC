@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0NzYxOTc2Ngo=
+# Checksum: MTc0NzcwNTkyOQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250519-0
-# TimeUpdated: 2025-05-19T01:56:06+00:00
+# Version: 1.0.9-20250520-0
+# TimeUpdated: 2025-05-20T01:52:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -19394,6 +19394,7 @@ payload:
   - DOMAIN-SUFFIX,msft.info
   - DOMAIN-SUFFIX,msft.net
   - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msfteducation.ca
   - DOMAIN-SUFFIX,msftncsi.com
