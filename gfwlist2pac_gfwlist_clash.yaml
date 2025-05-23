@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0Nzg3ODY0Mwo=
+# Checksum: MTc0Nzk2NTA1MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250522-0
-# TimeUpdated: 2025-05-22T01:50:43+00:00
+# Version: 1.0.9-20250523-0
+# TimeUpdated: 2025-05-23T01:50:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1290,6 +1290,9 @@ payload:
   - DOMAIN-SUFFIX,ajsands.com
   - DOMAIN-SUFFIX,ajsjx.com
   - DOMAIN-SUFFIX,ajtalk.com
+  - DOMAIN-SUFFIX,ak-p.tripcdn.com
+  - DOMAIN-SUFFIX,ak-s-cw.tripcdn.com
+  - DOMAIN-SUFFIX,ak-s.tripcdn.com
   - DOMAIN-SUFFIX,ak1.net
   - DOMAIN-SUFFIX,aka-ai.com
   - DOMAIN-SUFFIX,aka-ai.net
@@ -1354,6 +1357,7 @@ payload:
   - DOMAIN-SUFFIX,akasha.world
   - DOMAIN-SUFFIX,akastream.com
   - DOMAIN-SUFFIX,akastream.net
+  - DOMAIN-SUFFIX,akatest.tripcdn.com
   - DOMAIN-SUFFIX,akatns.net
   - DOMAIN-SUFFIX,akiba-online.com
   - DOMAIN-SUFFIX,akiba-web.com
@@ -2972,6 +2976,9 @@ payload:
   - DOMAIN-SUFFIX,avxlive.icu
   - DOMAIN-SUFFIX,avxxc.com
   - DOMAIN-SUFFIX,avyahoo.com
+  - DOMAIN-SUFFIX,aw-d.tripcdn.com
+  - DOMAIN-SUFFIX,aw-p.tripcdn.com
+  - DOMAIN-SUFFIX,aw-s.tripcdn.com
   - DOMAIN-SUFFIX,awayoutgame.com
   - DOMAIN-SUFFIX,aweencore.com
   - DOMAIN-SUFFIX,awempire.com

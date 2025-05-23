@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0Nzg3ODY0Mwo=
+# Checksum: MTc0Nzk2NTA1MAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20250522-0
-# TimeUpdated: 2025-05-22T01:50:43+00:00
+# Version: 1.0.9-20250523-0
+# TimeUpdated: 2025-05-23T01:50:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -1290,6 +1290,9 @@ payload:
   - '+.ajsands.com'
   - '+.ajsjx.com'
   - '+.ajtalk.com'
+  - '+.ak-p.tripcdn.com'
+  - '+.ak-s-cw.tripcdn.com'
+  - '+.ak-s.tripcdn.com'
   - '+.ak1.net'
   - '+.aka-ai.com'
   - '+.aka-ai.net'
@@ -1354,6 +1357,7 @@ payload:
   - '+.akasha.world'
   - '+.akastream.com'
   - '+.akastream.net'
+  - '+.akatest.tripcdn.com'
   - '+.akatns.net'
   - '+.akiba-online.com'
   - '+.akiba-web.com'
@@ -2972,6 +2976,9 @@ payload:
   - '+.avxlive.icu'
   - '+.avxxc.com'
   - '+.avyahoo.com'
+  - '+.aw-d.tripcdn.com'
+  - '+.aw-p.tripcdn.com'
+  - '+.aw-s.tripcdn.com'
   - '+.awayoutgame.com'
   - '+.aweencore.com'
   - '+.awempire.com'
