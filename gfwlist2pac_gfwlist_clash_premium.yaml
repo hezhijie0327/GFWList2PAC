@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0ODEzODM3OQo=
+# Checksum: MTc0ODIyNDQ3OAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20250525-0
-# TimeUpdated: 2025-05-25T01:59:39+00:00
+# Version: 1.0.9-20250526-0
+# TimeUpdated: 2025-05-26T01:54:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -6745,6 +6745,7 @@ payload:
   - '+.clova.ai'
   - '+.clp.ac.uk'
   - '+.clrc.ac.uk'
+  - '+.clstorage.net'
   - '+.club.tw'
   - '+.club1069.com'
   - '+.clubhouse.com'
@@ -14478,7 +14479,16 @@ payload:
   - '+.ibiblio.org'
   - '+.ibis.ac.uk'
   - '+.ibit.am'
+  - '+.ibkr.ca'
+  - '+.ibkr.co.in'
+  - '+.ibkr.co.uk'
   - '+.ibkr.com'
+  - '+.ibkr.com.au'
+  - '+.ibkr.com.hk'
+  - '+.ibkr.com.sg'
+  - '+.ibkr.eu'
+  - '+.ibkr.ie'
+  - '+.ibkrguides.com'
   - '+.iblist.com'
   - '+.ibllc.com'
   - '+.iblogserv-f.net'
@@ -19365,6 +19375,7 @@ payload:
   - '+.mqxd.org'
   - '+.mr-apple.com.tw'
   - '+.mr-tireman.jp'
+  - '+.mradx.net'
   - '+.mray.club'
   - '+.mrbasic.com'
   - '+.mrbdsm.com'
@@ -20986,6 +20997,7 @@ payload:
   - '+.ntp.t.ring.gr.jp'
   - '+.ntp.tohoku.ac.jp'
   - '+.ntp.tut.ac.jp'
+  - '+.ntp.ubuntu.com'
   - '+.ntp.ufe.cz'
   - '+.ntp0.ntp-servers.net'
   - '+.ntp0.ring.gr.jp'
@@ -24313,6 +24325,7 @@ payload:
   - '+.rosetta.ac.uk'
   - '+.roshy.tv'
   - '+.roslin.ac.uk'
+  - '+.rostaxi.org'
   - '+.rothamsted.ac.uk'
   - '+.rotherham-coll.ac.uk'
   - '+.rotherham.ac.uk'
@@ -27992,6 +28005,7 @@ payload:
   - '+.time-e-wwv.nist.gov'
   - '+.time.apple.com'
   - '+.time.aws.com'
+  - '+.time.cloudflare.com'
   - '+.time.com'
   - '+.time.euro.apple.com'
   - '+.time.facebook.com'
@@ -27999,6 +28013,7 @@ payload:
   - '+.time.gov'
   - '+.time.nist.gov'
   - '+.time.nrc.ca'
+  - '+.time.windows.com'
   - '+.time1.facebook.com'
   - '+.time1.google.com'
   - '+.time2.facebook.com'
@@ -29931,6 +29946,7 @@ payload:
   - '+.vizvaz.com'
   - '+.vjav.com'
   - '+.vjmedia.com.hk'
+  - '+.vk-analytics.ru'
   - '+.vk-apps.com'
   - '+.vk-apps.ru'
   - '+.vk-cdn.me'
@@ -32063,6 +32079,8 @@ payload:
   - '+.yammer.com'
   - '+.yamoon.club'
   - '+.yande.re'
+  - '+.yandex-bank.net'
+  - '+.yandex-images.clstorage.net'
   - '+.yandex.aero'
   - '+.yandex.az'
   - '+.yandex.by'
@@ -32094,7 +32112,10 @@ payload:
   - '+.yandex.tm'
   - '+.yandex.ua'
   - '+.yandex.uz'
+  - '+.yandexadexchange.net'
   - '+.yandexcloud.net'
+  - '+.yandexcom.net'
+  - '+.yandexwebcache.org'
   - '+.yangjianli.com'
   - '+.yaohubaba.com'
   - '+.yaoimangaonline.com'

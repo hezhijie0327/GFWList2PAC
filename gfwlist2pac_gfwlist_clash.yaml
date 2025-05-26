@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0ODEzODM3OQo=
+# Checksum: MTc0ODIyNDQ3OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250525-0
-# TimeUpdated: 2025-05-25T01:59:39+00:00
+# Version: 1.0.9-20250526-0
+# TimeUpdated: 2025-05-26T01:54:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -6745,6 +6745,7 @@ payload:
   - DOMAIN-SUFFIX,clova.ai
   - DOMAIN-SUFFIX,clp.ac.uk
   - DOMAIN-SUFFIX,clrc.ac.uk
+  - DOMAIN-SUFFIX,clstorage.net
   - DOMAIN-SUFFIX,club.tw
   - DOMAIN-SUFFIX,club1069.com
   - DOMAIN-SUFFIX,clubhouse.com
@@ -14478,7 +14479,16 @@ payload:
   - DOMAIN-SUFFIX,ibiblio.org
   - DOMAIN-SUFFIX,ibis.ac.uk
   - DOMAIN-SUFFIX,ibit.am
+  - DOMAIN-SUFFIX,ibkr.ca
+  - DOMAIN-SUFFIX,ibkr.co.in
+  - DOMAIN-SUFFIX,ibkr.co.uk
   - DOMAIN-SUFFIX,ibkr.com
+  - DOMAIN-SUFFIX,ibkr.com.au
+  - DOMAIN-SUFFIX,ibkr.com.hk
+  - DOMAIN-SUFFIX,ibkr.com.sg
+  - DOMAIN-SUFFIX,ibkr.eu
+  - DOMAIN-SUFFIX,ibkr.ie
+  - DOMAIN-SUFFIX,ibkrguides.com
   - DOMAIN-SUFFIX,iblist.com
   - DOMAIN-SUFFIX,ibllc.com
   - DOMAIN-SUFFIX,iblogserv-f.net
@@ -19365,6 +19375,7 @@ payload:
   - DOMAIN-SUFFIX,mqxd.org
   - DOMAIN-SUFFIX,mr-apple.com.tw
   - DOMAIN-SUFFIX,mr-tireman.jp
+  - DOMAIN-SUFFIX,mradx.net
   - DOMAIN-SUFFIX,mray.club
   - DOMAIN-SUFFIX,mrbasic.com
   - DOMAIN-SUFFIX,mrbdsm.com
@@ -20986,6 +20997,7 @@ payload:
   - DOMAIN-SUFFIX,ntp.t.ring.gr.jp
   - DOMAIN-SUFFIX,ntp.tohoku.ac.jp
   - DOMAIN-SUFFIX,ntp.tut.ac.jp
+  - DOMAIN-SUFFIX,ntp.ubuntu.com
   - DOMAIN-SUFFIX,ntp.ufe.cz
   - DOMAIN-SUFFIX,ntp0.ntp-servers.net
   - DOMAIN-SUFFIX,ntp0.ring.gr.jp
@@ -24313,6 +24325,7 @@ payload:
   - DOMAIN-SUFFIX,rosetta.ac.uk
   - DOMAIN-SUFFIX,roshy.tv
   - DOMAIN-SUFFIX,roslin.ac.uk
+  - DOMAIN-SUFFIX,rostaxi.org
   - DOMAIN-SUFFIX,rothamsted.ac.uk
   - DOMAIN-SUFFIX,rotherham-coll.ac.uk
   - DOMAIN-SUFFIX,rotherham.ac.uk
@@ -27992,6 +28005,7 @@ payload:
   - DOMAIN-SUFFIX,time-e-wwv.nist.gov
   - DOMAIN-SUFFIX,time.apple.com
   - DOMAIN-SUFFIX,time.aws.com
+  - DOMAIN-SUFFIX,time.cloudflare.com
   - DOMAIN-SUFFIX,time.com
   - DOMAIN-SUFFIX,time.euro.apple.com
   - DOMAIN-SUFFIX,time.facebook.com
@@ -27999,6 +28013,7 @@ payload:
   - DOMAIN-SUFFIX,time.gov
   - DOMAIN-SUFFIX,time.nist.gov
   - DOMAIN-SUFFIX,time.nrc.ca
+  - DOMAIN-SUFFIX,time.windows.com
   - DOMAIN-SUFFIX,time1.facebook.com
   - DOMAIN-SUFFIX,time1.google.com
   - DOMAIN-SUFFIX,time2.facebook.com
@@ -29931,6 +29946,7 @@ payload:
   - DOMAIN-SUFFIX,vizvaz.com
   - DOMAIN-SUFFIX,vjav.com
   - DOMAIN-SUFFIX,vjmedia.com.hk
+  - DOMAIN-SUFFIX,vk-analytics.ru
   - DOMAIN-SUFFIX,vk-apps.com
   - DOMAIN-SUFFIX,vk-apps.ru
   - DOMAIN-SUFFIX,vk-cdn.me
@@ -32063,6 +32079,8 @@ payload:
   - DOMAIN-SUFFIX,yammer.com
   - DOMAIN-SUFFIX,yamoon.club
   - DOMAIN-SUFFIX,yande.re
+  - DOMAIN-SUFFIX,yandex-bank.net
+  - DOMAIN-SUFFIX,yandex-images.clstorage.net
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.az
   - DOMAIN-SUFFIX,yandex.by
@@ -32094,7 +32112,10 @@ payload:
   - DOMAIN-SUFFIX,yandex.tm
   - DOMAIN-SUFFIX,yandex.ua
   - DOMAIN-SUFFIX,yandex.uz
+  - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
+  - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yangjianli.com
   - DOMAIN-SUFFIX,yaohubaba.com
   - DOMAIN-SUFFIX,yaoimangaonline.com

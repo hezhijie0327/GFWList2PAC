@@ -1,7 +1,7 @@
-# Checksum: MTc0ODEzODM3OQo=
+# Checksum: MTc0ODIyNDQ3OAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20250525-0
-# TimeUpdated: 2025-05-25T01:59:39+00:00
+# Version: 1.0.9-20250526-0
+# TimeUpdated: 2025-05-26T01:54:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -6744,6 +6744,7 @@ DOMAIN-SUFFIX,cloupia.net,PROXY
 DOMAIN-SUFFIX,clova.ai,PROXY
 DOMAIN-SUFFIX,clp.ac.uk,PROXY
 DOMAIN-SUFFIX,clrc.ac.uk,PROXY
+DOMAIN-SUFFIX,clstorage.net,PROXY
 DOMAIN-SUFFIX,club.tw,PROXY
 DOMAIN-SUFFIX,club1069.com,PROXY
 DOMAIN-SUFFIX,clubhouse.com,PROXY
@@ -14477,7 +14478,16 @@ DOMAIN-SUFFIX,ibeatsbydre.com,PROXY
 DOMAIN-SUFFIX,ibiblio.org,PROXY
 DOMAIN-SUFFIX,ibis.ac.uk,PROXY
 DOMAIN-SUFFIX,ibit.am,PROXY
+DOMAIN-SUFFIX,ibkr.ca,PROXY
+DOMAIN-SUFFIX,ibkr.co.in,PROXY
+DOMAIN-SUFFIX,ibkr.co.uk,PROXY
 DOMAIN-SUFFIX,ibkr.com,PROXY
+DOMAIN-SUFFIX,ibkr.com.au,PROXY
+DOMAIN-SUFFIX,ibkr.com.hk,PROXY
+DOMAIN-SUFFIX,ibkr.com.sg,PROXY
+DOMAIN-SUFFIX,ibkr.eu,PROXY
+DOMAIN-SUFFIX,ibkr.ie,PROXY
+DOMAIN-SUFFIX,ibkrguides.com,PROXY
 DOMAIN-SUFFIX,iblist.com,PROXY
 DOMAIN-SUFFIX,ibllc.com,PROXY
 DOMAIN-SUFFIX,iblogserv-f.net,PROXY
@@ -19364,6 +19374,7 @@ DOMAIN-SUFFIX,mql5.com,PROXY
 DOMAIN-SUFFIX,mqxd.org,PROXY
 DOMAIN-SUFFIX,mr-apple.com.tw,PROXY
 DOMAIN-SUFFIX,mr-tireman.jp,PROXY
+DOMAIN-SUFFIX,mradx.net,PROXY
 DOMAIN-SUFFIX,mray.club,PROXY
 DOMAIN-SUFFIX,mrbasic.com,PROXY
 DOMAIN-SUFFIX,mrbdsm.com,PROXY
@@ -20985,6 +20996,7 @@ DOMAIN-SUFFIX,ntp.se,PROXY
 DOMAIN-SUFFIX,ntp.t.ring.gr.jp,PROXY
 DOMAIN-SUFFIX,ntp.tohoku.ac.jp,PROXY
 DOMAIN-SUFFIX,ntp.tut.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp.ubuntu.com,PROXY
 DOMAIN-SUFFIX,ntp.ufe.cz,PROXY
 DOMAIN-SUFFIX,ntp0.ntp-servers.net,PROXY
 DOMAIN-SUFFIX,ntp0.ring.gr.jp,PROXY
@@ -24312,6 +24324,7 @@ DOMAIN-SUFFIX,roses.ac.uk,PROXY
 DOMAIN-SUFFIX,rosetta.ac.uk,PROXY
 DOMAIN-SUFFIX,roshy.tv,PROXY
 DOMAIN-SUFFIX,roslin.ac.uk,PROXY
+DOMAIN-SUFFIX,rostaxi.org,PROXY
 DOMAIN-SUFFIX,rothamsted.ac.uk,PROXY
 DOMAIN-SUFFIX,rotherham-coll.ac.uk,PROXY
 DOMAIN-SUFFIX,rotherham.ac.uk,PROXY
@@ -27991,6 +28004,7 @@ DOMAIN-SUFFIX,time-e-g.nist.gov,PROXY
 DOMAIN-SUFFIX,time-e-wwv.nist.gov,PROXY
 DOMAIN-SUFFIX,time.apple.com,PROXY
 DOMAIN-SUFFIX,time.aws.com,PROXY
+DOMAIN-SUFFIX,time.cloudflare.com,PROXY
 DOMAIN-SUFFIX,time.com,PROXY
 DOMAIN-SUFFIX,time.euro.apple.com,PROXY
 DOMAIN-SUFFIX,time.facebook.com,PROXY
@@ -27998,6 +28012,7 @@ DOMAIN-SUFFIX,time.google.com,PROXY
 DOMAIN-SUFFIX,time.gov,PROXY
 DOMAIN-SUFFIX,time.nist.gov,PROXY
 DOMAIN-SUFFIX,time.nrc.ca,PROXY
+DOMAIN-SUFFIX,time.windows.com,PROXY
 DOMAIN-SUFFIX,time1.facebook.com,PROXY
 DOMAIN-SUFFIX,time1.google.com,PROXY
 DOMAIN-SUFFIX,time2.facebook.com,PROXY
@@ -29930,6 +29945,7 @@ DOMAIN-SUFFIX,viznet.ac.uk,PROXY
 DOMAIN-SUFFIX,vizvaz.com,PROXY
 DOMAIN-SUFFIX,vjav.com,PROXY
 DOMAIN-SUFFIX,vjmedia.com.hk,PROXY
+DOMAIN-SUFFIX,vk-analytics.ru,PROXY
 DOMAIN-SUFFIX,vk-apps.com,PROXY
 DOMAIN-SUFFIX,vk-apps.ru,PROXY
 DOMAIN-SUFFIX,vk-cdn.me,PROXY
@@ -32062,6 +32078,8 @@ DOMAIN-SUFFIX,yamaxun.com,PROXY
 DOMAIN-SUFFIX,yammer.com,PROXY
 DOMAIN-SUFFIX,yamoon.club,PROXY
 DOMAIN-SUFFIX,yande.re,PROXY
+DOMAIN-SUFFIX,yandex-bank.net,PROXY
+DOMAIN-SUFFIX,yandex-images.clstorage.net,PROXY
 DOMAIN-SUFFIX,yandex.aero,PROXY
 DOMAIN-SUFFIX,yandex.az,PROXY
 DOMAIN-SUFFIX,yandex.by,PROXY
@@ -32093,7 +32111,10 @@ DOMAIN-SUFFIX,yandex.tj,PROXY
 DOMAIN-SUFFIX,yandex.tm,PROXY
 DOMAIN-SUFFIX,yandex.ua,PROXY
 DOMAIN-SUFFIX,yandex.uz,PROXY
+DOMAIN-SUFFIX,yandexadexchange.net,PROXY
 DOMAIN-SUFFIX,yandexcloud.net,PROXY
+DOMAIN-SUFFIX,yandexcom.net,PROXY
+DOMAIN-SUFFIX,yandexwebcache.org,PROXY
 DOMAIN-SUFFIX,yangjianli.com,PROXY
 DOMAIN-SUFFIX,yaohubaba.com,PROXY
 DOMAIN-SUFFIX,yaoimangaonline.com,PROXY
