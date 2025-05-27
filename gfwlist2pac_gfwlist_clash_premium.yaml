@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0ODIyNDQ3OAo=
+# Checksum: MTc0ODMxMDU5Ngo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20250526-0
-# TimeUpdated: 2025-05-26T01:54:38+00:00
+# Version: 1.0.9-20250527-0
+# TimeUpdated: 2025-05-27T01:49:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -1784,6 +1784,7 @@ payload:
   - '+.andovercollege.ac.uk'
   - '+.android-x86.org'
   - '+.android.com'
+  - '+.android.googlesource.com'
   - '+.androidapksfree.com'
   - '+.androidauthority.com'
   - '+.androidfilehost.com'
@@ -11978,6 +11979,7 @@ payload:
   - '+.gemfire.net'
   - '+.gemfury.com'
   - '+.gemini.com'
+  - '+.gemini.google'
   - '+.gen.lib.rus.ec'
   - '+.gen.tr'
   - '+.gen2.ac.uk'

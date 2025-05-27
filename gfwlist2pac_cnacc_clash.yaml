@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0ODIyNDQ2NAo=
+# Checksum: MTc0ODMxMDU4Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20250526-0
-# TimeUpdated: 2025-05-26T01:54:24+00:00
+# Version: 1.0.9-20250527-0
+# TimeUpdated: 2025-05-27T01:49:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -30138,10 +30138,17 @@ payload:
   - DOMAIN-SUFFIX,deweisi.net
   - DOMAIN-SUFFIX,dewiqq.asia
   - DOMAIN-SUFFIX,dewmobile.net
+  - DOMAIN-SUFFIX,dewu-inc.com
+  - DOMAIN-SUFFIX,dewu-inner.com
+  - DOMAIN-SUFFIX,dewu-inner.net
+  - DOMAIN-SUFFIX,dewu.co
   - DOMAIN-SUFFIX,dewu.com
   - DOMAIN-SUFFIX,dewu.net
   - DOMAIN-SUFFIX,dewucdn.com
+  - DOMAIN-SUFFIX,dewuhd.com
+  - DOMAIN-SUFFIX,dewuhui.com
   - DOMAIN-SUFFIX,dewumall.com
+  - DOMAIN-SUFFIX,dewuyouhui.com
   - DOMAIN-SUFFIX,dewx.net
   - DOMAIN-SUFFIX,dexejhyxh.com
   - DOMAIN-SUFFIX,dexian.mobi
@@ -32518,6 +32525,7 @@ payload:
   - DOMAIN-SUFFIX,du-xiaomai.com
   - DOMAIN-SUFFIX,du7.com
   - DOMAIN-SUFFIX,du8.com
+  - DOMAIN-SUFFIX,du8.ltd
   - DOMAIN-SUFFIX,dualaid.com
   - DOMAIN-SUFFIX,dualspace.com
   - DOMAIN-SUFFIX,dualspacetech.com
@@ -32876,6 +32884,7 @@ payload:
   - DOMAIN-SUFFIX,dvsadive.com
   - DOMAIN-SUFFIX,dvvvs.com
   - DOMAIN-SUFFIX,dw-microbiology.com
+  - DOMAIN-SUFFIX,dw2.co
   - DOMAIN-SUFFIX,dw4.co
   - DOMAIN-SUFFIX,dwbxg.com
   - DOMAIN-SUFFIX,dwdds.com
@@ -32883,6 +32892,7 @@ payload:
   - DOMAIN-SUFFIX,dwgbj.com
   - DOMAIN-SUFFIX,dwgszc.com
   - DOMAIN-SUFFIX,dwgwatch.com
+  - DOMAIN-SUFFIX,dwhhd.com
   - DOMAIN-SUFFIX,dwhub.net
   - DOMAIN-SUFFIX,dwhut.com
   - DOMAIN-SUFFIX,dwidc.com
@@ -40470,6 +40480,8 @@ payload:
   - DOMAIN-SUFFIX,giffox.com
   - DOMAIN-SUFFIX,gifhome.com
   - DOMAIN-SUFFIX,gifshow.com
+  - DOMAIN-SUFFIX,giftatdw.com
+  - DOMAIN-SUFFIX,giftattoday.com
   - DOMAIN-SUFFIX,giftres.com
   - DOMAIN-SUFFIX,giftsbeijing.com
   - DOMAIN-SUFFIX,gifu-pr.com
@@ -78171,6 +78183,7 @@ payload:
   - DOMAIN-SUFFIX,pandapaint.net
   - DOMAIN-SUFFIX,pandara.xyz
   - DOMAIN-SUFFIX,pandaremit.com
+  - DOMAIN-SUFFIX,pandarzli.com
   - DOMAIN-SUFFIX,pandateacher.com
   - DOMAIN-SUFFIX,pandatv.com
   - DOMAIN-SUFFIX,pandax.wiki
@@ -78734,6 +78747,7 @@ payload:
   - DOMAIN-SUFFIX,pengyaou.com
   - DOMAIN-SUFFIX,pengyihotel.com
   - DOMAIN-SUFFIX,pengyou.com
+  - DOMAIN-SUFFIX,pengyoudewu.com
   - DOMAIN-SUFFIX,pengyoukan.com
   - DOMAIN-SUFFIX,pengyuanled.com
   - DOMAIN-SUFFIX,pengyucpa.com
@@ -79626,7 +79640,11 @@ payload:
   - DOMAIN-SUFFIX,poinesttia.com
   - DOMAIN-SUFFIX,point-memory.com
   - DOMAIN-SUFFIX,poiuytw.com
+  - DOMAIN-SUFFIX,poizon-inner.com
+  - DOMAIN-SUFFIX,poizon-inner.net
+  - DOMAIN-SUFFIX,poizon-support.com
   - DOMAIN-SUFFIX,poizon.com
+  - DOMAIN-SUFFIX,poizon.net
   - DOMAIN-SUFFIX,poj.org
   - DOMAIN-SUFFIX,pojianyunfu.com
   - DOMAIN-SUFFIX,poke203.com
@@ -88938,6 +88956,7 @@ payload:
   - DOMAIN-SUFFIX,shizhihome.com
   - DOMAIN-SUFFIX,shizhongruyi.com
   - DOMAIN-SUFFIX,shizhuang-inc.com
+  - DOMAIN-SUFFIX,shizhuang-inc.net
   - DOMAIN-SUFFIX,shizhuolin.com
   - DOMAIN-SUFFIX,shizhuonet.com
   - DOMAIN-SUFFIX,shj6789.com
@@ -104950,6 +104969,7 @@ payload:
   - DOMAIN-SUFFIX,womeifilm.com
   - DOMAIN-SUFFIX,womeimenye.com
   - DOMAIN-SUFFIX,women-heart.com
+  - DOMAIN-SUFFIX,womendedw.com
   - DOMAIN-SUFFIX,womenjie.com
   - DOMAIN-SUFFIX,wonadea.com
   - DOMAIN-SUFFIX,wonder.wiki

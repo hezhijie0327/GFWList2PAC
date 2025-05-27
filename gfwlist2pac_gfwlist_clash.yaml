@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0ODIyNDQ3OAo=
+# Checksum: MTc0ODMxMDU5Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250526-0
-# TimeUpdated: 2025-05-26T01:54:38+00:00
+# Version: 1.0.9-20250527-0
+# TimeUpdated: 2025-05-27T01:49:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1784,6 +1784,7 @@ payload:
   - DOMAIN-SUFFIX,andovercollege.ac.uk
   - DOMAIN-SUFFIX,android-x86.org
   - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,android.googlesource.com
   - DOMAIN-SUFFIX,androidapksfree.com
   - DOMAIN-SUFFIX,androidauthority.com
   - DOMAIN-SUFFIX,androidfilehost.com
@@ -11978,6 +11979,7 @@ payload:
   - DOMAIN-SUFFIX,gemfire.net
   - DOMAIN-SUFFIX,gemfury.com
   - DOMAIN-SUFFIX,gemini.com
+  - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gen.lib.rus.ec
   - DOMAIN-SUFFIX,gen.tr
   - DOMAIN-SUFFIX,gen2.ac.uk
