@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0ODQ4MzUxMQo=
+# Checksum: MTc0ODU2OTc3NQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20250529-0
-# TimeUpdated: 2025-05-29T01:51:51+00:00
+# Version: 1.0.9-20250530-0
+# TimeUpdated: 2025-05-30T01:49:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -24581,9 +24581,15 @@ payload:
   - '+.s1s1s1.com'
   - '+.s2csntp.miz.nao.ac.jp'
   - '+.s2stagehance.com'
+  - '+.s3-ap-northeast-1.amazonaws.com'
+  - '+.s3-ap-northeast-2.amazonaws.com'
   - '+.s3-ap-southeast-1.amazonaws.com'
   - '+.s3-ap-southeast-2.amazonaws.com'
+  - '+.s3-eu-central-1.amazonaws.com'
   - '+.s3.amazonaws.com'
+  - '+.s3.ap-northeast-2.amazonaws.com'
+  - '+.s3.eu-central-1.amazonaws.com'
+  - '+.s3.us-east-1.amazonaws.com'
   - '+.s4miniarchive.com'
   - '+.s81c.com'
   - '+.s8ds5gfm.xyz'
