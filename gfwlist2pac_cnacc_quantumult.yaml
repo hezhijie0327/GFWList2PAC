@@ -1,7 +1,7 @@
-# Checksum: MTc0ODgyOTQxMgo=
+# Checksum: MTc0ODkxNTYxOQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.9-20250602-0
-# TimeUpdated: 2025-06-02T01:56:52+00:00
+# Version: 1.0.9-20250603-0
+# TimeUpdated: 2025-06-03T01:53:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link,DIRECT
@@ -12814,9 +12814,6 @@ DOMAIN-SUFFIX,api-cn-t.lenovo.com,DIRECT
 DOMAIN-SUFFIX,api-edge.apps.apple.com,DIRECT
 DOMAIN-SUFFIX,api-forwards.com,DIRECT
 DOMAIN-SUFFIX,api-m.com,DIRECT
-DOMAIN-SUFFIX,api-p-ap-c.smoot.apple.com,DIRECT
-DOMAIN-SUFFIX,api-p-ap-d.smoot.apple.com,DIRECT
-DOMAIN-SUFFIX,api-p-ap-e.smoot.apple.com,DIRECT
 DOMAIN-SUFFIX,api.anythinktech.com,DIRECT
 DOMAIN-SUFFIX,api.cnno1.uds.lenovo.com,DIRECT
 DOMAIN-SUFFIX,api.crisp.chat,DIRECT
@@ -37882,7 +37879,64 @@ DOMAIN-SUFFIX,frostchina.com,DIRECT
 DOMAIN-SUFFIX,frostwell.cc,DIRECT
 DOMAIN-SUFFIX,frostwell.net,DIRECT
 DOMAIN-SUFFIX,frostwing98.com,DIRECT
+DOMAIN-SUFFIX,frp-act.com,DIRECT
+DOMAIN-SUFFIX,frp-air.com,DIRECT
+DOMAIN-SUFFIX,frp-all.com,DIRECT
+DOMAIN-SUFFIX,frp-any.com,DIRECT
+DOMAIN-SUFFIX,frp-arm.com,DIRECT
+DOMAIN-SUFFIX,frp-art.com,DIRECT
+DOMAIN-SUFFIX,frp-bag.com,DIRECT
+DOMAIN-SUFFIX,frp-bar.com,DIRECT
+DOMAIN-SUFFIX,frp-bid.com,DIRECT
+DOMAIN-SUFFIX,frp-box.com,DIRECT
+DOMAIN-SUFFIX,frp-boy.com,DIRECT
+DOMAIN-SUFFIX,frp-bus.com,DIRECT
+DOMAIN-SUFFIX,frp-car.com,DIRECT
 DOMAIN-SUFFIX,frp-china.net,DIRECT
+DOMAIN-SUFFIX,frp-dad.com,DIRECT
+DOMAIN-SUFFIX,frp-dog.com,DIRECT
+DOMAIN-SUFFIX,frp-dry.com,DIRECT
+DOMAIN-SUFFIX,frp-egg.com,DIRECT
+DOMAIN-SUFFIX,frp-end.com,DIRECT
+DOMAIN-SUFFIX,frp-era.com,DIRECT
+DOMAIN-SUFFIX,frp-fan.com,DIRECT
+DOMAIN-SUFFIX,frp-fee.com,DIRECT
+DOMAIN-SUFFIX,frp-fog.com,DIRECT
+DOMAIN-SUFFIX,frp-fox.com,DIRECT
+DOMAIN-SUFFIX,frp-fun.com,DIRECT
+DOMAIN-SUFFIX,frp-gap.com,DIRECT
+DOMAIN-SUFFIX,frp-gas.com,DIRECT
+DOMAIN-SUFFIX,frp-gym.com,DIRECT
+DOMAIN-SUFFIX,frp-hat.com,DIRECT
+DOMAIN-SUFFIX,frp-hen.com,DIRECT
+DOMAIN-SUFFIX,frp-hip.com,DIRECT
+DOMAIN-SUFFIX,frp-hub.com,DIRECT
+DOMAIN-SUFFIX,frp-ice.com,DIRECT
+DOMAIN-SUFFIX,frp-key.com,DIRECT
+DOMAIN-SUFFIX,frp-kit.com,DIRECT
+DOMAIN-SUFFIX,frp-lab.com,DIRECT
+DOMAIN-SUFFIX,frp-leg.com,DIRECT
+DOMAIN-SUFFIX,frp-mad.com,DIRECT
+DOMAIN-SUFFIX,frp-man.com,DIRECT
+DOMAIN-SUFFIX,frp-mix.com,DIRECT
+DOMAIN-SUFFIX,frp-mom.com,DIRECT
+DOMAIN-SUFFIX,frp-net.com,DIRECT
+DOMAIN-SUFFIX,frp-now.com,DIRECT
+DOMAIN-SUFFIX,frp-nut.com,DIRECT
+DOMAIN-SUFFIX,frp-oak.com,DIRECT
+DOMAIN-SUFFIX,frp-off.com,DIRECT
+DOMAIN-SUFFIX,frp-oil.com,DIRECT
+DOMAIN-SUFFIX,frp-one.com,DIRECT
+DOMAIN-SUFFIX,frp-own.com,DIRECT
+DOMAIN-SUFFIX,frp-pen.com,DIRECT
+DOMAIN-SUFFIX,frp-put.com,DIRECT
+DOMAIN-SUFFIX,frp-rib.com,DIRECT
+DOMAIN-SUFFIX,frp-rug.com,DIRECT
+DOMAIN-SUFFIX,frp-run.com,DIRECT
+DOMAIN-SUFFIX,frp-say.com,DIRECT
+DOMAIN-SUFFIX,frp-sea.com,DIRECT
+DOMAIN-SUFFIX,frp-shy.com,DIRECT
+DOMAIN-SUFFIX,frp-six.com,DIRECT
 DOMAIN-SUFFIX,frpapp.com,DIRECT
 DOMAIN-SUFFIX,frt.ltd,DIRECT
 DOMAIN-SUFFIX,frtgraphite.com,DIRECT
@@ -41989,7 +42043,6 @@ DOMAIN-SUFFIX,gsp11-cn.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsp12-cn.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsp13-cn.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net,DIRECT
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
 DOMAIN-SUFFIX,gsp5-cn.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com,DIRECT
@@ -42002,7 +42055,6 @@ DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net,DIRECT
 DOMAIN-SUFFIX,gspe19-cn.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gspe21-ssl.ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gspe21.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gspe35-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gspe79-cn-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gspe85-cn-ssl.ls.apple.com,DIRECT
@@ -54843,8 +54895,6 @@ DOMAIN-SUFFIX,imagerjt.com,DIRECT
 DOMAIN-SUFFIX,images-cache.com,DIRECT
 DOMAIN-SUFFIX,images-cn-8.ssl-images-amazon.com,DIRECT
 DOMAIN-SUFFIX,images-cn.ssl-images-amazon.com,DIRECT
-DOMAIN-SUFFIX,images.apple.com,DIRECT
-DOMAIN-SUFFIX,images.apple.com.akadns.net,DIRECT
 DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
 DOMAIN-SUFFIX,images.samsung.com,DIRECT
 DOMAIN-SUFFIX,images3.tripcdn.com,DIRECT
@@ -105879,7 +105929,6 @@ DOMAIN-SUFFIX,www.amd.com,DIRECT
 DOMAIN-SUFFIX,www.analog.com,DIRECT
 DOMAIN-SUFFIX,www.apple.com,DIRECT
 DOMAIN-SUFFIX,www.apple.com.cn,DIRECT
-DOMAIN-SUFFIX,www.apple.com.edgekey.net,DIRECT
 DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
 DOMAIN-SUFFIX,www.bing.com,DIRECT
 DOMAIN-SUFFIX,www.cdnetworks.com,DIRECT

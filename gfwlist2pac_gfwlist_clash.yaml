@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0ODgyOTQyNgo=
+# Checksum: MTc0ODkxNTYzNAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250602-0
-# TimeUpdated: 2025-06-02T01:57:06+00:00
+# Version: 1.0.9-20250603-0
+# TimeUpdated: 2025-06-03T01:53:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2579,6 +2579,7 @@ payload:
   - DOMAIN-SUFFIX,asminternational.org
   - DOMAIN-SUFFIX,asmrbuluo.com
   - DOMAIN-SUFFIX,asn-online.org
+  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,asp-cc.com
   - DOMAIN-SUFFIX,asp.net
   - DOMAIN-SUFFIX,aspbjournals.org
@@ -11059,6 +11060,8 @@ payload:
   - DOMAIN-SUFFIX,flickr.net
   - DOMAIN-SUFFIX,flickrhivemind.net
   - DOMAIN-SUFFIX,flickriver.com
+  - DOMAIN-SUFFIX,flightsimulator.azureedge.net
+  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,fling.com
   - DOMAIN-SUFFIX,flipboard.com
   - DOMAIN-SUFFIX,flipfap.com
@@ -11188,6 +11191,7 @@ payload:
   - DOMAIN-SUFFIX,forum.xinbao.de
   - DOMAIN-SUFFIX,forum4hk.com
   - DOMAIN-SUFFIX,forums-free.com
+  - DOMAIN-SUFFIX,forza.net
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,forzaracingchampionship.com
   - DOMAIN-SUFFIX,forzarc.com
@@ -23368,6 +23372,7 @@ payload:
   - DOMAIN-SUFFIX,procatstudent.ac.uk
   - DOMAIN-SUFFIX,procopytips.com
   - DOMAIN-SUFFIX,proctoscopeexam.com
+  - DOMAIN-SUFFIX,prodforza.blob.core.windows.net
   - DOMAIN-SUFFIX,prodrive-japan.com
   - DOMAIN-SUFFIX,product.co.jp
   - DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc0ODgyOTQxMgo=
+# Checksum: MTc0ODkxNTYxOQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20250602-0
-# TimeUpdated: 2025-06-02T01:56:52+00:00
+# Version: 1.0.9-20250603-0
+# TimeUpdated: 2025-06-03T01:53:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -12815,9 +12815,6 @@ payload:
   - DOMAIN-SUFFIX,api-edge.apps.apple.com
   - DOMAIN-SUFFIX,api-forwards.com
   - DOMAIN-SUFFIX,api-m.com
-  - DOMAIN-SUFFIX,api-p-ap-c.smoot.apple.com
-  - DOMAIN-SUFFIX,api-p-ap-d.smoot.apple.com
-  - DOMAIN-SUFFIX,api-p-ap-e.smoot.apple.com
   - DOMAIN-SUFFIX,api.anythinktech.com
   - DOMAIN-SUFFIX,api.cnno1.uds.lenovo.com
   - DOMAIN-SUFFIX,api.crisp.chat
@@ -37883,7 +37880,64 @@ payload:
   - DOMAIN-SUFFIX,frostwell.cc
   - DOMAIN-SUFFIX,frostwell.net
   - DOMAIN-SUFFIX,frostwing98.com
+  - DOMAIN-SUFFIX,frp-act.com
+  - DOMAIN-SUFFIX,frp-air.com
+  - DOMAIN-SUFFIX,frp-all.com
+  - DOMAIN-SUFFIX,frp-any.com
+  - DOMAIN-SUFFIX,frp-arm.com
+  - DOMAIN-SUFFIX,frp-art.com
+  - DOMAIN-SUFFIX,frp-bag.com
+  - DOMAIN-SUFFIX,frp-bar.com
+  - DOMAIN-SUFFIX,frp-bid.com
+  - DOMAIN-SUFFIX,frp-box.com
+  - DOMAIN-SUFFIX,frp-boy.com
+  - DOMAIN-SUFFIX,frp-bus.com
+  - DOMAIN-SUFFIX,frp-car.com
   - DOMAIN-SUFFIX,frp-china.net
+  - DOMAIN-SUFFIX,frp-dad.com
+  - DOMAIN-SUFFIX,frp-dog.com
+  - DOMAIN-SUFFIX,frp-dry.com
+  - DOMAIN-SUFFIX,frp-egg.com
+  - DOMAIN-SUFFIX,frp-end.com
+  - DOMAIN-SUFFIX,frp-era.com
+  - DOMAIN-SUFFIX,frp-fan.com
+  - DOMAIN-SUFFIX,frp-fee.com
+  - DOMAIN-SUFFIX,frp-fog.com
+  - DOMAIN-SUFFIX,frp-fox.com
+  - DOMAIN-SUFFIX,frp-fun.com
+  - DOMAIN-SUFFIX,frp-gap.com
+  - DOMAIN-SUFFIX,frp-gas.com
+  - DOMAIN-SUFFIX,frp-gym.com
+  - DOMAIN-SUFFIX,frp-hat.com
+  - DOMAIN-SUFFIX,frp-hen.com
+  - DOMAIN-SUFFIX,frp-hip.com
+  - DOMAIN-SUFFIX,frp-hub.com
+  - DOMAIN-SUFFIX,frp-ice.com
+  - DOMAIN-SUFFIX,frp-key.com
+  - DOMAIN-SUFFIX,frp-kit.com
+  - DOMAIN-SUFFIX,frp-lab.com
+  - DOMAIN-SUFFIX,frp-leg.com
+  - DOMAIN-SUFFIX,frp-mad.com
+  - DOMAIN-SUFFIX,frp-man.com
+  - DOMAIN-SUFFIX,frp-mix.com
+  - DOMAIN-SUFFIX,frp-mom.com
+  - DOMAIN-SUFFIX,frp-net.com
+  - DOMAIN-SUFFIX,frp-now.com
+  - DOMAIN-SUFFIX,frp-nut.com
+  - DOMAIN-SUFFIX,frp-oak.com
+  - DOMAIN-SUFFIX,frp-off.com
+  - DOMAIN-SUFFIX,frp-oil.com
+  - DOMAIN-SUFFIX,frp-one.com
+  - DOMAIN-SUFFIX,frp-own.com
+  - DOMAIN-SUFFIX,frp-pen.com
+  - DOMAIN-SUFFIX,frp-put.com
+  - DOMAIN-SUFFIX,frp-rib.com
+  - DOMAIN-SUFFIX,frp-rug.com
+  - DOMAIN-SUFFIX,frp-run.com
+  - DOMAIN-SUFFIX,frp-say.com
+  - DOMAIN-SUFFIX,frp-sea.com
+  - DOMAIN-SUFFIX,frp-shy.com
+  - DOMAIN-SUFFIX,frp-six.com
   - DOMAIN-SUFFIX,frpapp.com
   - DOMAIN-SUFFIX,frt.ltd
   - DOMAIN-SUFFIX,frtgraphite.com
@@ -41990,7 +42044,6 @@ payload:
   - DOMAIN-SUFFIX,gsp12-cn.ls.apple.com
   - DOMAIN-SUFFIX,gsp13-cn.ls.apple.com
   - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com
-  - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
   - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,gsp5-cn.ls.apple.com
   - DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com
@@ -42003,7 +42056,6 @@ payload:
   - DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net
   - DOMAIN-SUFFIX,gspe19-cn.ls.apple.com
   - DOMAIN-SUFFIX,gspe21-ssl.ls.apple.com
-  - DOMAIN-SUFFIX,gspe21.ls.apple.com
   - DOMAIN-SUFFIX,gspe35-ssl.ls.apple.com
   - DOMAIN-SUFFIX,gspe79-cn-ssl.ls.apple.com
   - DOMAIN-SUFFIX,gspe85-cn-ssl.ls.apple.com
@@ -54844,8 +54896,6 @@ payload:
   - DOMAIN-SUFFIX,images-cache.com
   - DOMAIN-SUFFIX,images-cn-8.ssl-images-amazon.com
   - DOMAIN-SUFFIX,images-cn.ssl-images-amazon.com
-  - DOMAIN-SUFFIX,images.apple.com
-  - DOMAIN-SUFFIX,images.apple.com.akadns.net
   - DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,images.samsung.com
   - DOMAIN-SUFFIX,images3.tripcdn.com
@@ -105880,7 +105930,6 @@ payload:
   - DOMAIN-SUFFIX,www.analog.com
   - DOMAIN-SUFFIX,www.apple.com
   - DOMAIN-SUFFIX,www.apple.com.cn
-  - DOMAIN-SUFFIX,www.apple.com.edgekey.net
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,www.bing.com
   - DOMAIN-SUFFIX,www.cdnetworks.com
