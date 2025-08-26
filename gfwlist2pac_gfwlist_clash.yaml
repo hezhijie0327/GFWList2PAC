@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc1NjA4Njc2Nwo=
+# Checksum: MTc1NjE3MjkzNwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250825-0
-# TimeUpdated: 2025-08-25T01:52:47+00:00
+# Version: 1.0.9-20250826-0
+# TimeUpdated: 2025-08-26T01:48:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -20168,6 +20168,7 @@ payload:
   - DOMAIN-SUFFIX,navyfamily.navy.mil
   - DOMAIN-SUFFIX,navyreserve.navy.mil
   - DOMAIN-SUFFIX,naweeklytimes.com
+  - DOMAIN-SUFFIX,naydex.net
   - DOMAIN-SUFFIX,nazarene.ac.uk
   - DOMAIN-SUFFIX,nbabot.net
   - DOMAIN-SUFFIX,nbc.co
@@ -26226,6 +26227,7 @@ payload:
   - DOMAIN-SUFFIX,sni1dcb6gl.wpc.edgecastcdn.net
   - DOMAIN-SUFFIX,snjulebu.com
   - DOMAIN-SUFFIX,snk-corp.co.jp
+  - DOMAIN-SUFFIX,snk-corp.info
   - DOMAIN-SUFFIX,snkplaymore.info
   - DOMAIN-SUFFIX,snow-plus.net
   - DOMAIN-SUFFIX,snow.me
@@ -28840,6 +28842,8 @@ payload:
   - DOMAIN-SUFFIX,tubewolf.com
   - DOMAIN-SUFFIX,tubexclips.com
   - DOMAIN-SUFFIX,tubi.io
+  - DOMAIN-SUFFIX,tubi.tv
+  - DOMAIN-SUFFIX,tubi.video
   - DOMAIN-SUFFIX,tubinge.com
   - DOMAIN-SUFFIX,tubitv.com
   - DOMAIN-SUFFIX,tubous.com
@@ -32425,6 +32429,7 @@ payload:
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.az
   - DOMAIN-SUFFIX,yandex.by
+  - DOMAIN-SUFFIX,yandex.cloud
   - DOMAIN-SUFFIX,yandex.co.il
   - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,yandex.com.am
