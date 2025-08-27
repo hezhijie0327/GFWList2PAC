@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc1NjE3MjkyMwo=
+# Checksum: MTc1NjI1OTEyMgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20250826-0
-# TimeUpdated: 2025-08-26T01:48:43+00:00
+# Version: 1.0.9-20250827-0
+# TimeUpdated: 2025-08-27T01:45:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -10264,6 +10264,7 @@ payload:
   - DOMAIN-SUFFIX,afarway.com
   - DOMAIN-SUFFIX,afca-asia.org
   - DOMAIN-SUFFIX,afcec.com
+  - DOMAIN-SUFFIX,afcs.dell.com
   - DOMAIN-SUFFIX,afdian.com
   - DOMAIN-SUFFIX,afdian.net
   - DOMAIN-SUFFIX,afdiancdn.com
@@ -23883,6 +23884,7 @@ payload:
   - DOMAIN-SUFFIX,client51.com
   - DOMAIN-SUFFIX,clientflow.apple.com
   - DOMAIN-SUFFIX,clientflow.apple.com.akadns.net
+  - DOMAIN-SUFFIX,clientperipherals.dell.com
   - DOMAIN-SUFFIX,clientservices.googleapis.com
   - DOMAIN-SUFFIX,clifford-hospital.org
   - DOMAIN-SUFFIX,cliffordtrading.com
@@ -25856,7 +25858,6 @@ payload:
   - DOMAIN-SUFFIX,copl.com.hk
   - DOMAIN-SUFFIX,copperalliance.asia
   - DOMAIN-SUFFIX,copperhome.net
-  - DOMAIN-SUFFIX,copy-manga.com
   - DOMAIN-SUFFIX,copyedu.com
   - DOMAIN-SUFFIX,copyfuture.com
   - DOMAIN-SUFFIX,copyswisswatches.com
@@ -26777,7 +26778,6 @@ payload:
   - DOMAIN-SUFFIX,crane-net.com
   - DOMAIN-SUFFIX,cranewh.com
   - DOMAIN-SUFFIX,crash.work
-  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
   - DOMAIN-SUFFIX,cravatar.com
   - DOMAIN-SUFFIX,crazepony.com
@@ -27564,6 +27564,7 @@ payload:
   - DOMAIN-SUFFIX,cusdvs.net
   - DOMAIN-SUFFIX,custeel.com
   - DOMAIN-SUFFIX,customer.lenovo.com
+  - DOMAIN-SUFFIX,customization-cdn.dell.com
   - DOMAIN-SUFFIX,customizedfasteners.com
   - DOMAIN-SUFFIX,customsapp.com
   - DOMAIN-SUFFIX,custouch.com
@@ -29182,6 +29183,7 @@ payload:
   - DOMAIN-SUFFIX,ddpai.com
   - DOMAIN-SUFFIX,ddpoc.com
   - DOMAIN-SUFFIX,ddqcw.com
+  - DOMAIN-SUFFIX,dds.dell.com
   - DOMAIN-SUFFIX,ddsaas.com
   - DOMAIN-SUFFIX,ddsiojf.xyz
   - DOMAIN-SUFFIX,ddsk.la
@@ -30628,6 +30630,7 @@ payload:
   - DOMAIN-SUFFIX,dl-rc.com
   - DOMAIN-SUFFIX,dl-vip.pcfaster.baidu.co.th
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,dl.dell.com
   - DOMAIN-SUFFIX,dl.djicdn.com
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN-SUFFIX,dl.l.google.com
@@ -32742,6 +32745,9 @@ payload:
   - DOMAIN-SUFFIX,ea-china.com
   - DOMAIN-SUFFIX,ea-retina.com
   - DOMAIN-SUFFIX,ea-xing.com
+  - DOMAIN-SUFFIX,ea2cn-dev-outlet.dell.com
+  - DOMAIN-SUFFIX,ea2cn-prod-outlet.dell.com
+  - DOMAIN-SUFFIX,ea2cn-staging-outlet.dell.com
   - DOMAIN-SUFFIX,ea360.com
   - DOMAIN-SUFFIX,ea3w.com
   - DOMAIN-SUFFIX,eabax.com
@@ -35530,6 +35536,7 @@ payload:
   - DOMAIN-SUFFIX,fcpowerup.com
   - DOMAIN-SUFFIX,fcqjc.com
   - DOMAIN-SUFFIX,fcrc114.com
+  - DOMAIN-SUFFIX,fcs.dell.com
   - DOMAIN-SUFFIX,fcs1.com
   - DOMAIN-SUFFIX,fcsc.com
   - DOMAIN-SUFFIX,fcsccz.com
@@ -37363,7 +37370,11 @@ payload:
   - DOMAIN-SUFFIX,ft3e.com
   - DOMAIN-SUFFIX,ft77.com
   - DOMAIN-SUFFIX,ft98.com
+  - DOMAIN-SUFFIX,fta.dell.com
+  - DOMAIN-SUFFIX,ftaapj.dell.com
+  - DOMAIN-SUFFIX,ftaemea.dell.com
   - DOMAIN-SUFFIX,ftaro.com
+  - DOMAIN-SUFFIX,ftasitapj.dell.com
   - DOMAIN-SUFFIX,ftbj.net
   - DOMAIN-SUFFIX,ftcoaster.com
   - DOMAIN-SUFFIX,ftd.nz
@@ -37539,6 +37550,7 @@ payload:
   - DOMAIN-SUFFIX,functionads.com
   - DOMAIN-SUFFIX,functionaltextilesshanghai.com
   - DOMAIN-SUFFIX,functioncool.com
+  - DOMAIN-SUFFIX,functiongraph.run
   - DOMAIN-SUFFIX,fund001.com
   - DOMAIN-SUFFIX,fundebug.com
   - DOMAIN-SUFFIX,fundebug.net
@@ -38510,6 +38522,8 @@ payload:
   - DOMAIN-SUFFIX,gbtranswins.com
   - DOMAIN-SUFFIX,gbvh.com
   - DOMAIN-SUFFIX,gbw114.com
+  - DOMAIN-SUFFIX,gbxgateway-dev.dell.com
+  - DOMAIN-SUFFIX,gbxgateway.dell.com
   - DOMAIN-SUFFIX,gc-zb.com
   - DOMAIN-SUFFIX,gc0771.com
   - DOMAIN-SUFFIX,gc1616.com
@@ -68381,9 +68395,7 @@ payload:
   - DOMAIN-SUFFIX,manfred-auto.com
   - DOMAIN-SUFFIX,manfrottoclub.com
   - DOMAIN-SUFFIX,manga.bilibili.com
-  - DOMAIN-SUFFIX,mangacopy.com
   - DOMAIN-SUFFIX,mangafuna.xyz
-  - DOMAIN-SUFFIX,mangafunb.fun
   - DOMAIN-SUFFIX,manganesenanhai.com
   - DOMAIN-SUFFIX,mangg.com
   - DOMAIN-SUFFIX,mangguo.com
@@ -78031,6 +78043,7 @@ payload:
   - DOMAIN-SUFFIX,plateno.com
   - DOMAIN-SUFFIX,platenogroup.com
   - DOMAIN-SUFFIX,platform-cn.com
+  - DOMAIN-SUFFIX,platform.dell.com
   - DOMAIN-SUFFIX,platinum-traveller.com
   - DOMAIN-SUFFIX,platinumchina.com
   - DOMAIN-SUFFIX,play-analytics.com
@@ -83032,6 +83045,7 @@ payload:
   - DOMAIN-SUFFIX,robam.com
   - DOMAIN-SUFFIX,robei.com
   - DOMAIN-SUFFIX,roboeyeai.com
+  - DOMAIN-SUFFIX,robomaster.com
   - DOMAIN-SUFFIX,roboo.com
   - DOMAIN-SUFFIX,robook.com
   - DOMAIN-SUFFIX,robopeak.net
@@ -84579,6 +84593,7 @@ payload:
   - DOMAIN-SUFFIX,sceeo.com
   - DOMAIN-SUFFIX,sceia.org
   - DOMAIN-SUFFIX,scemrq.com
+  - DOMAIN-SUFFIX,scene7-cdn.dell.com
   - DOMAIN-SUFFIX,scengine.com
   - DOMAIN-SUFFIX,scenictc.com
   - DOMAIN-SUFFIX,scensmart.com
@@ -88362,6 +88377,7 @@ payload:
   - DOMAIN-SUFFIX,si-era.com
   - DOMAIN-SUFFIX,si-in.com
   - DOMAIN-SUFFIX,si-win.com
+  - DOMAIN-SUFFIX,si.cdn.dell.com
   - DOMAIN-SUFFIX,sia1995.net
   - DOMAIN-SUFFIX,siad-c.com
   - DOMAIN-SUFFIX,siaedu.net
@@ -89352,6 +89368,7 @@ payload:
   - DOMAIN-SUFFIX,sm-check.com
   - DOMAIN-SUFFIX,sm-cq.com
   - DOMAIN-SUFFIX,sm-main.com
+  - DOMAIN-SUFFIX,sm.dell.com
   - DOMAIN-SUFFIX,sm0.fun
   - DOMAIN-SUFFIX,sm160.com
   - DOMAIN-SUFFIX,sm160.net
@@ -89669,6 +89686,8 @@ payload:
   - DOMAIN-SUFFIX,snowkey.com
   - DOMAIN-SUFFIX,snowlotusgroup.com
   - DOMAIN-SUFFIX,snowyimall.com
+  - DOMAIN-SUFFIX,snp.cdn.dell.com
+  - DOMAIN-SUFFIX,snpi.dell.com
   - DOMAIN-SUFFIX,snps.tech
   - DOMAIN-SUFFIX,snptc.com
   - DOMAIN-SUFFIX,snrat.com
@@ -91561,6 +91580,7 @@ payload:
   - DOMAIN-SUFFIX,support.dji.com
   - DOMAIN-SUFFIX,support.globalsign.com
   - DOMAIN-SUFFIX,support.lenovo.com
+  - DOMAIN-SUFFIX,supportassist.dell.com
   - DOMAIN-SUFFIX,supreme-oe.com
   - DOMAIN-SUFFIX,supuvalve.com
   - DOMAIN-SUFFIX,supwisdom.com
@@ -104036,6 +104056,7 @@ payload:
   - DOMAIN-SUFFIX,www-76244.com
   - DOMAIN-SUFFIX,www-api.dji.com
   - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
+  - DOMAIN-SUFFIX,www-csb.dell.com
   - DOMAIN-SUFFIX,www-google-analytics.l.google.com
   - DOMAIN-SUFFIX,www-googletagmanager.l.google.com
   - DOMAIN-SUFFIX,www-v1.dji.com
