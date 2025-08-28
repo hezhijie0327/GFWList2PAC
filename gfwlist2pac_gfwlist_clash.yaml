@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc1NjI1OTEzNgo=
+# Checksum: MTc1NjM0NTQ5Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20250827-0
-# TimeUpdated: 2025-08-27T01:45:36+00:00
+# Version: 1.0.9-20250828-0
+# TimeUpdated: 2025-08-28T01:44:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -446,6 +446,7 @@ payload:
   - DOMAIN-SUFFIX,54647.org
   - DOMAIN-SUFFIX,55comic.com
   - DOMAIN-SUFFIX,55dndn.com
+  - DOMAIN-SUFFIX,5657.com.tw
   - DOMAIN-SUFFIX,567321.online
   - DOMAIN-SUFFIX,568xe.com
   - DOMAIN-SUFFIX,56cun04.jigsy.com
@@ -1714,6 +1715,7 @@ payload:
   - DOMAIN-SUFFIX,amazonaws.tv
   - DOMAIN-SUFFIX,amazonbusiness.org
   - DOMAIN-SUFFIX,amazonbusinessblog.com
+  - DOMAIN-SUFFIX,amazoncognito.com
   - DOMAIN-SUFFIX,amazondevicesupport.com
   - DOMAIN-SUFFIX,amazonfctours.com
   - DOMAIN-SUFFIX,amazonianblog.com
@@ -3066,6 +3068,8 @@ payload:
   - DOMAIN-SUFFIX,awlc.ac.uk
   - DOMAIN-SUFFIX,aws-iot-hackathon.com
   - DOMAIN-SUFFIX,aws.com
+  - DOMAIN-SUFFIX,awsapprunner.com
+  - DOMAIN-SUFFIX,awsapps.com
   - DOMAIN-SUFFIX,awsautopilot.com
   - DOMAIN-SUFFIX,awsautoscaling.com
   - DOMAIN-SUFFIX,awsbraket.com
@@ -9687,6 +9691,7 @@ payload:
   - DOMAIN-SUFFIX,editorx.com
   - DOMAIN-SUFFIX,edlab.ac.uk
   - DOMAIN-SUFFIX,edmontonchina.cn
+  - DOMAIN-SUFFIX,edmontonservice.com
   - DOMAIN-SUFFIX,edninfo.com
   - DOMAIN-SUFFIX,edns.biz
   - DOMAIN-SUFFIX,edoors.com
@@ -16253,6 +16258,7 @@ payload:
   - DOMAIN-SUFFIX,javbraze.com
   - DOMAIN-SUFFIX,javbus.co
   - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,javbus.sbs
   - DOMAIN-SUFFIX,javbus22.com
   - DOMAIN-SUFFIX,javbuz.com
   - DOMAIN-SUFFIX,javcc.cc
@@ -17074,6 +17080,7 @@ payload:
   - DOMAIN-SUFFIX,krhentai.com
   - DOMAIN-SUFFIX,kristenbjorn.com
   - DOMAIN-SUFFIX,krosspictures.com
+  - DOMAIN-SUFFIX,krtc.com.tw
   - DOMAIN-SUFFIX,krtco.com.tw
   - DOMAIN-SUFFIX,krux.com
   - DOMAIN-SUFFIX,krymr.com
@@ -26945,7 +26952,6 @@ payload:
   - DOMAIN-SUFFIX,sruc.ac.uk
   - DOMAIN-SUFFIX,srwwu.uno
   - DOMAIN-SUFFIX,ss-link.com
-  - DOMAIN-SUFFIX,ss.levyhsu.com
   - DOMAIN-SUFFIX,ss.pythonic.life
   - DOMAIN-SUFFIX,ss2.us
   - DOMAIN-SUFFIX,ss7.app
@@ -32653,6 +32659,7 @@ payload:
   - DOMAIN-SUFFIX,yahoodns.net
   - DOMAIN-SUFFIX,yahoofinance.com
   - DOMAIN-SUFFIX,yahoohealth.com
+  - DOMAIN-SUFFIX,yahooinc.com
   - DOMAIN-SUFFIX,yahoomusic.com
   - DOMAIN-SUFFIX,yahoosandbox.com
   - DOMAIN-SUFFIX,yahoosportsbook.com
