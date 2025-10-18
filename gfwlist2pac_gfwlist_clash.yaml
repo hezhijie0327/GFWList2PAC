@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2MDY2NTQwOAo=
+# Checksum: MTc2MDc1MTUxNQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251017-0
-# TimeUpdated: 2025-10-17T01:43:28+00:00
+# Version: 1.0.9-20251018-0
+# TimeUpdated: 2025-10-18T01:38:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2516,6 +2516,7 @@ payload:
   - DOMAIN-SUFFIX,ark-genomics.ac.uk
   - DOMAIN-SUFFIX,ark.ac.uk
   - DOMAIN-SUFFIX,ark.to
+  - DOMAIN-SUFFIX,arkoselabs.com
   - DOMAIN-SUFFIX,arlingtoncemetery.mil
   - DOMAIN-SUFFIX,arm.ac.uk
   - DOMAIN-SUFFIX,arma.ac.uk
@@ -6211,6 +6212,7 @@ payload:
   - DOMAIN-SUFFIX,ceramics-cadcam.com
   - DOMAIN-SUFFIX,cercia.ac.uk
   - DOMAIN-SUFFIX,cerdas.com
+  - DOMAIN-SUFFIX,cerebras.ai
   - DOMAIN-SUFFIX,ceredigion.ac.uk
   - DOMAIN-SUFFIX,ceri.ac.uk
   - DOMAIN-SUFFIX,cerlim.ac.uk
@@ -6744,6 +6746,8 @@ payload:
   - DOMAIN-SUFFIX,classics.ac.uk
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clb.org.hk
   - DOMAIN-SUFFIX,clc-london.ac.uk
@@ -12524,6 +12528,7 @@ payload:
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,gitbooks.io
   - DOMAIN-SUFFIX,githack.com
+  - DOMAIN-SUFFIX,github-api.arkoselabs.com
   - DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
   - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
@@ -16216,6 +16221,7 @@ payload:
   - DOMAIN-SUFFIX,jav-legend.com
   - DOMAIN-SUFFIX,jav-subtitles.com
   - DOMAIN-SUFFIX,jav-vr.net
+  - DOMAIN-SUFFIX,jav.app
   - DOMAIN-SUFFIX,jav.com
   - DOMAIN-SUFFIX,jav.dog
   - DOMAIN-SUFFIX,jav.gallery
@@ -18384,6 +18390,7 @@ payload:
   - DOMAIN-SUFFIX,marlin.ac.uk
   - DOMAIN-SUFFIX,marplecollege.ac.uk
   - DOMAIN-SUFFIX,marranazas.com
+  - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,martau.com
   - DOMAIN-SUFFIX,martincartoons.com
   - DOMAIN-SUFFIX,martinoei.com
@@ -20880,6 +20887,7 @@ payload:
   - DOMAIN-SUFFIX,nfscdict.com
   - DOMAIN-SUFFIX,nfscofficial.com
   - DOMAIN-SUFFIX,nfsworld.com
+  - DOMAIN-SUFFIX,nftstatic.com
   - DOMAIN-SUFFIX,nftstorage.link
   - DOMAIN-SUFFIX,ng.mil
   - DOMAIN-SUFFIX,nga.mil
@@ -27214,6 +27222,7 @@ payload:
   - DOMAIN-SUFFIX,steam.tv
   - DOMAIN-SUFFIX,steambroadcast.akamaized.net
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamcloudsweden.blob.core.windows.net
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net.edgesuite.net
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamcontent.com
@@ -28861,6 +28870,7 @@ payload:
   - DOMAIN-SUFFIX,tracking-location.com
   - DOMAIN-SUFFIX,tradevip1.com
   - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,traffcoll.ac.uk
   - DOMAIN-SUFFIX,traffichaus.com
   - DOMAIN-SUFFIX,trafficmanager.net
@@ -33183,6 +33193,7 @@ payload:
   - DOMAIN-SUFFIX,yswet.com
   - DOMAIN-SUFFIX,ysx-mm.com
   - DOMAIN-SUFFIX,yt.be
+  - DOMAIN-SUFFIX,yt3.googleusercontent.com
   - DOMAIN-SUFFIX,ytht.net
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,ytn.co.kr
