@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2MTAxMTE3NAo=
+# Checksum: MTc2MTA5Nzc2MAo=
 # Title: Zhijie's CNACCList for Clash Premium
-# Version: 1.0.9-20251021-0
-# TimeUpdated: 2025-10-21T01:46:14+00:00
+# Version: 1.0.9-20251022-0
+# TimeUpdated: 2025-10-22T01:49:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000.link'
@@ -23869,6 +23869,7 @@ payload:
   - '+.cn.bing.com'
   - '+.cn.bing.net'
   - '+.cn.download.nvidia.com'
+  - '+.cn.eset.com'
   - '+.cn.mm.bing.net'
   - '+.cn.net'
   - '+.cn.online.standardchartered.com'
@@ -59800,8 +59801,6 @@ payload:
   - '+.kashengauto.com'
   - '+.kasitesoft.com'
   - '+.kaslyju.com'
-  - '+.kaspersky-labs.com'
-  - '+.kaspersky.com'
   - '+.kasscloud.com'
   - '+.kataliya.net'
   - '+.kate-kanebo.net'
