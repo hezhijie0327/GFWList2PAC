@@ -1,7 +1,7 @@
-# Checksum: MTc2MTI3MDA4MQo=
+# Checksum: MTc2MTM1NjU1Ngo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.9-20251024-0
-# TimeUpdated: 2025-10-24T01:41:21+00:00
+# Version: 1.0.9-20251025-0
+# TimeUpdated: 2025-10-25T01:42:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link,DIRECT
@@ -9683,6 +9683,7 @@ DOMAIN-SUFFIX,actime.net,DIRECT
 DOMAIN-SUFFIX,actions-semi.com,DIRECT
 DOMAIN-SUFFIX,actionsky.com,DIRECT
 DOMAIN-SUFFIX,activation-gp.com,DIRECT
+DOMAIN-SUFFIX,activation-v2.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,active.dji.com,DIRECT
 DOMAIN-SUFFIX,activeclub.net,DIRECT
 DOMAIN-SUFFIX,activepower.net,DIRECT
@@ -30193,6 +30194,26 @@ DOMAIN-SUFFIX,dningbo.com,DIRECT
 DOMAIN-SUFFIX,dnion.com,DIRECT
 DOMAIN-SUFFIX,dnjd.com,DIRECT
 DOMAIN-SUFFIX,dnjsb.com,DIRECT
+DOMAIN-SUFFIX,dnl-00.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-01.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-02.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-03.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-04.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-05.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-06.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-07.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-08.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-09.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-10.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-11.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-12.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-13.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-14.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-15.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-16.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-17.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-18.geo.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,dnl-19.geo.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,dnlunwen.com,DIRECT
 DOMAIN-SUFFIX,dnmall.com,DIRECT
 DOMAIN-SUFFIX,dnmcn.com,DIRECT
@@ -61106,6 +61127,10 @@ DOMAIN-SUFFIX,ksmmed.com,DIRECT
 DOMAIN-SUFFIX,ksmobile.com,DIRECT
 DOMAIN-SUFFIX,ksmobile.net,DIRECT
 DOMAIN-SUFFIX,ksmq5a9kxzmr.com,DIRECT
+DOMAIN-SUFFIX,ksn-cinfo-geo.kaspersky-labs.com,DIRECT
+DOMAIN-SUFFIX,ksn-file-geo.kaspersky-labs.com,DIRECT
+DOMAIN-SUFFIX,ksn-url-geo.kaspersky-labs.com,DIRECT
+DOMAIN-SUFFIX,ksn-verdict-geo.kaspersky-labs.com,DIRECT
 DOMAIN-SUFFIX,ksndsa.com,DIRECT
 DOMAIN-SUFFIX,ksnows.com,DIRECT
 DOMAIN-SUFFIX,ksoapp.com,DIRECT
@@ -74960,14 +74985,34 @@ DOMAIN-SUFFIX,p-e-china.com,DIRECT
 DOMAIN-SUFFIX,p-er.com,DIRECT
 DOMAIN-SUFFIX,p-pass.com,DIRECT
 DOMAIN-SUFFIX,p.cdn.persaas.dell.com,DIRECT
+DOMAIN-SUFFIX,p00.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p01.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p02.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,p023.com,DIRECT
+DOMAIN-SUFFIX,p03.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,p0371.com,DIRECT
+DOMAIN-SUFFIX,p04.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,p0431.com,DIRECT
 DOMAIN-SUFFIX,p04e.com,DIRECT
+DOMAIN-SUFFIX,p05.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p06.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p07.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p08.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p09.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,p0y.com,DIRECT
 DOMAIN-SUFFIX,p1-juejin.byteimg.com,DIRECT
 DOMAIN-SUFFIX,p1.com,DIRECT
+DOMAIN-SUFFIX,p10.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p11.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p12.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,p12345.com,DIRECT
+DOMAIN-SUFFIX,p13.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p14.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p15.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p16.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p17.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p18.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,p19.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,p2-juejin.byteimg.com,DIRECT
 DOMAIN-SUFFIX,p24p75149p.com,DIRECT
 DOMAIN-SUFFIX,p2cdn.com,DIRECT
@@ -82097,13 +82142,33 @@ DOMAIN-SUFFIX,s-xsenyuan.com,DIRECT
 DOMAIN-SUFFIX,s-yue.com,DIRECT
 DOMAIN-SUFFIX,s-zone.com,DIRECT
 DOMAIN-SUFFIX,s.mzstatic.com,DIRECT
+DOMAIN-SUFFIX,s00.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s01.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,s019.com,DIRECT
+DOMAIN-SUFFIX,s02.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s03.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s04.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s05.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,s0599.com,DIRECT
+DOMAIN-SUFFIX,s06.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s07.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s08.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s09.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,s0nnet.com,DIRECT
 DOMAIN-SUFFIX,s1.mzstatic.com,DIRECT
+DOMAIN-SUFFIX,s10.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,s10000.com,DIRECT
+DOMAIN-SUFFIX,s11.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s12.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s13.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,s135.com,DIRECT
+DOMAIN-SUFFIX,s14.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s15.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s16.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,s163.com,DIRECT
+DOMAIN-SUFFIX,s17.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s18.upd.kaspersky.com,DIRECT
+DOMAIN-SUFFIX,s19.upd.kaspersky.com,DIRECT
 DOMAIN-SUFFIX,s1979.com,DIRECT
 DOMAIN-SUFFIX,s1craft.com,DIRECT
 DOMAIN-SUFFIX,s1gh.com,DIRECT
