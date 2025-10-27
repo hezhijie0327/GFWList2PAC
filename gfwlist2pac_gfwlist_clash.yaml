@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2MTQ0MzQ5Ngo=
+# Checksum: MTc2MTUzMDE0OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251026-0
-# TimeUpdated: 2025-10-26T01:51:36+00:00
+# Version: 1.0.9-20251027-0
+# TimeUpdated: 2025-10-27T01:55:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -13405,6 +13405,7 @@ payload:
   - DOMAIN-SUFFIX,gzm.tv
   - DOMAIN-SUFFIX,gzone-anime.info
   - DOMAIN-SUFFIX,h-cdn.com
+  - DOMAIN-SUFFIX,h-chan.me
   - DOMAIN-SUFFIX,h-china.org
   - DOMAIN-SUFFIX,h-comic.com
   - DOMAIN-SUFFIX,h-doujinshi.xyz
@@ -13774,6 +13775,8 @@ payload:
   - DOMAIN-SUFFIX,hentai-ani.me
   - DOMAIN-SUFFIX,hentai-archive.com
   - DOMAIN-SUFFIX,hentai-books.com
+  - DOMAIN-SUFFIX,hentai-chan.com
+  - DOMAIN-SUFFIX,hentai-chan.live
   - DOMAIN-SUFFIX,hentai-cosplays.com
   - DOMAIN-SUFFIX,hentai-covers.site
   - DOMAIN-SUFFIX,hentai-eroanime.net
@@ -13819,6 +13822,8 @@ payload:
   - DOMAIN-SUFFIX,hentaibar.com
   - DOMAIN-SUFFIX,hentaiblue.com
   - DOMAIN-SUFFIX,hentaibros.com
+  - DOMAIN-SUFFIX,hentaichan.live
+  - DOMAIN-SUFFIX,hentaichan.me
   - DOMAIN-SUFFIX,hentaicity.com
   - DOMAIN-SUFFIX,hentaicloud.com
   - DOMAIN-SUFFIX,hentaiclub.net
@@ -15377,6 +15382,7 @@ payload:
   - DOMAIN-SUFFIX,imgix.com
   - DOMAIN-SUFFIX,imgix.net
   - DOMAIN-SUFFIX,imgmega.com
+  - DOMAIN-SUFFIX,imgschan.xyz
   - DOMAIN-SUFFIX,imgsmail.ru
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,imgur.io
@@ -30859,6 +30865,7 @@ payload:
   - DOMAIN-SUFFIX,voicettank.org
   - DOMAIN-SUFFIX,voila.ac.uk
   - DOMAIN-SUFFIX,vokevr.com
+  - DOMAIN-SUFFIX,vol.moe
   - DOMAIN-SUFFIX,volstudy.ac.uk
   - DOMAIN-SUFFIX,volvo-truck.nl
   - DOMAIN-SUFFIX,volvo.ca
@@ -31157,6 +31164,7 @@ payload:
   - DOMAIN-SUFFIX,w.idaiwan.com
   - DOMAIN-SUFFIX,w.org
   - DOMAIN-SUFFIX,w.wiki
+  - DOMAIN-SUFFIX,w0512.com
   - DOMAIN-SUFFIX,w3.org
   - DOMAIN-SUFFIX,w3s.link
   - DOMAIN-SUFFIX,w3schools.com
