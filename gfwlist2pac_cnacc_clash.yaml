@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2MTYxNTkyMgo=
+# Checksum: MTc2MTcwMjcyOQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20251028-0
-# TimeUpdated: 2025-10-28T01:45:22+00:00
+# Version: 1.0.9-20251029-0
+# TimeUpdated: 2025-10-29T01:52:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -28375,8 +28375,14 @@ payload:
   - DOMAIN-SUFFIX,dcloud.io
   - DOMAIN-SUFFIX,dcloud.xin
   - DOMAIN-SUFFIX,dcloudlive.com
+  - DOMAIN-SUFFIX,dcloudlive.net
   - DOMAIN-SUFFIX,dclouds.cloud
+  - DOMAIN-SUFFIX,dcloudsp.com
+  - DOMAIN-SUFFIX,dcloudsp.net
   - DOMAIN-SUFFIX,dcloudstc.com
+  - DOMAIN-SUFFIX,dcloudstc.net
+  - DOMAIN-SUFFIX,dcloudvod.com
+  - DOMAIN-SUFFIX,dcloudvod.net
   - DOMAIN-SUFFIX,dclygroup.com
   - DOMAIN-SUFFIX,dcmagcn.com
   - DOMAIN-SUFFIX,dcmap.deploy.akamai.com
@@ -46279,7 +46285,10 @@ payload:
   - DOMAIN-SUFFIX,herllamo.com
   - DOMAIN-SUFFIX,hermod1.com
   - DOMAIN-SUFFIX,hero-geek.com
+  - DOMAIN-SUFFIX,hero.com
   - DOMAIN-SUFFIX,herocoming.com
+  - DOMAIN-SUFFIX,heroesports.com
+  - DOMAIN-SUFFIX,herogame.com
   - DOMAIN-SUFFIX,herohr.net
   - DOMAIN-SUFFIX,heroic-ltd.com
   - DOMAIN-SUFFIX,heroje.com
@@ -86365,6 +86374,7 @@ payload:
   - DOMAIN-SUFFIX,shyuzhai.com
   - DOMAIN-SUFFIX,shywly.com
   - DOMAIN-SUFFIX,shyx-bio.com
+  - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,shyxi5.com
   - DOMAIN-SUFFIX,shyxwz.com
   - DOMAIN-SUFFIX,shyy6688.com
