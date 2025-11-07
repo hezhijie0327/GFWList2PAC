@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2MjM5MzgyOAo=
+# Checksum: MTc2MjQ4MDE1MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251106-0
-# TimeUpdated: 2025-11-06T01:50:28+00:00
+# Version: 1.0.9-20251107-0
+# TimeUpdated: 2025-11-07T01:49:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -765,6 +765,7 @@ payload:
   - DOMAIN-SUFFIX,aboutgfw.com
   - DOMAIN-SUFFIX,aboutmcdonalds.com
   - DOMAIN-SUFFIX,aboutporno.net
+  - DOMAIN-SUFFIX,aboutschwab.com
   - DOMAIN-SUFFIX,aboutyourmini.com
   - DOMAIN-SUFFIX,abow.jp
   - DOMAIN-SUFFIX,abpchina.org
@@ -4266,6 +4267,7 @@ payload:
   - DOMAIN-SUFFIX,bk.mufg.jp
   - DOMAIN-SUFFIX,bkkdown.site
   - DOMAIN-SUFFIX,bkrtx.com
+  - DOMAIN-SUFFIX,bktai.com
   - DOMAIN-SUFFIX,bl-doujinsouko.com
   - DOMAIN-SUFFIX,black-country.ac.uk
   - DOMAIN-SUFFIX,blackamateurfuck.com
@@ -8910,6 +8912,7 @@ payload:
   - DOMAIN-SUFFIX,dojinwatch.com
   - DOMAIN-SUFFIX,dok-forum.net
   - DOMAIN-SUFFIX,dokusho-ojikan.jp
+  - DOMAIN-SUFFIX,dola.com
   - DOMAIN-SUFFIX,dolc.de
   - DOMAIN-SUFFIX,dolf.org.hk
   - DOMAIN-SUFFIX,dollarfotoclub.com
@@ -9874,6 +9877,8 @@ payload:
   - DOMAIN-SUFFIX,elephantsdream.org
   - DOMAIN-SUFFIX,elephanttube.com
   - DOMAIN-SUFFIX,elephanttubenew.com
+  - DOMAIN-SUFFIX,elevenlabs.com
+  - DOMAIN-SUFFIX,elevenlabs.io
   - DOMAIN-SUFFIX,elgaronline.com
   - DOMAIN-SUFFIX,elgoog.im
   - DOMAIN-SUFFIX,elib.ac.uk
@@ -11406,6 +11411,7 @@ payload:
   - DOMAIN-SUFFIX,fleshbot.com
   - DOMAIN-SUFFIX,fleshlyx.com
   - DOMAIN-SUFFIX,fleursdeslettres.com
+  - DOMAIN-SUFFIX,flexclip.com
   - DOMAIN-SUFFIX,flexibits.com
   - DOMAIN-SUFFIX,flexpool.io
   - DOMAIN-SUFFIX,flexsig.com
@@ -12091,6 +12097,8 @@ payload:
   - DOMAIN-SUFFIX,futhead.com
   - DOMAIN-SUFFIX,futoka.jp
   - DOMAIN-SUFFIX,futpromos.com
+  - DOMAIN-SUFFIX,futuhk.com
+  - DOMAIN-SUFFIX,futuholdings.com
   - DOMAIN-SUFFIX,futunited.com
   - DOMAIN-SUFFIX,future-media.ac.uk
   - DOMAIN-SUFFIX,future-reserves-research.ac.uk
@@ -23826,6 +23834,7 @@ payload:
   - DOMAIN-SUFFIX,prcleader.org
   - DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
   - DOMAIN-SUFFIX,pre-bmwgroup.jobs
+  - DOMAIN-SUFFIX,predb.me
   - DOMAIN-SUFFIX,predictivetechnologies.com
   - DOMAIN-SUFFIX,premeforwindows7.com
   - DOMAIN-SUFFIX,premia.ac.uk
@@ -25534,6 +25543,12 @@ payload:
   - DOMAIN-SUFFIX,schome.ac.uk
   - DOMAIN-SUFFIX,schoms.ac.uk
   - DOMAIN-SUFFIX,school-economic-science.ac.uk
+  - DOMAIN-SUFFIX,schwab.co.uk
+  - DOMAIN-SUFFIX,schwab.com
+  - DOMAIN-SUFFIX,schwab.com.hk
+  - DOMAIN-SUFFIX,schwab.com.sg
+  - DOMAIN-SUFFIX,schwabassetmanagement.com
+  - DOMAIN-SUFFIX,schwabplan.com
   - DOMAIN-SUFFIX,sci-hub.it.nf
   - DOMAIN-SUFFIX,sci-hub.mksa.top
   - DOMAIN-SUFFIX,sci-hub.se
