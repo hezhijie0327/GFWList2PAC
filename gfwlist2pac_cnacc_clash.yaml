@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2MjgyNTg2Mgo=
+# Checksum: MTc2MjkxMjIwNgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20251111-0
-# TimeUpdated: 2025-11-11T01:51:02+00:00
+# Version: 1.0.9-20251112-0
+# TimeUpdated: 2025-11-12T01:50:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -9638,7 +9638,9 @@ payload:
   - DOMAIN-SUFFIX,actime.net
   - DOMAIN-SUFFIX,actions-semi.com
   - DOMAIN-SUFFIX,actionsky.com
+  - DOMAIN-SUFFIX,activate.activation-v2.kaspersky.com
   - DOMAIN-SUFFIX,activation-gp.com
+  - DOMAIN-SUFFIX,activation-v2.geo.kaspersky.com
   - DOMAIN-SUFFIX,activation-v2.kaspersky.com
   - DOMAIN-SUFFIX,active.dji.com
   - DOMAIN-SUFFIX,activeclub.net
@@ -28345,6 +28347,11 @@ payload:
   - DOMAIN-SUFFIX,dbyun.net
   - DOMAIN-SUFFIX,dc-cn.com
   - DOMAIN-SUFFIX,dc0792.com
+  - DOMAIN-SUFFIX,dc1-cert.ksn.kaspersky-labs.com
+  - DOMAIN-SUFFIX,dc1-file.ksn.kaspersky-labs.com
+  - DOMAIN-SUFFIX,dc1-pp.ksn.kaspersky-labs.com
+  - DOMAIN-SUFFIX,dc1-st.ksn.kaspersky-labs.com
+  - DOMAIN-SUFFIX,dc1.ksn.kaspersky-labs.com
   - DOMAIN-SUFFIX,dc568.com
   - DOMAIN-SUFFIX,dc625.com
   - DOMAIN-SUFFIX,dcarapi.com
@@ -32439,6 +32446,7 @@ payload:
   - DOMAIN-SUFFIX,edesson.com
   - DOMAIN-SUFFIX,edfni.xyz
   - DOMAIN-SUFFIX,edge-byted.com
+  - DOMAIN-SUFFIX,edge.geo.kaspersky.com
   - DOMAIN-SUFFIX,edgefn.net
   - DOMAIN-SUFFIX,edgegslb.com
   - DOMAIN-SUFFIX,edgekey88.net
@@ -60987,9 +60995,29 @@ payload:
   - DOMAIN-SUFFIX,ksmobile.net
   - DOMAIN-SUFFIX,ksmq5a9kxzmr.com
   - DOMAIN-SUFFIX,ksn-cinfo-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-cinfo.geoksn.kaspersky.com
+  - DOMAIN-SUFFIX,ksn-crypto-info-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-crypto-kas-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-crypto-tcert-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-crypto-url-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-crypto-verdict-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-crypto-wifiplus-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-crypto-wifiplus.geoksn.kaspersky.com
+  - DOMAIN-SUFFIX,ksn-dc1-cert.geoksn.kaspersky.com
+  - DOMAIN-SUFFIX,ksn-dc1-file.geoksn.kaspersky.com
+  - DOMAIN-SUFFIX,ksn-dc1.geoksn.kaspersky.com
   - DOMAIN-SUFFIX,ksn-file-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-file.geoksn.kaspersky.com
+  - DOMAIN-SUFFIX,ksn-info-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-info.geoksn.kaspersky.com
+  - DOMAIN-SUFFIX,ksn-kas.geoksn.kaspersky.com
+  - DOMAIN-SUFFIX,ksn-mdr.geoksn.kaspersky.com
+  - DOMAIN-SUFFIX,ksn-tcert-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-tcert.geoksn.kaspersky.com
   - DOMAIN-SUFFIX,ksn-url-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-url.geoksn.kaspersky.com
   - DOMAIN-SUFFIX,ksn-verdict-geo.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn-verdict.geoksn.kaspersky.com
   - DOMAIN-SUFFIX,ksndsa.com
   - DOMAIN-SUFFIX,ksnows.com
   - DOMAIN-SUFFIX,ksoapp.com
@@ -67409,6 +67437,7 @@ payload:
   - DOMAIN-SUFFIX,mdouwz.com
   - DOMAIN-SUFFIX,mdpda.com
   - DOMAIN-SUFFIX,mdpetrotech.com
+  - DOMAIN-SUFFIX,mdr.ksn.kaspersky-labs.com
   - DOMAIN-SUFFIX,mdrmyy.com
   - DOMAIN-SUFFIX,mdsin.com
   - DOMAIN-SUFFIX,mdsmos.com
@@ -74210,7 +74239,6 @@ payload:
   - DOMAIN-SUFFIX,oohdear.com
   - DOMAIN-SUFFIX,ooiii.com
   - DOMAIN-SUFFIX,oojsq.com
-  - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,oolap.com
   - DOMAIN-SUFFIX,oomake.com
   - DOMAIN-SUFFIX,ooniu.com
@@ -80613,6 +80641,7 @@ payload:
   - DOMAIN-SUFFIX,refire.com
   - DOMAIN-SUFFIX,refond.com
   - DOMAIN-SUFFIX,reformdata.org
+  - DOMAIN-SUFFIX,refresh-bkg.activation-v2.kaspersky.com
   - DOMAIN-SUFFIX,reg.lenovo.com
   - DOMAIN-SUFFIX,reg007.com
   - DOMAIN-SUFFIX,regal-marathon.com
