@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2MjkxMjIyMAo=
+# Checksum: MTc2Mjk5ODcyMQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251112-0
-# TimeUpdated: 2025-11-12T01:50:20+00:00
+# Version: 1.0.9-20251113-0
+# TimeUpdated: 2025-11-13T01:52:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1138,6 +1138,8 @@ payload:
   - DOMAIN-SUFFIX,afappyending.com
   - DOMAIN-SUFFIX,afewmomentswith.com
   - DOMAIN-SUFFIX,affect3dstore.com
+  - DOMAIN-SUFFIX,affinity.api.serifservices.com
+  - DOMAIN-SUFFIX,affinity.studio
   - DOMAIN-SUFFIX,affirmtrust.com
   - DOMAIN-SUFFIX,afi.ac.uk
   - DOMAIN-SUFFIX,afkv28.com
@@ -3986,6 +3988,7 @@ payload:
   - DOMAIN-SUFFIX,bg-call-donation-dev.goog
   - DOMAIN-SUFFIX,bg-call-donation.goog
   - DOMAIN-SUFFIX,bgc.ac.uk
+  - DOMAIN-SUFFIX,bgicdn.com
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,bgme.me
   - DOMAIN-SUFFIX,bgov.com
@@ -5844,6 +5847,7 @@ payload:
   - DOMAIN-SUFFIX,canterburycollege.ac.uk
   - DOMAIN-SUFFIX,canterburytrust.ac.uk
   - DOMAIN-SUFFIX,cantonese.asia
+  - DOMAIN-SUFFIX,canva.com
   - DOMAIN-SUFFIX,canyu.org
   - DOMAIN-SUFFIX,cao.im
   - DOMAIN-SUFFIX,caobian.info
@@ -13105,6 +13109,7 @@ payload:
   - DOMAIN-SUFFIX,googleblog.com
   - DOMAIN-SUFFIX,googlebot.com
   - DOMAIN-SUFFIX,googlecapital.com
+  - DOMAIN-SUFFIX,googlecensorship.org
   - DOMAIN-SUFFIX,googlecert.net
   - DOMAIN-SUFFIX,googlechinawebmaster.com
   - DOMAIN-SUFFIX,googlecode.com
@@ -13277,6 +13282,7 @@ payload:
   - DOMAIN-SUFFIX,greatermanchestermedicalschool.ac.uk
   - DOMAIN-SUFFIX,greatfire.org
   - DOMAIN-SUFFIX,greatfire.us7.list-manage.com
+  - DOMAIN-SUFFIX,greatfirevpn.com
   - DOMAIN-SUFFIX,greatfirewall.biz
   - DOMAIN-SUFFIX,greatfirewallofchina.net
   - DOMAIN-SUFFIX,greatfirewallofchina.org
@@ -20720,6 +20726,7 @@ payload:
   - DOMAIN-SUFFIX,neoforged.net
   - DOMAIN-SUFFIX,neonatalsociety.ac.uk
   - DOMAIN-SUFFIX,neotokyo.supertop-100.com
+  - DOMAIN-SUFFIX,neovim.io
   - DOMAIN-SUFFIX,neow.in
   - DOMAIN-SUFFIX,neowin.net
   - DOMAIN-SUFFIX,nepusoku.com
@@ -25841,6 +25848,7 @@ payload:
   - DOMAIN-SUFFIX,serc.ac.uk
   - DOMAIN-SUFFIX,serena.ac.uk
   - DOMAIN-SUFFIX,serialssolutions.com
+  - DOMAIN-SUFFIX,serifservices.com
   - DOMAIN-SUFFIX,serio.ac.uk
   - DOMAIN-SUFFIX,serl.ac.uk
   - DOMAIN-SUFFIX,serlucap.lol
@@ -33560,6 +33568,7 @@ payload:
   - DOMAIN-SUFFIX,zeit.sh
   - DOMAIN-SUFFIX,zeitworld.com
   - DOMAIN-SUFFIX,zello.com
+  - DOMAIN-SUFFIX,zen-browser.app
   - DOMAIN-SUFFIX,zen8ok.xyz
   - DOMAIN-SUFFIX,zencdn.net
   - DOMAIN-SUFFIX,zencoder.com
