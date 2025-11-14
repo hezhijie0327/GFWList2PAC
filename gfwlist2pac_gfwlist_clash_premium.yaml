@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2Mjk5ODcyMQo=
+# Checksum: MTc2MzA4NTA2OQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20251113-0
-# TimeUpdated: 2025-11-13T01:52:01+00:00
+# Version: 1.0.9-20251114-0
+# TimeUpdated: 2025-11-14T01:51:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -7835,9 +7835,13 @@ payload:
   - '+.d1m7jfoe9zdc1j.cloudfront.net'
   - '+.d1mhjrowxxagfy.cloudfront.net'
   - '+.d1oca24q5dwo6d.cloudfront.net'
+  - '+.d1v5ir2lpwr8os.cloudfront.net'
   - '+.d1w2poirtb3as9.cloudfront.net'
   - '+.d1xhnb4ptk05mw.cloudfront.net'
   - '+.d1ymi26ma8va5x.cloudfront.net'
+  - '+.d22qjgkvxw22r6.cloudfront.net'
+  - '+.d25xi40x97liuc.cloudfront.net'
+  - '+.d27xxe7juh1us6.cloudfront.net'
   - '+.d29vzk4ow07wi7.cloudfront.net'
   - '+.d2aba1wr3818hz.cloudfront.net'
   - '+.d2anahhhmp1ffz.cloudfront.net'
@@ -8807,6 +8811,7 @@ payload:
   - '+.dmm.com'
   - '+.dmmapis.com'
   - '+.dmmrex.com'
+  - '+.dmqdd6hw24ucf.cloudfront.net'
   - '+.dmthin.com'
   - '+.dmthus.com'
   - '+.dmtiny.com'
@@ -15376,7 +15381,10 @@ payload:
   - '+.imageglass.org'
   - '+.imagemodeler.com'
   - '+.imagepost.com'
+  - '+.images-eu.ssl-images-amazon.com'
+  - '+.images-fe.ssl-images-amazon.com'
   - '+.images-gaytube.com'
+  - '+.images-na.ssl-images-amazon.com'
   - '+.images.prismic.io'
   - '+.imageshack.com'
   - '+.imageshack.us'
@@ -20032,6 +20040,7 @@ payload:
   - '+.msgamesresearch.com'
   - '+.msgamestudios.com'
   - '+.msguancha.com'
+  - '+.msh.amazon.co.uk'
   - '+.msha.gov'
   - '+.mshome.net'
   - '+.msi.cn'
@@ -27404,6 +27413,7 @@ payload:
   - '+.static-verizon.com'
   - '+.static.fun'
   - '+.static.shemalez.com'
+  - '+.static.siege-amazon.com'
   - '+.static01.nyt.com'
   - '+.static9.net.au'
   - '+.statically.io'

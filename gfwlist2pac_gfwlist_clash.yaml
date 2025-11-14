@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2Mjk5ODcyMQo=
+# Checksum: MTc2MzA4NTA2OQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251113-0
-# TimeUpdated: 2025-11-13T01:52:01+00:00
+# Version: 1.0.9-20251114-0
+# TimeUpdated: 2025-11-14T01:51:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -7835,9 +7835,13 @@ payload:
   - DOMAIN-SUFFIX,d1m7jfoe9zdc1j.cloudfront.net
   - DOMAIN-SUFFIX,d1mhjrowxxagfy.cloudfront.net
   - DOMAIN-SUFFIX,d1oca24q5dwo6d.cloudfront.net
+  - DOMAIN-SUFFIX,d1v5ir2lpwr8os.cloudfront.net
   - DOMAIN-SUFFIX,d1w2poirtb3as9.cloudfront.net
   - DOMAIN-SUFFIX,d1xhnb4ptk05mw.cloudfront.net
   - DOMAIN-SUFFIX,d1ymi26ma8va5x.cloudfront.net
+  - DOMAIN-SUFFIX,d22qjgkvxw22r6.cloudfront.net
+  - DOMAIN-SUFFIX,d25xi40x97liuc.cloudfront.net
+  - DOMAIN-SUFFIX,d27xxe7juh1us6.cloudfront.net
   - DOMAIN-SUFFIX,d29vzk4ow07wi7.cloudfront.net
   - DOMAIN-SUFFIX,d2aba1wr3818hz.cloudfront.net
   - DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
@@ -8807,6 +8811,7 @@ payload:
   - DOMAIN-SUFFIX,dmm.com
   - DOMAIN-SUFFIX,dmmapis.com
   - DOMAIN-SUFFIX,dmmrex.com
+  - DOMAIN-SUFFIX,dmqdd6hw24ucf.cloudfront.net
   - DOMAIN-SUFFIX,dmthin.com
   - DOMAIN-SUFFIX,dmthus.com
   - DOMAIN-SUFFIX,dmtiny.com
@@ -15376,7 +15381,10 @@ payload:
   - DOMAIN-SUFFIX,imageglass.org
   - DOMAIN-SUFFIX,imagemodeler.com
   - DOMAIN-SUFFIX,imagepost.com
+  - DOMAIN-SUFFIX,images-eu.ssl-images-amazon.com
+  - DOMAIN-SUFFIX,images-fe.ssl-images-amazon.com
   - DOMAIN-SUFFIX,images-gaytube.com
+  - DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
   - DOMAIN-SUFFIX,images.prismic.io
   - DOMAIN-SUFFIX,imageshack.com
   - DOMAIN-SUFFIX,imageshack.us
@@ -20032,6 +20040,7 @@ payload:
   - DOMAIN-SUFFIX,msgamesresearch.com
   - DOMAIN-SUFFIX,msgamestudios.com
   - DOMAIN-SUFFIX,msguancha.com
+  - DOMAIN-SUFFIX,msh.amazon.co.uk
   - DOMAIN-SUFFIX,msha.gov
   - DOMAIN-SUFFIX,mshome.net
   - DOMAIN-SUFFIX,msi.cn
@@ -27404,6 +27413,7 @@ payload:
   - DOMAIN-SUFFIX,static-verizon.com
   - DOMAIN-SUFFIX,static.fun
   - DOMAIN-SUFFIX,static.shemalez.com
+  - DOMAIN-SUFFIX,static.siege-amazon.com
   - DOMAIN-SUFFIX,static01.nyt.com
   - DOMAIN-SUFFIX,static9.net.au
   - DOMAIN-SUFFIX,statically.io
