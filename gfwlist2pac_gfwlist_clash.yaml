@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2Mzc3NTk0Mgo=
+# Checksum: MTc2Mzg2MzQ0NAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251122-0
-# TimeUpdated: 2025-11-22T01:45:42+00:00
+# Version: 1.0.9-20251123-0
+# TimeUpdated: 2025-11-23T02:04:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -929,6 +929,7 @@ payload:
   - DOMAIN-SUFFIX,adelaidebbs.com
   - DOMAIN-SUFFIX,adelaidenow.com.au
   - DOMAIN-SUFFIX,adeptt.ac.uk
+  - DOMAIN-SUFFIX,adfox.ru
   - DOMAIN-SUFFIX,adgoogle.net
   - DOMAIN-SUFFIX,adguard-dns.com
   - DOMAIN-SUFFIX,adguard-dns.io
@@ -965,6 +966,7 @@ payload:
   - DOMAIN-SUFFIX,adlib.ac.uk
   - DOMAIN-SUFFIX,adls.ac.uk
   - DOMAIN-SUFFIX,admeld.com
+  - DOMAIN-SUFFIX,admetrica.ru
   - DOMAIN-SUFFIX,admin.recaptcha.net
   - DOMAIN-SUFFIX,admob.com
   - DOMAIN-SUFFIX,adobe-aemassets-value.com
@@ -14066,6 +14068,7 @@ payload:
   - DOMAIN-SUFFIX,heyzo.com
   - DOMAIN-SUFFIX,hf-iphone.com
   - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,hf.space
   - DOMAIN-SUFFIX,hfaes.ac.uk
   - DOMAIN-SUFFIX,hfals.ac.uk
   - DOMAIN-SUFFIX,hfma.ac.uk
@@ -17192,6 +17195,7 @@ payload:
   - DOMAIN-SUFFIX,kinmen.org.tw
   - DOMAIN-SUFFIX,kinmen.travel
   - DOMAIN-SUFFIX,kinokuniya.com
+  - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
   - DOMAIN-SUFFIX,kinopoisk.ru
   - DOMAIN-SUFFIX,kir.jp
   - DOMAIN-SUFFIX,kir2kos.net
@@ -23163,6 +23167,7 @@ payload:
   - DOMAIN-SUFFIX,picpost.com
   - DOMAIN-SUFFIX,pics.ee
   - DOMAIN-SUFFIX,pics.vc
+  - DOMAIN-SUFFIX,picsart.com
   - DOMAIN-SUFFIX,picsee.co
   - DOMAIN-SUFFIX,picsee.pro
   - DOMAIN-SUFFIX,pictoa.com
@@ -31584,6 +31589,8 @@ payload:
   - DOMAIN-SUFFIX,webtoons.com
   - DOMAIN-SUFFIX,webtoonscorp.com
   - DOMAIN-SUFFIX,webtype.com
+  - DOMAIN-SUFFIX,webvisor.com
+  - DOMAIN-SUFFIX,webvisor.org
   - DOMAIN-SUFFIX,webwarper.net
   - DOMAIN-SUFFIX,webworkerdaily.com
   - DOMAIN-SUFFIX,wechatlawsuit.com
@@ -32918,6 +32925,7 @@ payload:
   - DOMAIN-SUFFIX,yaddal.tv
   - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN-SUFFIX,yadori.club
+  - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yaeby.info
   - DOMAIN-SUFFIX,yaeby.pro
   - DOMAIN-SUFFIX,yahoo-news.com.hk
@@ -33091,6 +33099,7 @@ payload:
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,yandex-bank.net
   - DOMAIN-SUFFIX,yandex-images.clstorage.net
+  - DOMAIN-SUFFIX,yandex-team.ru
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.az
   - DOMAIN-SUFFIX,yandex.by
@@ -33126,6 +33135,7 @@ payload:
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yangjianli.com
   - DOMAIN-SUFFIX,yangzhi.app
@@ -33141,6 +33151,7 @@ payload:
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,yasarang.net
   - DOMAIN-SUFFIX,yasni.co.uk
+  - DOMAIN-SUFFIX,yastat.net
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,yasukuni.or.jp
   - DOMAIN-SUFFIX,yatong.info
