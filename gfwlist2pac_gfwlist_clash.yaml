@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NDAzNTQ5MAo=
+# Checksum: MTc2NDEyMTkwMgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251125-0
-# TimeUpdated: 2025-11-25T01:51:30+00:00
+# Version: 1.0.9-20251126-0
+# TimeUpdated: 2025-11-26T01:51:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -20089,7 +20089,6 @@ payload:
   - DOMAIN-SUFFIX,ms4dre.com
   - DOMAIN-SUFFIX,msa-it.org
   - DOMAIN-SUFFIX,msa.ac.uk
-  - DOMAIN-SUFFIX,msads.net
   - DOMAIN-SUFFIX,mscassessment.ac.uk
   - DOMAIN-SUFFIX,mschallenge2018.com
   - DOMAIN-SUFFIX,mscos.ac.uk
@@ -25935,6 +25934,7 @@ payload:
   - DOMAIN-SUFFIX,sensualgirls.org
   - DOMAIN-SUFFIX,sensualmothers.com
   - DOMAIN-SUFFIX,sensueel.net
+  - DOMAIN-SUFFIX,sentry-cdn.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sentry.ppy.sh
   - DOMAIN-SUFFIX,senzuritv.net
