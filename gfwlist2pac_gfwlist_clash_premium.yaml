@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NDIwODE3NQo=
+# Checksum: MTc2NDI5NDU0Ngo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20251127-0
-# TimeUpdated: 2025-11-27T01:49:35+00:00
+# Version: 1.0.9-20251128-0
+# TimeUpdated: 2025-11-28T01:49:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -1122,6 +1122,7 @@ payload:
   - '+.adwordsexpress.com'
   - '+.adx.promo'
   - '+.ae-ad-1.myhuaweicloud.com'
+  - '+.ae-rus.net'
   - '+.ae.hao123.com'
   - '+.ae.org'
   - '+.aeasyshop.com'
@@ -1141,6 +1142,7 @@ payload:
   - '+.aerospace-design.com'
   - '+.aerospace-training-wales.ac.uk'
   - '+.aes.ac.uk'
+  - '+.aestatic.net'
   - '+.aesworkshops.com'
   - '+.aex.com'
   - '+.af-east-201.myhuaweicloud.com'
@@ -2546,6 +2548,7 @@ payload:
   - '+.ark-genomics.ac.uk'
   - '+.ark.ac.uk'
   - '+.ark.to'
+  - '+.arkoselabs.co'
   - '+.arkoselabs.com'
   - '+.arlingtoncemetery.mil'
   - '+.arm.ac.uk'
@@ -7270,6 +7273,9 @@ payload:
   - '+.comet-study.ac.uk'
   - '+.cometotheduckside.com'
   - '+.comffvpn.com'
+  - '+.comfy.org'
+  - '+.comfyci.org'
+  - '+.comfyregistry.org'
   - '+.comic-mega.me'
   - '+.comicbox.xyz'
   - '+.comico.tw'
@@ -7861,6 +7867,7 @@ payload:
   - '+.d1m7jfoe9zdc1j.cloudfront.net'
   - '+.d1mhjrowxxagfy.cloudfront.net'
   - '+.d1oca24q5dwo6d.cloudfront.net'
+  - '+.d1unuk07s6td74.cloudfront.net'
   - '+.d1v5ir2lpwr8os.cloudfront.net'
   - '+.d1w2poirtb3as9.cloudfront.net'
   - '+.d1xhnb4ptk05mw.cloudfront.net'
@@ -22561,6 +22568,7 @@ payload:
   - '+.oyax.com'
   - '+.oyeloca.com'
   - '+.oyghan.com'
+  - '+.oystermercury.top'
   - '+.ozchinese.com'
   - '+.ozeex.com'
   - '+.ozodi.org'
@@ -24625,6 +24633,7 @@ payload:
   - '+.rbgkew.ac.uk'
   - '+.rbgrads.com'
   - '+.rbgraduates.com'
+  - '+.rblx.org'
   - '+.rbmavericks.com'
   - '+.rbnainternational.com'
   - '+.rbplc.com'
@@ -24633,6 +24642,8 @@ payload:
   - '+.rbsl.ac.uk'
   - '+.rbslondon.ac.uk'
   - '+.rbspeakup.com'
+  - '+.rbx.com'
+  - '+.rbxcdn.com'
   - '+.rc-harwell.ac.uk'
   - '+.rca.ac.uk'
   - '+.rcahmw.ac.uk'
@@ -25072,7 +25083,13 @@ payload:
   - '+.ro89.com'
   - '+.road-crew.com'
   - '+.roadshow.hk'
+  - '+.roblox-api.arkoselabs.co'
+  - '+.roblox-load-generator-configuration.s3.us-east-2.amazonaws.com'
+  - '+.roblox-poc.global.ssl.fastly.net'
+  - '+.roblox.com'
   - '+.roblox.qq.com'
+  - '+.robloxcorp.s.llnwi.net'
+  - '+.robloxlabs.com'
   - '+.robobat.com'
   - '+.roboforex.com'
   - '+.roboform.com'

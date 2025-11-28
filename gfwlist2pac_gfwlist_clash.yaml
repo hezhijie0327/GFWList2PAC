@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NDIwODE3NQo=
+# Checksum: MTc2NDI5NDU0Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251127-0
-# TimeUpdated: 2025-11-27T01:49:35+00:00
+# Version: 1.0.9-20251128-0
+# TimeUpdated: 2025-11-28T01:49:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1122,6 +1122,7 @@ payload:
   - DOMAIN-SUFFIX,adwordsexpress.com
   - DOMAIN-SUFFIX,adx.promo
   - DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com
+  - DOMAIN-SUFFIX,ae-rus.net
   - DOMAIN-SUFFIX,ae.hao123.com
   - DOMAIN-SUFFIX,ae.org
   - DOMAIN-SUFFIX,aeasyshop.com
@@ -1141,6 +1142,7 @@ payload:
   - DOMAIN-SUFFIX,aerospace-design.com
   - DOMAIN-SUFFIX,aerospace-training-wales.ac.uk
   - DOMAIN-SUFFIX,aes.ac.uk
+  - DOMAIN-SUFFIX,aestatic.net
   - DOMAIN-SUFFIX,aesworkshops.com
   - DOMAIN-SUFFIX,aex.com
   - DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com
@@ -2546,6 +2548,7 @@ payload:
   - DOMAIN-SUFFIX,ark-genomics.ac.uk
   - DOMAIN-SUFFIX,ark.ac.uk
   - DOMAIN-SUFFIX,ark.to
+  - DOMAIN-SUFFIX,arkoselabs.co
   - DOMAIN-SUFFIX,arkoselabs.com
   - DOMAIN-SUFFIX,arlingtoncemetery.mil
   - DOMAIN-SUFFIX,arm.ac.uk
@@ -7270,6 +7273,9 @@ payload:
   - DOMAIN-SUFFIX,comet-study.ac.uk
   - DOMAIN-SUFFIX,cometotheduckside.com
   - DOMAIN-SUFFIX,comffvpn.com
+  - DOMAIN-SUFFIX,comfy.org
+  - DOMAIN-SUFFIX,comfyci.org
+  - DOMAIN-SUFFIX,comfyregistry.org
   - DOMAIN-SUFFIX,comic-mega.me
   - DOMAIN-SUFFIX,comicbox.xyz
   - DOMAIN-SUFFIX,comico.tw
@@ -7861,6 +7867,7 @@ payload:
   - DOMAIN-SUFFIX,d1m7jfoe9zdc1j.cloudfront.net
   - DOMAIN-SUFFIX,d1mhjrowxxagfy.cloudfront.net
   - DOMAIN-SUFFIX,d1oca24q5dwo6d.cloudfront.net
+  - DOMAIN-SUFFIX,d1unuk07s6td74.cloudfront.net
   - DOMAIN-SUFFIX,d1v5ir2lpwr8os.cloudfront.net
   - DOMAIN-SUFFIX,d1w2poirtb3as9.cloudfront.net
   - DOMAIN-SUFFIX,d1xhnb4ptk05mw.cloudfront.net
@@ -22561,6 +22568,7 @@ payload:
   - DOMAIN-SUFFIX,oyax.com
   - DOMAIN-SUFFIX,oyeloca.com
   - DOMAIN-SUFFIX,oyghan.com
+  - DOMAIN-SUFFIX,oystermercury.top
   - DOMAIN-SUFFIX,ozchinese.com
   - DOMAIN-SUFFIX,ozeex.com
   - DOMAIN-SUFFIX,ozodi.org
@@ -24625,6 +24633,7 @@ payload:
   - DOMAIN-SUFFIX,rbgkew.ac.uk
   - DOMAIN-SUFFIX,rbgrads.com
   - DOMAIN-SUFFIX,rbgraduates.com
+  - DOMAIN-SUFFIX,rblx.org
   - DOMAIN-SUFFIX,rbmavericks.com
   - DOMAIN-SUFFIX,rbnainternational.com
   - DOMAIN-SUFFIX,rbplc.com
@@ -24633,6 +24642,8 @@ payload:
   - DOMAIN-SUFFIX,rbsl.ac.uk
   - DOMAIN-SUFFIX,rbslondon.ac.uk
   - DOMAIN-SUFFIX,rbspeakup.com
+  - DOMAIN-SUFFIX,rbx.com
+  - DOMAIN-SUFFIX,rbxcdn.com
   - DOMAIN-SUFFIX,rc-harwell.ac.uk
   - DOMAIN-SUFFIX,rca.ac.uk
   - DOMAIN-SUFFIX,rcahmw.ac.uk
@@ -25072,7 +25083,13 @@ payload:
   - DOMAIN-SUFFIX,ro89.com
   - DOMAIN-SUFFIX,road-crew.com
   - DOMAIN-SUFFIX,roadshow.hk
+  - DOMAIN-SUFFIX,roblox-api.arkoselabs.co
+  - DOMAIN-SUFFIX,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+  - DOMAIN-SUFFIX,roblox-poc.global.ssl.fastly.net
+  - DOMAIN-SUFFIX,roblox.com
   - DOMAIN-SUFFIX,roblox.qq.com
+  - DOMAIN-SUFFIX,robloxcorp.s.llnwi.net
+  - DOMAIN-SUFFIX,robloxlabs.com
   - DOMAIN-SUFFIX,robobat.com
   - DOMAIN-SUFFIX,roboforex.com
   - DOMAIN-SUFFIX,roboform.com
