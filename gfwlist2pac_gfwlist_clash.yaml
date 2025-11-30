@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NDM4MDkxMgo=
+# Checksum: MTc2NDQ2ODE3Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251129-0
-# TimeUpdated: 2025-11-29T01:48:32+00:00
+# Version: 1.0.9-20251130-0
+# TimeUpdated: 2025-11-30T02:02:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -22118,6 +22118,8 @@ payload:
   - DOMAIN-SUFFIX,okinawatimes.co.jp
   - DOMAIN-SUFFIX,okk.tw
   - DOMAIN-SUFFIX,okkisokuho.com
+  - DOMAIN-SUFFIX,okko.sport
+  - DOMAIN-SUFFIX,okko.tv
   - DOMAIN-SUFFIX,okpool.me
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okx-dns1.com
@@ -23362,6 +23364,7 @@ payload:
   - DOMAIN-SUFFIX,playerjs.io
   - DOMAIN-SUFFIX,playfab.com
   - DOMAIN-SUFFIX,playfabapi.com
+  - DOMAIN-SUFFIX,playfamily.ru
   - DOMAIN-SUFFIX,playforceone.com
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playmation.com

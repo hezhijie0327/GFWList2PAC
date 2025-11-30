@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NDM4MDkxMgo=
+# Checksum: MTc2NDQ2ODE3Mgo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20251129-0
-# TimeUpdated: 2025-11-29T01:48:32+00:00
+# Version: 1.0.9-20251130-0
+# TimeUpdated: 2025-11-30T02:02:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -22118,6 +22118,8 @@ payload:
   - '+.okinawatimes.co.jp'
   - '+.okk.tw'
   - '+.okkisokuho.com'
+  - '+.okko.sport'
+  - '+.okko.tv'
   - '+.okpool.me'
   - '+.okx-dns.com'
   - '+.okx-dns1.com'
@@ -23362,6 +23364,7 @@ payload:
   - '+.playerjs.io'
   - '+.playfab.com'
   - '+.playfabapi.com'
+  - '+.playfamily.ru'
   - '+.playforceone.com'
   - '+.playhearthstone.com'
   - '+.playmation.com'
