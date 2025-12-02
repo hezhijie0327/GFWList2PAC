@@ -1,7 +1,7 @@
-# Checksum: MTc2NDU1NTAxMQo=
+# Checksum: MTc2NDY0MDQyMwo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20251201-0
-# TimeUpdated: 2025-12-01T02:10:11+00:00
+# Version: 1.0.9-20251202-0
+# TimeUpdated: 2025-12-02T01:53:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -545,6 +545,8 @@ DOMAIN-SUFFIX,7mm.tv,PROXY
 DOMAIN-SUFFIX,7mmtv.sx,PROXY
 DOMAIN-SUFFIX,7mmtv.tv,PROXY
 DOMAIN-SUFFIX,7tb.cc,PROXY
+DOMAIN-SUFFIX,7tv.app,PROXY
+DOMAIN-SUFFIX,7tv.io,PROXY
 DOMAIN-SUFFIX,8-d.com,PROXY
 DOMAIN-SUFFIX,8008206616.com,PROXY
 DOMAIN-SUFFIX,8111y.top,PROXY
@@ -5873,6 +5875,7 @@ DOMAIN-SUFFIX,canterburycollege.ac.uk,PROXY
 DOMAIN-SUFFIX,canterburytrust.ac.uk,PROXY
 DOMAIN-SUFFIX,cantonese.asia,PROXY
 DOMAIN-SUFFIX,canva.com,PROXY
+DOMAIN-SUFFIX,canvastatus.com,PROXY
 DOMAIN-SUFFIX,canyu.org,PROXY
 DOMAIN-SUFFIX,cao.im,PROXY
 DOMAIN-SUFFIX,caobian.info,PROXY
@@ -13492,6 +13495,8 @@ DOMAIN-SUFFIX,h2porn.com,PROXY
 DOMAIN-SUFFIX,h528.com,PROXY
 DOMAIN-SUFFIX,h5dm.com,PROXY
 DOMAIN-SUFFIX,h5galgame.me,PROXY
+DOMAIN-SUFFIX,habr.com,PROXY
+DOMAIN-SUFFIX,habrastorage.org,PROXY
 DOMAIN-SUFFIX,hace.ac.uk,PROXY
 DOMAIN-SUFFIX,hacg.club,PROXY
 DOMAIN-SUFFIX,hacg.in,PROXY
@@ -19101,6 +19106,7 @@ DOMAIN-SUFFIX,metabrainz.org,PROXY
 DOMAIN-SUFFIX,metacafe.com,PROXY
 DOMAIN-SUFFIX,metacloud.com,PROXY
 DOMAIN-SUFFIX,metacpan.org,PROXY
+DOMAIN-SUFFIX,metacritic.com,PROXY
 DOMAIN-SUFFIX,metacubex.one,PROXY
 DOMAIN-SUFFIX,metadac.ac.uk,PROXY
 DOMAIN-SUFFIX,metafilter.com,PROXY
@@ -25257,6 +25263,7 @@ DOMAIN-SUFFIX,rssmeme.com,PROXY
 DOMAIN-SUFFIX,rstatic.net,PROXY
 DOMAIN-SUFFIX,rt.com,PROXY
 DOMAIN-SUFFIX,rtalabel.org,PROXY
+DOMAIN-SUFFIX,rtbcdn.ru,PROXY
 DOMAIN-SUFFIX,rthk.hk,PROXY
 DOMAIN-SUFFIX,rthk.org.hk,PROXY
 DOMAIN-SUFFIX,rthklive2-lh.akamaihd.net,PROXY
@@ -25330,6 +25337,7 @@ DOMAIN-SUFFIX,rutracker.org,PROXY
 DOMAIN-SUFFIX,rutrecker.net,PROXY
 DOMAIN-SUFFIX,rutrk.org,PROXY
 DOMAIN-SUFFIX,rutube.ru,PROXY
+DOMAIN-SUFFIX,rutubelist.ru,PROXY
 DOMAIN-SUFFIX,ruvideos.net,PROXY
 DOMAIN-SUFFIX,ruyiseek.com,PROXY
 DOMAIN-SUFFIX,rvc.ac.uk,PROXY
@@ -28441,6 +28449,7 @@ DOMAIN-SUFFIX,tellusgb.ac.uk,PROXY
 DOMAIN-SUFFIX,telri.ac.uk,PROXY
 DOMAIN-SUFFIX,temenos.ac.uk,PROXY
 DOMAIN-SUFFIX,temetube.xyz,PROXY
+DOMAIN-SUFFIX,temp-mail.org,PROXY
 DOMAIN-SUFFIX,tempusuk.ac.uk,PROXY
 DOMAIN-SUFFIX,temu.com,PROXY
 DOMAIN-SUFFIX,tenacy.com,PROXY
@@ -30438,6 +30447,8 @@ DOMAIN-SUFFIX,vaultify.com,PROXY
 DOMAIN-SUFFIX,vaultify.info,PROXY
 DOMAIN-SUFFIX,vaultify.net,PROXY
 DOMAIN-SUFFIX,vaultproject.io,PROXY
+DOMAIN-SUFFIX,vbcdn.com,PROXY
+DOMAIN-SUFFIX,vbcdn.net,PROXY
 DOMAIN-SUFFIX,vbejeyv.shop,PROXY
 DOMAIN-SUFFIX,vbstatic.co,PROXY
 DOMAIN-SUFFIX,vcanedge.com,PROXY
@@ -30657,7 +30668,9 @@ DOMAIN-SUFFIX,viacbs.com,PROXY
 DOMAIN-SUFFIX,viacom.com,PROXY
 DOMAIN-SUFFIX,viacomcbs.com,PROXY
 DOMAIN-SUFFIX,viacomcbspressexpress.com,PROXY
+DOMAIN-SUFFIX,viber.co,PROXY
 DOMAIN-SUFFIX,viber.com,PROXY
+DOMAIN-SUFFIX,viber.me,PROXY
 DOMAIN-SUFFIX,vica.info,PROXY
 DOMAIN-SUFFIX,vicarious.ac.uk,PROXY
 DOMAIN-SUFFIX,victimsofcommunism.org,PROXY

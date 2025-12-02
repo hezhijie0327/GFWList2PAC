@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NDU1NTAxMQo=
+# Checksum: MTc2NDY0MDQyMwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251201-0
-# TimeUpdated: 2025-12-01T02:10:11+00:00
+# Version: 1.0.9-20251202-0
+# TimeUpdated: 2025-12-02T01:53:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -546,6 +546,8 @@ payload:
   - DOMAIN-SUFFIX,7mmtv.sx
   - DOMAIN-SUFFIX,7mmtv.tv
   - DOMAIN-SUFFIX,7tb.cc
+  - DOMAIN-SUFFIX,7tv.app
+  - DOMAIN-SUFFIX,7tv.io
   - DOMAIN-SUFFIX,8-d.com
   - DOMAIN-SUFFIX,8008206616.com
   - DOMAIN-SUFFIX,8111y.top
@@ -5874,6 +5876,7 @@ payload:
   - DOMAIN-SUFFIX,canterburytrust.ac.uk
   - DOMAIN-SUFFIX,cantonese.asia
   - DOMAIN-SUFFIX,canva.com
+  - DOMAIN-SUFFIX,canvastatus.com
   - DOMAIN-SUFFIX,canyu.org
   - DOMAIN-SUFFIX,cao.im
   - DOMAIN-SUFFIX,caobian.info
@@ -13493,6 +13496,8 @@ payload:
   - DOMAIN-SUFFIX,h528.com
   - DOMAIN-SUFFIX,h5dm.com
   - DOMAIN-SUFFIX,h5galgame.me
+  - DOMAIN-SUFFIX,habr.com
+  - DOMAIN-SUFFIX,habrastorage.org
   - DOMAIN-SUFFIX,hace.ac.uk
   - DOMAIN-SUFFIX,hacg.club
   - DOMAIN-SUFFIX,hacg.in
@@ -19102,6 +19107,7 @@ payload:
   - DOMAIN-SUFFIX,metacafe.com
   - DOMAIN-SUFFIX,metacloud.com
   - DOMAIN-SUFFIX,metacpan.org
+  - DOMAIN-SUFFIX,metacritic.com
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,metadac.ac.uk
   - DOMAIN-SUFFIX,metafilter.com
@@ -25258,6 +25264,7 @@ payload:
   - DOMAIN-SUFFIX,rstatic.net
   - DOMAIN-SUFFIX,rt.com
   - DOMAIN-SUFFIX,rtalabel.org
+  - DOMAIN-SUFFIX,rtbcdn.ru
   - DOMAIN-SUFFIX,rthk.hk
   - DOMAIN-SUFFIX,rthk.org.hk
   - DOMAIN-SUFFIX,rthklive2-lh.akamaihd.net
@@ -25331,6 +25338,7 @@ payload:
   - DOMAIN-SUFFIX,rutrecker.net
   - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,rutube.ru
+  - DOMAIN-SUFFIX,rutubelist.ru
   - DOMAIN-SUFFIX,ruvideos.net
   - DOMAIN-SUFFIX,ruyiseek.com
   - DOMAIN-SUFFIX,rvc.ac.uk
@@ -28442,6 +28450,7 @@ payload:
   - DOMAIN-SUFFIX,telri.ac.uk
   - DOMAIN-SUFFIX,temenos.ac.uk
   - DOMAIN-SUFFIX,temetube.xyz
+  - DOMAIN-SUFFIX,temp-mail.org
   - DOMAIN-SUFFIX,tempusuk.ac.uk
   - DOMAIN-SUFFIX,temu.com
   - DOMAIN-SUFFIX,tenacy.com
@@ -30439,6 +30448,8 @@ payload:
   - DOMAIN-SUFFIX,vaultify.info
   - DOMAIN-SUFFIX,vaultify.net
   - DOMAIN-SUFFIX,vaultproject.io
+  - DOMAIN-SUFFIX,vbcdn.com
+  - DOMAIN-SUFFIX,vbcdn.net
   - DOMAIN-SUFFIX,vbejeyv.shop
   - DOMAIN-SUFFIX,vbstatic.co
   - DOMAIN-SUFFIX,vcanedge.com
@@ -30658,7 +30669,9 @@ payload:
   - DOMAIN-SUFFIX,viacom.com
   - DOMAIN-SUFFIX,viacomcbs.com
   - DOMAIN-SUFFIX,viacomcbspressexpress.com
+  - DOMAIN-SUFFIX,viber.co
   - DOMAIN-SUFFIX,viber.com
+  - DOMAIN-SUFFIX,viber.me
   - DOMAIN-SUFFIX,vica.info
   - DOMAIN-SUFFIX,vicarious.ac.uk
   - DOMAIN-SUFFIX,victimsofcommunism.org

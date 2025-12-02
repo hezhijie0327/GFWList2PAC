@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NDU1NTAxMQo=
+# Checksum: MTc2NDY0MDQyMwo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20251201-0
-# TimeUpdated: 2025-12-01T02:10:11+00:00
+# Version: 1.0.9-20251202-0
+# TimeUpdated: 2025-12-02T01:53:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -546,6 +546,8 @@ payload:
   - '+.7mmtv.sx'
   - '+.7mmtv.tv'
   - '+.7tb.cc'
+  - '+.7tv.app'
+  - '+.7tv.io'
   - '+.8-d.com'
   - '+.8008206616.com'
   - '+.8111y.top'
@@ -5874,6 +5876,7 @@ payload:
   - '+.canterburytrust.ac.uk'
   - '+.cantonese.asia'
   - '+.canva.com'
+  - '+.canvastatus.com'
   - '+.canyu.org'
   - '+.cao.im'
   - '+.caobian.info'
@@ -13493,6 +13496,8 @@ payload:
   - '+.h528.com'
   - '+.h5dm.com'
   - '+.h5galgame.me'
+  - '+.habr.com'
+  - '+.habrastorage.org'
   - '+.hace.ac.uk'
   - '+.hacg.club'
   - '+.hacg.in'
@@ -19102,6 +19107,7 @@ payload:
   - '+.metacafe.com'
   - '+.metacloud.com'
   - '+.metacpan.org'
+  - '+.metacritic.com'
   - '+.metacubex.one'
   - '+.metadac.ac.uk'
   - '+.metafilter.com'
@@ -25258,6 +25264,7 @@ payload:
   - '+.rstatic.net'
   - '+.rt.com'
   - '+.rtalabel.org'
+  - '+.rtbcdn.ru'
   - '+.rthk.hk'
   - '+.rthk.org.hk'
   - '+.rthklive2-lh.akamaihd.net'
@@ -25331,6 +25338,7 @@ payload:
   - '+.rutrecker.net'
   - '+.rutrk.org'
   - '+.rutube.ru'
+  - '+.rutubelist.ru'
   - '+.ruvideos.net'
   - '+.ruyiseek.com'
   - '+.rvc.ac.uk'
@@ -28442,6 +28450,7 @@ payload:
   - '+.telri.ac.uk'
   - '+.temenos.ac.uk'
   - '+.temetube.xyz'
+  - '+.temp-mail.org'
   - '+.tempusuk.ac.uk'
   - '+.temu.com'
   - '+.tenacy.com'
@@ -30439,6 +30448,8 @@ payload:
   - '+.vaultify.info'
   - '+.vaultify.net'
   - '+.vaultproject.io'
+  - '+.vbcdn.com'
+  - '+.vbcdn.net'
   - '+.vbejeyv.shop'
   - '+.vbstatic.co'
   - '+.vcanedge.com'
@@ -30658,7 +30669,9 @@ payload:
   - '+.viacom.com'
   - '+.viacomcbs.com'
   - '+.viacomcbspressexpress.com'
+  - '+.viber.co'
   - '+.viber.com'
+  - '+.viber.me'
   - '+.vica.info'
   - '+.vicarious.ac.uk'
   - '+.victimsofcommunism.org'
