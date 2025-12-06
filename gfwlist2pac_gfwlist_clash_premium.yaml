@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NDg5OTY3NAo=
+# Checksum: MTc2NDk4NTcwMAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20251205-0
-# TimeUpdated: 2025-12-05T01:54:34+00:00
+# Version: 1.0.9-20251206-0
+# TimeUpdated: 2025-12-06T01:48:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -2550,7 +2550,6 @@ payload:
   - '+.ark-genomics.ac.uk'
   - '+.ark.ac.uk'
   - '+.ark.to'
-  - '+.arkoselabs.co'
   - '+.arkoselabs.com'
   - '+.arlingtoncemetery.mil'
   - '+.arm.ac.uk'
@@ -25110,7 +25109,6 @@ payload:
   - '+.roadblocks.com'
   - '+.roadshow.hk'
   - '+.roblocks.com'
-  - '+.roblox-api.arkoselabs.co'
   - '+.roblox-api.arkoselabs.com'
   - '+.roblox-load-generator-configuration.s3.us-east-2.amazonaws.com'
   - '+.roblox-poc.global.ssl.fastly.net'
@@ -29003,11 +29001,14 @@ payload:
   - '+.tig-ol-bitties.live'
   - '+.tigervpn.com'
   - '+.tiipple.ac.uk'
+  - '+.tiktok-row.net'
   - '+.tiktok.com'
   - '+.tiktokcdn-eu.com'
   - '+.tiktokcdn-us.com'
   - '+.tiktokcdn.com'
   - '+.tiktokeu-cdn.com'
+  - '+.tiktokglobalshopv.com'
+  - '+.tiktokminis.us'
   - '+.tiktokv.com'
   - '+.tiktokv.eu'
   - '+.tiktokv.us'
@@ -33918,6 +33919,7 @@ payload:
   - '+.zopim.com'
   - '+.zorglist.com'
   - '+.zorrovpn.com'
+  - '+.zotero.org'
   - '+.zozotown.com'
   - '+.zpn.im'
   - '+.zqqpwz.com'

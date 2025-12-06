@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NDg5OTY3NAo=
+# Checksum: MTc2NDk4NTcwMAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251205-0
-# TimeUpdated: 2025-12-05T01:54:34+00:00
+# Version: 1.0.9-20251206-0
+# TimeUpdated: 2025-12-06T01:48:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2550,7 +2550,6 @@ payload:
   - DOMAIN-SUFFIX,ark-genomics.ac.uk
   - DOMAIN-SUFFIX,ark.ac.uk
   - DOMAIN-SUFFIX,ark.to
-  - DOMAIN-SUFFIX,arkoselabs.co
   - DOMAIN-SUFFIX,arkoselabs.com
   - DOMAIN-SUFFIX,arlingtoncemetery.mil
   - DOMAIN-SUFFIX,arm.ac.uk
@@ -25110,7 +25109,6 @@ payload:
   - DOMAIN-SUFFIX,roadblocks.com
   - DOMAIN-SUFFIX,roadshow.hk
   - DOMAIN-SUFFIX,roblocks.com
-  - DOMAIN-SUFFIX,roblox-api.arkoselabs.co
   - DOMAIN-SUFFIX,roblox-api.arkoselabs.com
   - DOMAIN-SUFFIX,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
   - DOMAIN-SUFFIX,roblox-poc.global.ssl.fastly.net
@@ -29003,11 +29001,14 @@ payload:
   - DOMAIN-SUFFIX,tig-ol-bitties.live
   - DOMAIN-SUFFIX,tigervpn.com
   - DOMAIN-SUFFIX,tiipple.ac.uk
+  - DOMAIN-SUFFIX,tiktok-row.net
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn-eu.com
   - DOMAIN-SUFFIX,tiktokcdn-us.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokeu-cdn.com
+  - DOMAIN-SUFFIX,tiktokglobalshopv.com
+  - DOMAIN-SUFFIX,tiktokminis.us
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokv.us
@@ -33918,6 +33919,7 @@ payload:
   - DOMAIN-SUFFIX,zopim.com
   - DOMAIN-SUFFIX,zorglist.com
   - DOMAIN-SUFFIX,zorrovpn.com
+  - DOMAIN-SUFFIX,zotero.org
   - DOMAIN-SUFFIX,zozotown.com
   - DOMAIN-SUFFIX,zpn.im
   - DOMAIN-SUFFIX,zqqpwz.com
