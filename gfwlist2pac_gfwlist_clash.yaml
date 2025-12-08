@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NTA3Mjk5Mgo=
+# Checksum: MTc2NTE1ODkxOAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251207-0
-# TimeUpdated: 2025-12-07T02:03:12+00:00
+# Version: 1.0.9-20251208-0
+# TimeUpdated: 2025-12-08T01:55:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -15437,6 +15437,7 @@ payload:
   - DOMAIN-SUFFIX,imagebam.com
   - DOMAIN-SUFFIX,imagecurl.com
   - DOMAIN-SUFFIX,imagecurl.org
+  - DOMAIN-SUFFIX,imagedelivery.net
   - DOMAIN-SUFFIX,imagefap.com
   - DOMAIN-SUFFIX,imageflea.com
   - DOMAIN-SUFFIX,imageglass.org
@@ -18333,7 +18334,6 @@ payload:
   - DOMAIN-SUFFIX,m-power.com
   - DOMAIN-SUFFIX,m-rhex.ac.uk
   - DOMAIN-SUFFIX,m-sport.co.uk
-  - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,m.hkgalden.com
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,m.moegirl.org
