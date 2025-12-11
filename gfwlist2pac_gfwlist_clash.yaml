@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NTMzMTc4Ngo=
+# Checksum: MTc2NTQxODI2Nwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251210-0
-# TimeUpdated: 2025-12-10T01:56:26+00:00
+# Version: 1.0.9-20251211-0
+# TimeUpdated: 2025-12-11T01:57:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -23461,7 +23461,10 @@ payload:
   - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,pogo.com
   - DOMAIN-SUFFIX,pogobeta.com
+  - DOMAIN-SUFFIX,poi.icu
   - DOMAIN-SUFFIX,poi.moe
+  - DOMAIN-SUFFIX,poi6.net
+  - DOMAIN-SUFFIX,poihub.com
   - DOMAIN-SUFFIX,point.ac.uk
   - DOMAIN-SUFFIX,pointblank.ac.uk
   - DOMAIN-SUFFIX,pointblankmusicschool.ac.uk
@@ -24105,6 +24108,7 @@ payload:
   - DOMAIN-SUFFIX,profreeporno.com
   - DOMAIN-SUFFIX,programme3.ac.uk
   - DOMAIN-SUFFIX,prohashing.com
+  - DOMAIN-SUFFIX,project-poi.com
   - DOMAIN-SUFFIX,project-syndicate.org
   - DOMAIN-SUFFIX,projectapex.com
   - DOMAIN-SUFFIX,projectara.com
