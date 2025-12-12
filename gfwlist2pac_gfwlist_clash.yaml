@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NTQxODI2Nwo=
+# Checksum: MTc2NTUwNDYxNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251211-0
-# TimeUpdated: 2025-12-11T01:57:47+00:00
+# Version: 1.0.9-20251212-0
+# TimeUpdated: 2025-12-12T01:56:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -21141,6 +21141,7 @@ payload:
   - DOMAIN-SUFFIX,nextwork.com.tw
   - DOMAIN-SUFFIX,nextwork.hk
   - DOMAIN-SUFFIX,nextwork.tw
+  - DOMAIN-SUFFIX,nexus-cdn.com
   - DOMAIN-SUFFIX,nexusmods.com
   - DOMAIN-SUFFIX,nf.id.au
   - DOMAIN-SUFFIX,nfacstem.ac.uk
@@ -25197,6 +25198,10 @@ payload:
   - DOMAIN-SUFFIX,roodo.com
   - DOMAIN-SUFFIX,root-signing.ch
   - DOMAIN-SUFFIX,rootsigning.com
+  - DOMAIN-SUFFIX,roovza-launches.appsflyersdk.com
+  - DOMAIN-SUFFIX,roovza.inapps.appsflyersdk.com
+  - DOMAIN-SUFFIX,roovza.launches.appsflyersdk.com
+  - DOMAIN-SUFFIX,roovza.skadsdk.appsflyersdk.com
   - DOMAIN-SUFFIX,rosechina.net
   - DOMAIN-SUFFIX,rosemarydoll.com
   - DOMAIN-SUFFIX,rosemount.ac.uk
@@ -29013,6 +29018,7 @@ payload:
   - DOMAIN-SUFFIX,tig-ol-bitties.live
   - DOMAIN-SUFFIX,tigervpn.com
   - DOMAIN-SUFFIX,tiipple.ac.uk
+  - DOMAIN-SUFFIX,tiktok-minis.com
   - DOMAIN-SUFFIX,tiktok-row.net
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn-eu.com
