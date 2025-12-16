@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NTc2NDA3Mwo=
+# Checksum: MTc2NTg1MDI3Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251215-0
-# TimeUpdated: 2025-12-15T02:01:13+00:00
+# Version: 1.0.9-20251216-0
+# TimeUpdated: 2025-12-16T01:57:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2681,6 +2681,7 @@ payload:
   - DOMAIN-SUFFIX,asiatgp.com
   - DOMAIN-SUFFIX,asiatimes.com
   - DOMAIN-SUFFIX,asiatoday.us
+  - DOMAIN-SUFFIX,asjmapihost.cc
   - DOMAIN-SUFFIX,ask-sam.ac.uk
   - DOMAIN-SUFFIX,ask.com
   - DOMAIN-SUFFIX,askfacebook.net
@@ -6179,14 +6180,20 @@ payload:
   - DOMAIN-SUFFIX,cdn1.lp.saboom.com
   - DOMAIN-SUFFIX,cdn77.com
   - DOMAIN-SUFFIX,cdn77.org
+  - DOMAIN-SUFFIX,cdnblackmyth.club
   - DOMAIN-SUFFIX,cdnews.com.tw
   - DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,cdnjs.com
   - DOMAIN-SUFFIX,cdnlab.live
+  - DOMAIN-SUFFIX,cdnmhws.cc
+  - DOMAIN-SUFFIX,cdnmhwscc.vip
   - DOMAIN-SUFFIX,cdnpure.com
   - DOMAIN-SUFFIX,cdns.com.tw
   - DOMAIN-SUFFIX,cdnst.net
+  - DOMAIN-SUFFIX,cdnuc.vip
+  - DOMAIN-SUFFIX,cdnxxx-proxy.co
+  - DOMAIN-SUFFIX,cdnxxx-proxy.xyz
   - DOMAIN-SUFFIX,cdp1989.org
   - DOMAIN-SUFFIX,cdp1998.org
   - DOMAIN-SUFFIX,cdp2006.org
@@ -16765,16 +16772,45 @@ payload:
   - DOMAIN-SUFFIX,jkzvz.shop
   - DOMAIN-SUFFIX,jkzw.shop
   - DOMAIN-SUFFIX,jlb0011.site
+  - DOMAIN-SUFFIX,jm-comic2.cc
+  - DOMAIN-SUFFIX,jm18c-bbm.cc
+  - DOMAIN-SUFFIX,jm18c-bbm.net
+  - DOMAIN-SUFFIX,jm18c-uoi.net
+  - DOMAIN-SUFFIX,jm365.work
+  - DOMAIN-SUFFIX,jm365.xyz
   - DOMAIN-SUFFIX,jm98.cc
   - DOMAIN-SUFFIX,jma.go.jp
+  - DOMAIN-SUFFIX,jmapibranch1.cc
+  - DOMAIN-SUFFIX,jmapibranch2.cc
+  - DOMAIN-SUFFIX,jmapibranch3.cc
+  - DOMAIN-SUFFIX,jmapinode.biz
+  - DOMAIN-SUFFIX,jmapinode.vip
+  - DOMAIN-SUFFIX,jmapinode.xyz
+  - DOMAIN-SUFFIX,jmapinode1.top
+  - DOMAIN-SUFFIX,jmapinode2.top
+  - DOMAIN-SUFFIX,jmapinode3.top
+  - DOMAIN-SUFFIX,jmapinodeudzn.net
+  - DOMAIN-SUFFIX,jmapinodeudzn.xyz
+  - DOMAIN-SUFFIX,jmapiproxy1.cc
+  - DOMAIN-SUFFIX,jmapiproxy1.monster
+  - DOMAIN-SUFFIX,jmapiproxy2.cc
+  - DOMAIN-SUFFIX,jmapiproxy3.cc
+  - DOMAIN-SUFFIX,jmapiproxy4.cc
+  - DOMAIN-SUFFIX,jmapiproxyxxx.vip
   - DOMAIN-SUFFIX,jmc.ac.uk
+  - DOMAIN-SUFFIX,jmcomic-fb.vip
+  - DOMAIN-SUFFIX,jmcomic-zzz.one
+  - DOMAIN-SUFFIX,jmcomic-zzz.org
+  - DOMAIN-SUFFIX,jmcomic.group
   - DOMAIN-SUFFIX,jmcomic.ltd
   - DOMAIN-SUFFIX,jmcomic.me
   - DOMAIN-SUFFIX,jmcomic.mobi
   - DOMAIN-SUFFIX,jmcomic.moe
+  - DOMAIN-SUFFIX,jmcomic.rocks
   - DOMAIN-SUFFIX,jmcomic1.city
   - DOMAIN-SUFFIX,jmcomic1.me
   - DOMAIN-SUFFIX,jmcomic1.mobi
+  - DOMAIN-SUFFIX,jmcomic1.rocks
   - DOMAIN-SUFFIX,jmcomic2.moe
   - DOMAIN-SUFFIX,jmlr.org
   - DOMAIN-SUFFIX,jmsc.hku.hk
