@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NTg1MDI1OQo=
+# Checksum: MTc2NTkzNjM4OAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20251216-0
-# TimeUpdated: 2025-12-16T01:57:39+00:00
+# Version: 1.0.9-20251217-0
+# TimeUpdated: 2025-12-17T01:53:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -26759,6 +26759,7 @@ payload:
   - DOMAIN-SUFFIX,ctaoci.com
   - DOMAIN-SUFFIX,ctaweb.org
   - DOMAIN-SUFFIX,ctb50.com
+  - DOMAIN-SUFFIX,ctbcdn.com
   - DOMAIN-SUFFIX,ctbcleasing.com
   - DOMAIN-SUFFIX,ctbjia888.com
   - DOMAIN-SUFFIX,ctbpsp.com
@@ -26769,6 +26770,7 @@ payload:
   - DOMAIN-SUFFIX,ctc100.com
   - DOMAIN-SUFFIX,ctcai.com
   - DOMAIN-SUFFIX,ctcdn.com
+  - DOMAIN-SUFFIX,ctcdnov.net
   - DOMAIN-SUFFIX,ctce8.com
   - DOMAIN-SUFFIX,ctcefive.com
   - DOMAIN-SUFFIX,ctcloudmeeting.com
@@ -26782,6 +26784,7 @@ payload:
   - DOMAIN-SUFFIX,ctcwri.org
   - DOMAIN-SUFFIX,ctcxzgs.com
   - DOMAIN-SUFFIX,ctdatacare.com
+  - DOMAIN-SUFFIX,ctdcdn.com
   - DOMAIN-SUFFIX,ctdcn.com
   - DOMAIN-SUFFIX,ctdisk.com
   - DOMAIN-SUFFIX,ctdns.net
@@ -26806,6 +26809,7 @@ payload:
   - DOMAIN-SUFFIX,ctftools.com
   - DOMAIN-SUFFIX,ctfund.com
   - DOMAIN-SUFFIX,ctgapp.com
+  - DOMAIN-SUFFIX,ctgcdn.com
   - DOMAIN-SUFFIX,ctghealthy.com
   - DOMAIN-SUFFIX,ctghr.com
   - DOMAIN-SUFFIX,ctghro.com
@@ -26837,6 +26841,7 @@ payload:
   - DOMAIN-SUFFIX,ctkon.com
   - DOMAIN-SUFFIX,ctkq.com
   - DOMAIN-SUFFIX,ctlcdn.com
+  - DOMAIN-SUFFIX,ctlcdn.net
   - DOMAIN-SUFFIX,ctldl.windowsupdate.com
   - DOMAIN-SUFFIX,ctlife.tv
   - DOMAIN-SUFFIX,ctma.net
@@ -26854,9 +26859,11 @@ payload:
   - DOMAIN-SUFFIX,ctoclub.com
   - DOMAIN-SUFFIX,ctongonline.com
   - DOMAIN-SUFFIX,ctoutiao.com
+  - DOMAIN-SUFFIX,ctovcdn.com
   - DOMAIN-SUFFIX,ctpdd.com
   - DOMAIN-SUFFIX,ctracer.net
   - DOMAIN-SUFFIX,ctrcw.net
+  - DOMAIN-SUFFIX,ctrender.com
   - DOMAIN-SUFFIX,ctrip-ttd.hk
   - DOMAIN-SUFFIX,ctrip.co.id
   - DOMAIN-SUFFIX,ctrip.co.kr
@@ -26903,6 +26910,7 @@ payload:
   - DOMAIN-SUFFIX,ctxcdn.net
   - DOMAIN-SUFFIX,ctxcollect.com
   - DOMAIN-SUFFIX,ctxcpa.com
+  - DOMAIN-SUFFIX,ctxirang.com
   - DOMAIN-SUFFIX,cty9.com
   - DOMAIN-SUFFIX,ctycdn.com
   - DOMAIN-SUFFIX,ctycdn.net
@@ -26911,6 +26919,9 @@ payload:
   - DOMAIN-SUFFIX,ctyun.net
   - DOMAIN-SUFFIX,ctyun.online
   - DOMAIN-SUFFIX,ctyuncdn.net
+  - DOMAIN-SUFFIX,ctyuninner.com
+  - DOMAIN-SUFFIX,ctyunwaf.com
+  - DOMAIN-SUFFIX,ctyunwaf1.com
   - DOMAIN-SUFFIX,ctzb.com
   - DOMAIN-SUFFIX,ctzcdn.com
   - DOMAIN-SUFFIX,ctzg.com
