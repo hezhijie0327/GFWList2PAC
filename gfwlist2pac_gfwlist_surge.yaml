@@ -1,7 +1,7 @@
-# Checksum: MTc2NjEwOTQxMwo=
+# Checksum: MTc2NjE5NTQ1MAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.0.9-20251219-0
-# TimeUpdated: 2025-12-19T01:56:53+00:00
+# Version: 1.0.9-20251220-0
+# TimeUpdated: 2025-12-20T01:50:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -6982,6 +6982,7 @@ DOMAIN-SUFFIX,cmhalq.com,PROXY
 DOMAIN-SUFFIX,cmi.org.tw,PROXY
 DOMAIN-SUFFIX,cmmedia.com.tw,PROXY
 DOMAIN-SUFFIX,cmoinc.org,PROXY
+DOMAIN-SUFFIX,cmoney.tw,PROXY
 DOMAIN-SUFFIX,cmp.hku.hk,PROXY
 DOMAIN-SUFFIX,cmpaas.com,PROXY
 DOMAIN-SUFFIX,cmpcp.ac.uk,PROXY
@@ -21792,8 +21793,14 @@ DOMAIN-SUFFIX,ntd.com,PROXY
 DOMAIN-SUFFIX,ntd.tv,PROXY
 DOMAIN-SUFFIX,ntdc.ac.uk,PROXY
 DOMAIN-SUFFIX,ntdca.com,PROXY
+DOMAIN-SUFFIX,ntdfreemobile-tgc.cdn.hinet.net,PROXY
+DOMAIN-SUFFIX,ntdfreepc-tgc.cdn.hinet.net,PROXY
+DOMAIN-SUFFIX,ntdfreetv-tgc.cdn.hinet.net,PROXY
+DOMAIN-SUFFIX,ntdfreevcpc-tgc.cdn.hinet.net,PROXY
 DOMAIN-SUFFIX,ntdimg.com,PROXY
+DOMAIN-SUFFIX,ntdofifreemobile-tgc.cdn.hinet.net,PROXY
 DOMAIN-SUFFIX,ntdofifreepc-tgc.cdn.hinet.net,PROXY
+DOMAIN-SUFFIX,ntdofifreetv-tgc.cdn.hinet.net,PROXY
 DOMAIN-SUFFIX,ntdofifreevcpc-tgc.cdn.hinet.net,PROXY
 DOMAIN-SUFFIX,ntdsf.tv,PROXY
 DOMAIN-SUFFIX,ntdtv-dc.com,PROXY
@@ -22819,6 +22826,7 @@ DOMAIN-SUFFIX,parstream.org,PROXY
 DOMAIN-SUFFIX,particlephysics.ac.uk,PROXY
 DOMAIN-SUFFIX,partmaker.com,PROXY
 DOMAIN-SUFFIX,partneriaethaberbangor.ac.uk,PROXY
+DOMAIN-SUFFIX,partnerstack.xyz,PROXY
 DOMAIN-SUFFIX,partycasino.com,PROXY
 DOMAIN-SUFFIX,partylikeits1986.org,PROXY
 DOMAIN-SUFFIX,partypoker.com,PROXY
@@ -23050,6 +23058,7 @@ DOMAIN-SUFFIX,pcstore.com.tw,PROXY
 DOMAIN-SUFFIX,pct.org.tw,PROXY
 DOMAIN-SUFFIX,pctlwm.com,PROXY
 DOMAIN-SUFFIX,pcydds.ac.uk,PROXY
+DOMAIN-SUFFIX,pdetails.com,PROXY
 DOMAIN-SUFFIX,pdf.new,PROXY
 DOMAIN-SUFFIX,pdfexpert.com,PROXY
 DOMAIN-SUFFIX,pdi.ac.uk,PROXY
@@ -32928,6 +32937,7 @@ DOMAIN-SUFFIX,xvbelink.com,PROXY
 DOMAIN-SUFFIX,xvds.tv,PROXY
 DOMAIN-SUFFIX,xvedo.net,PROXY
 DOMAIN-SUFFIX,xvideo-jp.com,PROXY
+DOMAIN-SUFFIX,xvideo.cc,PROXY
 DOMAIN-SUFFIX,xvideo.com,PROXY
 DOMAIN-SUFFIX,xvideo.org,PROXY
 DOMAIN-SUFFIX,xvideo.run,PROXY

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NjEwOTQxMwo=
+# Checksum: MTc2NjE5NTQ1MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251219-0
-# TimeUpdated: 2025-12-19T01:56:53+00:00
+# Version: 1.0.9-20251220-0
+# TimeUpdated: 2025-12-20T01:50:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -6983,6 +6983,7 @@ payload:
   - DOMAIN-SUFFIX,cmi.org.tw
   - DOMAIN-SUFFIX,cmmedia.com.tw
   - DOMAIN-SUFFIX,cmoinc.org
+  - DOMAIN-SUFFIX,cmoney.tw
   - DOMAIN-SUFFIX,cmp.hku.hk
   - DOMAIN-SUFFIX,cmpaas.com
   - DOMAIN-SUFFIX,cmpcp.ac.uk
@@ -21793,8 +21794,14 @@ payload:
   - DOMAIN-SUFFIX,ntd.tv
   - DOMAIN-SUFFIX,ntdc.ac.uk
   - DOMAIN-SUFFIX,ntdca.com
+  - DOMAIN-SUFFIX,ntdfreemobile-tgc.cdn.hinet.net
+  - DOMAIN-SUFFIX,ntdfreepc-tgc.cdn.hinet.net
+  - DOMAIN-SUFFIX,ntdfreetv-tgc.cdn.hinet.net
+  - DOMAIN-SUFFIX,ntdfreevcpc-tgc.cdn.hinet.net
   - DOMAIN-SUFFIX,ntdimg.com
+  - DOMAIN-SUFFIX,ntdofifreemobile-tgc.cdn.hinet.net
   - DOMAIN-SUFFIX,ntdofifreepc-tgc.cdn.hinet.net
+  - DOMAIN-SUFFIX,ntdofifreetv-tgc.cdn.hinet.net
   - DOMAIN-SUFFIX,ntdofifreevcpc-tgc.cdn.hinet.net
   - DOMAIN-SUFFIX,ntdsf.tv
   - DOMAIN-SUFFIX,ntdtv-dc.com
@@ -22820,6 +22827,7 @@ payload:
   - DOMAIN-SUFFIX,particlephysics.ac.uk
   - DOMAIN-SUFFIX,partmaker.com
   - DOMAIN-SUFFIX,partneriaethaberbangor.ac.uk
+  - DOMAIN-SUFFIX,partnerstack.xyz
   - DOMAIN-SUFFIX,partycasino.com
   - DOMAIN-SUFFIX,partylikeits1986.org
   - DOMAIN-SUFFIX,partypoker.com
@@ -23051,6 +23059,7 @@ payload:
   - DOMAIN-SUFFIX,pct.org.tw
   - DOMAIN-SUFFIX,pctlwm.com
   - DOMAIN-SUFFIX,pcydds.ac.uk
+  - DOMAIN-SUFFIX,pdetails.com
   - DOMAIN-SUFFIX,pdf.new
   - DOMAIN-SUFFIX,pdfexpert.com
   - DOMAIN-SUFFIX,pdi.ac.uk
@@ -32929,6 +32938,7 @@ payload:
   - DOMAIN-SUFFIX,xvds.tv
   - DOMAIN-SUFFIX,xvedo.net
   - DOMAIN-SUFFIX,xvideo-jp.com
+  - DOMAIN-SUFFIX,xvideo.cc
   - DOMAIN-SUFFIX,xvideo.com
   - DOMAIN-SUFFIX,xvideo.org
   - DOMAIN-SUFFIX,xvideo.run
