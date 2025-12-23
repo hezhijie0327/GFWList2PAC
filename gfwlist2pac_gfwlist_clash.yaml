@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NjM2ODk3Ngo=
+# Checksum: MTc2NjQ1NTA5Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20251222-0
-# TimeUpdated: 2025-12-22T02:02:56+00:00
+# Version: 1.0.9-20251223-0
+# TimeUpdated: 2025-12-23T01:58:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -13428,6 +13428,7 @@ payload:
   - DOMAIN-SUFFIX,grimsbytec.ac.uk
   - DOMAIN-SUFFIX,grindr.com
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,grooby.com
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,grotty-monday.com
@@ -30457,6 +30458,7 @@ payload:
   - DOMAIN-SUFFIX,utopianpal.com
   - DOMAIN-SUFFIX,uts-api.itunes.apple.com
   - DOMAIN-SUFFIX,uu-gg.com
+  - DOMAIN-SUFFIX,uug22.com
   - DOMAIN-SUFFIX,uug23.com
   - DOMAIN-SUFFIX,uug25.com
   - DOMAIN-SUFFIX,uug26.com
@@ -31514,7 +31516,12 @@ payload:
   - DOMAIN-SUFFIX,vraiesagesse.net
   - DOMAIN-SUFFIX,vrbgay.com
   - DOMAIN-SUFFIX,vrcams.io
+  - DOMAIN-SUFFIX,vrcdn.cloud
+  - DOMAIN-SUFFIX,vrcdn.live
+  - DOMAIN-SUFFIX,vrcdn.video
+  - DOMAIN-SUFFIX,vrchat.cloud
   - DOMAIN-SUFFIX,vrchat.com
+  - DOMAIN-SUFFIX,vrchat.net
   - DOMAIN-SUFFIX,vred-essentials.com
   - DOMAIN-SUFFIX,vredessentials.com
   - DOMAIN-SUFFIX,vredprofessional.com
