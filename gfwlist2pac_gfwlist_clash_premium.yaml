@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NzY2NDg0OQo=
+# Checksum: MTc2Nzc1MTIyNgo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20260106-0
-# TimeUpdated: 2026-01-06T02:00:49+00:00
+# Version: 1.0.9-20260107-0
+# TimeUpdated: 2026-01-07T02:00:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -16429,7 +16429,6 @@ payload:
   - '+.issitedownrightnow.com'
   - '+.issquaredown.com'
   - '+.issquareup.com'
-  - '+.issues.chromium.org'
   - '+.issuu.com'
   - '+.istar.ac.uk'
   - '+.istars.co.nz'
@@ -21422,6 +21421,15 @@ payload:
   - '+.nginx.org'
   - '+.nginxconfig.io'
   - '+.ngodupdongchung.com'
+  - '+.ngrok-free.app'
+  - '+.ngrok-free.dev'
+  - '+.ngrok-free.pizza'
+  - '+.ngrok.app'
+  - '+.ngrok.com'
+  - '+.ngrok.dev'
+  - '+.ngrok.io'
+  - '+.ngrok.pizza'
+  - '+.ngrok.pro'
   - '+.ngs.ac.uk'
   - '+.ngwnet.ac.uk'
   - '+.nhc.ac.uk'
@@ -23497,6 +23505,8 @@ payload:
   - '+.ping.pe'
   - '+.ping.sx'
   - '+.pingguotv.xyz'
+  - '+.pinggy.io'
+  - '+.pinggy.link'
   - '+.pingxiangpuer.com'
   - '+.pinimg.com'
   - '+.pinkcore.com'
