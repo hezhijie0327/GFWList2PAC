@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2ODI2OTQ5Nwo=
+# Checksum: MTc2ODM1NjMzNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20260113-0
-# TimeUpdated: 2026-01-13T01:58:17+00:00
+# Version: 1.0.9-20260114-0
+# TimeUpdated: 2026-01-14T02:05:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2050,7 +2050,9 @@ payload:
   - DOMAIN-SUFFIX,anti1984.com
   - DOMAIN-SUFFIX,antichristendom.com
   - DOMAIN-SUFFIX,anticipate.ac.uk
+  - DOMAIN-SUFFIX,antigravity-pa.googleapis.com
   - DOMAIN-SUFFIX,antigravity.google
+  - DOMAIN-SUFFIX,antigravity.googleapis.com
   - DOMAIN-SUFFIX,antiquity.ac.uk
   - DOMAIN-SUFFIX,antislavery.ac.uk
   - DOMAIN-SUFFIX,antislaverylaw.ac.uk
@@ -6986,11 +6988,13 @@ payload:
   - DOMAIN-SUFFIX,cloud.dify.ai
   - DOMAIN-SUFFIX,cloud.mail.ru
   - DOMAIN-SUFFIX,cloud.oracle.com
+  - DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
   - DOMAIN-SUFFIX,cloudapp.net
   - DOMAIN-SUFFIX,cloudappsecurity.com
   - DOMAIN-SUFFIX,cloudburstresearch.com
   - DOMAIN-SUFFIX,cloudc.one
   - DOMAIN-SUFFIX,cloudchoose.com
+  - DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,cloudcone.net
   - DOMAIN-SUFFIX,cloudconvert.com
@@ -8056,6 +8060,7 @@ payload:
   - DOMAIN-SUFFIX,dagfs.com
   - DOMAIN-SUFFIX,daidostup.ru
   - DOMAIN-SUFFIX,daiichibank.co.jp
+  - DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com
   - DOMAIN-SUFFIX,dailybasis.com
   - DOMAIN-SUFFIX,dailym.ai
   - DOMAIN-SUFFIX,dailymail.co.uk
@@ -8706,6 +8711,7 @@ payload:
   - DOMAIN-SUFFIX,dilcdn.com
   - DOMAIN-SUFFIX,dilstoncollege.ac.uk
   - DOMAIN-SUFFIX,dingchin.com.tw
+  - DOMAIN-SUFFIX,dinopoloclub.com
   - DOMAIN-SUFFIX,dinotube.com
   - DOMAIN-SUFFIX,dipity.com
   - DOMAIN-SUFFIX,dippam.ac.uk
@@ -20061,6 +20067,7 @@ payload:
   - DOMAIN-SUFFIX,mobilevrxxx.com
   - DOMAIN-SUFFIX,mobileways.de
   - DOMAIN-SUFFIX,mobilitymoodplace.ac.uk
+  - DOMAIN-SUFFIX,mobimon.com.tw
   - DOMAIN-SUFFIX,mobmyanmar.com
   - DOMAIN-SUFFIX,moby.to
   - DOMAIN-SUFFIX,mobypicture.com
@@ -21863,7 +21870,9 @@ payload:
   - DOMAIN-SUFFIX,notary-submissions-prod.s3-accelerate.amazonaws.com
   - DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,note.com
+  - DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
   - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,notebooklm.googleapis.com
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,notify.dropboxapi.com
   - DOMAIN-SUFFIX,notify.ppy.sh
@@ -21915,6 +21924,7 @@ payload:
   - DOMAIN-SUFFIX,nowtorrents.com
   - DOMAIN-SUFFIX,nox.ac.uk
   - DOMAIN-SUFFIX,noxinfluencer.com
+  - DOMAIN-SUFFIX,noxygames.com
   - DOMAIN-SUFFIX,noypf.com
   - DOMAIN-SUFFIX,nozomi.la
   - DOMAIN-SUFFIX,npa.go.jp
@@ -24947,6 +24957,8 @@ payload:
   - DOMAIN-SUFFIX,rawgithub.com
   - DOMAIN-SUFFIX,rawstory.com
   - DOMAIN-SUFFIX,raxcdn.com
+  - DOMAIN-SUFFIX,rayark.download
+  - DOMAIN-SUFFIX,rayark.net
   - DOMAIN-SUFFIX,razer.com
   - DOMAIN-SUFFIX,razerofficial.com
   - DOMAIN-SUFFIX,razersupport.com
