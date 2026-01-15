@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2ODM1NjMzNgo=
+# Checksum: MTc2ODQ0MjQyNwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20260114-0
-# TimeUpdated: 2026-01-14T02:05:36+00:00
+# Version: 1.0.9-20260115-0
+# TimeUpdated: 2026-01-15T02:00:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -26911,6 +26911,8 @@ payload:
   - DOMAIN-SUFFIX,signalusers.org
   - DOMAIN-SUFFIX,sigops.org
   - DOMAIN-SUFFIX,sigopt.com
+  - DOMAIN-SUFFIX,sih-db.com
+  - DOMAIN-SUFFIX,sih.app
   - DOMAIN-SUFFIX,sihe.ac.uk
   - DOMAIN-SUFFIX,sijihuisuo.club
   - DOMAIN-SUFFIX,sijihuisuo.com
@@ -27983,6 +27985,7 @@ payload:
   - DOMAIN-SUFFIX,steamdb.info
   - DOMAIN-SUFFIX,steamdeck.com
   - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steaminventoryhelper.com
   - DOMAIN-SUFFIX,steamladder.com
   - DOMAIN-SUFFIX,steammobile.akamaized.net
   - DOMAIN-SUFFIX,steamofporn.com
