@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2ODYxNDk5Mwo=
+# Checksum: MTc2ODcwMjE5MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20260117-0
-# TimeUpdated: 2026-01-17T01:56:33+00:00
+# Version: 1.0.9-20260118-0
+# TimeUpdated: 2026-01-18T02:09:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1443,6 +1443,7 @@ payload:
   - DOMAIN-SUFFIX,akamai-trials.com
   - DOMAIN-SUFFIX,akamai.co.kr
   - DOMAIN-SUFFIX,akamai.net
+  - DOMAIN-SUFFIX,akamai.tvb.com
   - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,akamaientrypoint.net
   - DOMAIN-SUFFIX,akamaietpcnctest.com
@@ -2013,7 +2014,10 @@ payload:
   - DOMAIN-SUFFIX,ankarazirvesi2018.com
   - DOMAIN-SUFFIX,anm.co.uk
   - DOMAIN-SUFFIX,annamilk.com
+  - DOMAIN-SUFFIX,annas-archive.in
+  - DOMAIN-SUFFIX,annas-archive.li
   - DOMAIN-SUFFIX,annas-archive.org
+  - DOMAIN-SUFFIX,annas-archive.pm
   - DOMAIN-SUFFIX,annas-archive.se
   - DOMAIN-SUFFIX,annatam.com
   - DOMAIN-SUFFIX,anniesland-fe.ac.uk
@@ -3488,6 +3492,7 @@ payload:
   - DOMAIN-SUFFIX,battlefrontii.com
   - DOMAIN-SUFFIX,battlelog.com
   - DOMAIN-SUFFIX,battlenet.com
+  - DOMAIN-SUFFIX,battleye.com
   - DOMAIN-SUFFIX,bavs.ac.uk
   - DOMAIN-SUFFIX,baxsound.com
   - DOMAIN-SUFFIX,bayareabmw.com
@@ -17566,6 +17571,7 @@ payload:
   - DOMAIN-SUFFIX,kpkuang.org
   - DOMAIN-SUFFIX,kpptoto.info
   - DOMAIN-SUFFIX,kqes.net
+  - DOMAIN-SUFFIX,kraftonde.com
   - DOMAIN-SUFFIX,kraken.com
   - DOMAIN-SUFFIX,kraken.onl
   - DOMAIN-SUFFIX,krakenjs.com
@@ -23687,6 +23693,7 @@ payload:
   - DOMAIN-SUFFIX,playapex.com
   - DOMAIN-SUFFIX,playartifact.com
   - DOMAIN-SUFFIX,playbar.biz
+  - DOMAIN-SUFFIX,playbattlegrounds.com
   - DOMAIN-SUFFIX,playbeasts.com
   - DOMAIN-SUFFIX,playboy.com
   - DOMAIN-SUFFIX,playboy.com.uk
@@ -24534,6 +24541,8 @@ payload:
   - DOMAIN-SUFFIX,ptwxz.com
   - DOMAIN-SUFFIX,ptzwx.com
   - DOMAIN-SUFFIX,pub.dev
+  - DOMAIN-SUFFIX,pubg.com
+  - DOMAIN-SUFFIX,pubg1.battleye.com
   - DOMAIN-SUFFIX,public-sex-porn.com
   - DOMAIN-SUFFIX,public-trust.com
   - DOMAIN-SUFFIX,public-us-pingsx.api.clonoth.com

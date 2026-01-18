@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2ODYxNDk5Mwo=
+# Checksum: MTc2ODcwMjE5MAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20260117-0
-# TimeUpdated: 2026-01-17T01:56:33+00:00
+# Version: 1.0.9-20260118-0
+# TimeUpdated: 2026-01-18T02:09:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -1443,6 +1443,7 @@ payload:
   - '+.akamai-trials.com'
   - '+.akamai.co.kr'
   - '+.akamai.net'
+  - '+.akamai.tvb.com'
   - '+.akamaiedge.net'
   - '+.akamaientrypoint.net'
   - '+.akamaietpcnctest.com'
@@ -2013,7 +2014,10 @@ payload:
   - '+.ankarazirvesi2018.com'
   - '+.anm.co.uk'
   - '+.annamilk.com'
+  - '+.annas-archive.in'
+  - '+.annas-archive.li'
   - '+.annas-archive.org'
+  - '+.annas-archive.pm'
   - '+.annas-archive.se'
   - '+.annatam.com'
   - '+.anniesland-fe.ac.uk'
@@ -3488,6 +3492,7 @@ payload:
   - '+.battlefrontii.com'
   - '+.battlelog.com'
   - '+.battlenet.com'
+  - '+.battleye.com'
   - '+.bavs.ac.uk'
   - '+.baxsound.com'
   - '+.bayareabmw.com'
@@ -17566,6 +17571,7 @@ payload:
   - '+.kpkuang.org'
   - '+.kpptoto.info'
   - '+.kqes.net'
+  - '+.kraftonde.com'
   - '+.kraken.com'
   - '+.kraken.onl'
   - '+.krakenjs.com'
@@ -23687,6 +23693,7 @@ payload:
   - '+.playapex.com'
   - '+.playartifact.com'
   - '+.playbar.biz'
+  - '+.playbattlegrounds.com'
   - '+.playbeasts.com'
   - '+.playboy.com'
   - '+.playboy.com.uk'
@@ -24534,6 +24541,8 @@ payload:
   - '+.ptwxz.com'
   - '+.ptzwx.com'
   - '+.pub.dev'
+  - '+.pubg.com'
+  - '+.pubg1.battleye.com'
   - '+.public-sex-porn.com'
   - '+.public-trust.com'
   - '+.public-us-pingsx.api.clonoth.com'
