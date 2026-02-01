@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2OTgyNjEyNQo=
+# Checksum: MTc2OTkxMzk4OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20260131-0
-# TimeUpdated: 2026-01-31T02:22:05+00:00
+# Version: 1.0.9-20260201-0
+# TimeUpdated: 2026-02-01T02:46:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2063,6 +2063,7 @@ payload:
   - DOMAIN-SUFFIX,anybunny.org
   - DOMAIN-SUFFIX,anybunny.tv
   - DOMAIN-SUFFIX,anydesk.com
+  - DOMAIN-SUFFIX,anygate.vip
   - DOMAIN-SUFFIX,anyhentai.com
   - DOMAIN-SUFFIX,anyporn.com
   - DOMAIN-SUFFIX,anypornhd.com
@@ -3490,6 +3491,7 @@ payload:
   - DOMAIN-SUFFIX,bbc.in
   - DOMAIN-SUFFIX,bbc.mp-pxcdn.com
   - DOMAIN-SUFFIX,bbc.net.uk
+  - DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
   - DOMAIN-SUFFIX,bbcchinese.com
   - DOMAIN-SUFFIX,bbchat.tv
   - DOMAIN-SUFFIX,bbci.co.uk
@@ -8207,6 +8209,7 @@ payload:
   - DOMAIN-SUFFIX,dcdp.ac.uk
   - DOMAIN-SUFFIX,dcg.ac.uk
   - DOMAIN-SUFFIX,dcmilitary.com
+  - DOMAIN-SUFFIX,dcs-spotify.megaphone.fm
   - DOMAIN-SUFFIX,dct.ac.uk
   - DOMAIN-SUFFIX,dctbeatsbydre.com
   - DOMAIN-SUFFIX,ddacn6pr5v0tl.cloudfront.net
@@ -9399,6 +9402,7 @@ payload:
   - DOMAIN-SUFFIX,dudleycol.ac.uk
   - DOMAIN-SUFFIX,dudleylearners.ac.uk
   - DOMAIN-SUFFIX,dudleylearning.ac.uk
+  - DOMAIN-SUFFIX,dudupro.com
   - DOMAIN-SUFFIX,dueapp.com
   - DOMAIN-SUFFIX,duga.jp
   - DOMAIN-SUFFIX,duihua.org
@@ -14036,6 +14040,7 @@ payload:
   - DOMAIN-SUFFIX,hellporno.com
   - DOMAIN-SUFFIX,hellven.net
   - DOMAIN-SUFFIX,heloa.ac.uk
+  - DOMAIN-SUFFIX,help.byspotify.com
   - DOMAIN-SUFFIX,helpeachpeople.com
   - DOMAIN-SUFFIX,helplinfen.com
   - DOMAIN-SUFFIX,helpshift.com
@@ -18398,7 +18403,7 @@ payload:
   - DOMAIN-SUFFIX,lou.ac.uk
   - DOMAIN-SUFFIX,loucoll.ac.uk
   - DOMAIN-SUFFIX,loughborough.ac.uk
-  - DOMAIN-SUFFIX,lovart.ai
+  - DOMAIN-SUFFIX,louisvuitton.com
   - DOMAIN-SUFFIX,love-sextoys.co.uk
   - DOMAIN-SUFFIX,love4porn.com
   - DOMAIN-SUFFIX,love6.tv
@@ -23517,8 +23522,6 @@ payload:
   - DOMAIN-SUFFIX,piirus.ac.uk
   - DOMAIN-SUFFIX,pikabu.monster
   - DOMAIN-SUFFIX,pikpak.io
-  - DOMAIN-SUFFIX,pikpak.me
-  - DOMAIN-SUFFIX,pikpakdrive.com
   - DOMAIN-SUFFIX,pilgrimageandcathedrals.ac.uk
   - DOMAIN-SUFFIX,pilgrimagestudies.ac.uk
   - DOMAIN-SUFFIX,pillbeatsblackfridaysale.com
@@ -28571,6 +28574,7 @@ payload:
   - DOMAIN-SUFFIX,taiav.com
   - DOMAIN-SUFFIX,tail-f.com
   - DOMAIN-SUFFIX,tailf.com
+  - DOMAIN-SUFFIX,tails.net
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailwindtraders.com
@@ -29755,6 +29759,7 @@ payload:
   - DOMAIN-SUFFIX,tristatebmw.com
   - DOMAIN-SUFFIX,trithucvn.net
   - DOMAIN-SUFFIX,trithucvn.org
+  - DOMAIN-SUFFIX,tritondigital.com
   - DOMAIN-SUFFIX,trixhentai.com
   - DOMAIN-SUFFIX,trmini.com
   - DOMAIN-SUFFIX,trocoll.ac.uk
