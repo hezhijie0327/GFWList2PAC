@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MDQzMTEyMQo=
+# Checksum: MTc3MDUxOTEzNgo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20260207-0
-# TimeUpdated: 2026-02-07T02:25:21+00:00
+# Version: -20260208-0
+# TimeUpdated: 2026-02-08T02:52:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -3520,7 +3520,6 @@ payload:
   - '+.bbs.huasing.org'
   - '+.bbs.junglobal.net'
   - '+.bbs.mikocon.com'
-  - '+.bbs.morbell.com'
   - '+.bbs.mychat.to'
   - '+.bbs.naixi.net'
   - '+.bbs.nyinfor.com'
@@ -4444,7 +4443,6 @@ payload:
   - '+.blog.jackjia.com'
   - '+.blog.jp'
   - '+.blog.kangye.org'
-  - '+.blog.lester850.info'
   - '+.blog.martinoei.com'
   - '+.blog.pathtosharepoint.com'
   - '+.blog.pentalogic.net'
@@ -6252,7 +6250,6 @@ payload:
   - '+.cdn-vk.ru'
   - '+.cdn.ac.uk'
   - '+.cdn.arstechnica.net'
-  - '+.cdn.assets.lfpcontent.com'
   - '+.cdn.helixstudios.net'
   - '+.cdn.js7k.com'
   - '+.cdn.jsdelivr.net'
@@ -7203,6 +7200,8 @@ payload:
   - '+.codei.sh'
   - '+.codeish.co'
   - '+.codeish.io'
+  - '+.codeium.com'
+  - '+.codeiumdata.com'
   - '+.codeplex.com'
   - '+.coderabbit.ai'
   - '+.codeshare.io'
@@ -14475,7 +14474,6 @@ payload:
   - '+.hkptu.org'
   - '+.hkreadingcity.net'
   - '+.hkreporter.com'
-  - '+.hkreporter.loved.hk'
   - '+.hkt-enterprise.com'
   - '+.hkt-eye.com'
   - '+.hkt.com'
@@ -16872,7 +16870,6 @@ payload:
   - '+.jigglegifs.com'
   - '+.jigong1024.com'
   - '+.jigsy.com'
-  - '+.jihadintel.meforum.org'
   - '+.jihadology.net'
   - '+.jiji.com'
   - '+.jijiji.ca'
@@ -17700,9 +17697,7 @@ payload:
   - '+.lanniser-ylo.shop'
   - '+.lantern.io'
   - '+.lanternal.com'
-  - '+.lanterncn.cn'
   - '+.lantosfoundation.org'
-  - '+.laod.cn'
   - '+.laogai.org'
   - '+.laogairesearch.org'
   - '+.laomiu.com'
@@ -27940,6 +27935,7 @@ payload:
   - '+.static-economist.com'
   - '+.static-hamivideo.cdn.hinet.net'
   - '+.static-nike.com'
+  - '+.static-storage.net'
   - '+.static-verizon.com'
   - '+.static.fun'
   - '+.static.pocketcasts.com'
@@ -32337,6 +32333,7 @@ payload:
   - '+.wikipedia.org'
   - '+.wikiporn.tv'
   - '+.wikiquote.org'
+  - '+.wikis.tw'
   - '+.wikisexguide.com'
   - '+.wikisource.org'
   - '+.wikiunblocked.org'
@@ -32378,6 +32375,8 @@ payload:
   - '+.windowsuem.com'
   - '+.windscribe.com'
   - '+.windsor-forest.ac.uk'
+  - '+.windsurf.build'
+  - '+.windsurf.com'
   - '+.windy.com'
   - '+.wingamestore.com'
   - '+.wingy.site'
@@ -33594,6 +33593,7 @@ payload:
   - '+.yande.re'
   - '+.yandex-bank.net'
   - '+.yandex-images.clstorage.net'
+  - '+.yandex-pogoda.static-storage.net'
   - '+.yandex-team.ru'
   - '+.yandex.aero'
   - '+.yandex.az'

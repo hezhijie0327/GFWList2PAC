@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MDQzMTEyMQo=
+# Checksum: MTc3MDUxOTEzNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260207-0
-# TimeUpdated: 2026-02-07T02:25:21+00:00
+# Version: -20260208-0
+# TimeUpdated: 2026-02-08T02:52:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -3520,7 +3520,6 @@ payload:
   - DOMAIN-SUFFIX,bbs.huasing.org
   - DOMAIN-SUFFIX,bbs.junglobal.net
   - DOMAIN-SUFFIX,bbs.mikocon.com
-  - DOMAIN-SUFFIX,bbs.morbell.com
   - DOMAIN-SUFFIX,bbs.mychat.to
   - DOMAIN-SUFFIX,bbs.naixi.net
   - DOMAIN-SUFFIX,bbs.nyinfor.com
@@ -4444,7 +4443,6 @@ payload:
   - DOMAIN-SUFFIX,blog.jackjia.com
   - DOMAIN-SUFFIX,blog.jp
   - DOMAIN-SUFFIX,blog.kangye.org
-  - DOMAIN-SUFFIX,blog.lester850.info
   - DOMAIN-SUFFIX,blog.martinoei.com
   - DOMAIN-SUFFIX,blog.pathtosharepoint.com
   - DOMAIN-SUFFIX,blog.pentalogic.net
@@ -6252,7 +6250,6 @@ payload:
   - DOMAIN-SUFFIX,cdn-vk.ru
   - DOMAIN-SUFFIX,cdn.ac.uk
   - DOMAIN-SUFFIX,cdn.arstechnica.net
-  - DOMAIN-SUFFIX,cdn.assets.lfpcontent.com
   - DOMAIN-SUFFIX,cdn.helixstudios.net
   - DOMAIN-SUFFIX,cdn.js7k.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
@@ -7203,6 +7200,8 @@ payload:
   - DOMAIN-SUFFIX,codei.sh
   - DOMAIN-SUFFIX,codeish.co
   - DOMAIN-SUFFIX,codeish.io
+  - DOMAIN-SUFFIX,codeium.com
+  - DOMAIN-SUFFIX,codeiumdata.com
   - DOMAIN-SUFFIX,codeplex.com
   - DOMAIN-SUFFIX,coderabbit.ai
   - DOMAIN-SUFFIX,codeshare.io
@@ -14475,7 +14474,6 @@ payload:
   - DOMAIN-SUFFIX,hkptu.org
   - DOMAIN-SUFFIX,hkreadingcity.net
   - DOMAIN-SUFFIX,hkreporter.com
-  - DOMAIN-SUFFIX,hkreporter.loved.hk
   - DOMAIN-SUFFIX,hkt-enterprise.com
   - DOMAIN-SUFFIX,hkt-eye.com
   - DOMAIN-SUFFIX,hkt.com
@@ -16872,7 +16870,6 @@ payload:
   - DOMAIN-SUFFIX,jigglegifs.com
   - DOMAIN-SUFFIX,jigong1024.com
   - DOMAIN-SUFFIX,jigsy.com
-  - DOMAIN-SUFFIX,jihadintel.meforum.org
   - DOMAIN-SUFFIX,jihadology.net
   - DOMAIN-SUFFIX,jiji.com
   - DOMAIN-SUFFIX,jijiji.ca
@@ -17700,9 +17697,7 @@ payload:
   - DOMAIN-SUFFIX,lanniser-ylo.shop
   - DOMAIN-SUFFIX,lantern.io
   - DOMAIN-SUFFIX,lanternal.com
-  - DOMAIN-SUFFIX,lanterncn.cn
   - DOMAIN-SUFFIX,lantosfoundation.org
-  - DOMAIN-SUFFIX,laod.cn
   - DOMAIN-SUFFIX,laogai.org
   - DOMAIN-SUFFIX,laogairesearch.org
   - DOMAIN-SUFFIX,laomiu.com
@@ -27940,6 +27935,7 @@ payload:
   - DOMAIN-SUFFIX,static-economist.com
   - DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,static-nike.com
+  - DOMAIN-SUFFIX,static-storage.net
   - DOMAIN-SUFFIX,static-verizon.com
   - DOMAIN-SUFFIX,static.fun
   - DOMAIN-SUFFIX,static.pocketcasts.com
@@ -32337,6 +32333,7 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,wikiporn.tv
   - DOMAIN-SUFFIX,wikiquote.org
+  - DOMAIN-SUFFIX,wikis.tw
   - DOMAIN-SUFFIX,wikisexguide.com
   - DOMAIN-SUFFIX,wikisource.org
   - DOMAIN-SUFFIX,wikiunblocked.org
@@ -32378,6 +32375,8 @@ payload:
   - DOMAIN-SUFFIX,windowsuem.com
   - DOMAIN-SUFFIX,windscribe.com
   - DOMAIN-SUFFIX,windsor-forest.ac.uk
+  - DOMAIN-SUFFIX,windsurf.build
+  - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,windy.com
   - DOMAIN-SUFFIX,wingamestore.com
   - DOMAIN-SUFFIX,wingy.site
@@ -33594,6 +33593,7 @@ payload:
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,yandex-bank.net
   - DOMAIN-SUFFIX,yandex-images.clstorage.net
+  - DOMAIN-SUFFIX,yandex-pogoda.static-storage.net
   - DOMAIN-SUFFIX,yandex-team.ru
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.az
