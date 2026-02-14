@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MDk1MDM2Ngo=
+# Checksum: MTc3MTAzNTk5OQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260213-0
-# TimeUpdated: 2026-02-13T02:39:26+00:00
+# Version: -20260214-0
+# TimeUpdated: 2026-02-14T02:26:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2160,6 +2160,7 @@ payload:
   - DOMAIN-SUFFIX,apkplz.com
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,apkpure.net
+  - DOMAIN-SUFFIX,apkpures.xyz
   - DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,aple.com
   - DOMAIN-SUFFIX,aplestore.com
@@ -2855,6 +2856,7 @@ payload:
   - DOMAIN-SUFFIX,attcollaborate.com
   - DOMAIN-SUFFIX,attdns.com
   - DOMAIN-SUFFIX,attdns.net
+  - DOMAIN-SUFFIX,attestation.app
   - DOMAIN-SUFFIX,attexperts.com
   - DOMAIN-SUFFIX,attglobal.net
   - DOMAIN-SUFFIX,atthelimits.ac.uk
@@ -13461,6 +13463,19 @@ payload:
   - DOMAIN-SUFFIX,granulate.io
   - DOMAIN-SUFFIX,graph.org
   - DOMAIN-SUFFIX,graphenecentre.ac.uk
+  - DOMAIN-SUFFIX,grapheneos.app
+  - DOMAIN-SUFFIX,grapheneos.ca
+  - DOMAIN-SUFFIX,grapheneos.com
+  - DOMAIN-SUFFIX,grapheneos.dev
+  - DOMAIN-SUFFIX,grapheneos.foundation
+  - DOMAIN-SUFFIX,grapheneos.info
+  - DOMAIN-SUFFIX,grapheneos.net
+  - DOMAIN-SUFFIX,grapheneos.network
+  - DOMAIN-SUFFIX,grapheneos.online
+  - DOMAIN-SUFFIX,grapheneos.org
+  - DOMAIN-SUFFIX,grapheneos.ovh
+  - DOMAIN-SUFFIX,grapheneos.page
+  - DOMAIN-SUFFIX,grapheneos.social
   - DOMAIN-SUFFIX,graphengine.io
   - DOMAIN-SUFFIX,graphis.ne.jp
   - DOMAIN-SUFFIX,graphql.org
@@ -24699,6 +24714,7 @@ payload:
   - DOMAIN-SUFFIX,qualcommventures.com
   - DOMAIN-SUFFIX,qualidata.ac.uk
   - DOMAIN-SUFFIX,qualphone.com
+  - DOMAIN-SUFFIX,qualtrics.com
   - DOMAIN-SUFFIX,qualysapi.qcpp1.net
   - DOMAIN-SUFFIX,qualysapi.qpdp1.net
   - DOMAIN-SUFFIX,qualysguard.qatp1.net
@@ -26192,6 +26208,7 @@ payload:
   - DOMAIN-SUFFIX,seacams.ac.uk
   - DOMAIN-SUFFIX,seagroup.com
   - DOMAIN-SUFFIX,seaha-cdt.ac.uk
+  - DOMAIN-SUFFIX,seamlessupdate.app
   - DOMAIN-SUFFIX,seamonkey-project.org
   - DOMAIN-SUFFIX,seancody.com
   - DOMAIN-SUFFIX,seaofsolitude.com
@@ -30181,8 +30198,32 @@ payload:
   - DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
   - DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
   - DOMAIN-SUFFIX,ubisoft.com
+  - DOMAIN-SUFFIX,ubisoft.siteintercept.qualtrics.com
   - DOMAIN-SUFFIX,ubisoftconnect.com
+  - DOMAIN-SUFFIX,ubistatic1-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic10-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic11-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic12-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic13-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic14-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic15-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic16-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic17-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic18-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic19-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic2-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic20-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic21-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic22-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic23-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic24-a.akamaihd.net
   - DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic4-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic5-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic6-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic7-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic8-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubistatic9-a.akamaihd.net
   - DOMAIN-SUFFIX,ublock.org
   - DOMAIN-SUFFIX,ubn.ac.uk
   - DOMAIN-SUFFIX,ubncloud.com
@@ -30744,6 +30785,7 @@ payload:
   - DOMAIN-SUFFIX,vamsas.ac.uk
   - DOMAIN-SUFFIX,van001.com
   - DOMAIN-SUFFIX,van698.com
+  - DOMAIN-SUFFIX,vanadium.app
   - DOMAIN-SUFFIX,vancouverbmwretailers.ca
   - DOMAIN-SUFFIX,vanilla-jp.com
   - DOMAIN-SUFFIX,vanish.at
