@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MTAzNTk5OQo=
+# Checksum: MTc3MTEyMzE4OQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260214-0
-# TimeUpdated: 2026-02-14T02:26:39+00:00
+# Version: -20260215-0
+# TimeUpdated: 2026-02-15T02:39:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -6967,6 +6967,7 @@ payload:
   - DOMAIN-SUFFIX,cloud.dify.ai
   - DOMAIN-SUFFIX,cloud.mail.ru
   - DOMAIN-SUFFIX,cloud.oracle.com
+  - DOMAIN-SUFFIX,cloud.run
   - DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
   - DOMAIN-SUFFIX,cloudapp.net
   - DOMAIN-SUFFIX,cloudappsecurity.com
@@ -7032,6 +7033,7 @@ payload:
   - DOMAIN-SUFFIX,cloudpartnerservices.goog
   - DOMAIN-SUFFIX,cloudproxy.app
   - DOMAIN-SUFFIX,cloudrobotics.com
+  - DOMAIN-SUFFIX,cloudskillsboost.google
   - DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
   - DOMAIN-SUFFIX,cloudvolumes.com
   - DOMAIN-SUFFIX,cloudworks.ac.uk
@@ -7317,7 +7319,6 @@ payload:
   - DOMAIN-SUFFIX,com.ge
   - DOMAIN-SUFFIX,com.gh
   - DOMAIN-SUFFIX,com.gi
-  - DOMAIN-SUFFIX,com.google
   - DOMAIN-SUFFIX,com.gr
   - DOMAIN-SUFFIX,com.gt
   - DOMAIN-SUFFIX,com.gy
@@ -12931,6 +12932,7 @@ payload:
   - DOMAIN-SUFFIX,gmcg.ac.uk
   - DOMAIN-SUFFIX,gmcyberfoundry.ac.uk
   - DOMAIN-SUFFIX,gmgard.com
+  - DOMAIN-SUFFIX,gmgn.ai
   - DOMAIN-SUFFIX,gmhigher.ac.uk
   - DOMAIN-SUFFIX,gmhz.org
   - DOMAIN-SUFFIX,gmiddle.com
@@ -13335,6 +13337,7 @@ payload:
   - DOMAIN-SUFFIX,googlemaps.sv
   - DOMAIN-SUFFIX,googlemashups.com
   - DOMAIN-SUFFIX,googlepagecreator.com
+  - DOMAIN-SUFFIX,googlepages.com
   - DOMAIN-SUFFIX,googlephotos.com
   - DOMAIN-SUFFIX,googleplay.com
   - DOMAIN-SUFFIX,googleplex.com
@@ -21449,6 +21452,7 @@ payload:
   - DOMAIN-SUFFIX,nic.cz
   - DOMAIN-SUFFIX,nic.cz.cc
   - DOMAIN-SUFFIX,nic.gov
+  - DOMAIN-SUFFIX,nic.youtube
   - DOMAIN-SUFFIX,nicats.ac.uk
   - DOMAIN-SUFFIX,nicd.ac.uk
   - DOMAIN-SUFFIX,niceanimegames.com
@@ -22162,6 +22166,7 @@ payload:
   - DOMAIN-SUFFIX,nuuvem.com
   - DOMAIN-SUFFIX,nuvid.com
   - DOMAIN-SUFFIX,nuzcom.com
+  - DOMAIN-SUFFIX,nuzzel.com
   - DOMAIN-SUFFIX,nvdst.com
   - DOMAIN-SUFFIX,nverxs.xyz
   - DOMAIN-SUFFIX,nvidia.asia
@@ -29501,6 +29506,7 @@ payload:
   - DOMAIN-SUFFIX,tomp3.cc
   - DOMAIN-SUFFIX,tomsguide.com
   - DOMAIN-SUFFIX,tomshardware.com
+  - DOMAIN-SUFFIX,ton.org
   - DOMAIN-SUFFIX,tonec.com
   - DOMAIN-SUFFIX,tongil.or.kr
   - DOMAIN-SUFFIX,tonicmovies.com
@@ -31836,12 +31842,14 @@ payload:
   - DOMAIN-SUFFIX,wallet.com
   - DOMAIN-SUFFIX,wallet.google
   - DOMAIN-SUFFIX,walletconnect.com
+  - DOMAIN-SUFFIX,walletconnect.org
   - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,wallmama.com
   - DOMAIN-SUFFIX,wallornot.org
   - DOMAIN-SUFFIX,wallpapercasa.com
   - DOMAIN-SUFFIX,wallproxy.com
   - DOMAIN-SUFFIX,wallsttv.com
+  - DOMAIN-SUFFIX,wallzhihu.com
   - DOMAIN-SUFFIX,walmart-content.com
   - DOMAIN-SUFFIX,walmart.com
   - DOMAIN-SUFFIX,walmart.pharmacy
