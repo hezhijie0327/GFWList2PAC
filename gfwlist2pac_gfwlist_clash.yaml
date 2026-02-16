@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MTEyMzE4OQo=
+# Checksum: MTc3MTIwOTMxOQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260215-0
-# TimeUpdated: 2026-02-15T02:39:49+00:00
+# Version: -20260216-0
+# TimeUpdated: 2026-02-16T02:35:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -285,6 +285,20 @@ payload:
   - DOMAIN-SUFFIX,2drdrebeats.com
   - DOMAIN-SUFFIX,2du5.com
   - DOMAIN-SUFFIX,2gayboys.com
+  - DOMAIN-SUFFIX,2gis.ae
+  - DOMAIN-SUFFIX,2gis.am
+  - DOMAIN-SUFFIX,2gis.az
+  - DOMAIN-SUFFIX,2gis.by
+  - DOMAIN-SUFFIX,2gis.com
+  - DOMAIN-SUFFIX,2gis.com.cy
+  - DOMAIN-SUFFIX,2gis.cz
+  - DOMAIN-SUFFIX,2gis.ge
+  - DOMAIN-SUFFIX,2gis.kg
+  - DOMAIN-SUFFIX,2gis.kz
+  - DOMAIN-SUFFIX,2gis.ru
+  - DOMAIN-SUFFIX,2gis.tj
+  - DOMAIN-SUFFIX,2gis.ua
+  - DOMAIN-SUFFIX,2gis.uz
   - DOMAIN-SUFFIX,2k.com
   - DOMAIN-SUFFIX,2kcoretech.online
   - DOMAIN-SUFFIX,2kct.onl
@@ -719,6 +733,7 @@ payload:
   - DOMAIN-SUFFIX,aave.com
   - DOMAIN-SUFFIX,aavs.xyz
   - DOMAIN-SUFFIX,abank.com.mm
+  - DOMAIN-SUFFIX,abb.travel
   - DOMAIN-SUFFIX,abbeygatesfc.ac.uk
   - DOMAIN-SUFFIX,abbeygatesixthformcollege.ac.uk
   - DOMAIN-SUFFIX,abbywintersfree.com
@@ -827,6 +842,7 @@ payload:
   - DOMAIN-SUFFIX,accesstohighereducation.ac.uk
   - DOMAIN-SUFFIX,accesstomusic.ac.uk
   - DOMAIN-SUFFIX,accim.org
+  - DOMAIN-SUFFIX,accomable.com
   - DOMAIN-SUFFIX,account-paypal.info
   - DOMAIN-SUFFIX,account-paypal.net
   - DOMAIN-SUFFIX,account-paypal.org
@@ -1331,6 +1347,85 @@ payload:
   - DOMAIN-SUFFIX,air-watch.com
   - DOMAIN-SUFFIX,airav.cc
   - DOMAIN-SUFFIX,airav.wiki
+  - DOMAIN-SUFFIX,airbnb.ae
+  - DOMAIN-SUFFIX,airbnb.al
+  - DOMAIN-SUFFIX,airbnb.am
+  - DOMAIN-SUFFIX,airbnb.at
+  - DOMAIN-SUFFIX,airbnb.az
+  - DOMAIN-SUFFIX,airbnb.ba
+  - DOMAIN-SUFFIX,airbnb.be
+  - DOMAIN-SUFFIX,airbnb.ca
+  - DOMAIN-SUFFIX,airbnb.cat
+  - DOMAIN-SUFFIX,airbnb.ch
+  - DOMAIN-SUFFIX,airbnb.cl
+  - DOMAIN-SUFFIX,airbnb.cn
+  - DOMAIN-SUFFIX,airbnb.co.cr
+  - DOMAIN-SUFFIX,airbnb.co.id
+  - DOMAIN-SUFFIX,airbnb.co.il
+  - DOMAIN-SUFFIX,airbnb.co.in
+  - DOMAIN-SUFFIX,airbnb.co.kr
+  - DOMAIN-SUFFIX,airbnb.co.nz
+  - DOMAIN-SUFFIX,airbnb.co.uk
+  - DOMAIN-SUFFIX,airbnb.co.ve
+  - DOMAIN-SUFFIX,airbnb.co.za
+  - DOMAIN-SUFFIX,airbnb.com
+  - DOMAIN-SUFFIX,airbnb.com.ar
+  - DOMAIN-SUFFIX,airbnb.com.au
+  - DOMAIN-SUFFIX,airbnb.com.bo
+  - DOMAIN-SUFFIX,airbnb.com.br
+  - DOMAIN-SUFFIX,airbnb.com.bz
+  - DOMAIN-SUFFIX,airbnb.com.co
+  - DOMAIN-SUFFIX,airbnb.com.ec
+  - DOMAIN-SUFFIX,airbnb.com.ee
+  - DOMAIN-SUFFIX,airbnb.com.gt
+  - DOMAIN-SUFFIX,airbnb.com.hk
+  - DOMAIN-SUFFIX,airbnb.com.hn
+  - DOMAIN-SUFFIX,airbnb.com.hr
+  - DOMAIN-SUFFIX,airbnb.com.kh
+  - DOMAIN-SUFFIX,airbnb.com.mt
+  - DOMAIN-SUFFIX,airbnb.com.my
+  - DOMAIN-SUFFIX,airbnb.com.ni
+  - DOMAIN-SUFFIX,airbnb.com.pa
+  - DOMAIN-SUFFIX,airbnb.com.pe
+  - DOMAIN-SUFFIX,airbnb.com.ph
+  - DOMAIN-SUFFIX,airbnb.com.py
+  - DOMAIN-SUFFIX,airbnb.com.ro
+  - DOMAIN-SUFFIX,airbnb.com.sg
+  - DOMAIN-SUFFIX,airbnb.com.sv
+  - DOMAIN-SUFFIX,airbnb.com.tr
+  - DOMAIN-SUFFIX,airbnb.com.tw
+  - DOMAIN-SUFFIX,airbnb.com.ua
+  - DOMAIN-SUFFIX,airbnb.com.vn
+  - DOMAIN-SUFFIX,airbnb.cz
+  - DOMAIN-SUFFIX,airbnb.de
+  - DOMAIN-SUFFIX,airbnb.dk
+  - DOMAIN-SUFFIX,airbnb.es
+  - DOMAIN-SUFFIX,airbnb.fi
+  - DOMAIN-SUFFIX,airbnb.fr
+  - DOMAIN-SUFFIX,airbnb.gr
+  - DOMAIN-SUFFIX,airbnb.gy
+  - DOMAIN-SUFFIX,airbnb.hu
+  - DOMAIN-SUFFIX,airbnb.ie
+  - DOMAIN-SUFFIX,airbnb.is
+  - DOMAIN-SUFFIX,airbnb.it
+  - DOMAIN-SUFFIX,airbnb.jp
+  - DOMAIN-SUFFIX,airbnb.la
+  - DOMAIN-SUFFIX,airbnb.lt
+  - DOMAIN-SUFFIX,airbnb.lu
+  - DOMAIN-SUFFIX,airbnb.lv
+  - DOMAIN-SUFFIX,airbnb.me
+  - DOMAIN-SUFFIX,airbnb.mx
+  - DOMAIN-SUFFIX,airbnb.nl
+  - DOMAIN-SUFFIX,airbnb.no
+  - DOMAIN-SUFFIX,airbnb.org
+  - DOMAIN-SUFFIX,airbnb.pl
+  - DOMAIN-SUFFIX,airbnb.pt
+  - DOMAIN-SUFFIX,airbnb.rs
+  - DOMAIN-SUFFIX,airbnb.ru
+  - DOMAIN-SUFFIX,airbnb.se
+  - DOMAIN-SUFFIX,airbnb.si
+  - DOMAIN-SUFFIX,airbnb.tools
+  - DOMAIN-SUFFIX,airbnb.travel
   - DOMAIN-SUFFIX,airconsole.com
   - DOMAIN-SUFFIX,aircrack-ng.org
   - DOMAIN-SUFFIX,aire-wharf-coll.ac.uk
@@ -3078,6 +3173,7 @@ payload:
   - DOMAIN-SUFFIX,av11.org
   - DOMAIN-SUFFIX,av1688.cc
   - DOMAIN-SUFFIX,av234567.com
+  - DOMAIN-SUFFIX,av28.com
   - DOMAIN-SUFFIX,av369.net
   - DOMAIN-SUFFIX,av4.us
   - DOMAIN-SUFFIX,av69.tv
@@ -4070,6 +4166,7 @@ payload:
   - DOMAIN-SUFFIX,between-legs.com
   - DOMAIN-SUFFIX,beurettesvideo.com
   - DOMAIN-SUFFIX,beverleycollege.ac.uk
+  - DOMAIN-SUFFIX,bevylabs.com
   - DOMAIN-SUFFIX,bewww.net
   - DOMAIN-SUFFIX,bexhillcollege.ac.uk
   - DOMAIN-SUFFIX,bexjt5wz.xyz
@@ -8142,6 +8239,7 @@ payload:
   - DOMAIN-SUFFIX,data.taipei
   - DOMAIN-SUFFIX,databank.worldbank.org
   - DOMAIN-SUFFIX,database.asahi.com
+  - DOMAIN-SUFFIX,datacenters.google
   - DOMAIN-SUFFIX,dataframeworks.com
   - DOMAIN-SUFFIX,datafuturesalphapilot.ac.uk
   - DOMAIN-SUFFIX,datagrid.ac.uk
@@ -20473,6 +20571,7 @@ payload:
   - DOMAIN-SUFFIX,murmur.tw
   - DOMAIN-SUFFIX,muryouav.net
   - DOMAIN-SUFFIX,musashinobank.co.jp
+  - DOMAIN-SUFFIX,muscache.com
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,musclegirlflix.com
   - DOMAIN-SUFFIX,muse.jhu.edu
@@ -27907,6 +28006,7 @@ payload:
   - DOMAIN-SUFFIX,static-nike.com
   - DOMAIN-SUFFIX,static-storage.net
   - DOMAIN-SUFFIX,static-verizon.com
+  - DOMAIN-SUFFIX,static.bevylabs.com
   - DOMAIN-SUFFIX,static.fun
   - DOMAIN-SUFFIX,static.pocketcasts.com
   - DOMAIN-SUFFIX,static.shemalez.com
@@ -30788,6 +30888,7 @@ payload:
   - DOMAIN-SUFFIX,valuegb.com
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-SUFFIX,vam.ac.uk
+  - DOMAIN-SUFFIX,vamo.com
   - DOMAIN-SUFFIX,vamsas.ac.uk
   - DOMAIN-SUFFIX,van001.com
   - DOMAIN-SUFFIX,van698.com
@@ -31988,6 +32089,7 @@ payload:
   - DOMAIN-SUFFIX,web.id
   - DOMAIN-SUFFIX,web.nebula-emby.com
   - DOMAIN-SUFFIX,web2project.net
+  - DOMAIN-SUFFIX,web3modal.org
   - DOMAIN-SUFFIX,webappfieldguide.com
   - DOMAIN-SUFFIX,webbang.net
   - DOMAIN-SUFFIX,webcam-teen.net
