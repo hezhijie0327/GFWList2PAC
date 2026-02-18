@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MTI5NTUwNgo=
+# Checksum: MTc3MTM4MjEwMAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260217-0
-# TimeUpdated: 2026-02-17T02:31:46+00:00
+# Version: -20260218-0
+# TimeUpdated: 2026-02-18T02:35:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -4435,6 +4435,7 @@ payload:
   - DOMAIN-SUFFIX,bitchmomporn.com
   - DOMAIN-SUFFIX,bitchute.com
   - DOMAIN-SUFFIX,bitcoin.org
+  - DOMAIN-SUFFIX,bitcoincore.org
   - DOMAIN-SUFFIX,bitcointalk.org
   - DOMAIN-SUFFIX,bitcoinworld.com
   - DOMAIN-SUFFIX,bitdefender.com
@@ -20182,7 +20183,6 @@ payload:
   - DOMAIN-SUFFIX,mohu.ml
   - DOMAIN-SUFFIX,mohu.rocks
   - DOMAIN-SUFFIX,moidigital.ac.uk
-  - DOMAIN-SUFFIX,moj.gov.tw
   - DOMAIN-SUFFIX,mojang.com
   - DOMAIN-SUFFIX,mojim.com
   - DOMAIN-SUFFIX,mol.ac.uk
@@ -26347,12 +26347,14 @@ payload:
   - DOMAIN-SUFFIX,secure.hustler.com
   - DOMAIN-SUFFIX,secure.logmein.com
   - DOMAIN-SUFFIX,secure.shadowsocks.nu
+  - DOMAIN-SUFFIX,securecloudtransformation.com
   - DOMAIN-SUFFIX,secureharvests.ac.uk
   - DOMAIN-SUFFIX,securepaypal.info
   - DOMAIN-SUFFIX,secureservercdn.net
   - DOMAIN-SUFFIX,securetunnel.com
   - DOMAIN-SUFFIX,securityinabox.org
   - DOMAIN-SUFFIX,securitykiss.com
+  - DOMAIN-SUFFIX,securitypreview.com
   - DOMAIN-SUFFIX,seda.ac.uk
   - DOMAIN-SUFFIX,sedc.ac.uk
   - DOMAIN-SUFFIX,sedg.ac.uk
@@ -27972,6 +27974,7 @@ payload:
   - DOMAIN-SUFFIX,starfieldtech.com
   - DOMAIN-SUFFIX,starfishfx.com
   - DOMAIN-SUFFIX,starfox.com
+  - DOMAIN-SUFFIX,stargazer-games.com
   - DOMAIN-SUFFIX,stark-verlag.ch
   - DOMAIN-SUFFIX,starlink.ac.uk
   - DOMAIN-SUFFIX,starott.com
@@ -28089,6 +28092,8 @@ payload:
   - DOMAIN-SUFFIX,steezylist.com
   - DOMAIN-SUFFIX,steganos.com
   - DOMAIN-SUFFIX,steganos.net
+  - DOMAIN-SUFFIX,stellasora.global
+  - DOMAIN-SUFFIX,stellasora.jp
   - DOMAIN-SUFFIX,stem.ac.uk
   - DOMAIN-SUFFIX,stemacademy.ac.uk
   - DOMAIN-SUFFIX,stemequals.ac.uk
@@ -29310,6 +29315,7 @@ payload:
   - DOMAIN-SUFFIX,threads.com
   - DOMAIN-SUFFIX,threads.net
   - DOMAIN-SUFFIX,threatchaos.com
+  - DOMAIN-SUFFIX,threatlabz.com
   - DOMAIN-SUFFIX,thri.xxx
   - DOMAIN-SUFFIX,thrixxx.com
   - DOMAIN-SUFFIX,thron.com
@@ -33798,6 +33804,7 @@ payload:
   - DOMAIN-SUFFIX,ymhsf1.top
   - DOMAIN-SUFFIX,ync.ne.jp
   - DOMAIN-SUFFIX,ynoproject.net
+  - DOMAIN-SUFFIX,yo-star.com
   - DOMAIN-SUFFIX,yo1health.com
   - DOMAIN-SUFFIX,yobit.net
   - DOMAIN-SUFFIX,yobt.com
@@ -33829,6 +33836,9 @@ payload:
   - DOMAIN-SUFFIX,yorkstonemasonrycove.ac.uk
   - DOMAIN-SUFFIX,yorozoonews.jp
   - DOMAIN-SUFFIX,yoshisnewisland.com
+  - DOMAIN-SUFFIX,yostar-pictures.co.jp
+  - DOMAIN-SUFFIX,yostar.co.jp
+  - DOMAIN-SUFFIX,yostarplat.com
   - DOMAIN-SUFFIX,you-get.org
   - DOMAIN-SUFFIX,you.com
   - DOMAIN-SUFFIX,youassporn.com
@@ -34234,6 +34244,8 @@ payload:
   - DOMAIN-SUFFIX,zdnet.redvideo.io
   - DOMAIN-SUFFIX,zdns.google
   - DOMAIN-SUFFIX,zdusercontent.com
+  - DOMAIN-SUFFIX,zdxbeta.net
+  - DOMAIN-SUFFIX,zdxcloud.net
   - DOMAIN-SUFFIX,zee.com
   - DOMAIN-SUFFIX,zee5.com
   - DOMAIN-SUFFIX,zee5.in
@@ -34400,8 +34412,20 @@ payload:
   - DOMAIN-SUFFIX,zorrovpn.com
   - DOMAIN-SUFFIX,zotero.org
   - DOMAIN-SUFFIX,zozotown.com
+  - DOMAIN-SUFFIX,zpagov.net
+  - DOMAIN-SUFFIX,zpath.com
   - DOMAIN-SUFFIX,zpn.im
   - DOMAIN-SUFFIX,zqqpwz.com
+  - DOMAIN-SUFFIX,zscaler.com
+  - DOMAIN-SUFFIX,zscaler.jp
+  - DOMAIN-SUFFIX,zscaler.net
+  - DOMAIN-SUFFIX,zscalerbeta.net
+  - DOMAIN-SUFFIX,zscalergov.net
+  - DOMAIN-SUFFIX,zscalerone.net
+  - DOMAIN-SUFFIX,zscalershift.com
+  - DOMAIN-SUFFIX,zscalerthree.net
+  - DOMAIN-SUFFIX,zscalertwo.net
+  - DOMAIN-SUFFIX,zscloud.net
   - DOMAIN-SUFFIX,zsdxzk.com
   - DOMAIN-SUFFIX,zsh.org
   - DOMAIN-SUFFIX,zspeeder.me
