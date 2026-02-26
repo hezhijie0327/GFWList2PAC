@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MTk4NjgwMAo=
+# Checksum: MTc3MjA3Mjk2MAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20260225-0
-# TimeUpdated: 2026-02-25T02:33:20+00:00
+# Version: -20260226-0
+# TimeUpdated: 2026-02-26T02:29:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -796,6 +796,7 @@ payload:
   - '+.aboutamazon.it'
   - '+.aboutamazon.jp'
   - '+.aboutamazon.pl'
+  - '+.aboutamazon.sg'
   - '+.aboutfacebook.com'
   - '+.aboutgfw.com'
   - '+.aboutmcdonalds.com'
@@ -1888,24 +1889,35 @@ payload:
   - '+.amazon-launchpad.com'
   - '+.amazon.ae'
   - '+.amazon.ca'
+  - '+.amazon.cl'
   - '+.amazon.co'
   - '+.amazon.co.jp'
   - '+.amazon.co.uk'
+  - '+.amazon.co.za'
   - '+.amazon.com'
   - '+.amazon.com.au'
+  - '+.amazon.com.be'
   - '+.amazon.com.br'
+  - '+.amazon.com.co'
   - '+.amazon.com.mx'
+  - '+.amazon.com.ng'
   - '+.amazon.com.tr'
   - '+.amazon.de'
   - '+.amazon.dev'
+  - '+.amazon.eg'
   - '+.amazon.es'
   - '+.amazon.fr'
+  - '+.amazon.ie'
   - '+.amazon.in'
   - '+.amazon.it'
   - '+.amazon.jobs'
   - '+.amazon.jp'
+  - '+.amazon.lu'
   - '+.amazon.nl'
+  - '+.amazon.pl'
   - '+.amazon.red'
+  - '+.amazon.sa'
+  - '+.amazon.se'
   - '+.amazon.sg'
   - '+.amazonalexavoxcon.com'
   - '+.amazonauthorinsights.com'
@@ -3312,6 +3324,7 @@ payload:
   - '+.awsthinkbox.com'
   - '+.awstrack.me'
   - '+.awstrust.com'
+  - '+.awswaf.com'
   - '+.awwcn.buzz'
   - '+.awwcn.xyz'
   - '+.awxcdn.com'
@@ -7411,6 +7424,7 @@ payload:
   - '+.com.az'
   - '+.com.bb'
   - '+.com.bd'
+  - '+.com.be'
   - '+.com.bh'
   - '+.com.bn'
   - '+.com.bo'
@@ -26389,6 +26403,7 @@ payload:
   - '+.seasidestory.tokyo'
   - '+.seatguru.com'
   - '+.seattlefdc.com'
+  - '+.seattlespheres.com'
   - '+.secom.co.jp'
   - '+.secomtrust.net'
   - '+.second-ns.com'
