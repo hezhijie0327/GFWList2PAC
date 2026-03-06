@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MjY3Nzc0OQo=
+# Checksum: MTc3Mjc2NDAzOQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260305-0
-# TimeUpdated: 2026-03-05T02:29:09+00:00
+# Version: -20260306-0
+# TimeUpdated: 2026-03-06T02:27:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -8222,6 +8222,7 @@ payload:
   - DOMAIN-SUFFIX,daoc.net
   - DOMAIN-SUFFIX,daolan.net
   - DOMAIN-SUFFIX,daozhongxing.org
+  - DOMAIN-SUFFIX,dappcdn.com
   - DOMAIN-SUFFIX,daresbury.ac.uk
   - DOMAIN-SUFFIX,daretoku-eromanga.info
   - DOMAIN-SUFFIX,darivoa.com
@@ -9305,6 +9306,7 @@ payload:
   - DOMAIN-SUFFIX,download.aircrack-ng.org
   - DOMAIN-SUFFIX,download.cnet.com
   - DOMAIN-SUFFIX,download.com
+  - DOMAIN-SUFFIX,download.dappcdn.com
   - DOMAIN-SUFFIX,download.fastgit.org
   - DOMAIN-SUFFIX,download.qcpp1.net
   - DOMAIN-SUFFIX,download.qpdp1.net
@@ -23874,6 +23876,10 @@ payload:
   - DOMAIN-SUFFIX,pleasurebabe.com
   - DOMAIN-SUFFIX,pleasuregirl.net
   - DOMAIN-SUFFIX,pleasuremore.com
+  - DOMAIN-SUFFIX,plex.com
+  - DOMAIN-SUFFIX,plex.services
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,plexapp.com
   - DOMAIN-SUFFIX,plexvpn.pro
   - DOMAIN-SUFFIX,plixi.com
   - DOMAIN-SUFFIX,plm.org.hk

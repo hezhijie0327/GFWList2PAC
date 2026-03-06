@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MjY3Nzc0OQo=
+# Checksum: MTc3Mjc2NDAzOQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20260305-0
-# TimeUpdated: 2026-03-05T02:29:09+00:00
+# Version: -20260306-0
+# TimeUpdated: 2026-03-06T02:27:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -8222,6 +8222,7 @@ payload:
   - '+.daoc.net'
   - '+.daolan.net'
   - '+.daozhongxing.org'
+  - '+.dappcdn.com'
   - '+.daresbury.ac.uk'
   - '+.daretoku-eromanga.info'
   - '+.darivoa.com'
@@ -9305,6 +9306,7 @@ payload:
   - '+.download.aircrack-ng.org'
   - '+.download.cnet.com'
   - '+.download.com'
+  - '+.download.dappcdn.com'
   - '+.download.fastgit.org'
   - '+.download.qcpp1.net'
   - '+.download.qpdp1.net'
@@ -23874,6 +23876,10 @@ payload:
   - '+.pleasurebabe.com'
   - '+.pleasuregirl.net'
   - '+.pleasuremore.com'
+  - '+.plex.com'
+  - '+.plex.services'
+  - '+.plex.tv'
+  - '+.plexapp.com'
   - '+.plexvpn.pro'
   - '+.plixi.com'
   - '+.plm.org.hk'
