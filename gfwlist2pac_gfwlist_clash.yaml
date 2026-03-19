@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3MzgwMTM5OAo=
+# Checksum: MTc3Mzg4Nzg4MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260318-0
-# TimeUpdated: 2026-03-18T02:36:38+00:00
+# Version: -20260319-0
+# TimeUpdated: 2026-03-19T02:38:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -29596,6 +29596,11 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.us
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
+  - DOMAIN-SUFFIX,tilda.cc
+  - DOMAIN-SUFFIX,tilda.ru
+  - DOMAIN-SUFFIX,tilda.ws
+  - DOMAIN-SUFFIX,tildaapi.com
+  - DOMAIN-SUFFIX,tildacdn.com
   - DOMAIN-SUFFIX,tilehill.ac.uk
   - DOMAIN-SUFFIX,tiltbrush.com
   - DOMAIN-SUFFIX,timdir.com
