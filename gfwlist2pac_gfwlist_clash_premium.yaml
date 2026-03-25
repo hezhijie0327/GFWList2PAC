@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3NDMxOTQzMQo=
+# Checksum: MTc3NDQwNjE0MAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20260324-0
-# TimeUpdated: 2026-03-24T02:30:31+00:00
+# Version: -20260325-0
+# TimeUpdated: 2026-03-25T02:35:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -16837,6 +16837,7 @@ payload:
   - '+.javcc.cc'
   - '+.javcc.com'
   - '+.javcdn.cc'
+  - '+.javchu.com'
   - '+.javcl.com'
   - '+.javct.net'
   - '+.javcup.com'
@@ -23081,8 +23082,15 @@ payload:
   - '+.ozeex.com'
   - '+.ozodi.org'
   - '+.ozodlik.org'
+  - '+.ozon.by'
+  - '+.ozon.com'
+  - '+.ozon.com.by'
+  - '+.ozon.com.kz'
+  - '+.ozon.kz'
   - '+.ozon.ru'
+  - '+.ozon.tm'
   - '+.ozone.ru'
+  - '+.ozonru.me'
   - '+.ozonusercontent.com'
   - '+.ozvoice.org'
   - '+.ozyoyo.com'
@@ -33299,6 +33307,7 @@ payload:
   - '+.xmulib.org'
   - '+.xn--096-4g6em5t.com'
   - '+.xn--11xs86f.icu'
+  - '+.xn--1jqvh729avzfcy2d8ummib.com'
   - '+.xn--201-4g6em5t.com'
   - '+.xn--202-4g6em5t.com'
   - '+.xn--203-4g6em5t.com'

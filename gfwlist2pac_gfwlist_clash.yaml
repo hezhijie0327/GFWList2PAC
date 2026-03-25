@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3NDMxOTQzMQo=
+# Checksum: MTc3NDQwNjE0MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260324-0
-# TimeUpdated: 2026-03-24T02:30:31+00:00
+# Version: -20260325-0
+# TimeUpdated: 2026-03-25T02:35:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -16837,6 +16837,7 @@ payload:
   - DOMAIN-SUFFIX,javcc.cc
   - DOMAIN-SUFFIX,javcc.com
   - DOMAIN-SUFFIX,javcdn.cc
+  - DOMAIN-SUFFIX,javchu.com
   - DOMAIN-SUFFIX,javcl.com
   - DOMAIN-SUFFIX,javct.net
   - DOMAIN-SUFFIX,javcup.com
@@ -23081,8 +23082,15 @@ payload:
   - DOMAIN-SUFFIX,ozeex.com
   - DOMAIN-SUFFIX,ozodi.org
   - DOMAIN-SUFFIX,ozodlik.org
+  - DOMAIN-SUFFIX,ozon.by
+  - DOMAIN-SUFFIX,ozon.com
+  - DOMAIN-SUFFIX,ozon.com.by
+  - DOMAIN-SUFFIX,ozon.com.kz
+  - DOMAIN-SUFFIX,ozon.kz
   - DOMAIN-SUFFIX,ozon.ru
+  - DOMAIN-SUFFIX,ozon.tm
   - DOMAIN-SUFFIX,ozone.ru
+  - DOMAIN-SUFFIX,ozonru.me
   - DOMAIN-SUFFIX,ozonusercontent.com
   - DOMAIN-SUFFIX,ozvoice.org
   - DOMAIN-SUFFIX,ozyoyo.com
@@ -33299,6 +33307,7 @@ payload:
   - DOMAIN-SUFFIX,xmulib.org
   - DOMAIN-SUFFIX,xn--096-4g6em5t.com
   - DOMAIN-SUFFIX,xn--11xs86f.icu
+  - DOMAIN-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com
   - DOMAIN-SUFFIX,xn--201-4g6em5t.com
   - DOMAIN-SUFFIX,xn--202-4g6em5t.com
   - DOMAIN-SUFFIX,xn--203-4g6em5t.com
