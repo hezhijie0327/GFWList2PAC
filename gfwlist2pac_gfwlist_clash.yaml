@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3NTI3MDAyNgo=
+# Checksum: MTc3NTM1NzQ5NAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260404-0
-# TimeUpdated: 2026-04-04T02:33:46+00:00
+# Version: -20260405-0
+# TimeUpdated: 2026-04-05T02:51:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -3035,6 +3035,7 @@ payload:
   - DOMAIN-SUFFIX,audiobeatsbydre.com
   - DOMAIN-SUFFIX,audiomonsterbeatsonline.com
   - DOMAIN-SUFFIX,audionow.com
+  - DOMAIN-SUFFIX,audioscrobbler.com
   - DOMAIN-SUFFIX,aue.ac.uk
   - DOMAIN-SUFFIX,auee.ac.uk
   - DOMAIN-SUFFIX,aukcar.ac.uk
@@ -10668,6 +10669,7 @@ payload:
   - DOMAIN-SUFFIX,eskimotube.com
   - DOMAIN-SUFFIX,eslite.com
   - DOMAIN-SUFFIX,esm.run
+  - DOMAIN-SUFFIX,esm.sh
   - DOMAIN-SUFFIX,esmarthealth.com
   - DOMAIN-SUFFIX,esmatube.com
   - DOMAIN-SUFFIX,esmtp.biz
@@ -23975,6 +23977,7 @@ payload:
   - DOMAIN-SUFFIX,pjgirls.com
   - DOMAIN-SUFFIX,pjsekai.sega.jp
   - DOMAIN-SUFFIX,pk.com
+  - DOMAIN-SUFFIX,pkgbuild.com
   - DOMAIN-SUFFIX,pki-post.ch
   - DOMAIN-SUFFIX,pki-posta.ch
   - DOMAIN-SUFFIX,pki-poste.ch
@@ -33055,6 +33058,7 @@ payload:
   - DOMAIN-SUFFIX,wrssdtp.ac.uk
   - DOMAIN-SUFFIX,ws-blau.com
   - DOMAIN-SUFFIX,ws-tcg.com
+  - DOMAIN-SUFFIX,ws.audioscrobbler.com
   - DOMAIN-SUFFIX,wsc.ac.uk
   - DOMAIN-SUFFIX,wscinternational.ac.uk
   - DOMAIN-SUFFIX,wsfc.ac.uk
