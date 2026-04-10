@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3NTcwMjUyMwo=
+# Checksum: MTc3NTc4OTYyMgo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260409-0
-# TimeUpdated: 2026-04-09T02:42:03+00:00
+# Version: -20260410-0
+# TimeUpdated: 2026-04-10T02:53:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2132,9 +2132,12 @@ payload:
   - DOMAIN-SUFFIX,ankarazirvesi2018.com
   - DOMAIN-SUFFIX,anm.co.uk
   - DOMAIN-SUFFIX,annamilk.com
+  - DOMAIN-SUFFIX,annas-archive.gd
+  - DOMAIN-SUFFIX,annas-archive.gl
   - DOMAIN-SUFFIX,annas-archive.in
   - DOMAIN-SUFFIX,annas-archive.li
   - DOMAIN-SUFFIX,annas-archive.org
+  - DOMAIN-SUFFIX,annas-archive.pk
   - DOMAIN-SUFFIX,annas-archive.pm
   - DOMAIN-SUFFIX,annas-archive.se
   - DOMAIN-SUFFIX,annatam.com
@@ -5876,6 +5879,7 @@ payload:
   - DOMAIN-SUFFIX,caadoc.ac.uk
   - DOMAIN-SUFFIX,caagcc.ac.uk
   - DOMAIN-SUFFIX,caban.ac.uk
+  - DOMAIN-SUFFIX,cabconnect.org
   - DOMAIN-SUFFIX,cableav.tv
   - DOMAIN-SUFFIX,cableav.xyz
   - DOMAIN-SUFFIX,cablegatesearch.net
@@ -6038,6 +6042,7 @@ payload:
   - DOMAIN-SUFFIX,candypleasure.com
   - DOMAIN-SUFFIX,cannington.ac.uk
   - DOMAIN-SUFFIX,cannock.ac.uk
+  - DOMAIN-SUFFIX,canny.io
   - DOMAIN-SUFFIX,canolfansgiliaucadarn.ac.uk
   - DOMAIN-SUFFIX,canolfanyramgylcheddolcymru.ac.uk
   - DOMAIN-SUFFIX,canon-cee.com
@@ -7806,6 +7811,7 @@ payload:
   - DOMAIN-SUFFIX,cranfield.ac.uk
   - DOMAIN-SUFFIX,crankplayer.com
   - DOMAIN-SUFFIX,crash.ac.uk
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,craven-college.ac.uk
   - DOMAIN-SUFFIX,crawley-college.ac.uk
@@ -9459,6 +9465,7 @@ payload:
   - DOMAIN-SUFFIX,dribbble.com
   - DOMAIN-SUFFIX,drift.click
   - DOMAIN-SUFFIX,drindod.ac.uk
+  - DOMAIN-SUFFIX,driveawaytaxi.org
   - DOMAIN-SUFFIX,driverxxx.com
   - DOMAIN-SUFFIX,drivevideo.xyz
   - DOMAIN-SUFFIX,driving.co.uk
@@ -10452,6 +10459,9 @@ payload:
   - DOMAIN-SUFFIX,entrust.com
   - DOMAIN-SUFFIX,entrust.net
   - DOMAIN-SUFFIX,entrustdatacard.com
+  - DOMAIN-SUFFIX,envato-static.com
+  - DOMAIN-SUFFIX,envato.com
+  - DOMAIN-SUFFIX,envatousercontent.com
   - DOMAIN-SUFFIX,enveast.ac.uk
   - DOMAIN-SUFFIX,environment-health.ac.uk
   - DOMAIN-SUFFIX,eotarchive.org
@@ -13271,6 +13281,7 @@ payload:
   - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN-SUFFIX,gogeo.ac.uk
+  - DOMAIN-SUFFIX,gogettaxi.org
   - DOMAIN-SUFFIX,gogle.com
   - DOMAIN-SUFFIX,gogle.de
   - DOMAIN-SUFFIX,gogo-load.com
@@ -13668,6 +13679,7 @@ payload:
   - DOMAIN-SUFFIX,gotrusted.com
   - DOMAIN-SUFFIX,gotw.ca
   - DOMAIN-SUFFIX,gouhuo.qq.com
+  - DOMAIN-SUFFIX,goup.ai
   - DOMAIN-SUFFIX,gouri.xyz
   - DOMAIN-SUFFIX,gov.hk
   - DOMAIN-SUFFIX,gov.in
@@ -14108,6 +14120,7 @@ payload:
   - DOMAIN-SUFFIX,haydaygame.com
   - DOMAIN-SUFFIX,hayle.ac.uk
   - DOMAIN-SUFFIX,haywardsheath.ac.uk
+  - DOMAIN-SUFFIX,hayya.ae
   - DOMAIN-SUFFIX,hbabit.com
   - DOMAIN-SUFFIX,hbfile.net
   - DOMAIN-SUFFIX,hbg.com
@@ -17220,6 +17233,21 @@ payload:
   - DOMAIN-SUFFIX,jiuse904.com
   - DOMAIN-SUFFIX,jiuse905.com
   - DOMAIN-SUFFIX,jiuzhouyihuo.com
+  - DOMAIN-SUFFIX,jivo.chat
+  - DOMAIN-SUFFIX,jivo.ru
+  - DOMAIN-SUFFIX,jivochat.co.in
+  - DOMAIN-SUFFIX,jivochat.co.za
+  - DOMAIN-SUFFIX,jivochat.com
+  - DOMAIN-SUFFIX,jivochat.com.br
+  - DOMAIN-SUFFIX,jivochat.com.co
+  - DOMAIN-SUFFIX,jivochat.com.pe
+  - DOMAIN-SUFFIX,jivochat.com.tr
+  - DOMAIN-SUFFIX,jivochat.de
+  - DOMAIN-SUFFIX,jivochat.es
+  - DOMAIN-SUFFIX,jivochat.ng
+  - DOMAIN-SUFFIX,jivochat.ru
+  - DOMAIN-SUFFIX,jivosite.com
+  - DOMAIN-SUFFIX,jivosite.ru
   - DOMAIN-SUFFIX,jiyou520.com
   - DOMAIN-SUFFIX,jiyu-kobo.co.jp
   - DOMAIN-SUFFIX,jizzboom.com
@@ -20863,6 +20891,7 @@ payload:
   - DOMAIN-SUFFIX,my-formosa.com
   - DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,my-magazine.me
+  - DOMAIN-SUFFIX,my-manager-account.com
   - DOMAIN-SUFFIX,my-private-network.co.uk
   - DOMAIN-SUFFIX,my-proxy.com
   - DOMAIN-SUFFIX,my.mail.ru
@@ -22359,6 +22388,7 @@ payload:
   - DOMAIN-SUFFIX,ntp.ripe.net
   - DOMAIN-SUFFIX,ntp.se
   - DOMAIN-SUFFIX,ntp.t.ring.gr.jp
+  - DOMAIN-SUFFIX,ntp.time.nl
   - DOMAIN-SUFFIX,ntp.tohoku.ac.jp
   - DOMAIN-SUFFIX,ntp.tut.ac.jp
   - DOMAIN-SUFFIX,ntp.ubuntu.com
@@ -22369,6 +22399,7 @@ payload:
   - DOMAIN-SUFFIX,ntp1.ntp-servers.net
   - DOMAIN-SUFFIX,ntp1.plala.or.jp
   - DOMAIN-SUFFIX,ntp1.ring.gr.jp
+  - DOMAIN-SUFFIX,ntp1.time.nl
   - DOMAIN-SUFFIX,ntp1.tohoku.ac.jp
   - DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp
   - DOMAIN-SUFFIX,ntp1.wakwak.com
@@ -22376,6 +22407,7 @@ payload:
   - DOMAIN-SUFFIX,ntp2.ntp-servers.net
   - DOMAIN-SUFFIX,ntp2.plala.or.jp
   - DOMAIN-SUFFIX,ntp2.ring.gr.jp
+  - DOMAIN-SUFFIX,ntp2.time.nl
   - DOMAIN-SUFFIX,ntp2.tohoku.ac.jp
   - DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp
   - DOMAIN-SUFFIX,ntp2.wakwak.com
@@ -22386,6 +22418,8 @@ payload:
   - DOMAIN-SUFFIX,ntp5.ntp-servers.net
   - DOMAIN-SUFFIX,ntp6.ntp-servers.net
   - DOMAIN-SUFFIX,ntp7.ntp-servers.net
+  - DOMAIN-SUFFIX,ntppool1.time.nl
+  - DOMAIN-SUFFIX,ntppool2.time.nl
   - DOMAIN-SUFFIX,ntrfun.com
   - DOMAIN-SUFFIX,ntsna.gov.tw
   - DOMAIN-SUFFIX,ntten-mg.buzz
@@ -28770,6 +28804,7 @@ payload:
   - DOMAIN-SUFFIX,suppig.net
   - DOMAIN-SUFFIX,supply-chain.ac.uk
   - DOMAIN-SUFFIX,supplybestjerseys.com
+  - DOMAIN-SUFFIX,support-uber.com
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,supremacy.com
   - DOMAIN-SUFFIX,supremacy.net
@@ -29136,7 +29171,10 @@ payload:
   - DOMAIN-SUFFIX,tawny-peaks.com
   - DOMAIN-SUFFIX,taxel.media
   - DOMAIN-SUFFIX,taxi69.com
+  - DOMAIN-SUFFIX,taxiaid.org
   - DOMAIN-SUFFIX,taxidrivermovie.com
+  - DOMAIN-SUFFIX,taxiguru.org
+  - DOMAIN-SUFFIX,taxitax.org
   - DOMAIN-SUFFIX,tay.ac.uk
   - DOMAIN-SUFFIX,taylorandfrancis.com
   - DOMAIN-SUFFIX,taylorfrancis.com
@@ -29541,6 +29579,7 @@ payload:
   - DOMAIN-SUFFIX,themanchestercollege.ac.uk
   - DOMAIN-SUFFIX,themarvelexperiencetour.com
   - DOMAIN-SUFFIX,themathsfactor.com
+  - DOMAIN-SUFFIX,themeforest.net
   - DOMAIN-SUFFIX,themercury.com.au
   - DOMAIN-SUFFIX,themessengeradelaide.com.au
   - DOMAIN-SUFFIX,themilfmovies.com
@@ -29871,6 +29910,7 @@ payload:
   - DOMAIN-SUFFIX,time.google.com
   - DOMAIN-SUFFIX,time.gov
   - DOMAIN-SUFFIX,time.nist.gov
+  - DOMAIN-SUFFIX,time.nl
   - DOMAIN-SUFFIX,time.nrc.ca
   - DOMAIN-SUFFIX,time.windows.com
   - DOMAIN-SUFFIX,time1.facebook.com
@@ -31246,6 +31286,7 @@ payload:
   - DOMAIN-SUFFIX,uwtsdlondon.ac.uk
   - DOMAIN-SUFFIX,uxbridge.ac.uk
   - DOMAIN-SUFFIX,uxbridgecollege.ac.uk
+  - DOMAIN-SUFFIX,uxthemes.com
   - DOMAIN-SUFFIX,uxxxporn.com
   - DOMAIN-SUFFIX,uyghur-archive.com
   - DOMAIN-SUFFIX,uyghur-j.org
@@ -34142,10 +34183,24 @@ payload:
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandexgo.com
   - DOMAIN-SUFFIX,yandexlyceum.ru
   - DOMAIN-SUFFIX,yandexwebcache.net
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yangjianli.com
+  - DOMAIN-SUFFIX,yango-b2b.com
+  - DOMAIN-SUFFIX,yango-team.com
+  - DOMAIN-SUFFIX,yango-tech.com
+  - DOMAIN-SUFFIX,yango.africa
+  - DOMAIN-SUFFIX,yango.ao
+  - DOMAIN-SUFFIX,yango.bh
+  - DOMAIN-SUFFIX,yango.co.il
+  - DOMAIN-SUFFIX,yango.com
+  - DOMAIN-SUFFIX,yango.fi
+  - DOMAIN-SUFFIX,yango.qa
+  - DOMAIN-SUFFIX,yango.taxi
+  - DOMAIN-SUFFIX,yango.tech
+  - DOMAIN-SUFFIX,yangofellowship.com
   - DOMAIN-SUFFIX,yangzhi.app
   - DOMAIN-SUFFIX,yangzhi.org
   - DOMAIN-SUFFIX,yaohubaba.com
