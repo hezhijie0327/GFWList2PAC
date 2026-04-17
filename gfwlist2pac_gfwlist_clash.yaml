@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3NjMwOTU1MAo=
+# Checksum: MTc3NjM5NDUwMwo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260416-1
-# TimeUpdated: 2026-04-16T03:19:10+00:00
+# Version: -20260417-0
+# TimeUpdated: 2026-04-17T02:55:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -300,6 +300,7 @@ payload:
   - DOMAIN-SUFFIX,2gis.kg
   - DOMAIN-SUFFIX,2gis.kz
   - DOMAIN-SUFFIX,2gis.ru
+  - DOMAIN-SUFFIX,2gis.tech
   - DOMAIN-SUFFIX,2gis.tj
   - DOMAIN-SUFFIX,2gis.ua
   - DOMAIN-SUFFIX,2gis.uz
@@ -2949,6 +2950,7 @@ payload:
   - DOMAIN-SUFFIX,asuswebstorage.com
   - DOMAIN-SUFFIX,asvin.ac.uk
   - DOMAIN-SUFFIX,async.be
+  - DOMAIN-SUFFIX,at.ua
   - DOMAIN-SUFFIX,atandt.com
   - DOMAIN-SUFFIX,atasale.com
   - DOMAIN-SUFFIX,atc.org.au
@@ -2990,6 +2992,7 @@ payload:
   - DOMAIN-SUFFIX,att.jobs
   - DOMAIN-SUFFIX,att.net
   - DOMAIN-SUFFIX,att.tv
+  - DOMAIN-SUFFIX,attachmail.ru
   - DOMAIN-SUFFIX,attachmy.com
   - DOMAIN-SUFFIX,attackers.net
   - DOMAIN-SUFFIX,attalascom.com
@@ -3268,6 +3271,7 @@ payload:
   - DOMAIN-SUFFIX,avinetworks.com
   - DOMAIN-SUFFIX,avinin.com
   - DOMAIN-SUFFIX,avira.com
+  - DOMAIN-SUFFIX,avistaz.to
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
   - DOMAIN-SUFFIX,avizoon.site
@@ -4060,6 +4064,8 @@ payload:
   - DOMAIN-SUFFIX,befuck.com
   - DOMAIN-SUFFIX,befuck.net
   - DOMAIN-SUFFIX,begellhouse.com
+  - DOMAIN-SUFFIX,beget.com
+  - DOMAIN-SUFFIX,beget.ru
   - DOMAIN-SUFFIX,begin-trade.com
   - DOMAIN-SUFFIX,behance.net
   - DOMAIN-SUFFIX,behaviour4learning.ac.uk
@@ -6603,6 +6609,7 @@ payload:
   - DOMAIN-SUFFIX,cgkate.jinvod.com
   - DOMAIN-SUFFIX,cglas.ac.uk
   - DOMAIN-SUFFIX,cgst.edu
+  - DOMAIN-SUFFIX,cgw666.com
   - DOMAIN-SUFFIX,ch9.ms
   - DOMAIN-SUFFIX,chace.ac.uk
   - DOMAIN-SUFFIX,championshipseriesleague.com
@@ -10395,6 +10402,7 @@ payload:
   - DOMAIN-SUFFIX,emojipedia.org
   - DOMAIN-SUFFIX,emol.ac.uk
   - DOMAIN-SUFFIX,emome.net
+  - DOMAIN-SUFFIX,emorpm.com
   - DOMAIN-SUFFIX,emory.edu
   - DOMAIN-SUFFIX,empero-right.mom
   - DOMAIN-SUFFIX,empfil.com
@@ -13060,6 +13068,7 @@ payload:
   - DOMAIN-SUFFIX,ghut.org
   - DOMAIN-SUFFIX,giantessbooru.com
   - DOMAIN-SUFFIX,giantessnight.com
+  - DOMAIN-SUFFIX,gid.ru
   - DOMAIN-SUFFIX,giffgaff.com
   - DOMAIN-SUFFIX,giffgaff.design
   - DOMAIN-SUFFIX,gifnuki.com
@@ -22981,6 +22990,7 @@ payload:
   - DOMAIN-SUFFIX,okkisokuho.com
   - DOMAIN-SUFFIX,okko.sport
   - DOMAIN-SUFFIX,okko.tv
+  - DOMAIN-SUFFIX,okkoapi.tv
   - DOMAIN-SUFFIX,okl.lt
   - DOMAIN-SUFFIX,okpool.me
   - DOMAIN-SUFFIX,oktech.ru
@@ -25056,6 +25066,7 @@ payload:
   - DOMAIN-SUFFIX,projectshoreline.com
   - DOMAIN-SUFFIX,projectvasari.com
   - DOMAIN-SUFFIX,projectvoyeur.com
+  - DOMAIN-SUFFIX,promodj.com
   - DOMAIN-SUFFIX,promonsterbeatsbydre.com
   - DOMAIN-SUFFIX,promotingpartnership.ac.uk
   - DOMAIN-SUFFIX,prompthero.com
@@ -26899,6 +26910,7 @@ payload:
   - DOMAIN-SUFFIX,screw-my-wife.com
   - DOMAIN-SUFFIX,scri.ac.uk
   - DOMAIN-SUFFIX,scribd.com
+  - DOMAIN-SUFFIX,scripts-for-ucoz.ru
   - DOMAIN-SUFFIX,scriptspot.com
   - DOMAIN-SUFFIX,scrolla.ac.uk
   - DOMAIN-SUFFIX,scrolller.com
@@ -30237,6 +30249,8 @@ payload:
   - DOMAIN-SUFFIX,timesnownews.com
   - DOMAIN-SUFFIX,timesofindia.indiatimes.com
   - DOMAIN-SUFFIX,timestalks.com
+  - DOMAIN-SUFFIX,timeweb.cloud
+  - DOMAIN-SUFFIX,timeweb.com
   - DOMAIN-SUFFIX,timi1.me
   - DOMAIN-SUFFIX,timo0.com
   - DOMAIN-SUFFIX,timsah.com
@@ -30879,6 +30893,7 @@ payload:
   - DOMAIN-SUFFIX,twca.com.tw
   - DOMAIN-SUFFIX,twcert.org.tw
   - DOMAIN-SUFFIX,twcomix.com
+  - DOMAIN-SUFFIX,twcstorage.ru
   - DOMAIN-SUFFIX,twdvd.com
   - DOMAIN-SUFFIX,tweakadmin.com
   - DOMAIN-SUFFIX,tweakfilms.com
@@ -31145,6 +31160,30 @@ payload:
   - DOMAIN-SUFFIX,ucn.ac.uk
   - DOMAIN-SUFFIX,ucnl.ac.uk
   - DOMAIN-SUFFIX,uco.ac.uk
+  - DOMAIN-SUFFIX,ucoz.ae
+  - DOMAIN-SUFFIX,ucoz.club
+  - DOMAIN-SUFFIX,ucoz.co
+  - DOMAIN-SUFFIX,ucoz.co.il
+  - DOMAIN-SUFFIX,ucoz.co.uk
+  - DOMAIN-SUFFIX,ucoz.com
+  - DOMAIN-SUFFIX,ucoz.com.br
+  - DOMAIN-SUFFIX,ucoz.com.ro
+  - DOMAIN-SUFFIX,ucoz.de
+  - DOMAIN-SUFFIX,ucoz.es
+  - DOMAIN-SUFFIX,ucoz.fr
+  - DOMAIN-SUFFIX,ucoz.hu
+  - DOMAIN-SUFFIX,ucoz.kz
+  - DOMAIN-SUFFIX,ucoz.lv
+  - DOMAIN-SUFFIX,ucoz.md
+  - DOMAIN-SUFFIX,ucoz.net
+  - DOMAIN-SUFFIX,ucoz.org
+  - DOMAIN-SUFFIX,ucoz.pl
+  - DOMAIN-SUFFIX,ucoz.ru
+  - DOMAIN-SUFFIX,ucoz.site
+  - DOMAIN-SUFFIX,ucoz.ua
+  - DOMAIN-SUFFIX,ucozmedia.com
+  - DOMAIN-SUFFIX,ucozmedia.ru
+  - DOMAIN-SUFFIX,ucoztemplates.com
   - DOMAIN-SUFFIX,ucp.ac.uk
   - DOMAIN-SUFFIX,ucpmarjon.ac.uk
   - DOMAIN-SUFFIX,ucq.ac.uk
@@ -31187,6 +31226,7 @@ payload:
   - DOMAIN-SUFFIX,uforadio.com.tw
   - DOMAIN-SUFFIX,ufreevpn.com
   - DOMAIN-SUFFIX,ugo.com
+  - DOMAIN-SUFFIX,uguide.ru
   - DOMAIN-SUFFIX,uguisupapa.net
   - DOMAIN-SUFFIX,uhairy.com
   - DOMAIN-SUFFIX,uhdwallpapers.org
@@ -31253,6 +31293,10 @@ payload:
   - DOMAIN-SUFFIX,ukimr.ac.uk
   - DOMAIN-SUFFIX,ukipad.com
   - DOMAIN-SUFFIX,ukirc.ac.uk
+  - DOMAIN-SUFFIX,ukit.ai
+  - DOMAIN-SUFFIX,ukit.com
+  - DOMAIN-SUFFIX,ukit.group
+  - DOMAIN-SUFFIX,ukit.me
   - DOMAIN-SUFFIX,uklibrariesplus.ac.uk
   - DOMAIN-SUFFIX,ukliferadio.co.uk
   - DOMAIN-SUFFIX,uklight.ac.uk
@@ -31310,6 +31354,7 @@ payload:
   - DOMAIN-SUFFIX,ultraxs.com
   - DOMAIN-SUFFIX,ultrayoungsex.com
   - DOMAIN-SUFFIX,ulyssesapp.com
+  - DOMAIN-SUFFIX,uma.media
   - DOMAIN-SUFFIX,umagazine.com.hk
   - DOMAIN-SUFFIX,umass.edu
   - DOMAIN-SUFFIX,umbrella.com
@@ -34005,6 +34050,7 @@ payload:
   - DOMAIN-SUFFIX,xlstudio.com
   - DOMAIN-SUFFIX,xlydh.cc
   - DOMAIN-SUFFIX,xm.com
+  - DOMAIN-SUFFIX,xmail.ru
   - DOMAIN-SUFFIX,xmalay.com
   - DOMAIN-SUFFIX,xmart.tw
   - DOMAIN-SUFFIX,xmas.ac.uk
