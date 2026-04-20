@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3NjU2ODg0OQo=
+# Checksum: MTc3NjY1NTM4Ngo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20260419-1
-# TimeUpdated: 2026-04-19T03:20:49+00:00
+# Version: -20260420-1
+# TimeUpdated: 2026-04-20T03:23:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -983,6 +983,7 @@ payload:
   - '+.adguard.io'
   - '+.adguard.org'
   - '+.adguardaccount.com'
+  - '+.adguardcdn.com'
   - '+.adguardvpn.com'
   - '+.adhelpnews.com'
   - '+.adidas-archive.org'
