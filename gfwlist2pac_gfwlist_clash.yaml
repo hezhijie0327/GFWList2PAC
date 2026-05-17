@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc3ODkwMjM0Mwo=
+# Checksum: MTc3ODk4OTgzNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260516-1
-# TimeUpdated: 2026-05-16T03:32:23+00:00
+# Version: -20260517-1
+# TimeUpdated: 2026-05-17T03:50:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2737,6 +2737,7 @@ payload:
   - DOMAIN-SUFFIX,archivx.to
   - DOMAIN-SUFFIX,archlinux.de
   - DOMAIN-SUFFIX,archlinux.org
+  - DOMAIN-SUFFIX,archlinux.page
   - DOMAIN-SUFFIX,archlinuxarm.org
   - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,archway.ac.uk
@@ -7024,7 +7025,6 @@ payload:
   - DOMAIN-SUFFIX,cios.org
   - DOMAIN-SUFFIX,ciota.ac.uk
   - DOMAIN-SUFFIX,cipfg.org
-  - DOMAIN-SUFFIX,circle19.org
   - DOMAIN-SUFFIX,circlethebayfortibet.org
   - DOMAIN-SUFFIX,cirencester.ac.uk
   - DOMAIN-SUFFIX,cirius.ac.uk
@@ -26263,6 +26263,7 @@ payload:
   - DOMAIN-SUFFIX,rightbtc.com
   - DOMAIN-SUFFIX,rightster.com
   - DOMAIN-SUFFIX,rigpa.org
+  - DOMAIN-SUFFIX,rigums.xyz
   - DOMAIN-SUFFIX,riku.me
   - DOMAIN-SUFFIX,rileyguide.com
   - DOMAIN-SUFFIX,rime.im
