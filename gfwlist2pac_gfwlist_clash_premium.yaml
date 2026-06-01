@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MDIwMDc3MAo=
+# Checksum: MTc4MDI4ODAwNgo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20260531-1
-# TimeUpdated: 2026-05-31T04:12:50+00:00
+# Version: -20260601-1
+# TimeUpdated: 2026-06-01T04:26:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -20546,7 +20546,6 @@ payload:
   - '+.minim.ac.uk'
   - '+.minimarkham.ca'
   - '+.minimarkham.com'
-  - '+.minimax.io'
   - '+.minimoncton.ca'
   - '+.minimoncton.com'
   - '+.minimontrealcentre.ca'
@@ -21069,6 +21068,7 @@ payload:
   - '+.moxing.news'
   - '+.moystoys.com'
   - '+.mozgcp.net'
+  - '+.mozilla-ohttp.fastly-edge.com'
   - '+.mozilla.ai'
   - '+.mozilla.com'
   - '+.mozilla.community'
@@ -34363,8 +34363,11 @@ payload:
   - '+.xhamster3.com'
   - '+.xhamsterlive.com'
   - '+.xhcdn.com'
+  - '+.xhnews.live'
   - '+.xhot.pro'
+  - '+.xhpingcdn.com'
   - '+.xhpjc6-cdn-settings.appsflyersdk.com'
+  - '+.xhreal5.com'
   - '+.xhub.tv'
   - '+.xianba.net'
   - '+.xianchawang.net'

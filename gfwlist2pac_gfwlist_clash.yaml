@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MDIwMDc3MAo=
+# Checksum: MTc4MDI4ODAwNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260531-1
-# TimeUpdated: 2026-05-31T04:12:50+00:00
+# Version: -20260601-1
+# TimeUpdated: 2026-06-01T04:26:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -20546,7 +20546,6 @@ payload:
   - DOMAIN-SUFFIX,minim.ac.uk
   - DOMAIN-SUFFIX,minimarkham.ca
   - DOMAIN-SUFFIX,minimarkham.com
-  - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,minimoncton.ca
   - DOMAIN-SUFFIX,minimoncton.com
   - DOMAIN-SUFFIX,minimontrealcentre.ca
@@ -21069,6 +21068,7 @@ payload:
   - DOMAIN-SUFFIX,moxing.news
   - DOMAIN-SUFFIX,moystoys.com
   - DOMAIN-SUFFIX,mozgcp.net
+  - DOMAIN-SUFFIX,mozilla-ohttp.fastly-edge.com
   - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.community
@@ -34363,8 +34363,11 @@ payload:
   - DOMAIN-SUFFIX,xhamster3.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,xhnews.live
   - DOMAIN-SUFFIX,xhot.pro
+  - DOMAIN-SUFFIX,xhpingcdn.com
   - DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+  - DOMAIN-SUFFIX,xhreal5.com
   - DOMAIN-SUFFIX,xhub.tv
   - DOMAIN-SUFFIX,xianba.net
   - DOMAIN-SUFFIX,xianchawang.net
