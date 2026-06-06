@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MDYzMjQ1NQo=
+# Checksum: MTc4MDcxNzkxNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260605-1
-# TimeUpdated: 2026-06-05T04:07:35+00:00
+# Version: -20260606-1
+# TimeUpdated: 2026-06-06T03:51:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -7182,6 +7182,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clb.org.hk
@@ -8913,7 +8914,6 @@ payload:
   - DOMAIN-SUFFIX,devcon.org
   - DOMAIN-SUFFIX,developebp.ac.uk
   - DOMAIN-SUFFIX,developer-advisor.com
-  - DOMAIN-SUFFIX,developer.allizom.org
   - DOMAIN-SUFFIX,developers.box.net
   - DOMAIN-SUFFIX,developers.facebook.com
   - DOMAIN-SUFFIX,developria.com
@@ -19944,10 +19944,8 @@ payload:
   - DOMAIN-SUFFIX,mdbankpublic.com
   - DOMAIN-SUFFIX,mdhcdn.com
   - DOMAIN-SUFFIX,mdialog.com
-  - DOMAIN-SUFFIX,mdn.allizom.net
   - DOMAIN-SUFFIX,mdn.dev
   - DOMAIN-SUFFIX,mdn.mozillademos.org
-  - DOMAIN-SUFFIX,mdn.mozit.cloud
   - DOMAIN-SUFFIX,mdnkids.com
   - DOMAIN-SUFFIX,mdnplay.dev
   - DOMAIN-SUFFIX,mdnyalp.dev
@@ -29650,6 +29648,7 @@ payload:
   - DOMAIN-SUFFIX,suxib.com
   - DOMAIN-SUFFIX,suxiebu.com
   - DOMAIN-SUFFIX,suyangg.com
+  - DOMAIN-SUFFIX,suyingtv.com
   - DOMAIN-SUFFIX,suzuri.jp
   - DOMAIN-SUFFIX,svaboda.org
   - DOMAIN-SUFFIX,svc.ms
@@ -34161,6 +34160,7 @@ payload:
   - DOMAIN-SUFFIX,wp-themes.com
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,wpewebkit.org
+  - DOMAIN-SUFFIX,wplace.live
   - DOMAIN-SUFFIX,wpoforum.com
   - DOMAIN-SUFFIX,wpvip.com
   - DOMAIN-SUFFIX,wqe.ac.uk
@@ -34364,6 +34364,7 @@ payload:
   - DOMAIN-SUFFIX,www.msn.com
   - DOMAIN-SUFFIX,www.oxid.it
   - DOMAIN-SUFFIX,www.powerpointninja.com
+  - DOMAIN-SUFFIX,www.quora.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,www.s4miniarchive.com
   - DOMAIN-SUFFIX,www.sb
   - DOMAIN-SUFFIX,www.shadowsocks.com
