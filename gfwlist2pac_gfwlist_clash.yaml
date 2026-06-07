@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MDcxNzkxNgo=
+# Checksum: MTc4MDgwNTg3Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260606-1
-# TimeUpdated: 2026-06-06T03:51:56+00:00
+# Version: -20260607-1
+# TimeUpdated: 2026-06-07T04:17:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1983,6 +1983,7 @@ payload:
   - DOMAIN-SUFFIX,amcnetworks.com
   - DOMAIN-SUFFIX,amcplus.com
   - DOMAIN-SUFFIX,amdfanstore.com
+  - DOMAIN-SUFFIX,amdgaming.com
   - DOMAIN-SUFFIX,amdigital.co.uk
   - DOMAIN-SUFFIX,ameba.jp
   - DOMAIN-SUFFIX,amebame.com
@@ -5761,6 +5762,7 @@ payload:
   - DOMAIN-SUFFIX,bufdg.ac.uk
   - DOMAIN-SUFFIX,buffered.com
   - DOMAIN-SUFFIX,bufvc.ac.uk
+  - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,bugzilla.org
   - DOMAIN-SUFFIX,buhidoh.net
   - DOMAIN-SUFFIX,bui.ac.uk
@@ -6433,6 +6435,7 @@ payload:
   - DOMAIN-SUFFIX,ccievoicelabs.com
   - DOMAIN-SUFFIX,ccim.org
   - DOMAIN-SUFFIX,ccl.ac.uk
+  - DOMAIN-SUFFIX,ccleaner.com
   - DOMAIN-SUFFIX,cclife.ca
   - DOMAIN-SUFFIX,cclife.org
   - DOMAIN-SUFFIX,cclifefl.org
@@ -7134,6 +7137,7 @@ payload:
   - DOMAIN-SUFFIX,citysun.ac.uk
   - DOMAIN-SUFFIX,citytalk.tw
   - DOMAIN-SUFFIX,citytourgirls.com
+  - DOMAIN-SUFFIX,cityu.hk
   - DOMAIN-SUFFIX,cityuniversitybirmingham.ac.uk
   - DOMAIN-SUFFIX,ciu.ac.uk
   - DOMAIN-SUFFIX,civicparty.hk
@@ -8142,6 +8146,7 @@ payload:
   - DOMAIN-SUFFIX,cuebic.biz
   - DOMAIN-SUFFIX,cuffiesaldi.com
   - DOMAIN-SUFFIX,cuhk.edu.hk
+  - DOMAIN-SUFFIX,cuhk.hk
   - DOMAIN-SUFFIX,cuhkacs.org
   - DOMAIN-SUFFIX,cuhop.ac.uk
   - DOMAIN-SUFFIX,cuihua.org
@@ -10324,6 +10329,7 @@ payload:
   - DOMAIN-SUFFIX,educationlondonconnect.ac.uk
   - DOMAIN-SUFFIX,educationpartnershipne.ac.uk
   - DOMAIN-SUFFIX,educationpartnershipnortheast.ac.uk
+  - DOMAIN-SUFFIX,eduhk.hk
   - DOMAIN-SUFFIX,eduplus.hk
   - DOMAIN-SUFFIX,edupro.org
   - DOMAIN-SUFFIX,eduroam.ac.uk
@@ -11821,6 +11827,7 @@ payload:
   - DOMAIN-SUFFIX,fileserve.com
   - DOMAIN-SUFFIX,filesmonster.vip
   - DOMAIN-SUFFIX,filesor.com
+  - DOMAIN-SUFFIX,filezilla-project.org
   - DOMAIN-SUFFIX,filipino-music.net
   - DOMAIN-SUFFIX,fillthesquare.org
   - DOMAIN-SUFFIX,filmandsound.ac.uk
@@ -13289,6 +13296,7 @@ payload:
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,gitbooks.io
+  - DOMAIN-SUFFIX,gitgud.io
   - DOMAIN-SUFFIX,githack.com
   - DOMAIN-SUFFIX,github-api.arkoselabs.com
   - DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
@@ -14398,6 +14406,7 @@ payload:
   - DOMAIN-SUFFIX,hayle.ac.uk
   - DOMAIN-SUFFIX,haywardsheath.ac.uk
   - DOMAIN-SUFFIX,hayya.ae
+  - DOMAIN-SUFFIX,hb.imgix.net
   - DOMAIN-SUFFIX,hbabit.com
   - DOMAIN-SUFFIX,hbfile.net
   - DOMAIN-SUFFIX,hbg.com
@@ -14968,6 +14977,7 @@ payload:
   - DOMAIN-SUFFIX,hitxhot.com
   - DOMAIN-SUFFIX,hive.blog
   - DOMAIN-SUFFIX,hiveon.net
+  - DOMAIN-SUFFIX,hivepress.io
   - DOMAIN-SUFFIX,hizb-ut-tahrir.info
   - DOMAIN-SUFFIX,hizb-ut-tahrir.org
   - DOMAIN-SUFFIX,hizbuttahrir.org
@@ -14997,6 +15007,7 @@ payload:
   - DOMAIN-SUFFIX,hkbn.net
   - DOMAIN-SUFFIX,hkbnes.net
   - DOMAIN-SUFFIX,hkbookcity.com
+  - DOMAIN-SUFFIX,hkbu.hk
   - DOMAIN-SUFFIX,hkchronicles.com
   - DOMAIN-SUFFIX,hkchurch.org
   - DOMAIN-SUFFIX,hkci.org.hk
@@ -15053,6 +15064,7 @@ payload:
   - DOMAIN-SUFFIX,hktpremier.com
   - DOMAIN-SUFFIX,hktshop.com
   - DOMAIN-SUFFIX,hku.hk
+  - DOMAIN-SUFFIX,hkust.hk
   - DOMAIN-SUFFIX,hkusu.net
   - DOMAIN-SUFFIX,hkvets.ac.uk
   - DOMAIN-SUFFIX,hkvwet.com
@@ -18411,6 +18423,7 @@ payload:
   - DOMAIN-SUFFIX,languagesmythsfinds.ac.uk
   - DOMAIN-SUFFIX,languagesresearch.ac.uk
   - DOMAIN-SUFFIX,languagessoutheast.ac.uk
+  - DOMAIN-SUFFIX,languagetool.org
   - DOMAIN-SUFFIX,lanik.us
   - DOMAIN-SUFFIX,lanmdh.net
   - DOMAIN-SUFFIX,lanniser-ylo.shop
@@ -21070,6 +21083,7 @@ payload:
   - DOMAIN-SUFFIX,motiyun.com
   - DOMAIN-SUFFIX,moto.com
   - DOMAIN-SUFFIX,motolia.com
+  - DOMAIN-SUFFIX,motopress.com
   - DOMAIN-SUFFIX,motor4ik.ru
   - DOMAIN-SUFFIX,motorola.ca
   - DOMAIN-SUFFIX,motorola.cl
@@ -21262,6 +21276,7 @@ payload:
   - DOMAIN-SUFFIX,msudalosti.com
   - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
   - DOMAIN-SUFFIX,mswe1.org
+  - DOMAIN-SUFFIX,msys2.org
   - DOMAIN-SUFFIX,mt.co.kr
   - DOMAIN-SUFFIX,mt.lv
   - DOMAIN-SUFFIX,mt0011.site
@@ -23182,6 +23197,7 @@ payload:
   - DOMAIN-SUFFIX,o3team.ru
   - DOMAIN-SUFFIX,oaa-anaes.ac.uk
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oakhill.ac.uk
   - DOMAIN-SUFFIX,oaklands.ac.uk
@@ -24801,6 +24817,7 @@ payload:
   - DOMAIN-SUFFIX,polymer-project.org
   - DOMAIN-SUFFIX,polymerhk.com
   - DOMAIN-SUFFIX,polymerproject.org
+  - DOMAIN-SUFFIX,polyu.hk
   - DOMAIN-SUFFIX,poms.ac.uk
   - DOMAIN-SUFFIX,pone.ac.uk
   - DOMAIN-SUFFIX,pontypridd.ac.uk
@@ -34161,6 +34178,7 @@ payload:
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,wpewebkit.org
   - DOMAIN-SUFFIX,wplace.live
+  - DOMAIN-SUFFIX,wpmailsmtp.com
   - DOMAIN-SUFFIX,wpoforum.com
   - DOMAIN-SUFFIX,wpvip.com
   - DOMAIN-SUFFIX,wqe.ac.uk
@@ -34674,7 +34692,10 @@ payload:
   - DOMAIN-SUFFIX,xn--d1abkf4ap.fun
   - DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
   - DOMAIN-SUFFIX,xn--dgtr4ppoz.com
+  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
+  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
   - DOMAIN-SUFFIX,xn--flw351e.com
+  - DOMAIN-SUFFIX,xn--gdt08a.hk
   - DOMAIN-SUFFIX,xn--ggle-55da.com
   - DOMAIN-SUFFIX,xn--gmq348bujlxrb.com
   - DOMAIN-SUFFIX,xn--gmq92kd2rm1kx34a.com
@@ -34690,10 +34711,16 @@ payload:
   - DOMAIN-SUFFIX,xn--m1abbbgjah.lol
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
   - DOMAIN-SUFFIX,xn--mtswd61ejxq.com
+  - DOMAIN-SUFFIX,xn--mxtq18a.hk
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,xn--noss43i.com
   - DOMAIN-SUFFIX,xn--oiq.cc
   - DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com
+  - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
   - DOMAIN-SUFFIX,xn--q41am8x.com
   - DOMAIN-SUFFIX,xn--qhrx81fxh2a.xn--55qx5d.hk
   - DOMAIN-SUFFIX,xn--qoq462m.com
@@ -34705,6 +34732,8 @@ payload:
   - DOMAIN-SUFFIX,xn--ubt498knmf.com
   - DOMAIN-SUFFIX,xn--uis17aj9kmuf.com
   - DOMAIN-SUFFIX,xn--urs05q.jp
+  - DOMAIN-SUFFIX,xn--wcv22d.hk
+  - DOMAIN-SUFFIX,xn--wcvs22d1m.hk
   - DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.biz
   - DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.net
   - DOMAIN-SUFFIX,xn--xsq421m.com
