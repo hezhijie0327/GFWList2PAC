@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MDgwNTg1Nwo=
+# Checksum: MTc4MDg5MjUyMQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: -20260607-1
-# TimeUpdated: 2026-06-07T04:17:37+00:00
+# Version: -20260608-1
+# TimeUpdated: 2026-06-08T04:22:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -50890,9 +50890,7 @@ payload:
   - DOMAIN-SUFFIX,iclickstatic.com
   - DOMAIN-SUFFIX,icliexpo.com
   - DOMAIN-SUFFIX,icljt.com
-  - DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,icloud-power.com
-  - DOMAIN-SUFFIX,icloud.cdn-apple.com
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloudcity.com
   - DOMAIN-SUFFIX,icloudgslb.com
@@ -71857,12 +71855,10 @@ payload:
   - DOMAIN-SUFFIX,ocpuritech.com
   - DOMAIN-SUFFIX,ocr.lenovo.com
   - DOMAIN-SUFFIX,ocsjs.com
-  - DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
   - DOMAIN-SUFFIX,ocsp.apple.com
   - DOMAIN-SUFFIX,ocsp.globalsign.com
   - DOMAIN-SUFFIX,ocsp.pki.goog
   - DOMAIN-SUFFIX,ocsp.us.cdnetworks.com
-  - DOMAIN-SUFFIX,ocsp2-lb.apple.com.akadns.net
   - DOMAIN-SUFFIX,ocsp2.apple.com
   - DOMAIN-SUFFIX,ocsp2.globalsign.com
   - DOMAIN-SUFFIX,ocssaas.com
@@ -73133,7 +73129,6 @@ payload:
   - DOMAIN-SUFFIX,panbaidu.net
   - DOMAIN-SUFFIX,panbrake.com
   - DOMAIN-SUFFIX,pancake.apple.com
-  - DOMAIN-SUFFIX,pancake.cdn-apple.com.akadns.net
   - DOMAIN-SUFFIX,panchinasports.com
   - DOMAIN-SUFFIX,panchip.com
   - DOMAIN-SUFFIX,panchuang.net
@@ -78666,7 +78661,6 @@ payload:
   - DOMAIN-SUFFIX,resemblancey.com
   - DOMAIN-SUFFIX,resemi.com
   - DOMAIN-SUFFIX,reserve-backend.dji.com
-  - DOMAIN-SUFFIX,reserve-prime.apple.com
   - DOMAIN-SUFFIX,reservehemu.com
   - DOMAIN-SUFFIX,resheji.com
   - DOMAIN-SUFFIX,resistor.today
