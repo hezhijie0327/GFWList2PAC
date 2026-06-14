@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MTMyMzc3NAo=
+# Checksum: MTc4MTQxMTE3NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260613-1
-# TimeUpdated: 2026-06-13T04:09:34+00:00
+# Version: -20260614-1
+# TimeUpdated: 2026-06-14T04:26:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -10244,6 +10244,7 @@ payload:
   - DOMAIN-SUFFIX,ebsco.com
   - DOMAIN-SUFFIX,ebsl.ac.uk
   - DOMAIN-SUFFIX,ebslondon.ac.uk
+  - DOMAIN-SUFFIX,ebtcbank.com
   - DOMAIN-SUFFIX,ebuyer.com
   - DOMAIN-SUFFIX,ebuyheadphones.com
   - DOMAIN-SUFFIX,eca.ac.uk
@@ -12746,10 +12747,15 @@ payload:
   - DOMAIN-SUFFIX,futhead.com
   - DOMAIN-SUFFIX,futoka.jp
   - DOMAIN-SUFFIX,futpromos.com
+  - DOMAIN-SUFFIX,futu.cn
+  - DOMAIN-SUFFIX,futu.link
   - DOMAIN-SUFFIX,futuhk.com
+  - DOMAIN-SUFFIX,futuhk1.com
+  - DOMAIN-SUFFIX,futuhk2.com
   - DOMAIN-SUFFIX,futuhkapp.com
   - DOMAIN-SUFFIX,futuholdings.com
   - DOMAIN-SUFFIX,futunited.com
+  - DOMAIN-SUFFIX,futuoa.com
   - DOMAIN-SUFFIX,future-cs.ru
   - DOMAIN-SUFFIX,future-media.ac.uk
   - DOMAIN-SUFFIX,future-reserves-research.ac.uk
@@ -12766,6 +12772,7 @@ payload:
   - DOMAIN-SUFFIX,futuretrack.ac.uk
   - DOMAIN-SUFFIX,futurevehicles.ac.uk
   - DOMAIN-SUFFIX,futureworks.ac.uk
+  - DOMAIN-SUFFIX,futusg.com
   - DOMAIN-SUFFIX,fux.com
   - DOMAIN-SUFFIX,fuxporn.com
   - DOMAIN-SUFFIX,fuyin.net
@@ -16382,6 +16389,7 @@ payload:
   - DOMAIN-SUFFIX,imperiodefamosas.com
   - DOMAIN-SUFFIX,impermium.com
   - DOMAIN-SUFFIX,impp.mn
+  - DOMAIN-SUFFIX,improd.works
   - DOMAIN-SUFFIX,imr-cdt.ac.uk
   - DOMAIN-SUFFIX,imrci.ac.uk
   - DOMAIN-SUFFIX,imsrbx.xyz
@@ -19129,6 +19137,7 @@ payload:
   - DOMAIN-SUFFIX,londonstudiocentre.ac.uk
   - DOMAIN-SUFFIX,lonestarnaughtygirls.com
   - DOMAIN-SUFFIX,longbridge.cloud
+  - DOMAIN-SUFFIX,longbridge.cn
   - DOMAIN-SUFFIX,longbridge.com
   - DOMAIN-SUFFIX,longbridge.global
   - DOMAIN-SUFFIX,longbridge.hk
@@ -28371,6 +28380,7 @@ payload:
   - DOMAIN-SUFFIX,skysports.ie
   - DOMAIN-SUFFIX,skysportsonline.com
   - DOMAIN-SUFFIX,skysportsracing.com
+  - DOMAIN-SUFFIX,skytigris.cn
   - DOMAIN-SUFFIX,skyvegas.com
   - DOMAIN-SUFFIX,sl-reverse.com
   - DOMAIN-SUFFIX,sl99mod.buzz
@@ -29316,6 +29326,7 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamugcquincy.blob.core.windows.net
   - DOMAIN-SUFFIX,steamunlocked.net
   - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
   - DOMAIN-SUFFIX,steamusercontent.com
@@ -30751,6 +30762,7 @@ payload:
   - DOMAIN-SUFFIX,tier.org.tw
   - DOMAIN-SUFFIX,tiffany-towers.com
   - DOMAIN-SUFFIX,tig-ol-bitties.live
+  - DOMAIN-SUFFIX,tigerbbs.cn
   - DOMAIN-SUFFIX,tigervpn.com
   - DOMAIN-SUFFIX,tiipple.ac.uk
   - DOMAIN-SUFFIX,tiktok-minis.com
