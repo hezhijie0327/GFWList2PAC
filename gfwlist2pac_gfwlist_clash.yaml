@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MTQ5ODk5OAo=
+# Checksum: MTc4MTU4NTI0MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260615-1
-# TimeUpdated: 2026-06-15T04:49:58+00:00
+# Version: -20260616-1
+# TimeUpdated: 2026-06-16T04:47:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -13897,6 +13897,7 @@ payload:
   - DOMAIN-SUFFIX,googlearth.com
   - DOMAIN-SUFFIX,googleartproject.com
   - DOMAIN-SUFFIX,googleblog.com
+  - DOMAIN-SUFFIX,googlebook.google
   - DOMAIN-SUFFIX,googlebot.com
   - DOMAIN-SUFFIX,googlecapital.com
   - DOMAIN-SUFFIX,googlecensorship.org
@@ -24085,6 +24086,7 @@ payload:
   - DOMAIN-SUFFIX,passiontimes.hk
   - DOMAIN-SUFFIX,passport.net
   - DOMAIN-SUFFIX,passwordday.org
+  - DOMAIN-SUFFIX,passwords.google
   - DOMAIN-SUFFIX,pastahealth.com
   - DOMAIN-SUFFIX,paste.ee
   - DOMAIN-SUFFIX,pastebin.com
@@ -34789,7 +34791,6 @@ payload:
   - DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
   - DOMAIN-SUFFIX,xn--d1abkf4ap.fun
   - DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
-  - DOMAIN-SUFFIX,xn--dgtr4ppoz.com
   - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
   - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
   - DOMAIN-SUFFIX,xn--flw351e.com
