@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MTY3MDQzMAo=
+# Checksum: MTc4MTc1NjQ0NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260617-1
-# TimeUpdated: 2026-06-17T04:27:10+00:00
+# Version: -20260618-1
+# TimeUpdated: 2026-06-18T04:20:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -2344,6 +2344,7 @@ payload:
   - DOMAIN-SUFFIX,appbridge.it
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,appcloud.com
+  - DOMAIN-SUFFIX,appconsent.io
   - DOMAIN-SUFFIX,appdefensealliance.dev
   - DOMAIN-SUFFIX,appdomain.cloud
   - DOMAIN-SUFFIX,appdownloader.net
@@ -3401,6 +3402,7 @@ payload:
   - DOMAIN-SUFFIX,awwcn.xyz
   - DOMAIN-SUFFIX,awxcdn.com
   - DOMAIN-SUFFIX,axbdoll.com.tw
+  - DOMAIN-SUFFIX,axept.io
   - DOMAIN-SUFFIX,axios.com
   - DOMAIN-SUFFIX,axureformac.com
   - DOMAIN-SUFFIX,ayabank.com
@@ -6508,6 +6510,7 @@ payload:
   - DOMAIN-SUFFIX,cdkworkshop.com
   - DOMAIN-SUFFIX,cdmatech.com
   - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,cdn-cookieyes.com
   - DOMAIN-SUFFIX,cdn-images.mailchimp.com
   - DOMAIN-SUFFIX,cdn-spotify-experiments.conductrics.com
   - DOMAIN-SUFFIX,cdn-telegram.org
@@ -7778,6 +7781,7 @@ payload:
   - DOMAIN-SUFFIX,conquerwithcharacter.com
   - DOMAIN-SUFFIX,conscrypt.com
   - DOMAIN-SUFFIX,conscrypt.org
+  - DOMAIN-SUFFIX,consentmanager.net
   - DOMAIN-SUFFIX,consentpro.com
   - DOMAIN-SUFFIX,conservatoiresuk.ac.uk
   - DOMAIN-SUFFIX,consilience.ac.uk
@@ -7799,9 +7803,11 @@ payload:
   - DOMAIN-SUFFIX,convrgencegame.com
   - DOMAIN-SUFFIX,coobay.com
   - DOMAIN-SUFFIX,cooer.su
+  - DOMAIN-SUFFIX,cookiebot.com
   - DOMAIN-SUFFIX,cookiechoices.org
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,cookiepro.com
+  - DOMAIN-SUFFIX,cookieyes.com
   - DOMAIN-SUFFIX,cool-comics.com
   - DOMAIN-SUFFIX,cool18.com
   - DOMAIN-SUFFIX,cool3c.com
@@ -29671,6 +29677,7 @@ payload:
   - DOMAIN-SUFFIX,superadultgames.com
   - DOMAIN-SUFFIX,supercell.helpshift.com
   - DOMAIN-SUFFIX,supercell.net
+  - DOMAIN-SUFFIX,supercell.zendesk.com
   - DOMAIN-SUFFIX,supercellcreators.com
   - DOMAIN-SUFFIX,supercellgames.com
   - DOMAIN-SUFFIX,supercellid.com
@@ -30314,6 +30321,7 @@ payload:
   - DOMAIN-SUFFIX,terc.ac.uk
   - DOMAIN-SUFFIX,terk.nl
   - DOMAIN-SUFFIX,termius.com
+  - DOMAIN-SUFFIX,termly.io
   - DOMAIN-SUFFIX,termux.com
   - DOMAIN-SUFFIX,termux.dev
   - DOMAIN-SUFFIX,termux.org
@@ -31275,6 +31283,7 @@ payload:
   - DOMAIN-SUFFIX,trurocollege.ac.uk
   - DOMAIN-SUFFIX,truropenwith.ac.uk
   - DOMAIN-SUFFIX,trust-provider.com
+  - DOMAIN-SUFFIX,trustarc.com
   - DOMAIN-SUFFIX,trustasiassl.com
   - DOMAIN-SUFFIX,trustcor.ca
   - DOMAIN-SUFFIX,trustcor.com
