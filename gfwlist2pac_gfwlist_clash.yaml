@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MTc1NjQ0NQo=
+# Checksum: MTc4MTg0NDUxNAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260618-1
-# TimeUpdated: 2026-06-18T04:20:45+00:00
+# Version: -20260619-1
+# TimeUpdated: 2026-06-19T04:48:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -700,6 +700,7 @@ payload:
   - DOMAIN-SUFFIX,9nation.com.au
   - DOMAIN-SUFFIX,9news.com.au
   - DOMAIN-SUFFIX,9now.com.au
+  - DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
   - DOMAIN-SUFFIX,9tak-nav.buzz
   - DOMAIN-SUFFIX,9to5google.com
   - DOMAIN-SUFFIX,9to5mac.com
@@ -2276,13 +2277,17 @@ payload:
   - DOMAIN-SUFFIX,aphe.ac.uk
   - DOMAIN-SUFFIX,api-drive.mypikpak.com
   - DOMAIN-SUFFIX,api-extractor.com
+  - DOMAIN-SUFFIX,api-gl.lbkrs.com
   - DOMAIN-SUFFIX,api-p.videomarket.jp
   - DOMAIN-SUFFIX,api-secure.recaptcha.net
   - DOMAIN-SUFFIX,api-verify.recaptcha.net
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,api.dropboxapi.com
+  - DOMAIN-SUFFIX,api.futunn.com
   - DOMAIN-SUFFIX,api.ipify.org
+  - DOMAIN-SUFFIX,api.lbkrs.com
   - DOMAIN-SUFFIX,api.mixpanel.com
+  - DOMAIN-SUFFIX,api.moomoobull.com
   - DOMAIN-SUFFIX,api.nebula-emby.com
   - DOMAIN-SUFFIX,api.news
   - DOMAIN-SUFFIX,api.palworldgame.com
@@ -2291,6 +2296,7 @@ payload:
   - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,api.viu.now.com
   - DOMAIN-SUFFIX,api.waqi.info
+  - DOMAIN-SUFFIX,api5.futunn.com
   - DOMAIN-SUFFIX,apiary.io
   - DOMAIN-SUFFIX,apibay.org
   - DOMAIN-SUFFIX,apigee.com
@@ -6520,6 +6526,7 @@ payload:
   - DOMAIN-SUFFIX,cdn-vk.ru
   - DOMAIN-SUFFIX,cdn.ac.uk
   - DOMAIN-SUFFIX,cdn.arstechnica.net
+  - DOMAIN-SUFFIX,cdn.futustatic.com
   - DOMAIN-SUFFIX,cdn.js7k.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.jwplayer.com
@@ -6683,6 +6690,7 @@ payload:
   - DOMAIN-SUFFIX,cfsh99.com
   - DOMAIN-SUFFIX,cftfc.com
   - DOMAIN-SUFFIX,cfwives.com
+  - DOMAIN-SUFFIX,cg.play-analytics.com
   - DOMAIN-SUFFIX,cgdepot.org
   - DOMAIN-SUFFIX,cgh.ac.uk
   - DOMAIN-SUFFIX,cgkate.jinvod.com
@@ -8968,6 +8976,7 @@ payload:
   - DOMAIN-SUFFIX,dfas.mil
   - DOMAIN-SUFFIX,dfn.org
   - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
+  - DOMAIN-SUFFIX,dfvpn.com
   - DOMAIN-SUFFIX,dgaqp.com
   - DOMAIN-SUFFIX,dgeft87wbj63p.cloudfront.net
   - DOMAIN-SUFFIX,dgg.gg
@@ -9555,6 +9564,7 @@ payload:
   - DOMAIN-SUFFIX,download.com
   - DOMAIN-SUFFIX,download.dappcdn.com
   - DOMAIN-SUFFIX,download.fastgit.org
+  - DOMAIN-SUFFIX,download.futunn.com
   - DOMAIN-SUFFIX,download.qatp1.net
   - DOMAIN-SUFFIX,download.qcpp1.net
   - DOMAIN-SUFFIX,download.qpdp1.net
@@ -12774,12 +12784,25 @@ payload:
   - DOMAIN-SUFFIX,futoka.jp
   - DOMAIN-SUFFIX,futpromos.com
   - DOMAIN-SUFFIX,futu.cn
+  - DOMAIN-SUFFIX,futu.com
   - DOMAIN-SUFFIX,futu.link
+  - DOMAIN-SUFFIX,futu0.com
+  - DOMAIN-SUFFIX,futu1.com
+  - DOMAIN-SUFFIX,futu2.com
+  - DOMAIN-SUFFIX,futu3.com
+  - DOMAIN-SUFFIX,futu4.com
+  - DOMAIN-SUFFIX,futu6.com
+  - DOMAIN-SUFFIX,futu7.com
+  - DOMAIN-SUFFIX,futu8.com
+  - DOMAIN-SUFFIX,futu9.com
+  - DOMAIN-SUFFIX,futubull.cn
+  - DOMAIN-SUFFIX,futuchain.com
   - DOMAIN-SUFFIX,futuhk.com
   - DOMAIN-SUFFIX,futuhk1.com
   - DOMAIN-SUFFIX,futuhk2.com
   - DOMAIN-SUFFIX,futuhkapp.com
   - DOMAIN-SUFFIX,futuholdings.com
+  - DOMAIN-SUFFIX,futuinc.com
   - DOMAIN-SUFFIX,futunited.com
   - DOMAIN-SUFFIX,futuoa.com
   - DOMAIN-SUFFIX,future-cs.ru
@@ -12901,6 +12924,7 @@ payload:
   - DOMAIN-SUFFIX,gamesstack.com
   - DOMAIN-SUFFIX,gametap.com
   - DOMAIN-SUFFIX,gameuxmasterguide.com
+  - DOMAIN-SUFFIX,gamewtb.com
   - DOMAIN-SUFFIX,gamez.com.tw
   - DOMAIN-SUFFIX,gaming-notebooks.com
   - DOMAIN-SUFFIX,gamme.com.tw
@@ -13582,6 +13606,7 @@ payload:
   - DOMAIN-SUFFIX,gobuyonlinestore.net
   - DOMAIN-SUFFIX,gockhuatviet.com
   - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,godaddy.net
   - DOMAIN-SUFFIX,godalming.ac.uk
   - DOMAIN-SUFFIX,godbolt.org
   - DOMAIN-SUFFIX,godfootsteps.org
@@ -19183,6 +19208,7 @@ payload:
   - DOMAIN-SUFFIX,longmabookcn.com
   - DOMAIN-SUFFIX,longman.ch
   - DOMAIN-SUFFIX,longmusic.com
+  - DOMAIN-SUFFIX,longportapp.cn
   - DOMAIN-SUFFIX,longportapp.com
   - DOMAIN-SUFFIX,longroad.ac.uk
   - DOMAIN-SUFFIX,longtailvideo.com
@@ -21106,6 +21132,7 @@ payload:
   - DOMAIN-SUFFIX,moodleshare-hw.ac.uk
   - DOMAIN-SUFFIX,moodstocks.com
   - DOMAIN-SUFFIX,moodyz.com
+  - DOMAIN-SUFFIX,moomoobull.com
   - DOMAIN-SUFFIX,moon.fm
   - DOMAIN-SUFFIX,moonbbs.com
   - DOMAIN-SUFFIX,moonbbs.info
@@ -23629,6 +23656,13 @@ payload:
   - DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,openamt.com
+  - DOMAIN-SUFFIX,openapi-quote.longbridge.cn
+  - DOMAIN-SUFFIX,openapi-quote.longbridge.com
+  - DOMAIN-SUFFIX,openapi-trade.longbridge.cn
+  - DOMAIN-SUFFIX,openapi-trade.longbridge.com
+  - DOMAIN-SUFFIX,openapi.futunn.com
+  - DOMAIN-SUFFIX,openapi.longbridge.cn
+  - DOMAIN-SUFFIX,openapi.longbridge.com
   - DOMAIN-SUFFIX,openapiplatform.com
   - DOMAIN-SUFFIX,openapiservice.com
   - DOMAIN-SUFFIX,openart.ai
@@ -25854,6 +25888,8 @@ payload:
   - DOMAIN-SUFFIX,qstatus.com
   - DOMAIN-SUFFIX,qt-project.org
   - DOMAIN-SUFFIX,qt.io
+  - DOMAIN-SUFFIX,qtcard.futunn.com
+  - DOMAIN-SUFFIX,qtcardfthk.futufin.com
   - DOMAIN-SUFFIX,qtrac.eu
   - DOMAIN-SUFFIX,qtweeter.com
   - DOMAIN-SUFFIX,quadram.ac.uk
@@ -25944,6 +25980,7 @@ payload:
   - DOMAIN-SUFFIX,quora.com
   - DOMAIN-SUFFIX,quoracdn.net
   - DOMAIN-SUFFIX,quotable.com
+  - DOMAIN-SUFFIX,quote.longbridge.global
   - DOMAIN-SUFFIX,quovadisglobal.com
   - DOMAIN-SUFFIX,quran.com
   - DOMAIN-SUFFIX,quranexplorer.com
@@ -27952,6 +27989,7 @@ payload:
   - DOMAIN-SUFFIX,sgp1.fun
   - DOMAIN-SUFFIX,sgpe.ac.uk
   - DOMAIN-SUFFIX,sgpstatp.com
+  - DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
   - DOMAIN-SUFFIX,sgr.com.br
   - DOMAIN-SUFFIX,sgsah.ac.uk
   - DOMAIN-SUFFIX,sgscol.ac.uk
@@ -28175,6 +28213,7 @@ payload:
   - DOMAIN-SUFFIX,shops-disney.com
   - DOMAIN-SUFFIX,shopspeedtv.com
   - DOMAIN-SUFFIX,shoptraivip.com
+  - DOMAIN-SUFFIX,shortconn.im.qcloud.com
   - DOMAIN-SUFFIX,shorturl.at
   - DOMAIN-SUFFIX,shotgridsoftware.com
   - DOMAIN-SUFFIX,shotgridstudio.com
@@ -29713,6 +29752,7 @@ payload:
   - DOMAIN-SUFFIX,supply-chain.ac.uk
   - DOMAIN-SUFFIX,supplybestjerseys.com
   - DOMAIN-SUFFIX,support-uber.com
+  - DOMAIN-SUFFIX,support.futunn.com
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,supr.cl
   - DOMAIN-SUFFIX,supremacy.com
@@ -30118,6 +30158,7 @@ payload:
   - DOMAIN-SUFFIX,taylorandfrancis.com
   - DOMAIN-SUFFIX,taylorfrancis.com
   - DOMAIN-SUFFIX,tb-esim.ru
+  - DOMAIN-SUFFIX,tb.pro
   - DOMAIN-SUFFIX,tbank-online.com
   - DOMAIN-SUFFIX,tbank.ru
   - DOMAIN-SUFFIX,tbcollege.org
@@ -30703,6 +30744,7 @@ payload:
   - DOMAIN-SUFFIX,thumbzilla.com
   - DOMAIN-SUFFIX,thunderbird.net
   - DOMAIN-SUFFIX,thunderbolttechnology.net
+  - DOMAIN-SUFFIX,thundermail.com
   - DOMAIN-SUFFIX,thurrock.ac.uk
   - DOMAIN-SUFFIX,thurrockcampus.ac.uk
   - DOMAIN-SUFFIX,thywords.com
@@ -30820,6 +30862,7 @@ payload:
   - DOMAIN-SUFFIX,tiffany-towers.com
   - DOMAIN-SUFFIX,tig-ol-bitties.live
   - DOMAIN-SUFFIX,tigerbbs.cn
+  - DOMAIN-SUFFIX,tigerbrokers.nz
   - DOMAIN-SUFFIX,tigervpn.com
   - DOMAIN-SUFFIX,tiipple.ac.uk
   - DOMAIN-SUFFIX,tiktok-minis.com
@@ -31159,6 +31202,9 @@ payload:
   - DOMAIN-SUFFIX,tracker.gg
   - DOMAIN-SUFFIX,tracker.network
   - DOMAIN-SUFFIX,tracking-location.com
+  - DOMAIN-SUFFIX,trade.futunn.com
+  - DOMAIN-SUFFIX,trade.longportapp.com
+  - DOMAIN-SUFFIX,tradeup.com
   - DOMAIN-SUFFIX,tradevip1.com
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,trae.ai
@@ -34855,6 +34901,7 @@ payload:
   - DOMAIN-SUFFIX,xn--ubt498knmf.com
   - DOMAIN-SUFFIX,xn--uis17aj9kmuf.com
   - DOMAIN-SUFFIX,xn--urs05q.jp
+  - DOMAIN-SUFFIX,xn--vuqv2cf7wzyig79c.com
   - DOMAIN-SUFFIX,xn--wcv22d.hk
   - DOMAIN-SUFFIX,xn--wcvs22d1m.hk
   - DOMAIN-SUFFIX,xn--x-qeu1ji09tzlg.biz
@@ -36036,6 +36083,7 @@ payload:
   - DOMAIN-SUFFIX,zhenlibu.info
   - DOMAIN-SUFFIX,zhenlibu1984.com
   - DOMAIN-SUFFIX,zhenxiang.biz
+  - DOMAIN-SUFFIX,zhijianfengyi.cn
   - DOMAIN-SUFFIX,zhijie.online
   - DOMAIN-SUFFIX,zhimeishe888.com
   - DOMAIN-SUFFIX,zhinengluyou.com
