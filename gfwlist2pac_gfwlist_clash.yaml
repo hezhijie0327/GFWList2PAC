@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MTkyODE2Ngo=
+# Checksum: MTc4MjAxNzA3Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260620-1
-# TimeUpdated: 2026-06-20T04:02:46+00:00
+# Version: -20260621-1
+# TimeUpdated: 2026-06-21T04:44:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -865,6 +865,7 @@ payload:
   - DOMAIN-SUFFIX,account-paypal.net
   - DOMAIN-SUFFIX,account-paypal.org
   - DOMAIN-SUFFIX,accountancylearning.ac.uk
+  - DOMAIN-SUFFIX,accountboy.com
   - DOMAIN-SUFFIX,accountkit.com
   - DOMAIN-SUFFIX,accountpaypal.com
   - DOMAIN-SUFFIX,accountpaypal.net
@@ -13623,6 +13624,8 @@ payload:
   - DOMAIN-SUFFIX,gofucker.com
   - DOMAIN-SUFFIX,gofuckmenow.com
   - DOMAIN-SUFFIX,gofundme.com
+  - DOMAIN-SUFFIX,gog-cdn-lumen.secure2.footprint.net
+  - DOMAIN-SUFFIX,gog-cdn.akamaized.net
   - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN-SUFFIX,gogeo.ac.uk

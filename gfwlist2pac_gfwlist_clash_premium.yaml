@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MTkyODE2Ngo=
+# Checksum: MTc4MjAxNzA3Mgo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20260620-1
-# TimeUpdated: 2026-06-20T04:02:46+00:00
+# Version: -20260621-1
+# TimeUpdated: 2026-06-21T04:44:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -865,6 +865,7 @@ payload:
   - '+.account-paypal.net'
   - '+.account-paypal.org'
   - '+.accountancylearning.ac.uk'
+  - '+.accountboy.com'
   - '+.accountkit.com'
   - '+.accountpaypal.com'
   - '+.accountpaypal.net'
@@ -13623,6 +13624,8 @@ payload:
   - '+.gofucker.com'
   - '+.gofuckmenow.com'
   - '+.gofundme.com'
+  - '+.gog-cdn-lumen.secure2.footprint.net'
+  - '+.gog-cdn.akamaized.net'
   - '+.gog-statics.com'
   - '+.gog.com'
   - '+.gogeo.ac.uk'
