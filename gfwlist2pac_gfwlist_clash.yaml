@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MjE4Njg3MAo=
+# Checksum: MTc4MjI3MzM2NAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260623-1
-# TimeUpdated: 2026-06-23T03:54:30+00:00
+# Version: -20260624-1
+# TimeUpdated: 2026-06-24T03:56:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1748,6 +1748,7 @@ payload:
   - DOMAIN-SUFFIX,allswingersclubs.org
   - DOMAIN-SUFFIX,allthefallen.moe
   - DOMAIN-SUFFIX,alma.ac.uk
+  - DOMAIN-SUFFIX,almalinux.org
   - DOMAIN-SUFFIX,almasdarnews.com
   - DOMAIN-SUFFIX,almcollege.ac.uk
   - DOMAIN-SUFFIX,almostmy.com
@@ -5877,6 +5878,7 @@ payload:
   - DOMAIN-SUFFIX,bustyoldsluts.com
   - DOMAIN-SUFFIX,bustysammieblack.com
   - DOMAIN-SUFFIX,busu.org
+  - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,butex.ac.uk
   - DOMAIN-SUFFIX,buugaa.com
   - DOMAIN-SUFFIX,buxtoncollege.ac.uk
@@ -13388,6 +13390,7 @@ payload:
   - DOMAIN-SUFFIX,github-production-user-asset-6210df.s3.amazonaws.com
   - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.career
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.community
   - DOMAIN-SUFFIX,github.dev
@@ -18844,6 +18847,7 @@ payload:
   - DOMAIN-SUFFIX,life.ac.uk
   - DOMAIN-SUFFIX,lifearc.ac.uk
   - DOMAIN-SUFFIX,lifeatkings.ac.uk
+  - DOMAIN-SUFFIX,lifeatspotify.com
   - DOMAIN-SUFFIX,lifeattiktok.com
   - DOMAIN-SUFFIX,lifelab.ac.uk
   - DOMAIN-SUFFIX,lifelonglearning.ac.uk
@@ -19682,6 +19686,7 @@ payload:
   - DOMAIN-SUFFIX,maniakey.homes
   - DOMAIN-SUFFIX,maniash.com
   - DOMAIN-SUFFIX,manicur4ik.ru
+  - DOMAIN-SUFFIX,manjaro.org
   - DOMAIN-SUFFIX,manlitphil.ac.uk
   - DOMAIN-SUFFIX,manorama.com
   - DOMAIN-SUFFIX,manoramanews.com
@@ -26715,6 +26720,7 @@ payload:
   - DOMAIN-SUFFIX,rocksextube.com
   - DOMAIN-SUFFIX,rockstargames.com
   - DOMAIN-SUFFIX,rockstarnorth.com
+  - DOMAIN-SUFFIX,rockylinux.org
   - DOMAIN-SUFFIX,roco.qq.com
   - DOMAIN-SUFFIX,rodbaston.ac.uk
   - DOMAIN-SUFFIX,roe.ac.uk
@@ -29074,6 +29080,7 @@ payload:
   - DOMAIN-SUFFIX,spotifycharts.com
   - DOMAIN-SUFFIX,spotifycodes.com
   - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyforvendors.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,spr.ac.uk
   - DOMAIN-SUFFIX,spraynwash.com
@@ -33466,9 +33473,12 @@ payload:
   - DOMAIN-SUFFIX,vscode-sync-insiders.trafficmanager.net
   - DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
   - DOMAIN-SUFFIX,vscode-unpkg.net
+  - DOMAIN-SUFFIX,vscode-webview.net
   - DOMAIN-SUFFIX,vscode.blob.core.windows.net
   - DOMAIN-SUFFIX,vscode.dev
   - DOMAIN-SUFFIX,vscode.search.windows.net
+  - DOMAIN-SUFFIX,vscodeedu.app
+  - DOMAIN-SUFFIX,vscodeedu.com
   - DOMAIN-SUFFIX,vsemrabota.ru
   - DOMAIN-SUFFIX,vsex.in
   - DOMAIN-SUFFIX,vsezoo.com
