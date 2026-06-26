@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MjM1OTc5OQo=
+# Checksum: MTc4MjQ0NjYwNQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: -20260625-1
-# TimeUpdated: 2026-06-25T03:56:39+00:00
+# Version: -20260626-1
+# TimeUpdated: 2026-06-26T04:03:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -10043,6 +10043,7 @@ payload:
   - DOMAIN-SUFFIX,acconsys.com
   - DOMAIN-SUFFIX,accopower.com
   - DOMAIN-SUFFIX,account-api.dji.com
+  - DOMAIN-SUFFIX,account-cn.alibabacloud.com
   - DOMAIN-SUFFIX,account.djicdn.com
   - DOMAIN-SUFFIX,account.htcvive.com
   - DOMAIN-SUFFIX,account.uds-sit.lenovo.com
@@ -12641,6 +12642,7 @@ payload:
   - DOMAIN-SUFFIX,api-forwards.com
   - DOMAIN-SUFFIX,api-m.com
   - DOMAIN-SUFFIX,api-vod-qcloud.com
+  - DOMAIN-SUFFIX,api.alibabacloud.com
   - DOMAIN-SUFFIX,api.anythinktech.com
   - DOMAIN-SUFFIX,api.cnno1.uds.lenovo.com
   - DOMAIN-SUFFIX,api.crisp.chat
@@ -23914,6 +23916,7 @@ payload:
   - DOMAIN-SUFFIX,cn-witmed.com
   - DOMAIN-SUFFIX,cn-zhentai.com
   - DOMAIN-SUFFIX,cn-zhongrui.com
+  - DOMAIN-SUFFIX,cn.alibabacloud.com
   - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,cn.bing.net
   - DOMAIN-SUFFIX,cn.download.nvidia.com
@@ -85877,6 +85880,7 @@ payload:
   - DOMAIN-SUFFIX,stationpc.com
   - DOMAIN-SUFFIX,statistical-report.djiservice.org
   - DOMAIN-SUFFIX,statsinstall.xyz
+  - DOMAIN-SUFFIX,status.alibabacloud.com
   - DOMAIN-SUFFIX,statuslarkoffice.com
   - DOMAIN-SUFFIX,stay-bullish.com
   - DOMAIN-SUFFIX,staybrowser.com
