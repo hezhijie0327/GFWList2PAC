@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4MzEzNTgwOQo=
+# Checksum: MTc4MzIyMzMwNAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260704-1
-# TimeUpdated: 2026-07-04T03:30:09+00:00
+# Version: -20260705-1
+# TimeUpdated: 2026-07-05T03:48:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -3019,6 +3019,7 @@ payload:
   - DOMAIN-SUFFIX,atlassian-dev.net
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,atlassian.net
+  - DOMAIN-SUFFIX,atmeta.com
   - DOMAIN-SUFFIX,atnext.com
   - DOMAIN-SUFFIX,atokara.jp
   - DOMAIN-SUFFIX,atom.io
@@ -3446,6 +3447,7 @@ payload:
   - DOMAIN-SUFFIX,azirevpn.com
   - DOMAIN-SUFFIX,aznude.com
   - DOMAIN-SUFFIX,azubu.tv
+  - DOMAIN-SUFFIX,azure-api.net
   - DOMAIN-SUFFIX,azure-devices-int.net
   - DOMAIN-SUFFIX,azure-devices.net
   - DOMAIN-SUFFIX,azure-dns.com
@@ -3485,6 +3487,7 @@ payload:
   - DOMAIN-SUFFIX,azureserviceprofiler.com
   - DOMAIN-SUFFIX,azuresmartspaces.net
   - DOMAIN-SUFFIX,azurestackvalidation.com
+  - DOMAIN-SUFFIX,azurestaticapps.net
   - DOMAIN-SUFFIX,azurewebsites.net
   - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,b-eroland.net
@@ -8383,6 +8386,7 @@ payload:
   - DOMAIN-SUFFIX,dabr.mobi
   - DOMAIN-SUFFIX,dacebook.com
   - DOMAIN-SUFFIX,dachix.com
+  - DOMAIN-SUFFIX,dadabroadband.com
   - DOMAIN-SUFFIX,dadazim.com
   - DOMAIN-SUFFIX,daddyslilangel.com
   - DOMAIN-SUFFIX,dadi360.com
@@ -24794,6 +24798,7 @@ payload:
   - DOMAIN-SUFFIX,pixnet.tw
   - DOMAIN-SUFFIX,pixonic.com
   - DOMAIN-SUFFIX,pixplug.in
+  - DOMAIN-SUFFIX,pixtastock.com
   - DOMAIN-SUFFIX,pixtronix.com
   - DOMAIN-SUFFIX,pjbyj.top
   - DOMAIN-SUFFIX,pjful-app.lol
@@ -31633,6 +31638,7 @@ payload:
   - DOMAIN-SUFFIX,tw.hao123.com
   - DOMAIN-SUFFIX,tw.iqiyi.com
   - DOMAIN-SUFFIX,tw.jiepang.com
+  - DOMAIN-SUFFIX,tw.pixtastock.com
   - DOMAIN-SUFFIX,tw.weibo.com
   - DOMAIN-SUFFIX,tw01.org
   - DOMAIN-SUFFIX,tw985.com
