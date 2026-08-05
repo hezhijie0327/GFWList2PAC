@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4NTgxMTc5Mgo=
+# Checksum: MTc4NTg5ODAyMgo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260804-0
-# TimeUpdated: 2026-08-04T02:49:52+00:00
+# Version: -20260805-0
+# TimeUpdated: 2026-08-05T02:47:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -8715,6 +8715,8 @@ payload:
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,deepwiki.com
+  - DOMAIN-SUFFIX,deepwiki.org
   - DOMAIN-SUFFIX,deeside.ac.uk
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,defac.ac.uk
@@ -12227,8 +12229,11 @@ payload:
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,flutter.dev
   - DOMAIN-SUFFIX,flutterapp.com
+  - DOMAIN-SUFFIX,fly.dev
+  - DOMAIN-SUFFIX,fly.io
   - DOMAIN-SUFFIX,flyflv.com
   - DOMAIN-SUFFIX,flyingjizz.com
+  - DOMAIN-SUFFIX,flyio.net
   - DOMAIN-SUFFIX,flypool.org
   - DOMAIN-SUFFIX,flyvpn.com
   - DOMAIN-SUFFIX,flyyindh-cc.sbs
@@ -13554,6 +13559,7 @@ payload:
   - DOMAIN-SUFFIX,glenfife.ac.uk
   - DOMAIN-SUFFIX,glenrothes-college.ac.uk
   - DOMAIN-SUFFIX,glhl.ac.uk
+  - DOMAIN-SUFFIX,glitchwave.com
   - DOMAIN-SUFFIX,gllm.ac.uk
   - DOMAIN-SUFFIX,global-sci.org
   - DOMAIN-SUFFIX,global.bing.com
@@ -24141,14 +24147,17 @@ payload:
   - DOMAIN-SUFFIX,ozon-credit.ru
   - DOMAIN-SUFFIX,ozon-dostavka.ru
   - DOMAIN-SUFFIX,ozon-tech.ru
+  - DOMAIN-SUFFIX,ozon.app
   - DOMAIN-SUFFIX,ozon.by
   - DOMAIN-SUFFIX,ozon.com
   - DOMAIN-SUFFIX,ozon.com.by
   - DOMAIN-SUFFIX,ozon.com.kz
   - DOMAIN-SUFFIX,ozon.dev
   - DOMAIN-SUFFIX,ozon.express
+  - DOMAIN-SUFFIX,ozon.global
   - DOMAIN-SUFFIX,ozon.kz
   - DOMAIN-SUFFIX,ozon.li
+  - DOMAIN-SUFFIX,ozon.market
   - DOMAIN-SUFFIX,ozon.ru
   - DOMAIN-SUFFIX,ozon.tech
   - DOMAIN-SUFFIX,ozon.tm
@@ -27221,6 +27230,7 @@ payload:
   - DOMAIN-SUFFIX,rutrecker.net
   - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,rutube.ru
+  - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rutubelist.ru
   - DOMAIN-SUFFIX,ruvideos.net
   - DOMAIN-SUFFIX,ruyiseek.com
@@ -27231,6 +27241,7 @@ payload:
   - DOMAIN-SUFFIX,rwbgeo.ru
   - DOMAIN-SUFFIX,rwcmd.ac.uk
   - DOMAIN-SUFFIX,rxhj.net
+  - DOMAIN-SUFFIX,rym.fm
   - DOMAIN-SUFFIX,ryokoyomiuri.co.jp
   - DOMAIN-SUFFIX,ryukyubank.co.jp
   - DOMAIN-SUFFIX,rzr.to
@@ -28842,6 +28853,7 @@ payload:
   - DOMAIN-SUFFIX,snk-corp.co.jp
   - DOMAIN-SUFFIX,snk-corp.info
   - DOMAIN-SUFFIX,snkplaymore.info
+  - DOMAIN-SUFFIX,snmc.io
   - DOMAIN-SUFFIX,snow-plus.net
   - DOMAIN-SUFFIX,snow.me
   - DOMAIN-SUFFIX,snowcorp.com
@@ -28959,6 +28971,8 @@ payload:
   - DOMAIN-SUFFIX,somerset.ac.uk
   - DOMAIN-SUFFIX,somersetcolleges.ac.uk
   - DOMAIN-SUFFIX,sonatype.org
+  - DOMAIN-SUFFIX,sonematic.net
+  - DOMAIN-SUFFIX,sonemic.com
   - DOMAIN-SUFFIX,songjianjun.com
   - DOMAIN-SUFFIX,sonicbbs.cc
   - DOMAIN-SUFFIX,sonidodelaesperanza.org

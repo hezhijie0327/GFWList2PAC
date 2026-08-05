@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4NTgxMTc5Mgo=
+# Checksum: MTc4NTg5ODAyMgo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20260804-0
-# TimeUpdated: 2026-08-04T02:49:52+00:00
+# Version: -20260805-0
+# TimeUpdated: 2026-08-05T02:47:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000aa.com'
@@ -8715,6 +8715,8 @@ payload:
   - '+.deepl.com'
   - '+.deepmind.com'
   - '+.deepmind.google'
+  - '+.deepwiki.com'
+  - '+.deepwiki.org'
   - '+.deeside.ac.uk'
   - '+.deezer.com'
   - '+.defac.ac.uk'
@@ -12227,8 +12229,11 @@ payload:
   - '+.flurry.com'
   - '+.flutter.dev'
   - '+.flutterapp.com'
+  - '+.fly.dev'
+  - '+.fly.io'
   - '+.flyflv.com'
   - '+.flyingjizz.com'
+  - '+.flyio.net'
   - '+.flypool.org'
   - '+.flyvpn.com'
   - '+.flyyindh-cc.sbs'
@@ -13554,6 +13559,7 @@ payload:
   - '+.glenfife.ac.uk'
   - '+.glenrothes-college.ac.uk'
   - '+.glhl.ac.uk'
+  - '+.glitchwave.com'
   - '+.gllm.ac.uk'
   - '+.global-sci.org'
   - '+.global.bing.com'
@@ -24141,14 +24147,17 @@ payload:
   - '+.ozon-credit.ru'
   - '+.ozon-dostavka.ru'
   - '+.ozon-tech.ru'
+  - '+.ozon.app'
   - '+.ozon.by'
   - '+.ozon.com'
   - '+.ozon.com.by'
   - '+.ozon.com.kz'
   - '+.ozon.dev'
   - '+.ozon.express'
+  - '+.ozon.global'
   - '+.ozon.kz'
   - '+.ozon.li'
+  - '+.ozon.market'
   - '+.ozon.ru'
   - '+.ozon.tech'
   - '+.ozon.tm'
@@ -27221,6 +27230,7 @@ payload:
   - '+.rutrecker.net'
   - '+.rutrk.org'
   - '+.rutube.ru'
+  - '+.rutube.sport'
   - '+.rutubelist.ru'
   - '+.ruvideos.net'
   - '+.ruyiseek.com'
@@ -27231,6 +27241,7 @@ payload:
   - '+.rwbgeo.ru'
   - '+.rwcmd.ac.uk'
   - '+.rxhj.net'
+  - '+.rym.fm'
   - '+.ryokoyomiuri.co.jp'
   - '+.ryukyubank.co.jp'
   - '+.rzr.to'
@@ -28842,6 +28853,7 @@ payload:
   - '+.snk-corp.co.jp'
   - '+.snk-corp.info'
   - '+.snkplaymore.info'
+  - '+.snmc.io'
   - '+.snow-plus.net'
   - '+.snow.me'
   - '+.snowcorp.com'
@@ -28959,6 +28971,8 @@ payload:
   - '+.somerset.ac.uk'
   - '+.somersetcolleges.ac.uk'
   - '+.sonatype.org'
+  - '+.sonematic.net'
+  - '+.sonemic.com'
   - '+.songjianjun.com'
   - '+.sonicbbs.cc'
   - '+.sonidodelaesperanza.org'
