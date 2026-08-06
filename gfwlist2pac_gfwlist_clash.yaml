@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4NTg5ODAyMgo=
+# Checksum: MTc4NTk4NDYxMwo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260805-0
-# TimeUpdated: 2026-08-05T02:47:02+00:00
+# Version: -20260806-0
+# TimeUpdated: 2026-08-06T02:50:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -249,6 +249,7 @@ payload:
   - DOMAIN-SUFFIX,2047.name
   - DOMAIN-SUFFIX,2047.one
   - DOMAIN-SUFFIX,2049bbs.xyz
+  - DOMAIN-SUFFIX,20thcenturystudios.com
   - DOMAIN-SUFFIX,20thcenturystudios.com.au
   - DOMAIN-SUFFIX,20thcenturystudios.com.br
   - DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -287,11 +288,15 @@ payload:
   - DOMAIN-SUFFIX,2bit8.com
   - DOMAIN-SUFFIX,2buybeatsbydre.com
   - DOMAIN-SUFFIX,2ch.hk
+  - DOMAIN-SUFFIX,2ch.life
   - DOMAIN-SUFFIX,2ch.net
+  - DOMAIN-SUFFIX,2ch.org
+  - DOMAIN-SUFFIX,2ch.su
   - DOMAIN-SUFFIX,2chav.com
   - DOMAIN-SUFFIX,2dgen.com
   - DOMAIN-SUFFIX,2drdrebeats.com
   - DOMAIN-SUFFIX,2du5.com
+  - DOMAIN-SUFFIX,2dust.link
   - DOMAIN-SUFFIX,2gayboys.com
   - DOMAIN-SUFFIX,2gis.ae
   - DOMAIN-SUFFIX,2gis.am
@@ -765,6 +770,7 @@ payload:
   - DOMAIN-SUFFIX,abchinese.com
   - DOMAIN-SUFFIX,abclider.com
   - DOMAIN-SUFFIX,abclite.net
+  - DOMAIN-SUFFIX,abcnews.com
   - DOMAIN-SUFFIX,abcol.ac.uk
   - DOMAIN-SUFFIX,abcolstudents.ac.uk
   - DOMAIN-SUFFIX,abdn-access-biomedical.ac.uk
@@ -2036,6 +2042,7 @@ payload:
   - DOMAIN-SUFFIX,amnesty.org.hk
   - DOMAIN-SUFFIX,amnesty.tw
   - DOMAIN-SUFFIX,amnestyusa.org
+  - DOMAIN-SUFFIX,amnezia.org
   - DOMAIN-SUFFIX,amnyemachen.org
   - DOMAIN-SUFFIX,amodoll.com
   - DOMAIN-SUFFIX,amof.ac.uk
@@ -3605,6 +3612,7 @@ payload:
   - DOMAIN-SUFFIX,bam.ac.uk
   - DOMAIN-SUFFIX,bamgrid.com
   - DOMAIN-SUFFIX,bams.ac.uk
+  - DOMAIN-SUFFIX,bamtech.net
   - DOMAIN-SUFFIX,bamtoki.com
   - DOMAIN-SUFFIX,banan.tv
   - DOMAIN-SUFFIX,banana-vpn.com
@@ -7248,8 +7256,10 @@ payload:
   - DOMAIN-SUFFIX,clarin.ac.uk
   - DOMAIN-SUFFIX,clarionproject.org
   - DOMAIN-SUFFIX,clash.com
+  - DOMAIN-SUFFIX,clashmi.app
   - DOMAIN-SUFFIX,clashmini.com
   - DOMAIN-SUFFIX,clashofclans.com
+  - DOMAIN-SUFFIX,clashparty.org
   - DOMAIN-SUFFIX,clashroyale.com
   - DOMAIN-SUFFIX,clashverge.dev
   - DOMAIN-SUFFIX,clashyun.com
@@ -7350,9 +7360,11 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-quic.com
   - DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
+  - DOMAIN-SUFFIX,cloudflare.app
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare.dev
   - DOMAIN-SUFFIX,cloudflare.net
+  - DOMAIN-SUFFIX,cloudflare.pay
   - DOMAIN-SUFFIX,cloudflare.tv
   - DOMAIN-SUFFIX,cloudflareaccess.com
   - DOMAIN-SUFFIX,cloudflareapps.com
@@ -8985,6 +8997,7 @@ payload:
   - DOMAIN-SUFFIX,detaliczny.com
   - DOMAIN-SUFFIX,detentiongirls.com
   - DOMAIN-SUFFIX,detodosparatodos.org
+  - DOMAIN-SUFFIX,detpress.com
   - DOMAIN-SUFFIX,detroitnews.com
   - DOMAIN-SUFFIX,dettol-prize.com
   - DOMAIN-SUFFIX,dettol.at
@@ -9315,7 +9328,9 @@ payload:
   - DOMAIN-SUFFIX,disney.ru
   - DOMAIN-SUFFIX,disney.se
   - DOMAIN-SUFFIX,disney.sg
+  - DOMAIN-SUFFIX,disneyaccount.com
   - DOMAIN-SUFFIX,disneyadsales.com
+  - DOMAIN-SUFFIX,disneyanimation.com
   - DOMAIN-SUFFIX,disneyarena.com
   - DOMAIN-SUFFIX,disneyaulani.com
   - DOMAIN-SUFFIX,disneybaby.com
@@ -9331,6 +9346,7 @@ payload:
   - DOMAIN-SUFFIX,disneyinternationalhd.com
   - DOMAIN-SUFFIX,disneyjunior.com
   - DOMAIN-SUFFIX,disneyjuniortreataday.com
+  - DOMAIN-SUFFIX,disneylandparis.com
   - DOMAIN-SUFFIX,disneylatino.com
   - DOMAIN-SUFFIX,disneymagicmoments.co.il
   - DOMAIN-SUFFIX,disneymagicmoments.co.uk
@@ -9353,11 +9369,13 @@ payload:
   - DOMAIN-SUFFIX,disneyplus.bn5x.net
   - DOMAIN-SUFFIX,disneyplus.com
   - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+  - DOMAIN-SUFFIX,disneyprivacycenter.com
   - DOMAIN-SUFFIX,disneyredirects.com
   - DOMAIN-SUFFIX,disneysrivieraresort.com
   - DOMAIN-SUFFIX,disneystore.com
   - DOMAIN-SUFFIX,disneystreaming.com
   - DOMAIN-SUFFIX,disneysubscription.com
+  - DOMAIN-SUFFIX,disneytermsofuse.com
   - DOMAIN-SUFFIX,disneytickets.co.uk
   - DOMAIN-SUFFIX,disneyturkiye.com.tr
   - DOMAIN-SUFFIX,disneytvajobs.com
@@ -12176,6 +12194,7 @@ payload:
   - DOMAIN-SUFFIX,flatt.tech
   - DOMAIN-SUFFIX,flavournetwork.ac.uk
   - DOMAIN-SUFFIX,flbjc.net
+  - DOMAIN-SUFFIX,flclashx.app
   - DOMAIN-SUFFIX,fldz8.buzz
   - DOMAIN-SUFFIX,flecheinthepeche.fr
   - DOMAIN-SUFFIX,fleek.co
@@ -12220,6 +12239,7 @@ payload:
   - DOMAIN-SUFFIX,flowgpt.com
   - DOMAIN-SUFFIX,flowhongkong.net
   - DOMAIN-SUFFIX,flowtype.org
+  - DOMAIN-SUFFIX,flowvy.io
   - DOMAIN-SUFFIX,flowwow-images.com
   - DOMAIN-SUFFIX,flowwow.com
   - DOMAIN-SUFFIX,fluffychat.im
@@ -12624,6 +12644,7 @@ payload:
   - DOMAIN-SUFFIX,freefacebookads.net
   - DOMAIN-SUFFIX,freefblikes.com
   - DOMAIN-SUFFIX,freefbx.com
+  - DOMAIN-SUFFIX,freeform.com
   - DOMAIN-SUFFIX,freeforums.org
   - DOMAIN-SUFFIX,freefq.com
   - DOMAIN-SUFFIX,freefuckvids.com
@@ -15380,6 +15401,7 @@ payload:
   - DOMAIN-SUFFIX,hongjie10.xyz
   - DOMAIN-SUFFIX,hongjie11.xyz
   - DOMAIN-SUFFIX,hongkong.fandom.com
+  - DOMAIN-SUFFIX,hongkongdisneyland.com
   - DOMAIN-SUFFIX,hongkongdoll.tv
   - DOMAIN-SUFFIX,hongkongdollvideo.org
   - DOMAIN-SUFFIX,hongkongfp.com
@@ -16607,6 +16629,7 @@ payload:
   - DOMAIN-SUFFIX,inclusivegrowthscore.com
   - DOMAIN-SUFFIX,incommon-rsa.org
   - DOMAIN-SUFFIX,incredibox.fr
+  - DOMAIN-SUFFIX,incy.cc
   - DOMAIN-SUFFIX,ind.sh
   - DOMAIN-SUFFIX,indazn.com
   - DOMAIN-SUFFIX,indaznlab.com
@@ -18161,6 +18184,7 @@ payload:
   - DOMAIN-SUFFIX,kards.com
   - DOMAIN-SUFFIX,karechat.ai
   - DOMAIN-SUFFIX,karinahart.com
+  - DOMAIN-SUFFIX,karing.app
   - DOMAIN-SUFFIX,karkhung.com
   - DOMAIN-SUFFIX,karlajames.com
   - DOMAIN-SUFFIX,karmahelp.ru
@@ -19509,6 +19533,7 @@ payload:
   - DOMAIN-SUFFIX,lubetube.com
   - DOMAIN-SUFFIX,lucahmelayu.club
   - DOMAIN-SUFFIX,lucasentertainment.com
+  - DOMAIN-SUFFIX,lucasfilm.com
   - DOMAIN-SUFFIX,lucbjtu.ac.uk
   - DOMAIN-SUFFIX,lucid.ac.uk
   - DOMAIN-SUFFIX,luckydesigner.space
@@ -20078,6 +20103,7 @@ payload:
   - DOMAIN-SUFFIX,matrix.ac.uk
   - DOMAIN-SUFFIX,matrix.org
   - DOMAIN-SUFFIX,matrix.to
+  - DOMAIN-SUFFIX,matsuridayo.github.io
   - DOMAIN-SUFFIX,matsushimakaede.com
   - DOMAIN-SUFFIX,matters.news
   - DOMAIN-SUFFIX,matters.one
@@ -20399,6 +20425,7 @@ payload:
   - DOMAIN-SUFFIX,metacloud.com
   - DOMAIN-SUFFIX,metacpan.org
   - DOMAIN-SUFFIX,metacritic.com
+  - DOMAIN-SUFFIX,metacubex.github.io
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,metadac.ac.uk
   - DOMAIN-SUFFIX,metafilter.com
@@ -21944,7 +21971,6 @@ payload:
   - DOMAIN-SUFFIX,naacoalition.org
   - DOMAIN-SUFFIX,naaktevrouwenporno.com
   - DOMAIN-SUFFIX,nab.com.au
-  - DOMAIN-SUFFIX,nab.demdex.net
   - DOMAIN-SUFFIX,nabble.com
   - DOMAIN-SUFFIX,nabo.go.kr
   - DOMAIN-SUFFIX,nabtravellercard.com.au
@@ -22116,6 +22142,7 @@ payload:
   - DOMAIN-SUFFIX,ncati.ac.uk
   - DOMAIN-SUFFIX,ncaveo.ac.uk
   - DOMAIN-SUFFIX,ncb.ac.uk
+  - DOMAIN-SUFFIX,ncbi.nlm.nih.gov
   - DOMAIN-SUFFIX,ncbradford.ac.uk
   - DOMAIN-SUFFIX,ncc.ac.uk
   - DOMAIN-SUFFIX,nccadultlearning.ac.uk
@@ -22206,6 +22233,7 @@ payload:
   - DOMAIN-SUFFIX,neicad.com
   - DOMAIN-SUFFIX,neiexplicit.com
   - DOMAIN-SUFFIX,neifea.com
+  - DOMAIN-SUFFIX,neigbuy.com
   - DOMAIN-SUFFIX,neimotion.com
   - DOMAIN-SUFFIX,neinastranincad.com
   - DOMAIN-SUFFIX,neipdg.ac.uk
@@ -23134,6 +23162,7 @@ payload:
   - DOMAIN-SUFFIX,nsfwmemes.com
   - DOMAIN-SUFFIX,nsimg.net
   - DOMAIN-SUFFIX,nsirc.ac.uk
+  - DOMAIN-SUFFIX,nsloon.com
   - DOMAIN-SUFFIX,nso.ac.uk
   - DOMAIN-SUFFIX,nspcr.ac.uk
   - DOMAIN-SUFFIX,nspk.ru
@@ -23755,6 +23784,7 @@ payload:
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,onevps.com
   - DOMAIN-SUFFIX,oneworldmanystories.com
+  - DOMAIN-SUFFIX,onexray.com
   - DOMAIN-SUFFIX,onfinality.io
   - DOMAIN-SUFFIX,onindiansex.com
   - DOMAIN-SUFFIX,oninstagram.com
@@ -24918,6 +24948,7 @@ payload:
   - DOMAIN-SUFFIX,piwheels.org
   - DOMAIN-SUFFIX,pixanalytics.com
   - DOMAIN-SUFFIX,pixapp.net
+  - DOMAIN-SUFFIX,pixar.com
   - DOMAIN-SUFFIX,pixate.com
   - DOMAIN-SUFFIX,pixeldrain.com
   - DOMAIN-SUFFIX,pixelmator.com
@@ -25729,6 +25760,7 @@ payload:
   - DOMAIN-SUFFIX,privilege.hk
   - DOMAIN-SUFFIX,privilege.tw
   - DOMAIN-SUFFIX,privoxy.org
+  - DOMAIN-SUFFIX,prizrak.app
   - DOMAIN-SUFFIX,procat.ac.uk
   - DOMAIN-SUFFIX,procatdigital.ac.uk
   - DOMAIN-SUFFIX,procatstudent.ac.uk
@@ -26222,6 +26254,7 @@ payload:
   - DOMAIN-SUFFIX,ra-review.ac.uk
   - DOMAIN-SUFFIX,ra.gg
   - DOMAIN-SUFFIX,raa.ac.uk
+  - DOMAIN-SUFFIX,rabbit-hole-1.gitbook.io
   - DOMAIN-SUFFIX,rabbitcounter.com
   - DOMAIN-SUFFIX,rabbitscams.com
   - DOMAIN-SUFFIX,rabbitscams.sex
@@ -27806,6 +27839,7 @@ payload:
   - DOMAIN-SUFFIX,search.yahoo.co.jp
   - DOMAIN-SUFFIX,search25.ac.uk
   - DOMAIN-SUFFIX,searchapi.culture.tw
+  - DOMAIN-SUFFIX,searchlightpictures.com
   - DOMAIN-SUFFIX,searchtruth.com
   - DOMAIN-SUFFIX,searx.me
   - DOMAIN-SUFFIX,searx.space
@@ -28225,6 +28259,7 @@ payload:
   - DOMAIN-SUFFIX,shadeyouvpn.com
   - DOMAIN-SUFFIX,shadow.ma
   - DOMAIN-SUFFIX,shadowcomplex.com
+  - DOMAIN-SUFFIX,shadowlaunch.com
   - DOMAIN-SUFFIX,shadowsky.xyz
   - DOMAIN-SUFFIX,shadowslaves.com
   - DOMAIN-SUFFIX,shadowsocks-r.com
@@ -29564,6 +29599,8 @@ payload:
   - DOMAIN-SUFFIX,starwarsjedifallenorder.com
   - DOMAIN-SUFFIX,starwarskids.com
   - DOMAIN-SUFFIX,starwarstheoldrepublic.com
+  - DOMAIN-SUFFIX,stash.wiki
+  - DOMAIN-SUFFIX,stash.ws
   - DOMAIN-SUFFIX,stat.gov.tw
   - DOMAIN-SUFFIX,state.gov
   - DOMAIN-SUFFIX,statearmor.org
@@ -30897,6 +30934,7 @@ payload:
   - DOMAIN-SUFFIX,theverge.com
   - DOMAIN-SUFFIX,thevirtualsexreview.com
   - DOMAIN-SUFFIX,thevivekspot.com
+  - DOMAIN-SUFFIX,thewaltdisneycompany.com
   - DOMAIN-SUFFIX,theweek.com
   - DOMAIN-SUFFIX,theweek.in
   - DOMAIN-SUFFIX,thewgo.org
@@ -30974,6 +31012,7 @@ payload:
   - DOMAIN-SUFFIX,thri.xxx
   - DOMAIN-SUFFIX,thrixxx.com
   - DOMAIN-SUFFIX,thron.com
+  - DOMAIN-SUFFIX,throneproj.github.io
   - DOMAIN-SUFFIX,throughnightsfire.com
   - DOMAIN-SUFFIX,thtmod1.com
   - DOMAIN-SUFFIX,thu.monster
@@ -31286,6 +31325,7 @@ payload:
   - DOMAIN-SUFFIX,tokyo-sports.co.jp
   - DOMAIN-SUFFIX,tokyo-tosho.net
   - DOMAIN-SUFFIX,tokyocn.com
+  - DOMAIN-SUFFIX,tokyodisneyresort.jp
   - DOMAIN-SUFFIX,tokyomotion.com
   - DOMAIN-SUFFIX,tokyomotion.net
   - DOMAIN-SUFFIX,tokyonightstyle.com
@@ -33811,6 +33851,7 @@ payload:
   - DOMAIN-SUFFIX,walmartimages.com
   - DOMAIN-SUFFIX,walsall-coce.ac.uk
   - DOMAIN-SUFFIX,walsallcollege.ac.uk
+  - DOMAIN-SUFFIX,waltdisneystudios.com
   - DOMAIN-SUFFIX,waltermartin.com
   - DOMAIN-SUFFIX,waltermartin.org
   - DOMAIN-SUFFIX,waltham.ac.uk
@@ -34150,6 +34191,7 @@ payload:
   - DOMAIN-SUFFIX,wforum.com
   - DOMAIN-SUFFIX,wgcdn.co
   - DOMAIN-SUFFIX,wgcrowd.io
+  - DOMAIN-SUFFIX,wgtunnel.com
   - DOMAIN-SUFFIX,wgu.ac.uk
   - DOMAIN-SUFFIX,wha.la
   - DOMAIN-SUFFIX,whasil.xyz
@@ -34426,6 +34468,7 @@ payload:
   - DOMAIN-SUFFIX,wirelessreach.com
   - DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com
   - DOMAIN-SUFFIX,wireshark.org
+  - DOMAIN-SUFFIX,wiresock.net
   - DOMAIN-SUFFIX,wirralmet.ac.uk
   - DOMAIN-SUFFIX,wisdompubs.org
   - DOMAIN-SUFFIX,wise-research.com
