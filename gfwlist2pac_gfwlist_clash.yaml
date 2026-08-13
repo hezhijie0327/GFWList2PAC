@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4NjUwMDY3OAo=
+# Checksum: MTc4NjU4NzI3OQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260812-0
-# TimeUpdated: 2026-08-12T02:11:18+00:00
+# Version: -20260813-0
+# TimeUpdated: 2026-08-13T02:14:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -5842,6 +5842,7 @@ payload:
   - DOMAIN-SUFFIX,built-in.google
   - DOMAIN-SUFFIX,builtenvsigns.ac.uk
   - DOMAIN-SUFFIX,builtfromebay.com
+  - DOMAIN-SUFFIX,builtwithnix.org
   - DOMAIN-SUFFIX,bukkake-jav.com
   - DOMAIN-SUFFIX,bukkake.link
   - DOMAIN-SUFFIX,bullguard.com
@@ -21890,6 +21891,7 @@ payload:
   - DOMAIN-SUFFIX,mynetav.org
   - DOMAIN-SUFFIX,mynetname.net
   - DOMAIN-SUFFIX,mynike.com
+  - DOMAIN-SUFFIX,mynixos.com
   - DOMAIN-SUFFIX,mynumber.org
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,myparagliding.com
@@ -22931,7 +22933,16 @@ payload:
   - DOMAIN-SUFFIX,nivod.tv
   - DOMAIN-SUFFIX,nivodi.tv
   - DOMAIN-SUFFIX,nivodz.com
+  - DOMAIN-SUFFIX,nix-community.github.io
+  - DOMAIN-SUFFIX,nix-community.org
+  - DOMAIN-SUFFIX,nix.dev
+  - DOMAIN-SUFFIX,nix.store
+  - DOMAIN-SUFFIX,nixcon.org
+  - DOMAIN-SUFFIX,nixcon2017.org
+  - DOMAIN-SUFFIX,nixlang.com
   - DOMAIN-SUFFIX,nixos.org
+  - DOMAIN-SUFFIX,nixos.wiki
+  - DOMAIN-SUFFIX,nixpkgs.org
   - DOMAIN-SUFFIX,niziero.info
   - DOMAIN-SUFFIX,njactb.org
   - DOMAIN-SUFFIX,njav.tv
@@ -35763,6 +35774,7 @@ payload:
   - DOMAIN-SUFFIX,yandex.eu
   - DOMAIN-SUFFIX,yandex.fi
   - DOMAIN-SUFFIX,yandex.fr
+  - DOMAIN-SUFFIX,yandex.it
   - DOMAIN-SUFFIX,yandex.jobs
   - DOMAIN-SUFFIX,yandex.kg
   - DOMAIN-SUFFIX,yandex.kz
