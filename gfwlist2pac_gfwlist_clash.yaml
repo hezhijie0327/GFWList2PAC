@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4OTA5ODUwMAo=
+# Checksum: MTc4OTE4NTEwMQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260911-1
-# TimeUpdated: 2026-09-11T03:48:20+00:00
+# Version: -20260912-1
+# TimeUpdated: 2026-09-12T03:51:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -2309,15 +2309,12 @@ payload:
   - DOMAIN-SUFFIX,aphe.ac.uk
   - DOMAIN-SUFFIX,api-drive.mypikpak.com
   - DOMAIN-SUFFIX,api-extractor.com
-  - DOMAIN-SUFFIX,api-gl.lbkrs.com
   - DOMAIN-SUFFIX,api-p.videomarket.jp
   - DOMAIN-SUFFIX,api-secure.recaptcha.net
   - DOMAIN-SUFFIX,api-verify.recaptcha.net
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,api.dropboxapi.com
-  - DOMAIN-SUFFIX,api.futunn.com
   - DOMAIN-SUFFIX,api.ipify.org
-  - DOMAIN-SUFFIX,api.lbkrs.com
   - DOMAIN-SUFFIX,api.mixpanel.com
   - DOMAIN-SUFFIX,api.moomoobull.com
   - DOMAIN-SUFFIX,api.nebula-emby.com
@@ -2329,7 +2326,6 @@ payload:
   - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,api.viu.now.com
   - DOMAIN-SUFFIX,api.waqi.info
-  - DOMAIN-SUFFIX,api5.futunn.com
   - DOMAIN-SUFFIX,apiary.io
   - DOMAIN-SUFFIX,apiauto.ru
   - DOMAIN-SUFFIX,apibay.org
@@ -6597,7 +6593,6 @@ payload:
   - DOMAIN-SUFFIX,cdn-vk.ru
   - DOMAIN-SUFFIX,cdn.ac.uk
   - DOMAIN-SUFFIX,cdn.arstechnica.net
-  - DOMAIN-SUFFIX,cdn.futustatic.com
   - DOMAIN-SUFFIX,cdn.js7k.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.jwplayer.com
@@ -7482,7 +7477,6 @@ payload:
   - DOMAIN-SUFFIX,cn.sandscotaicentral.com
   - DOMAIN-SUFFIX,cn.shafaqna.com
   - DOMAIN-SUFFIX,cn.theaustralian.com.au
-  - DOMAIN-SUFFIX,cn.uptodown.com
   - DOMAIN-SUFFIX,cn6.eu
   - DOMAIN-SUFFIX,cna.com.tw
   - DOMAIN-SUFFIX,cnbbnews.wordpress.com
@@ -9697,7 +9691,6 @@ payload:
   - DOMAIN-SUFFIX,download.com
   - DOMAIN-SUFFIX,download.dappcdn.com
   - DOMAIN-SUFFIX,download.fastgit.org
-  - DOMAIN-SUFFIX,download.futunn.com
   - DOMAIN-SUFFIX,download.qatp1.net
   - DOMAIN-SUFFIX,download.qcpp1.net
   - DOMAIN-SUFFIX,download.qpdp1.net
@@ -19648,7 +19641,6 @@ payload:
   - DOMAIN-SUFFIX,m-power.com
   - DOMAIN-SUFFIX,m-rhex.ac.uk
   - DOMAIN-SUFFIX,m-sport.co.uk
-  - DOMAIN-SUFFIX,m.hkgalden.com
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,m.moegirl.org
   - DOMAIN-SUFFIX,m1.ppy.sh
@@ -23934,12 +23926,8 @@ payload:
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,openamt.com
   - DOMAIN-SUFFIX,openapi-quote.longbridge.cn
-  - DOMAIN-SUFFIX,openapi-quote.longbridge.com
   - DOMAIN-SUFFIX,openapi-trade.longbridge.cn
-  - DOMAIN-SUFFIX,openapi-trade.longbridge.com
-  - DOMAIN-SUFFIX,openapi.futunn.com
   - DOMAIN-SUFFIX,openapi.longbridge.cn
-  - DOMAIN-SUFFIX,openapi.longbridge.com
   - DOMAIN-SUFFIX,openapiplatform.com
   - DOMAIN-SUFFIX,openapiservice.com
   - DOMAIN-SUFFIX,openart.ai
@@ -26187,13 +26175,12 @@ payload:
   - DOMAIN-SUFFIX,qstatus.com
   - DOMAIN-SUFFIX,qt-project.org
   - DOMAIN-SUFFIX,qt.io
-  - DOMAIN-SUFFIX,qtcard.futunn.com
-  - DOMAIN-SUFFIX,qtcardfthk.futufin.com
   - DOMAIN-SUFFIX,qtrac.eu
   - DOMAIN-SUFFIX,qtweeter.com
   - DOMAIN-SUFFIX,quadram.ac.uk
   - DOMAIN-SUFFIX,quadraminstitute.ac.uk
   - DOMAIN-SUFFIX,quadrat.ac.uk
+  - DOMAIN-SUFFIX,quakemachinex.com
   - DOMAIN-SUFFIX,qualcomm-email.com
   - DOMAIN-SUFFIX,qualcomm-inc.com
   - DOMAIN-SUFFIX,qualcomm.co.id
@@ -30098,7 +30085,6 @@ payload:
   - DOMAIN-SUFFIX,supply-chain.ac.uk
   - DOMAIN-SUFFIX,supplybestjerseys.com
   - DOMAIN-SUFFIX,support-uber.com
-  - DOMAIN-SUFFIX,support.futunn.com
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,supr.cl
   - DOMAIN-SUFFIX,supremacy.com
@@ -31565,8 +31551,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.gg
   - DOMAIN-SUFFIX,tracker.network
   - DOMAIN-SUFFIX,tracking-location.com
-  - DOMAIN-SUFFIX,trade.futunn.com
-  - DOMAIN-SUFFIX,trade.longportapp.com
   - DOMAIN-SUFFIX,tradeup.com
   - DOMAIN-SUFFIX,tradevip1.com
   - DOMAIN-SUFFIX,tradingview.com
