@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4OTQ0NTIwNwo=
+# Checksum: MTc4OTUzMTQxNQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20260915-1
-# TimeUpdated: 2026-09-15T04:06:47+00:00
+# Version: -20260916-1
+# TimeUpdated: 2026-09-16T04:03:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000aa.com'
@@ -24263,6 +24263,7 @@ payload:
   - '+.ozyoyo.com'
   - '+.p-cdn.us'
   - '+.p-events-delivery.akamaized.net'
+  - '+.p16-tiktok-dm-sticker-sign-sg.ibyteimg.com'
   - '+.p16-tiktokcdn-com.akamaized.net'
   - '+.pa9pal.com'
   - '+.paaypal.com'
@@ -29922,6 +29923,9 @@ payload:
   - '+.stripe-terminal-local-reader.net'
   - '+.stripe.ac.uk'
   - '+.stripe.com'
+  - '+.stripe.dev'
+  - '+.stripe.events'
+  - '+.stripe.global'
   - '+.stripe.network'
   - '+.stripecdn.com'
   - '+.stripparadise.com'

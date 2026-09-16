@@ -1,7 +1,7 @@
-# Checksum: MTc4OTQ0NTIwNwo=
+# Checksum: MTc4OTUzMTQxNQo=
 # Title: Zhijie's GFWList for Surge
-# Version: -20260915-1
-# TimeUpdated: 2026-09-15T04:06:47+00:00
+# Version: -20260916-1
+# TimeUpdated: 2026-09-16T04:03:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000aa.com,PROXY
@@ -24262,6 +24262,7 @@ DOMAIN-SUFFIX,ozvoice.org,PROXY
 DOMAIN-SUFFIX,ozyoyo.com,PROXY
 DOMAIN-SUFFIX,p-cdn.us,PROXY
 DOMAIN-SUFFIX,p-events-delivery.akamaized.net,PROXY
+DOMAIN-SUFFIX,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com,PROXY
 DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net,PROXY
 DOMAIN-SUFFIX,pa9pal.com,PROXY
 DOMAIN-SUFFIX,paaypal.com,PROXY
@@ -29921,6 +29922,9 @@ DOMAIN-SUFFIX,stripchat.com,PROXY
 DOMAIN-SUFFIX,stripe-terminal-local-reader.net,PROXY
 DOMAIN-SUFFIX,stripe.ac.uk,PROXY
 DOMAIN-SUFFIX,stripe.com,PROXY
+DOMAIN-SUFFIX,stripe.dev,PROXY
+DOMAIN-SUFFIX,stripe.events,PROXY
+DOMAIN-SUFFIX,stripe.global,PROXY
 DOMAIN-SUFFIX,stripe.network,PROXY
 DOMAIN-SUFFIX,stripecdn.com,PROXY
 DOMAIN-SUFFIX,stripparadise.com,PROXY
