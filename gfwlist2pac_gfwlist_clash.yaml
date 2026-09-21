@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4OTg3NzQwNQo=
+# Checksum: MTc4OTk2MzYzNQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260920-1
-# TimeUpdated: 2026-09-20T04:10:05+00:00
+# Version: -20260921-1
+# TimeUpdated: 2026-09-21T04:07:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -7580,6 +7580,7 @@ payload:
   - DOMAIN-SUFFIX,code1984.com
   - DOMAIN-SUFFIX,codeberg.org
   - DOMAIN-SUFFIX,codeberg.page
+  - DOMAIN-SUFFIX,codebuff.com
   - DOMAIN-SUFFIX,codecademy.com
   - DOMAIN-SUFFIX,codeforaliving.io
   - DOMAIN-SUFFIX,codeforces.com
@@ -12125,11 +12126,13 @@ payload:
   - DOMAIN-SUFFIX,fire-emblem-heroes.com
   - DOMAIN-SUFFIX,firearmsworld.net
   - DOMAIN-SUFFIX,firebase.com
-  - DOMAIN-SUFFIX,firebase.google.com
+  - DOMAIN-SUFFIX,firebase.dev
   - DOMAIN-SUFFIX,firebase.googleapis.com
   - DOMAIN-SUFFIX,firebase.io
   - DOMAIN-SUFFIX,firebaseapp.com
   - DOMAIN-SUFFIX,firebaseappcheck.googleapis.com
+  - DOMAIN-SUFFIX,firebaseappdistribution.googleapis.com
+  - DOMAIN-SUFFIX,firebaseapptesters.googleapis.com
   - DOMAIN-SUFFIX,firebasedynamiclinks-ipv4.googleapis.com
   - DOMAIN-SUFFIX,firebasedynamiclinks-ipv6.googleapis.com
   - DOMAIN-SUFFIX,firebasedynamiclinks.googleapis.com
@@ -12143,6 +12146,7 @@ payload:
   - DOMAIN-SUFFIX,firech.at
   - DOMAIN-SUFFIX,fireemblemawakening.com
   - DOMAIN-SUFFIX,fireflyresearch.ac.uk
+  - DOMAIN-SUFFIX,firefox-portal-detection.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.hu
   - DOMAIN-SUFFIX,firefoxtweetmachine.com
@@ -12639,6 +12643,7 @@ payload:
   - DOMAIN-SUFFIX,freebrowser.org
   - DOMAIN-SUFFIX,freebs.com
   - DOMAIN-SUFFIX,freebsd.org
+  - DOMAIN-SUFFIX,freebuff.com
   - DOMAIN-SUFFIX,freecamsfan.com
   - DOMAIN-SUFFIX,freecamstars.com
   - DOMAIN-SUFFIX,freecartoons.biz
@@ -30756,6 +30761,7 @@ payload:
   - DOMAIN-SUFFIX,textnow.me
   - DOMAIN-SUFFIX,texttobuy.org
   - DOMAIN-SUFFIX,texture.com
+  - DOMAIN-SUFFIX,tfbnw.net
   - DOMAIN-SUFFIX,tfc-taiwan.org.tw
   - DOMAIN-SUFFIX,tferwq.com
   - DOMAIN-SUFFIX,tfhub.dev

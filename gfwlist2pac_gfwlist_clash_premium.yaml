@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4OTg3NzQwNQo=
+# Checksum: MTc4OTk2MzYzNQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20260920-1
-# TimeUpdated: 2026-09-20T04:10:05+00:00
+# Version: -20260921-1
+# TimeUpdated: 2026-09-21T04:07:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000aa.com'
@@ -7580,6 +7580,7 @@ payload:
   - '+.code1984.com'
   - '+.codeberg.org'
   - '+.codeberg.page'
+  - '+.codebuff.com'
   - '+.codecademy.com'
   - '+.codeforaliving.io'
   - '+.codeforces.com'
@@ -12125,11 +12126,13 @@ payload:
   - '+.fire-emblem-heroes.com'
   - '+.firearmsworld.net'
   - '+.firebase.com'
-  - '+.firebase.google.com'
+  - '+.firebase.dev'
   - '+.firebase.googleapis.com'
   - '+.firebase.io'
   - '+.firebaseapp.com'
   - '+.firebaseappcheck.googleapis.com'
+  - '+.firebaseappdistribution.googleapis.com'
+  - '+.firebaseapptesters.googleapis.com'
   - '+.firebasedynamiclinks-ipv4.googleapis.com'
   - '+.firebasedynamiclinks-ipv6.googleapis.com'
   - '+.firebasedynamiclinks.googleapis.com'
@@ -12143,6 +12146,7 @@ payload:
   - '+.firech.at'
   - '+.fireemblemawakening.com'
   - '+.fireflyresearch.ac.uk'
+  - '+.firefox-portal-detection.com'
   - '+.firefox.com'
   - '+.firefox.hu'
   - '+.firefoxtweetmachine.com'
@@ -12639,6 +12643,7 @@ payload:
   - '+.freebrowser.org'
   - '+.freebs.com'
   - '+.freebsd.org'
+  - '+.freebuff.com'
   - '+.freecamsfan.com'
   - '+.freecamstars.com'
   - '+.freecartoons.biz'
@@ -30756,6 +30761,7 @@ payload:
   - '+.textnow.me'
   - '+.texttobuy.org'
   - '+.texture.com'
+  - '+.tfbnw.net'
   - '+.tfc-taiwan.org.tw'
   - '+.tferwq.com'
   - '+.tfhub.dev'

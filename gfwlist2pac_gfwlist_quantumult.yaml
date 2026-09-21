@@ -1,7 +1,7 @@
-# Checksum: MTc4OTg3NzQwNQo=
+# Checksum: MTc4OTk2MzYzNQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: -20260920-1
-# TimeUpdated: 2026-09-20T04:10:05+00:00
+# Version: -20260921-1
+# TimeUpdated: 2026-09-21T04:07:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000aa.com,PROXY
@@ -7579,6 +7579,7 @@ DOMAIN-SUFFIX,code.org,PROXY
 DOMAIN-SUFFIX,code1984.com,PROXY
 DOMAIN-SUFFIX,codeberg.org,PROXY
 DOMAIN-SUFFIX,codeberg.page,PROXY
+DOMAIN-SUFFIX,codebuff.com,PROXY
 DOMAIN-SUFFIX,codecademy.com,PROXY
 DOMAIN-SUFFIX,codeforaliving.io,PROXY
 DOMAIN-SUFFIX,codeforces.com,PROXY
@@ -12124,11 +12125,13 @@ DOMAIN-SUFFIX,fircroft.ac.uk,PROXY
 DOMAIN-SUFFIX,fire-emblem-heroes.com,PROXY
 DOMAIN-SUFFIX,firearmsworld.net,PROXY
 DOMAIN-SUFFIX,firebase.com,PROXY
-DOMAIN-SUFFIX,firebase.google.com,PROXY
+DOMAIN-SUFFIX,firebase.dev,PROXY
 DOMAIN-SUFFIX,firebase.googleapis.com,PROXY
 DOMAIN-SUFFIX,firebase.io,PROXY
 DOMAIN-SUFFIX,firebaseapp.com,PROXY
 DOMAIN-SUFFIX,firebaseappcheck.googleapis.com,PROXY
+DOMAIN-SUFFIX,firebaseappdistribution.googleapis.com,PROXY
+DOMAIN-SUFFIX,firebaseapptesters.googleapis.com,PROXY
 DOMAIN-SUFFIX,firebasedynamiclinks-ipv4.googleapis.com,PROXY
 DOMAIN-SUFFIX,firebasedynamiclinks-ipv6.googleapis.com,PROXY
 DOMAIN-SUFFIX,firebasedynamiclinks.googleapis.com,PROXY
@@ -12142,6 +12145,7 @@ DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com,PROXY
 DOMAIN-SUFFIX,firech.at,PROXY
 DOMAIN-SUFFIX,fireemblemawakening.com,PROXY
 DOMAIN-SUFFIX,fireflyresearch.ac.uk,PROXY
+DOMAIN-SUFFIX,firefox-portal-detection.com,PROXY
 DOMAIN-SUFFIX,firefox.com,PROXY
 DOMAIN-SUFFIX,firefox.hu,PROXY
 DOMAIN-SUFFIX,firefoxtweetmachine.com,PROXY
@@ -12638,6 +12642,7 @@ DOMAIN-SUFFIX,freebigmovies.com,PROXY
 DOMAIN-SUFFIX,freebrowser.org,PROXY
 DOMAIN-SUFFIX,freebs.com,PROXY
 DOMAIN-SUFFIX,freebsd.org,PROXY
+DOMAIN-SUFFIX,freebuff.com,PROXY
 DOMAIN-SUFFIX,freecamsfan.com,PROXY
 DOMAIN-SUFFIX,freecamstars.com,PROXY
 DOMAIN-SUFFIX,freecartoons.biz,PROXY
@@ -30755,6 +30760,7 @@ DOMAIN-SUFFIX,textnow.com,PROXY
 DOMAIN-SUFFIX,textnow.me,PROXY
 DOMAIN-SUFFIX,texttobuy.org,PROXY
 DOMAIN-SUFFIX,texture.com,PROXY
+DOMAIN-SUFFIX,tfbnw.net,PROXY
 DOMAIN-SUFFIX,tfc-taiwan.org.tw,PROXY
 DOMAIN-SUFFIX,tferwq.com,PROXY
 DOMAIN-SUFFIX,tfhub.dev,PROXY
