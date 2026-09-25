@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MDIyMjE0MAo=
+# Checksum: MTc5MDMwOTQxMgo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260924-1
-# TimeUpdated: 2026-09-24T03:55:40+00:00
+# Version: -20260925-1
+# TimeUpdated: 2026-09-25T04:10:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -19081,7 +19081,6 @@ payload:
   - DOMAIN-SUFFIX,likee.com
   - DOMAIN-SUFFIX,likeeapp.ru
   - DOMAIN-SUFFIX,likeevideo.com
-  - DOMAIN-SUFFIX,likeevideo.ru
   - DOMAIN-SUFFIX,likeseiyu.com
   - DOMAIN-SUFFIX,liketruyen.net
   - DOMAIN-SUFFIX,liketwice.com
@@ -19164,6 +19163,7 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,linux.org
   - DOMAIN-SUFFIX,linux.org.hk
+  - DOMAIN-SUFFIX,linux.sb
   - DOMAIN-SUFFIX,linuxfoundation.org
   - DOMAIN-SUFFIX,linuxfromscratch.org
   - DOMAIN-SUFFIX,linuxmint.com
