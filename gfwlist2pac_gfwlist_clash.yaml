@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MDY1ODAyNgo=
+# Checksum: MTc5MDc0MzYzNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20260929-1
-# TimeUpdated: 2026-09-29T05:00:26+00:00
+# Version: -20260930-1
+# TimeUpdated: 2026-09-30T04:47:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -7492,7 +7492,6 @@ payload:
   - DOMAIN-SUFFIX,cnet.com
   - DOMAIN-SUFFIX,cnet.de
   - DOMAIN-SUFFIX,cnetfrance.fr
-  - DOMAIN-SUFFIX,cnex.org.cn
   - DOMAIN-SUFFIX,cnineu.com
   - DOMAIN-SUFFIX,cnivogue.com.au
   - DOMAIN-SUFFIX,cnix-gov-cn.com
@@ -13291,6 +13290,8 @@ payload:
   - DOMAIN-SUFFIX,gemfury.com
   - DOMAIN-SUFFIX,gemini.com
   - DOMAIN-SUFFIX,gemini.google
+  - DOMAIN-SUFFIX,geminiweb-pa.clients.google.com
+  - DOMAIN-SUFFIX,geminiweb-pa.clients6.google.com
   - DOMAIN-SUFFIX,gen.lib.rus.ec
   - DOMAIN-SUFFIX,gen.tr
   - DOMAIN-SUFFIX,gen2.ac.uk
@@ -15849,6 +15850,7 @@ payload:
   - DOMAIN-SUFFIX,huarenav.com
   - DOMAIN-SUFFIX,huarenjie.com
   - DOMAIN-SUFFIX,huarenporn.com
+  - DOMAIN-SUFFIX,huarun.win
   - DOMAIN-SUFFIX,huashangnews.com
   - DOMAIN-SUFFIX,huashundg.com
   - DOMAIN-SUFFIX,huasing.org
@@ -20462,6 +20464,7 @@ payload:
   - DOMAIN-SUFFIX,met-nude.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metabolomics.ac.uk
   - DOMAIN-SUFFIX,metabora.io
   - DOMAIN-SUFFIX,metabrainz.org
@@ -21684,6 +21687,7 @@ payload:
   - DOMAIN-SUFFIX,muscache.com
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,musclegirlflix.com
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,muse.jhu.edu
   - DOMAIN-SUFFIX,museumofwriting.ac.uk
   - DOMAIN-SUFFIX,museumwales.ac.uk
@@ -23946,6 +23950,7 @@ payload:
   - DOMAIN-SUFFIX,openbook.org.tw
   - DOMAIN-SUFFIX,opencas.io
   - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,opencollective.com
   - DOMAIN-SUFFIX,opencreate.org
   - DOMAIN-SUFFIX,opencritic.com
@@ -24046,7 +24051,6 @@ payload:
   - DOMAIN-SUFFIX,oreillystatic.com
   - DOMAIN-SUFFIX,oreno3d.com
   - DOMAIN-SUFFIX,org.au
-  - DOMAIN-SUFFIX,org.cn
   - DOMAIN-SUFFIX,org.hk
   - DOMAIN-SUFFIX,org.il
   - DOMAIN-SUFFIX,org.mx
