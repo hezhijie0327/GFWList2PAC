@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MDkxNjU4OQo=
+# Checksum: MTc5MTAwMjAwMAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20261002-1
-# TimeUpdated: 2026-10-02T04:49:49+00:00
+# Version: -20261003-1
+# TimeUpdated: 2026-10-03T04:33:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -7291,6 +7291,7 @@ payload:
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claude.dev
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
@@ -28670,6 +28671,7 @@ payload:
   - DOMAIN-SUFFIX,sinchew.my
   - DOMAIN-SUFFIX,sinet.ac.uk
   - DOMAIN-SUFFIX,sing-box.app
+  - DOMAIN-SUFFIX,sing-box.sagernet.org
   - DOMAIN-SUFFIX,sing4.lat
   - DOMAIN-SUFFIX,sing68.com
   - DOMAIN-SUFFIX,singaporepools.com.sg
