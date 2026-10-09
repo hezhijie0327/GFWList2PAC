@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MTQzNjY1MQo=
+# Checksum: MTc5MTUyMzIzMAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20261008-1
-# TimeUpdated: 2026-10-08T05:17:31+00:00
+# Version: -20261009-1
+# TimeUpdated: 2026-10-09T05:20:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -4442,6 +4442,7 @@ payload:
   - DOMAIN-SUFFIX,bigf.ac.uk
   - DOMAIN-SUFFIX,bigfools.com
   - DOMAIN-SUFFIX,biggggg.com
+  - DOMAIN-SUFFIX,biggo.com
   - DOMAIN-SUFFIX,biggo.com.tw
   - DOMAIN-SUFFIX,bighead.group
   - DOMAIN-SUFFIX,bighealthactuarialdata.ac.uk
@@ -7925,6 +7926,8 @@ payload:
   - DOMAIN-SUFFIX,copac.ac.uk
   - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
   - DOMAIN-SUFFIX,copilot-stg.com
+  - DOMAIN-SUFFIX,copilot-telemetry-service.githubusercontent.com
+  - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
   - DOMAIN-SUFFIX,copilot-workspace.githubnext.com
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
@@ -16677,6 +16680,8 @@ payload:
   - DOMAIN-SUFFIX,incloak.com
   - DOMAIN-SUFFIX,inclusion.ac.uk
   - DOMAIN-SUFFIX,inclusivegrowthscore.com
+  - DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
+  - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
   - DOMAIN-SUFFIX,incommon-rsa.org
   - DOMAIN-SUFFIX,incredibox.fr
   - DOMAIN-SUFFIX,incy.cc
@@ -21071,6 +21076,7 @@ payload:
   - DOMAIN-SUFFIX,mirror.ac.uk
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,mirrorbooks.com
+  - DOMAIN-SUFFIX,mirrordaily.news
   - DOMAIN-SUFFIX,mirrormedia.com.tw
   - DOMAIN-SUFFIX,mirrormedia.mg
   - DOMAIN-SUFFIX,mirrormediagroup.com
@@ -21647,6 +21653,7 @@ payload:
   - DOMAIN-SUFFIX,mtalk4.google.com
   - DOMAIN-SUFFIX,mtao.fun
   - DOMAIN-SUFFIX,mtec.ac.uk
+  - DOMAIN-SUFFIX,mtgamer.com
   - DOMAIN-SUFFIX,mthruf.com
   - DOMAIN-SUFFIX,mti.ac.uk
   - DOMAIN-SUFFIX,mts-ws.net
@@ -25961,7 +25968,6 @@ payload:
   - DOMAIN-SUFFIX,prozz.net
   - DOMAIN-SUFFIX,prpops.com
   - DOMAIN-SUFFIX,prs-ltsn.ac.uk
-  - DOMAIN-SUFFIX,prts.plus
   - DOMAIN-SUFFIX,prucomm.ac.uk
   - DOMAIN-SUFFIX,prvbank.ru
   - DOMAIN-SUFFIX,ps-exchange.com
@@ -31051,6 +31057,7 @@ payload:
   - DOMAIN-SUFFIX,theweek.in
   - DOMAIN-SUFFIX,thewgo.org
   - DOMAIN-SUFFIX,thewirechina.com
+  - DOMAIN-SUFFIX,thewitnesshk.com
   - DOMAIN-SUFFIX,thewomenslibrary.ac.uk
   - DOMAIN-SUFFIX,thewonderful101.com
   - DOMAIN-SUFFIX,theync.com
