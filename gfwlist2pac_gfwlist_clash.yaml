@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MjIwODM3MQo=
+# Checksum: MTc5MjI5NTE0NAo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20261017-1
-# TimeUpdated: 2026-10-17T03:39:31+00:00
+# Version: -20261018-1
+# TimeUpdated: 2026-10-18T03:45:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -8355,6 +8355,7 @@ payload:
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursorvm.com
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,curvefish.com
   - DOMAIN-SUFFIX,curvybbwwives.com
@@ -24017,6 +24018,7 @@ payload:
   - DOMAIN-SUFFIX,open.com.hk
   - DOMAIN-SUFFIX,open.firstory.me
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.org
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaiassets.blob.core.windows.net
   - DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -27838,6 +27840,7 @@ payload:
   - DOMAIN-SUFFIX,schwab.com.hk
   - DOMAIN-SUFFIX,schwab.com.sg
   - DOMAIN-SUFFIX,schwabassetmanagement.com
+  - DOMAIN-SUFFIX,schwabcdn.com
   - DOMAIN-SUFFIX,schwabplan.com
   - DOMAIN-SUFFIX,sci-hub.it.nf
   - DOMAIN-SUFFIX,sci-hub.mksa.top
@@ -31398,6 +31401,8 @@ payload:
   - DOMAIN-SUFFIX,timestalks.com
   - DOMAIN-SUFFIX,timeweb.cloud
   - DOMAIN-SUFFIX,timeweb.com
+  - DOMAIN-SUFFIX,timeweb.tech
+  - DOMAIN-SUFFIX,timewebcloud.kz
   - DOMAIN-SUFFIX,timi1.me
   - DOMAIN-SUFFIX,timo0.com
   - DOMAIN-SUFFIX,timsah.com
@@ -32231,6 +32236,7 @@ payload:
   - DOMAIN-SUFFIX,typekit.net
   - DOMAIN-SUFFIX,typenetwork.com
   - DOMAIN-SUFFIX,typepad.com
+  - DOMAIN-SUFFIX,typesafe.ai
   - DOMAIN-SUFFIX,typeset.io
   - DOMAIN-SUFFIX,typesquare.com
   - DOMAIN-SUFFIX,typography.com
