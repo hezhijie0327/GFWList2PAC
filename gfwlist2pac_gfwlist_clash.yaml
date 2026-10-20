@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MjM4MjEzNAo=
+# Checksum: MTc5MjQ2OTI3NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20261019-1
-# TimeUpdated: 2026-10-19T03:55:34+00:00
+# Version: -20261020-1
+# TimeUpdated: 2026-10-20T04:07:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -2976,7 +2976,6 @@ payload:
   - DOMAIN-SUFFIX,asminternational.org
   - DOMAIN-SUFFIX,asmrbuluo.com
   - DOMAIN-SUFFIX,asn-online.org
-  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,asp-cc.com
   - DOMAIN-SUFFIX,asp.net
   - DOMAIN-SUFFIX,aspbjournals.org
@@ -12305,7 +12304,6 @@ payload:
   - DOMAIN-SUFFIX,flickr.net
   - DOMAIN-SUFFIX,flickrhivemind.net
   - DOMAIN-SUFFIX,flickriver.com
-  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,fling.com
   - DOMAIN-SUFFIX,flipboard.com
   - DOMAIN-SUFFIX,flipfap.com
@@ -18638,6 +18636,8 @@ payload:
   - DOMAIN-SUFFIX,koubaibu.jp
   - DOMAIN-SUFFIX,koukoku.jp
   - DOMAIN-SUFFIX,kouwobb.com
+  - DOMAIN-SUFFIX,kp-config-smart-tv.akamaized.net
+  - DOMAIN-SUFFIX,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
   - DOMAIN-SUFFIX,kpacg.com
   - DOMAIN-SUFFIX,kphimsex.net
   - DOMAIN-SUFFIX,kpht85.com
@@ -19847,6 +19847,7 @@ payload:
   - DOMAIN-SUFFIX,magicmovies.com
   - DOMAIN-SUFFIX,maglue.ac.uk
   - DOMAIN-SUFFIX,magnacartacollege.ac.uk
+  - DOMAIN-SUFFIX,magnific.com
   - DOMAIN-SUFFIX,mahabodhi.org
   - DOMAIN-SUFFIX,mahajantech.com
   - DOMAIN-SUFFIX,mahjongsoul.com
@@ -21712,6 +21713,7 @@ payload:
   - DOMAIN-SUFFIX,mtgamer.com
   - DOMAIN-SUFFIX,mthruf.com
   - DOMAIN-SUFFIX,mti.ac.uk
+  - DOMAIN-SUFFIX,mts-link.ru
   - DOMAIN-SUFFIX,mts-ws.net
   - DOMAIN-SUFFIX,mts.ru
   - DOMAIN-SUFFIX,mtsbank.ru
@@ -25745,6 +25747,7 @@ payload:
   - DOMAIN-SUFFIX,postimg.cc
   - DOMAIN-SUFFIX,postimg.org
   - DOMAIN-SUFFIX,postini.com
+  - DOMAIN-SUFFIX,postman.com
   - DOMAIN-SUFFIX,posts.careerengine.us
   - DOMAIN-SUFFIX,posty.kr
   - DOMAIN-SUFFIX,postyourgirls.ws
