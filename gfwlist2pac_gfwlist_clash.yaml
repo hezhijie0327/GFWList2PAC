@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MjU1NDk3OQo=
+# Checksum: MTc5MjY0MTQwMwo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20261021-1
-# TimeUpdated: 2026-10-21T03:56:19+00:00
+# Version: -20261022-1
+# TimeUpdated: 2026-10-22T03:56:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -2220,6 +2220,7 @@ payload:
   - DOMAIN-SUFFIX,ansarbank.com
   - DOMAIN-SUFFIX,ansin.erodayo.com
   - DOMAIN-SUFFIX,answering-islam.org
+  - DOMAIN-SUFFIX,ant.dev
   - DOMAIN-SUFFIX,antarctic.ac.uk
   - DOMAIN-SUFFIX,antarctica.ac.uk
   - DOMAIN-SUFFIX,antarvasnaclips.com
@@ -2231,6 +2232,7 @@ payload:
   - DOMAIN-SUFFIX,anthemthegame.com
   - DOMAIN-SUFFIX,anthonycalzadilla.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,anthropic.team
   - DOMAIN-SUFFIX,anthropology.ac.uk
   - DOMAIN-SUFFIX,anti1984.com
   - DOMAIN-SUFFIX,antichristendom.com
@@ -2246,6 +2248,7 @@ payload:
   - DOMAIN-SUFFIX,antisocial.science
   - DOMAIN-SUFFIX,antiwave.net
   - DOMAIN-SUFFIX,antpool.com
+  - DOMAIN-SUFFIX,antspace.dev
   - DOMAIN-SUFFIX,anudetube.com
   - DOMAIN-SUFFIX,anuneko.com
   - DOMAIN-SUFFIX,anws.gov.tw
@@ -6838,6 +6841,7 @@ payload:
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chat.lmsys.org
   - DOMAIN-SUFFIX,chatango.com
+  - DOMAIN-SUFFIX,chatbotclaude.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,chatgpt.site
@@ -7328,10 +7332,16 @@ payload:
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.app
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.dev
+  - DOMAIN-SUFFIX,claude.new
+  - DOMAIN-SUFFIX,claude.site
+  - DOMAIN-SUFFIX,claudeacademy.com
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudepages.dev
+  - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clb.org.hk
@@ -8507,6 +8517,7 @@ payload:
   - DOMAIN-SUFFIX,d3lh5kkip965lj.cloudfront.net
   - DOMAIN-SUFFIX,d3nwj80emtnjeo.cloudfront.net
   - DOMAIN-SUFFIX,d3r7nsslvs6aaf.cloudfront.net
+  - DOMAIN-SUFFIX,d3stzm2eumvgb4.cloudfront.net
   - DOMAIN-SUFFIX,d3ucl0eqgl80l5.cloudfront.net
   - DOMAIN-SUFFIX,d3vd9lfkzbru3h.cloudfront.net
   - DOMAIN-SUFFIX,d4dj-pj.com
@@ -12340,6 +12351,17 @@ payload:
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,flutter.dev
   - DOMAIN-SUFFIX,flutterapp.com
+  - DOMAIN-SUFFIX,fluxer.app
+  - DOMAIN-SUFFIX,fluxer.com
+  - DOMAIN-SUFFIX,fluxer.dev
+  - DOMAIN-SUFFIX,fluxer.gg
+  - DOMAIN-SUFFIX,fluxer.gift
+  - DOMAIN-SUFFIX,fluxer.media
+  - DOMAIN-SUFFIX,fluxer.tools
+  - DOMAIN-SUFFIX,fluxerapp.com
+  - DOMAIN-SUFFIX,fluxerstatic.com
+  - DOMAIN-SUFFIX,fluxerstatus.com
+  - DOMAIN-SUFFIX,fluxerusercontent.com
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,fly.io
   - DOMAIN-SUFFIX,flyflv.com
