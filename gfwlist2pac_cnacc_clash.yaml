@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MzA3NDcyOAo=
+# Checksum: MTc5MzE2Mjk2Nwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: -20261027-1
-# TimeUpdated: 2026-10-27T04:18:48+00:00
+# Version: -20261028-1
+# TimeUpdated: 2026-10-28T04:49:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -79523,7 +79523,9 @@ payload:
   - DOMAIN-SUFFIX,sh-oca.com
   - DOMAIN-SUFFIX,sh-pet.com
   - DOMAIN-SUFFIX,sh-pn.com
+  - DOMAIN-SUFFIX,sh-pod1-smp-device.apple.com
   - DOMAIN-SUFFIX,sh-pod2-smp-device.apple.com
+  - DOMAIN-SUFFIX,sh-pod3-smp-device.apple.com
   - DOMAIN-SUFFIX,sh-pp.com
   - DOMAIN-SUFFIX,sh-printing.com
   - DOMAIN-SUFFIX,sh-prosperity.com
