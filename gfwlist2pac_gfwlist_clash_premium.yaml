@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MzMzNjM3MQo=
+# Checksum: MTc5MzQyMTk5Ngo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20261030-1
-# TimeUpdated: 2026-10-30T04:59:31+00:00
+# Version: -20261031-1
+# TimeUpdated: 2026-10-31T04:46:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000aa.com'
@@ -139,6 +139,7 @@ payload:
   - '+.18comic-god.xyz'
   - '+.18comic.cc'
   - '+.18comic.company'
+  - '+.18comic.ink'
   - '+.18comic.org'
   - '+.18comic.vip'
   - '+.18commic.com'
@@ -2234,6 +2235,7 @@ payload:
   - '+.anthemgame.com'
   - '+.anthemthegame.com'
   - '+.anthonycalzadilla.com'
+  - '+.anthropic.auth0.com'
   - '+.anthropic.com'
   - '+.anthropic.team'
   - '+.anthropology.ac.uk'
@@ -4591,6 +4593,7 @@ payload:
   - '+.bingparachute.com'
   - '+.bingsandbox.com'
   - '+.bingsettingssearch.trafficmanager.net'
+  - '+.bingstatic.com'
   - '+.bingvisualsearch.com'
   - '+.bingworld.com'
   - '+.bingx.com'
@@ -5809,6 +5812,7 @@ payload:
   - '+.bsixbrookehousesixthformcollege.ac.uk'
   - '+.bsixcollege.ac.uk'
   - '+.bsky.app'
+  - '+.bsky.chat'
   - '+.bsky.network'
   - '+.bsky.social'
   - '+.bsls.ac.uk'
@@ -13689,6 +13693,7 @@ payload:
   - '+.githubassets.com'
   - '+.githubcopilot.com'
   - '+.githubhackathon.com'
+  - '+.githubhelp.com'
   - '+.githubnext.com'
   - '+.githubpreview.dev'
   - '+.githubstatus.com'
@@ -21743,6 +21748,7 @@ payload:
   - '+.msfteducation.ca'
   - '+.msftncsi.com'
   - '+.msftnet.org'
+  - '+.msftstatic.com'
   - '+.msgamesresearch.com'
   - '+.msgamestudios.com'
   - '+.msguancha.com'
@@ -31446,9 +31452,12 @@ payload:
   - '+.tiktokeu-cdn.com'
   - '+.tiktokglobalshopv.com'
   - '+.tiktokminis.us'
+  - '+.tiktokshop.com'
+  - '+.tiktokstaticb.com'
   - '+.tiktokv.com'
   - '+.tiktokv.eu'
   - '+.tiktokv.us'
+  - '+.tiktokvapp.com'
   - '+.tiktokw.eu'
   - '+.tiktokw.us'
   - '+.tilda.cc'

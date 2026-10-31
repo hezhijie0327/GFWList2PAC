@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MzMzNjM3MQo=
+# Checksum: MTc5MzQyMTk5Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20261030-1
-# TimeUpdated: 2026-10-30T04:59:31+00:00
+# Version: -20261031-1
+# TimeUpdated: 2026-10-31T04:46:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -139,6 +139,7 @@ payload:
   - DOMAIN-SUFFIX,18comic-god.xyz
   - DOMAIN-SUFFIX,18comic.cc
   - DOMAIN-SUFFIX,18comic.company
+  - DOMAIN-SUFFIX,18comic.ink
   - DOMAIN-SUFFIX,18comic.org
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18commic.com
@@ -2234,6 +2235,7 @@ payload:
   - DOMAIN-SUFFIX,anthemgame.com
   - DOMAIN-SUFFIX,anthemthegame.com
   - DOMAIN-SUFFIX,anthonycalzadilla.com
+  - DOMAIN-SUFFIX,anthropic.auth0.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,anthropic.team
   - DOMAIN-SUFFIX,anthropology.ac.uk
@@ -4591,6 +4593,7 @@ payload:
   - DOMAIN-SUFFIX,bingparachute.com
   - DOMAIN-SUFFIX,bingsandbox.com
   - DOMAIN-SUFFIX,bingsettingssearch.trafficmanager.net
+  - DOMAIN-SUFFIX,bingstatic.com
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
   - DOMAIN-SUFFIX,bingx.com
@@ -5809,6 +5812,7 @@ payload:
   - DOMAIN-SUFFIX,bsixbrookehousesixthformcollege.ac.uk
   - DOMAIN-SUFFIX,bsixcollege.ac.uk
   - DOMAIN-SUFFIX,bsky.app
+  - DOMAIN-SUFFIX,bsky.chat
   - DOMAIN-SUFFIX,bsky.network
   - DOMAIN-SUFFIX,bsky.social
   - DOMAIN-SUFFIX,bsls.ac.uk
@@ -13689,6 +13693,7 @@ payload:
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,githubhelp.com
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
@@ -21743,6 +21748,7 @@ payload:
   - DOMAIN-SUFFIX,msfteducation.ca
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msftnet.org
+  - DOMAIN-SUFFIX,msftstatic.com
   - DOMAIN-SUFFIX,msgamesresearch.com
   - DOMAIN-SUFFIX,msgamestudios.com
   - DOMAIN-SUFFIX,msguancha.com
@@ -31446,9 +31452,12 @@ payload:
   - DOMAIN-SUFFIX,tiktokeu-cdn.com
   - DOMAIN-SUFFIX,tiktokglobalshopv.com
   - DOMAIN-SUFFIX,tiktokminis.us
+  - DOMAIN-SUFFIX,tiktokshop.com
+  - DOMAIN-SUFFIX,tiktokstaticb.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokvapp.com
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,tilda.cc
