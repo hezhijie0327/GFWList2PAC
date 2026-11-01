@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5MzQyMTk5Ngo=
+# Checksum: MTc5MzUwOTc3NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20261031-1
-# TimeUpdated: 2026-10-31T04:46:36+00:00
+# Version: -20261101-1
+# TimeUpdated: 2026-11-01T05:09:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -2337,6 +2337,7 @@ payload:
   - DOMAIN-SUFFIX,api.recaptcha.net
   - DOMAIN-SUFFIX,api.shuaiapi.com
   - DOMAIN-SUFFIX,api.steampowered.com
+  - DOMAIN-SUFFIX,api.themoviedb.org
   - DOMAIN-SUFFIX,api.viu.now.com
   - DOMAIN-SUFFIX,api.waqi.info
   - DOMAIN-SUFFIX,apiary.io
@@ -31731,6 +31732,7 @@ payload:
   - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,torrentgalaxy.to
   - DOMAIN-SUFFIX,torrentkitty.tv
+  - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,torrentleen.com
   - DOMAIN-SUFFIX,torrentmac.net
   - DOMAIN-SUFFIX,torrentprivacy.com
@@ -36522,6 +36524,7 @@ payload:
   - DOMAIN-SUFFIX,youtubekids.com
   - DOMAIN-SUFFIX,youtubemobilesupport.com
   - DOMAIN-SUFFIX,youversion.com
+  - DOMAIN-SUFFIX,youversionapi.com
   - DOMAIN-SUFFIX,youwin.com
   - DOMAIN-SUFFIX,youwuss.com
   - DOMAIN-SUFFIX,youx.xxx
