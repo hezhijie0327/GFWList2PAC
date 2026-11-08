@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5NDAyODY1OAo=
+# Checksum: MTc5NDExNDkxNAo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: -20261107-1
-# TimeUpdated: 2026-11-07T05:17:38+00:00
+# Version: -20261108-1
+# TimeUpdated: 2026-11-08T05:15:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000aa.com'
@@ -8703,6 +8703,7 @@ payload:
   - '+.database.asahi.com'
   - '+.datacenters.google'
   - '+.datacloudmy.com'
+  - '+.datadoghq.com'
   - '+.dataframeworks.com'
   - '+.datafuturesalphapilot.ac.uk'
   - '+.datagrid.ac.uk'
@@ -14490,6 +14491,7 @@ payload:
   - '+.grimsbytec.ac.uk'
   - '+.grindr.com'
   - '+.grok.com'
+  - '+.grokbot.com'
   - '+.grokipedia.com'
   - '+.grooby.com'
   - '+.groq.com'
@@ -15965,6 +15967,7 @@ payload:
   - '+.htnewbooks.com'
   - '+.htp.ac.uk'
   - '+.hts.ac.uk'
+  - '+.http-intake.logs.us5.datadoghq.com'
   - '+.httpfacebook.com'
   - '+.https443.net'
   - '+.https443.org'
@@ -23763,6 +23766,7 @@ payload:
   - '+.nzchinese.net.nz'
   - '+.o-courier.ru'
   - '+.o-uchi.ru'
+  - '+.o1158394.ingest.us.sentry.io'
   - '+.o2action.co.kr'
   - '+.o3.ru'
   - '+.o365weve-dev.com'
@@ -26036,6 +26040,7 @@ payload:
   - '+.prodforza.blob.core.windows.net'
   - '+.prodrive-japan.com'
   - '+.product.co.jp'
+  - '+.production-copilot-host-westus.webpubsub.azure.com'
   - '+.production-openaicom-storage.azureedge.net'
   - '+.productionresultssa0.blob.core.windows.net'
   - '+.productionresultssa1.blob.core.windows.net'
