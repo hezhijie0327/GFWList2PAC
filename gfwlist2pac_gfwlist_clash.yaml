@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5NDI5MjY2Mgo=
+# Checksum: MTc5NDM3NDY5Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: -20261110-2
-# TimeUpdated: 2026-11-10T06:37:42+00:00
+# Version: -20261111-1
+# TimeUpdated: 2026-11-11T05:24:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -14393,6 +14393,8 @@ payload:
   - DOMAIN-SUFFIX,graduateoutcomes.ac.uk
   - DOMAIN-SUFFIX,graduateswales.ac.uk
   - DOMAIN-SUFFIX,graduatewales.ac.uk
+  - DOMAIN-SUFFIX,grafana.com
+  - DOMAIN-SUFFIX,grafana.net
   - DOMAIN-SUFFIX,grafolio.com
   - DOMAIN-SUFFIX,graias.com
   - DOMAIN-SUFFIX,graiasmovies.com
@@ -26448,6 +26450,7 @@ payload:
   - DOMAIN-SUFFIX,queens.ac.uk
   - DOMAIN-SUFFIX,queensu.ac.uk
   - DOMAIN-SUFFIX,quercus.ac.uk
+  - DOMAIN-SUFFIX,questionablequesting.com
   - DOMAIN-SUFFIX,questvisual.com
   - DOMAIN-SUFFIX,quicinc.com
   - DOMAIN-SUFFIX,quickbook.com.br
@@ -29509,6 +29512,7 @@ payload:
   - DOMAIN-SUFFIX,soylentnews.org
   - DOMAIN-SUFFIX,sp.cool
   - DOMAIN-SUFFIX,spa.ac.uk
+  - DOMAIN-SUFFIX,spacebattles.com
   - DOMAIN-SUFFIX,spaceexplored.com
   - DOMAIN-SUFFIX,spaceforce.mil
   - DOMAIN-SUFFIX,spacely.com.au
