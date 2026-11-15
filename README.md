@@ -1,8 +1,12 @@
 # GFWList2PAC
 
+[![License](https://img.shields.io/badge/License-Apache%202.0--Commons%20Clause-blue)](LICENSE)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+
 一个自动化工具，用于从域名列表生成多种格式的代理自动配置（PAC）文件。支持主流代理客户端，包括 Clash、Shadowrocket、Surge、Quantumult、v2rayA 和 v2rayN。
 
-## 📋 项目简介
+工程契约见 [AGENTS.md](AGENTS.md)。
+## 项目简介
 
 **GFWList2PAC** 是一个基于 Bash 的自动化脚本，用于：
 
@@ -31,7 +35,7 @@
 - **CNACC** (白名单)：中国可访问域名 → 直连
 - **GFWList** (黑名单)：被墙域名 → 代理
 
-## 🚀 快速开始
+## 快速开始
 
 ### 方法一：使用预生成的文件
 
@@ -69,7 +73,7 @@ bash release.sh
 
 **注意：** 脚本使用 GNU `date` 语法，在 macOS/BSD 系统上可能需要修改。
 
-## 📁 文件说明
+## 文件说明
 
 ### 生成的文件
 
@@ -100,7 +104,7 @@ gfwlist2pac_gfwlist_v2rayn.txt        # GFWList v2rayN 规则
 - **CNACC 文件**：约 2-4 MB（包含 ~117,000 个域名）
 - **GFWList 文件**：约 0.7-1.2 MB（包含 ~34,000 个域名）
 
-## 🔧 使用方法
+## 使用方法
 
 ### Clash / Clash Premium
 
@@ -153,6 +157,6 @@ RULE-SET,https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/source/gfwli
 domain(google.com,youtube.com,...)->proxy
 ```
 
-## 📄 许可证
+## License
 
-本项目采用Apache License 2.0 with Commons Clause v1.0许可证 - 详见[LICENSE](LICENSE)文件
+[Apache License 2.0 with Commons Clause v1.0](LICENSE)
