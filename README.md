@@ -1,19 +1,19 @@
 # GFWList2PAC
 
 [![License](https://img.shields.io/badge/License-Apache%202.0--Commons%20Clause-blue)](LICENSE)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
 一个自动化工具，用于从域名列表生成多种格式的代理自动配置（PAC）文件。支持主流代理客户端，包括 Clash、Shadowrocket、Surge、Quantumult、v2rayA 和 v2rayN。
 
 工程契约见 [AGENTS.md](AGENTS.md)。
 ## 项目简介
 
-**GFWList2PAC** 是一个基于 Bash 的自动化脚本，用于：
+**GFWList2PAC** 是一个基于 Python 的自动化工具，用于：
 
-- 📥 自动获取 CNACC（中国可访问域名白名单）和 GFWList（被墙域名黑名单）数据
-- 🔄 处理和分析域名数据
-- 📦 生成 8 种不同格式的代理配置文件
-- ⏰ 每 3 小时自动更新一次（每日运行）
+- 自动获取 CNACC（中国可访问域名白名单）和 GFWList（被墙域名黑名单）数据
+- 处理和分析域名数据
+- 生成 8 种不同格式的代理配置文件
+- 每 3 小时自动更新一次（每日运行）
 
 ### 支持的格式
 
@@ -43,10 +43,10 @@
 
 ```bash
 # 下载 Clash 格式的 GFWList
-wget https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/source/gfwlist2pac_gfwlist_clash.yaml
+wget https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_gfwlist_clash.yaml
 
 # 下载 Shadowrocket 格式的 CNACC
-wget https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/source/gfwlist2pac_cnacc_shadowrocket.conf
+wget https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_cnacc_shadowrocket.conf
 ```
 
 ### 方法二：本地构建
@@ -59,25 +59,21 @@ git clone https://github.com/hezhijie0327/GFWList2PAC.git
 
 # 进入目录并运行脚本
 cd GFWList2PAC
-bash release.sh
+python3 build.py
 ```
 
 **系统要求：**
 
-- Bash 4.0+
-- curl (支持 HTTPS)
-- awk (gawk 或 mawk)
-- base64
-- GNU date
-- sed
+- Python 3.9+（仅标准库，无第三方依赖）
+- 网络访问（拉取上游域名列表）
 
-**注意：** 脚本使用 GNU `date` 语法，在 macOS/BSD 系统上可能需要修改。
+跨平台：Linux / macOS / Windows 均可运行。
 
 ## 文件说明
 
 ### 生成的文件
 
-运行 `release.sh` 后，将生成 16 个配置文件：
+运行 `build.py` 后，将生成 16 个配置文件：
 
 ```
 gfwlist2pac_cnacc_autoproxy.txt       # CNACC AutoProxy 格式（Base64）
@@ -115,7 +111,7 @@ rule-providers:
   gfwlist:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/source/gfwlist2pac_gfwlist_clash.yaml
+    url: https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_gfwlist_clash.yaml
     path: ./ruleset/gfwlist.yaml
     interval: 10800 # 3 小时更新一次
 
@@ -129,7 +125,7 @@ rules:
 2. 配置 → 编辑配置文件
 3. 粘贴远程配置 URL：
    ```
-   https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/source/gfwlist2pac_gfwlist_shadowrocket.conf
+   https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_gfwlist_shadowrocket.conf
    ```
 
 ### Surge
@@ -138,7 +134,7 @@ rules:
 
 ```ini
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/source/gfwlist2pac_gfwlist_surge.yaml,PROXY
+RULE-SET,https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_gfwlist_surge.yaml,PROXY
 ```
 
 ### v2rayN
@@ -146,7 +142,7 @@ RULE-SET,https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/source/gfwli
 1. 设置 → 路由设置
 2. 导入自定义规则文件：
    ```
-   https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/source/gfwlist2pac_gfwlist_v2rayn.txt
+   https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_gfwlist_v2rayn.txt
    ```
 
 ### v2rayA
