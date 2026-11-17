@@ -41,13 +41,16 @@
 
 直接从本仓库下载已生成的配置文件：
 
-```bash
-# 下载 Clash 格式的 GFWList
-wget https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gfwlist/clash.yaml
-
-# 下载 Shadowrocket 格式的 CNACC
-wget https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/cnacc/shadowrocket.conf
-```
+| 格式 | CNACC（国内 → 直连） | GFWList（被墙 → 代理） |
+| ---- | -------------------- | ---------------------- |
+| AutoProxy | [txt](dist/cnacc/autoproxy.txt) | [txt](dist/gfwlist/autoproxy.txt) |
+| Clash | [yaml](dist/cnacc/clash.yaml) | [yaml](dist/gfwlist/clash.yaml) |
+| Clash Premium | [yaml](dist/cnacc/clash_premium.yaml) | [yaml](dist/gfwlist/clash_premium.yaml) |
+| Quantumult | [yaml](dist/cnacc/quantumult.yaml) | [yaml](dist/gfwlist/quantumult.yaml) |
+| Shadowrocket | [conf](dist/cnacc/shadowrocket.conf) | [conf](dist/gfwlist/shadowrocket.conf) |
+| Surge | [yaml](dist/cnacc/surge.yaml) | [yaml](dist/gfwlist/surge.yaml) |
+| v2rayA | [txt](dist/cnacc/v2raya.txt) | [txt](dist/gfwlist/v2raya.txt) |
+| v2rayN | [txt](dist/cnacc/v2rayn.txt) | [txt](dist/gfwlist/v2rayn.txt) |
 
 ### 方法二：本地构建
 
