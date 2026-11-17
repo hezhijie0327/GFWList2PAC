@@ -3,41 +3,18 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0--Commons%20Clause-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
-一个自动化工具，用于从域名列表生成多种格式的代理自动配置（PAC）文件。支持主流代理客户端，包括 Clash、Shadowrocket、Surge、Quantumult、v2rayA 和 v2rayN。
+GFWList2PAC 从上游域名分流仓获取 CNACC（中国可访问域名）和 GFWList（被墙域名），生成 8 种代理客户端规则；Python 3.9+ 标准库实现，GitHub Actions 每日更新。开发规范见 [AGENTS.md](AGENTS.md)。
 
-工程契约见 [AGENTS.md](AGENTS.md)。
-## 项目简介
+## 特性
 
-**GFWList2PAC** 是一个基于 Python 的自动化工具，用于：
-
-- 自动获取 CNACC（中国可访问域名白名单）和 GFWList（被墙域名黑名单）数据
-- 处理和分析域名数据
-- 生成 8 种不同格式的代理配置文件
-- 每 3 小时自动更新一次（每日运行）
-
-### 支持的格式
-
-本项目为以下代理客户端生成配置文件：
-
-| 客户端            | 格式            | 文件名模式                         |
-| ----------------- | --------------- | ---------------------------------- |
-| **AutoProxy**     | Base64 编码文本 | `dist/<模式>/autoproxy.txt`      |
-| **Clash**         | YAML 规则集     | `dist/<模式>/clash.yaml`         |
-| **Clash Premium** | YAML 域名集     | `dist/<模式>/clash_premium.yaml` |
-| **Shadowrocket**  | 配置文件        | `dist/<模式>/shadowrocket.conf`  |
-| **Surge**         | YAML 规则       | `dist/<模式>/surge.yaml`         |
-| **Quantumult**    | YAML 规则       | `dist/<模式>/quantumult.yaml`    |
-| **v2rayA**        | 聚合域名规则    | `dist/<模式>/v2raya.txt`         |
-| **v2rayN**        | 域名列表        | `dist/<模式>/v2rayn.txt`         |
-
-每种格式都提供两个版本：
-
-- **CNACC** (白名单)：中国可访问域名 → 直连
-- **GFWList** (黑名单)：被墙域名 → 代理
+- **自动获取数据**：从上游域名分流仓拉取 CNACC 白名单和 GFWList 黑名单
+- **多格式输出**：生成 AutoProxy、Clash、Clash Premium、Shadowrocket、Surge、Quantumult、v2rayA、v2rayN 共 8 种格式
+- **双列表版本**：每种格式同时提供 CNACC（直连）与 GFWList（代理）两套规则
+- **自动更新**：通过 GitHub Actions 每日自动构建和发布
 
 ## 快速开始
 
-### 方法一：使用预生成的文件
+### 直接下载
 
 直接从本仓库下载已生成的配置文件：
 
@@ -52,9 +29,7 @@
 | v2rayA | [txt](dist/cnacc/v2raya.txt) | [txt](dist/gfwlist/v2raya.txt) |
 | v2rayN | [txt](dist/cnacc/v2rayn.txt) | [txt](dist/gfwlist/v2rayn.txt) |
 
-### 方法二：本地构建
-
-克隆仓库并运行构建脚本：
+### 本地构建
 
 ```bash
 # 克隆仓库
@@ -72,7 +47,22 @@ python3 build.py
 
 跨平台：Linux / macOS / Windows 均可运行。
 
-## 文件说明
+## 用法
+
+### 支持的格式
+
+| 客户端 | 格式 | 文件路径 |
+| ------ | ---- | -------- |
+| **AutoProxy** | Base64 编码文本 | `dist/<模式>/autoproxy.txt` |
+| **Clash** | YAML 规则集 | `dist/<模式>/clash.yaml` |
+| **Clash Premium** | YAML 域名集 | `dist/<模式>/clash_premium.yaml` |
+| **Quantumult** | YAML 规则 | `dist/<模式>/quantumult.yaml` |
+| **Shadowrocket** | 配置文件 | `dist/<模式>/shadowrocket.conf` |
+| **Surge** | YAML 规则 | `dist/<模式>/surge.yaml` |
+| **v2rayA** | 聚合域名规则 | `dist/<模式>/v2raya.txt` |
+| **v2rayN** | 域名列表 | `dist/<模式>/v2rayn.txt` |
+
+模式为 `cnacc`（直连）或 `gfwlist`（代理）。
 
 ### 生成的文件
 
@@ -98,8 +88,6 @@ dist/gfwlist/              # 被墙域名 → 代理
 - **CNACC 文件**：约 2-4 MB（包含 ~117,000 个域名）
 - **GFWList 文件**：约 0.7-1.2 MB（包含 ~34,000 个域名）
 
-## 使用方法
-
 ### Clash / Clash Premium
 
 在 Clash 配置文件中引用规则集：
@@ -122,9 +110,10 @@ rules:
 1. 打开 Shadowrocket
 2. 配置 → 编辑配置文件
 3. 粘贴远程配置 URL：
-   ```
-   https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gfwlist/shadowrocket.conf
-   ```
+
+```text
+https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gfwlist/shadowrocket.conf
+```
 
 ### Surge
 
@@ -139,17 +128,22 @@ RULE-SET,https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gf
 
 1. 设置 → 路由设置
 2. 导入自定义规则文件：
-   ```
-   https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gfwlist/v2rayn.txt
-   ```
+
+```text
+https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gfwlist/v2rayn.txt
+```
 
 ### v2rayA
 
 在 v2rayA 中使用聚合规则格式：
 
-```
+```text
 domain(google.com,youtube.com,...)->proxy
 ```
+
+## 文档
+
+- [AGENTS.md](AGENTS.md) — 开发规范与实现细节（英文）
 
 ## License
 
