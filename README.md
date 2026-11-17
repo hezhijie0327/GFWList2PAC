@@ -21,14 +21,14 @@
 
 | 客户端            | 格式            | 文件名模式                         |
 | ----------------- | --------------- | ---------------------------------- |
-| **AutoProxy**     | Base64 编码文本 | `gfwlist2pac_*_autoproxy.txt`      |
-| **Clash**         | YAML 规则集     | `gfwlist2pac_*_clash.yaml`         |
-| **Clash Premium** | YAML 域名集     | `gfwlist2pac_*_clash_premium.yaml` |
-| **Shadowrocket**  | 配置文件        | `gfwlist2pac_*_shadowrocket.conf`  |
-| **Surge**         | YAML 规则       | `gfwlist2pac_*_surge.yaml`         |
-| **Quantumult**    | YAML 规则       | `gfwlist2pac_*_quantumult.yaml`    |
-| **v2rayA**        | 聚合域名规则    | `gfwlist2pac_*_v2raya.txt`         |
-| **v2rayN**        | 域名列表        | `gfwlist2pac_*_v2rayn.txt`         |
+| **AutoProxy**     | Base64 编码文本 | `dist/<模式>/autoproxy.txt`      |
+| **Clash**         | YAML 规则集     | `dist/<模式>/clash.yaml`         |
+| **Clash Premium** | YAML 域名集     | `dist/<模式>/clash_premium.yaml` |
+| **Shadowrocket**  | 配置文件        | `dist/<模式>/shadowrocket.conf`  |
+| **Surge**         | YAML 规则       | `dist/<模式>/surge.yaml`         |
+| **Quantumult**    | YAML 规则       | `dist/<模式>/quantumult.yaml`    |
+| **v2rayA**        | 聚合域名规则    | `dist/<模式>/v2raya.txt`         |
+| **v2rayN**        | 域名列表        | `dist/<模式>/v2rayn.txt`         |
 
 每种格式都提供两个版本：
 
@@ -43,10 +43,10 @@
 
 ```bash
 # 下载 Clash 格式的 GFWList
-wget https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_gfwlist_clash.yaml
+wget https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gfwlist/clash.yaml
 
 # 下载 Shadowrocket 格式的 CNACC
-wget https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_cnacc_shadowrocket.conf
+wget https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/cnacc/shadowrocket.conf
 ```
 
 ### 方法二：本地构建
@@ -73,26 +73,21 @@ python3 build.py
 
 ### 生成的文件
 
-运行 `build.py` 后，将生成 16 个配置文件：
+运行 `build.py` 后，将生成 16 个配置文件，按模式分目录：
 
-```
-gfwlist2pac_cnacc_autoproxy.txt       # CNACC AutoProxy 格式（Base64）
-gfwlist2pac_cnacc_clash.yaml          # CNACC Clash 规则
-gfwlist2pac_cnacc_clash_premium.yaml  # CNACC Clash Premium 规则
-gfwlist2pac_cnacc_shadowrocket.conf   # CNACC Shadowrocket 配置
-gfwlist2pac_cnacc_surge.yaml          # CNACC Surge 规则
-gfwlist2pac_cnacc_quantumult.yaml     # CNACC Quantumult 规则
-gfwlist2pac_cnacc_v2raya.txt          # CNACC v2rayA 规则
-gfwlist2pac_cnacc_v2rayn.txt          # CNACC v2rayN 规则
+```text
+dist/cnacc/                # 中国可访问域名 → 直连
+├── autoproxy.txt          # AutoProxy 格式（Base64）
+├── clash.yaml             # Clash 规则
+├── clash_premium.yaml     # Clash Premium 规则
+├── quantumult.yaml        # Quantumult 规则
+├── shadowrocket.conf      # Shadowrocket 配置
+├── surge.yaml             # Surge 规则
+├── v2raya.txt             # v2rayA 规则
+└── v2rayn.txt             # v2rayN 规则
 
-gfwlist2pac_gfwlist_autoproxy.txt     # GFWList AutoProxy 格式（Base64）
-gfwlist2pac_gfwlist_clash.yaml        # GFWList Clash 规则
-gfwlist2pac_gfwlist_clash_premium.yaml # GFWList Clash Premium 规则
-gfwlist2pac_gfwlist_shadowrocket.conf # GFWList Shadowrocket 配置
-gfwlist2pac_gfwlist_surge.yaml        # GFWList Surge 规则
-gfwlist2pac_gfwlist_quantumult.yaml   # GFWList Quantumult 规则
-gfwlist2pac_gfwlist_v2raya.txt        # GFWList v2rayA 规则
-gfwlist2pac_gfwlist_v2rayn.txt        # GFWList v2rayN 规则
+dist/gfwlist/              # 被墙域名 → 代理
+└── （同上 8 个文件）
 ```
 
 ### 文件大小参考
@@ -111,7 +106,7 @@ rule-providers:
   gfwlist:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_gfwlist_clash.yaml
+    url: https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gfwlist/clash.yaml
     path: ./ruleset/gfwlist.yaml
     interval: 10800 # 3 小时更新一次
 
@@ -125,7 +120,7 @@ rules:
 2. 配置 → 编辑配置文件
 3. 粘贴远程配置 URL：
    ```
-   https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_gfwlist_shadowrocket.conf
+   https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gfwlist/shadowrocket.conf
    ```
 
 ### Surge
@@ -134,7 +129,7 @@ rules:
 
 ```ini
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_gfwlist_surge.yaml,PROXY
+RULE-SET,https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gfwlist/surge.yaml,PROXY
 ```
 
 ### v2rayN
@@ -142,7 +137,7 @@ RULE-SET,https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist
 1. 设置 → 路由设置
 2. 导入自定义规则文件：
    ```
-   https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/gfwlist2pac_gfwlist_v2rayn.txt
+   https://raw.githubusercontent.com/hezhijie0327/GFWList2PAC/main/dist/gfwlist/v2rayn.txt
    ```
 
 ### v2rayA

@@ -16,10 +16,10 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parent
 
 CNACC_DOMAIN = (
-    "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2domain/whitelist_full.txt",
+    "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/dist/domain/whitelist_full.txt",
 )
 GFWLIST_DOMAIN = (
-    "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2domain/blacklist_full.txt",
+    "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/dist/domain/blacklist_full.txt",
 )
 
 HOMEPAGE = "https://github.com/hezhijie0327/GFWList2PAC"
@@ -96,42 +96,43 @@ def output_data(list_name, domains, header):
     action = "DIRECT" if list_name == "cnacc" else "PROXY"
     autoproxy_prefix = "@@" if list_name == "cnacc" else ""
     v2raya_action = "direct" if list_name == "cnacc" else "proxy"
-    stem = ROOT / f"gfwlist2pac_{list_name}"
+    out_dir = ROOT / "dist" / list_name
+    out_dir.mkdir(parents=True, exist_ok=True)
 
     autoproxy = ["[AutoProxy 0.2.9]"] + metadata(header, "!", "Auto Proxy")
     autoproxy += [f"{autoproxy_prefix}||{domain}^" for domain in domains]
     # encodebytes wraps at 76 columns, like the base64 CLI
-    Path(f"{stem}_autoproxy.txt").write_bytes(base64.encodebytes("\n".join(autoproxy).encode() + b"\n"))
+    (out_dir / "autoproxy.txt").write_bytes(base64.encodebytes("\n".join(autoproxy).encode() + b"\n"))
 
     clash = ["payload:"] + metadata(header, "#", "Clash")
     clash += [f"  - DOMAIN-SUFFIX,{domain}" for domain in domains]
-    Path(f"{stem}_clash.yaml").write_text("\n".join(clash) + "\n")
+    (out_dir / "clash.yaml").write_text("\n".join(clash) + "\n")
 
     clash_premium = ["payload:"] + metadata(header, "#", "Clash Premium")
     clash_premium += [f"  - '+.{domain}'" for domain in domains]
-    Path(f"{stem}_clash_premium.yaml").write_text("\n".join(clash_premium) + "\n")
+    (out_dir / "clash_premium.yaml").write_text("\n".join(clash_premium) + "\n")
 
     shadowrocket = metadata(header, "#", "Shadowrocket") + list(SHADOWROCKET_GENERAL)
     shadowrocket += [f"DOMAIN-SUFFIX,{domain},{action}" for domain in domains]
     shadowrocket.append("FINAL,DIRECT")
-    Path(f"{stem}_shadowrocket.conf").write_text("\n".join(shadowrocket) + "\n")
+    (out_dir / "shadowrocket.conf").write_text("\n".join(shadowrocket) + "\n")
 
     surge = metadata(header, "#", "Surge")
     surge += [f"DOMAIN-SUFFIX,{domain},{action}" for domain in domains]
-    Path(f"{stem}_surge.yaml").write_text("\n".join(surge) + "\n")
+    (out_dir / "surge.yaml").write_text("\n".join(surge) + "\n")
 
     quantumult = metadata(header, "#", "Quantumult")
     quantumult += [f"DOMAIN-SUFFIX,{domain},{action}" for domain in domains]
-    Path(f"{stem}_quantumult.yaml").write_text("\n".join(quantumult) + "\n")
+    (out_dir / "quantumult.yaml").write_text("\n".join(quantumult) + "\n")
 
     v2raya = metadata(header, "#", "v2rayA")
     v2raya_body = "domain(" + "".join(f"domain:{domain}," for domain in domains) + f")->{v2raya_action}"
     v2raya_body = v2raya_body.replace(",)", ")")
-    Path(f"{stem}_v2raya.txt").write_text("\n".join(v2raya) + "\n" + v2raya_body)
+    (out_dir / "v2raya.txt").write_text("\n".join(v2raya) + "\n" + v2raya_body)
 
     v2rayn = metadata(header, "#", "v2rayN")
     v2rayn += [f"domain:{domain}," for domain in domains]
-    Path(f"{stem}_v2rayn.txt").write_text("\n".join(v2rayn) + "\n")
+    (out_dir / "v2rayn.txt").write_text("\n".join(v2rayn) + "\n")
 
 
 ## Process

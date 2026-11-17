@@ -107,7 +107,7 @@ Family-wide Markdown rules, shared verbatim across all ZJ projects:
 
 ## Project
 
-GFWList2PAC fetches the domain lists published by GFWList2AGH (whitelist = CNACC, blacklist = GFWList) and generates 16 configuration files (8 formats x 2 lists) for AutoProxy, Clash, Clash Premium, Shadowrocket, Surge, Quantumult, v2rayA and v2rayN.
+GFWList2PAC fetches the domain lists published by GFWList2AGH (`dist/domain/` whitelist = CNACC, blacklist = GFWList) and generates 16 configuration files (8 formats x 2 lists) under `dist/<cnacc|gfwlist>/` for AutoProxy, Clash, Clash Premium, Shadowrocket, Surge, Quantumult, v2rayA and v2rayN.
 
 ## Commands
 
@@ -123,7 +123,7 @@ python3 -m py_compile build.py
 
 1. `get_data()` downloads both domain lists in parallel.
 2. `generate_header_information()` builds the metadata (Checksum, Title, Version, TimeUpdated, Expires, Homepage) per list.
-3. `output_data()` renders all 8 formats for one list; AutoProxy output is Base64-encoded.
+3. `output_data()` renders all 8 formats for one list into `dist/<list_name>/`; AutoProxy output is Base64-encoded.
 
 ## Conventions
 
@@ -154,6 +154,7 @@ python3 -m py_compile build.py
 ## Dependencies
 
 - Python 3.9+ (stdlib only)
+- Upstream: `GFWList2AGH` `dist/domain/{whitelist_full,blacklist_full}.txt` on `main` (keep the URLs in sync with that repo's layout)
 
 ## GitHub Actions Integration
 
