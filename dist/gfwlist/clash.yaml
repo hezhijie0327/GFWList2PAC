@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5NTI0MTg0Ngo=
+# Checksum: MTc5NTMyNjYyNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.0-20261121-2
-# TimeUpdated: 2026-11-21T06:17:26+00:00
+# Version: 1.0.0-20261122-1
+# TimeUpdated: 2026-11-22T05:50:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000aa.com
@@ -5617,6 +5617,7 @@ payload:
   - DOMAIN-SUFFIX,bravoteens.com
   - DOMAIN-SUFFIX,bravotube.net
   - DOMAIN-SUFFIX,bravotube.tv
+  - DOMAIN-SUFFIX,bravotv.com
   - DOMAIN-SUFFIX,brawlstars.com
   - DOMAIN-SUFFIX,brawlstarsgame.com
   - DOMAIN-SUFFIX,brazilpartneruniversity.com
@@ -7560,6 +7561,7 @@ payload:
   - DOMAIN-SUFFIX,cna.com.tw
   - DOMAIN-SUFFIX,cnbbnews.wordpress.com
   - DOMAIN-SUFFIX,cnbc.com
+  - DOMAIN-SUFFIX,cnbccouncils.com
   - DOMAIN-SUFFIX,cnbcfm.com
   - DOMAIN-SUFFIX,cnbeta.com.tw
   - DOMAIN-SUFFIX,cncrivals.com
@@ -11842,6 +11844,7 @@ payload:
   - DOMAIN-SUFFIX,fantom.network
   - DOMAIN-SUFFIX,fantv.hk
   - DOMAIN-SUFFIX,fanyue.info
+  - DOMAIN-SUFFIX,fanza.jp
   - DOMAIN-SUFFIX,fap-xxx.com
   - DOMAIN-SUFFIX,fap18.net
   - DOMAIN-SUFFIX,fap666.com
@@ -12439,6 +12442,7 @@ payload:
   - DOMAIN-SUFFIX,foampositeshoes.com
   - DOMAIN-SUFFIX,fochk.org
   - DOMAIN-SUFFIX,focus.ac.uk
+  - DOMAIN-SUFFIX,focusfeatures.com
   - DOMAIN-SUFFIX,focustaiwan.tw
   - DOMAIN-SUFFIX,focusvpn.com
   - DOMAIN-SUFFIX,fofg-europe.net
@@ -14819,6 +14823,7 @@ payload:
   - DOMAIN-SUFFIX,hayday.com
   - DOMAIN-SUFFIX,haydaygame.com
   - DOMAIN-SUFFIX,hayle.ac.uk
+  - DOMAIN-SUFFIX,hayu.com
   - DOMAIN-SUFFIX,haywardsheath.ac.uk
   - DOMAIN-SUFFIX,hayya.ae
   - DOMAIN-SUFFIX,hb.imgix.net
@@ -16672,6 +16677,7 @@ payload:
   - DOMAIN-SUFFIX,illawarramercury.com.au
   - DOMAIN-SUFFIX,illgames.jp
   - DOMAIN-SUFFIX,illianacomputerrecycling.com
+  - DOMAIN-SUFFIX,illumination.com
   - DOMAIN-SUFFIX,illusion.co.jp
   - DOMAIN-SUFFIX,illusion.jp
   - DOMAIN-SUFFIX,illusion111.com
@@ -22367,8 +22373,11 @@ payload:
   - DOMAIN-SUFFIX,nbcolympics.com
   - DOMAIN-SUFFIX,nbcsports.com
   - DOMAIN-SUFFIX,nbcudigitaladops.com
+  - DOMAIN-SUFFIX,nbcumv.com
   - DOMAIN-SUFFIX,nbcuni.com
+  - DOMAIN-SUFFIX,nbcunicareers.com
   - DOMAIN-SUFFIX,nbcuniversal.com
+  - DOMAIN-SUFFIX,nbcuniversalprivacy.com
   - DOMAIN-SUFFIX,nbdh15.buzz
   - DOMAIN-SUFFIX,nbe.ac.uk
   - DOMAIN-SUFFIX,nbi.ac.uk
@@ -27003,6 +27012,7 @@ payload:
   - DOMAIN-SUFFIX,renyurenquan.org
   - DOMAIN-SUFFIX,renzhe.cloud
   - DOMAIN-SUFFIX,repe21.com
+  - DOMAIN-SUFFIX,replit.com
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,report-megafon.ru
   - DOMAIN-SUFFIX,repositorynet.ac.uk
@@ -30925,6 +30935,7 @@ payload:
   - DOMAIN-SUFFIX,telegraph.co.uk
   - DOMAIN-SUFFIX,telekom.com
   - DOMAIN-SUFFIX,telekom.de
+  - DOMAIN-SUFFIX,telemundo.com
   - DOMAIN-SUFFIX,telephony.goog
   - DOMAIN-SUFFIX,telerik.com
   - DOMAIN-SUFFIX,telesco.pe
@@ -31779,6 +31790,7 @@ payload:
   - DOMAIN-SUFFIX,torrenty.org
   - DOMAIN-SUFFIX,torrentz.eu
   - DOMAIN-SUFFIX,torrindex.net
+  - DOMAIN-SUFFIX,tortoisegit.org
   - DOMAIN-SUFFIX,tortoisesvn.net
   - DOMAIN-SUFFIX,torvpn.com
   - DOMAIN-SUFFIX,tosh.comedycentral.com
@@ -32564,6 +32576,7 @@ payload:
   - DOMAIN-SUFFIX,udnfunlife.com
   - DOMAIN-SUFFIX,udomain.hk
   - DOMAIN-SUFFIX,udtrucksmeena.com
+  - DOMAIN-SUFFIX,udxfpp.com
   - DOMAIN-SUFFIX,uea.ac.uk
   - DOMAIN-SUFFIX,ueberamazon.de
   - DOMAIN-SUFFIX,uec.ac.uk
@@ -32780,11 +32793,18 @@ payload:
   - DOMAIN-SUFFIX,unity.com
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,univault.ac.uk
+  - DOMAIN-SUFFIX,universalbeijingresort.com
+  - DOMAIN-SUFFIX,universalhorrorunleashed.com
+  - DOMAIN-SUFFIX,universalkidsresort.com
   - DOMAIN-SUFFIX,universalorlando.com
+  - DOMAIN-SUFFIX,universalpictures.co.uk
   - DOMAIN-SUFFIX,universalpictures.com
+  - DOMAIN-SUFFIX,universalpicturesathome.com
   - DOMAIN-SUFFIX,universalpicturesinternational.com
+  - DOMAIN-SUFFIX,universalproductsexperiences.com
   - DOMAIN-SUFFIX,universalscalablefirmware.org
   - DOMAIN-SUFFIX,universalstudioshollywood.com
+  - DOMAIN-SUFFIX,universalukproject.co.uk
   - DOMAIN-SUFFIX,universities-scotland.ac.uk
   - DOMAIN-SUFFIX,universitiesengland.ac.uk
   - DOMAIN-SUFFIX,universitiesfornottingham.ac.uk
@@ -32866,6 +32886,7 @@ payload:
   - DOMAIN-SUFFIX,upfrontcfd.com
   - DOMAIN-SUFFIX,upfrontfea.com
   - DOMAIN-SUFFIX,upghsbc.com
+  - DOMAIN-SUFFIX,uphe.com
   - DOMAIN-SUFFIX,upholdjustice.org
   - DOMAIN-SUFFIX,upi.com
   - DOMAIN-SUFFIX,upjav.cc
@@ -32948,6 +32969,7 @@ payload:
   - DOMAIN-SUFFIX,ushare.ac.uk
   - DOMAIN-SUFFIX,ushaw.ac.uk
   - DOMAIN-SUFFIX,ushmm.org
+  - DOMAIN-SUFFIX,usj.co.jp
   - DOMAIN-SUFFIX,usma.edu
   - DOMAIN-SUFFIX,usmart.hk
   - DOMAIN-SUFFIX,usmc.mil
