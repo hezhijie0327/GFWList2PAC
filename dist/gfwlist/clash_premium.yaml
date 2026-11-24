@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc5NTQxNTg1NAo=
+# Checksum: MTc5NTUxMTExMQo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.0-20261123-2
-# TimeUpdated: 2026-11-23T06:37:34+00:00
+# Version: 1.0.0-20261124-3
+# TimeUpdated: 2026-11-24T09:05:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000aa.com'
@@ -13437,6 +13437,7 @@ payload:
   - '+.gemini.google'
   - '+.geminiweb-pa.clients.google.com'
   - '+.geminiweb-pa.clients6.google.com'
+  - '+.gemma.ai'
   - '+.gen.lib.rus.ec'
   - '+.gen.tr'
   - '+.gen2.ac.uk'
